@@ -1,0 +1,2062 @@
+#EXTM3U
+
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/WCNJ6R" group-title="DESENHOS",A Formiga Atómica Episódio 01 Lá Vai A Triônica
+http://www.blogger.com/video-play.mp4?contentId=f4582bd401b4e0d3
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/WCNJ6R" group-title="DESENHOS",A Formiga Atómica Episódio 02 O Monstro De Crankenshaft
+http://www.blogger.com/video-play.mp4?contentId=e3444b5f65f52a16
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/WCNJ6R" group-title="DESENHOS",A Formiga Atómica – Episódio 03 – Uma Formiga De Briga
+http://www.blogger.com/video-play.mp4?contentId=dbef9ed736e62483
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/WCNJ6R" group-title="DESENHOS",A Formiga Atómica – Episódio 04 – A Pulga Feroz
+http://www.blogger.com/video-play.mp4?contentId=114d8949c97b2569
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/WCNJ6R" group-title="DESENHOS",A Formiga Atómica – Episódio 05 – O Robô Errante
+http://www.blogger.com/video-play.mp4?contentId=721fc439e00c29e0
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/WCNJ6R" group-title="DESENHOS",A Formiga Atómica – Episódio 06 – Quem É O Trouxa
+http://www.blogger.com/video-play.mp4?contentId=9540f21f57138ac5
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/WCNJ6R" group-title="DESENHOS",A Formiga Atómica – Episódio 07 – A Formiga Atômica E O Karatê
+http://www.blogger.com/video-play.mp4?contentId=44244696538e4428
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/WCNJ6R" group-title="DESENHOS",A Formiga Atómica – Episódio 08 – A Formiga Mais Rápida Do Oeste
+http://www.blogger.com/video-play.mp4?contentId=64dbee808682e2e4
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/WCNJ6R" group-title="DESENHOS",A Formiga Atómica – Episódio 09 – Identidades Trocadas
+http://www.blogger.com/video-play.mp4?contentId=64d1a132cace6f31
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/WCNJ6R" group-title="DESENHOS",A Formiga Atómica – Episódio 10 – Perigo É Comigo
+http://www.blogger.com/video-play.mp4?contentId=b50949f2842e6503
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/WCNJ6R" group-title="DESENHOS",A Formiga Atómica – Episódio 11 – Golpe De Mestre
+http://www.blogger.com/video-play.mp4?contentId=9b32e027fe069333
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/WCNJ6R" group-title="DESENHOS",A Formiga Atómica – Episódio 12 – Se Precisar é Só Chamar!
+http://www.blogger.com/video-play.mp4?contentId=d26f2485552e4f34
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/WCNJ6R" group-title="DESENHOS",A Formiga Atómica – Episódio 13 – Com Toda A Força
+http://www.blogger.com/video-play.mp4?contentId=567a6953b84eeaee
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/WCNJ6R" group-title="DESENHOS",A Formiga Atómica – Episódio 14 – Formigas Selvagens
+http://www.blogger.com/video-play.mp4?contentId=1b062320072ce548
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/WCNJ6R" group-title="DESENHOS",A Formiga Atómica – Episódio 15 – Em Defesa Da Lei
+http://www.blogger.com/video-play.mp4?contentId=9da433147f6f6c6
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/WCNJ6R" group-title="DESENHOS",A Formiga Atómica – Episódio 16 – O Caso Do Parque De Diversões
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/WCNJ6R" group-title="DESENHOS",A Formiga Atómica – Episódio 17 – Tamanho Não é Documento
+http://www.blogger.com/video-play.mp4?contentId=38a70d582ba81de1
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/WCNJ6R" group-title="DESENHOS",A Formiga Atómica – Episódio 18 – Deixe Esse Cupim Prá Mim
+http://www.blogger.com/video-play.mp4?contentId=18a147d4fdbe7029
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/WCNJ6R" group-title="DESENHOS",A Formiga Atómica – Episódio 19 – A Regra Do Jogo
+http://www.blogger.com/video-play.mp4?contentId=5bfdd79a8b7c92c3
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/WCNJ6R" group-title="DESENHOS",A Formiga Atómica – Episódio 20 – Rumo Ao Oeste
+http://www.blogger.com/video-play.mp4?contentId=1c539bed6ad4bd51
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/WCNJ6R" group-title="DESENHOS",A Formiga Atómica – Episódio 21 – Que Formiga Valente!
+http://www.blogger.com/video-play.mp4?contentId=3d1db4fbeb8c6668
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/WCNJ6R" group-title="DESENHOS",A Formiga Atómica – Episódio 22 – Dando Sopa
+http://www.blogger.com/video-play.mp4?contentId=c570a9b61d816a57
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/WCNJ6R" group-title="DESENHOS",A Formiga Atómica – Episódio 23 – Tudo Pelos Ares
+http://www.blogger.com/video-play.mp4?contentId=8bd573cbd3136cf2
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/WCNJ6R" group-title="DESENHOS",A Formiga Atómica – Episódio 24 – Me Aparece Cada Uma!
+http://www.blogger.com/video-play.mp4?contentId=1a1ecdedfa718df5
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/WCNJ6R" group-title="DESENHOS",A Formiga Atómica – Episódio 25 – O Gorila Matador
+http://www.blogger.com/video-play.mp4?contentId=c828d47c442419d8
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/WCNJ6R" group-title="DESENHOS",A Formiga Atómica – Episódio 26 – A Mim Você Não Assusta
+http://www.blogger.com/video-play.mp4?contentId=97d2c912aa085d2b
+
+##################################################       DESENHOS        ############     A Turma do Manda Chuva   
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 01 – Havaí: A Turma Vem Aí
+http://www.blogger.com/video-play.mp4?contentId=804e7072191f1a6a
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 02 – O Opulento Marajá
+http://www.blogger.com/video-play.mp4?contentId=7c5210971b472c5f
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 03 – Jazz Infernal
+http://www.blogger.com/video-play.mp4?contentId=9a0650ea0dc572e
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 04 – Corridas E Correrias
+http://www.blogger.com/video-play.mp4?contentId=514679fdaf94418a
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 05 – Arranhador De Violinos
+http://www.blogger.com/video-play.mp4?contentId=3238cb636b38c479
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS"DESENHOS",A Turma do Manda Chuva – Episódio 06 – Testamento De Um Excêntrico
+http://www.blogger.com/video-play.mp4?contentId=26b0ab4b44815a54
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 07 – Amor A Quando Me Levas
+http://www.blogger.com/video-play.mp4?contentId=6e5b386534e6557
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 08 – Meu Filho, Meu Orgulho
+http://www.blogger.com/video-play.mp4?contentId=a0e7d4d9c95e4a45
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 09 – Um Filme Realista
+http://www.blogger.com/video-play.mp4?contentId=4cd2c8ac801aba02
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 10 – Que Rei Sou Eu?
+http://www.blogger.com/video-play.mp4?contentId=a2049c69224429ff
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 11 – Quando O Coração Dispara
+http://www.blogger.com/video-play.mp4?contentId=c952acbdaf4f5063
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 12 – Um Diamante A Todo Preço
+http://www.blogger.com/video-play.mp4?contentId=f1eaae05552254f8
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 13 – Um Presente Passado
+http://www.blogger.com/video-play.mp4?contentId=b6faf156f021f690
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 14 – Cheque Mate
+http://www.blogger.com/video-play.mp4?contentId=c686819bdc3b3747
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 15 – Inverno Um Tanto Quente
+http://www.blogger.com/video-play.mp4?contentId=9a8e4cef046fe709
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 16 – Um Menor Entre Os Maiores
+http://www.blogger.com/video-play.mp4?contentId=fc615d133b16f7d9
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 17 – A Mascote Do Convescote
+http://www.blogger.com/video-play.mp4?contentId=d0bcab20ac5c0677
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 18 – Reformadores Conservadores
+http://www.blogger.com/video-play.mp4?contentId=9c06b316345f4451
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 19 – Turistas E Vigaristas
+http://www.blogger.com/video-play.mp4?contentId=8bca6b03e8a9bdd2
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 20 – Arte E Artes
+http://www.blogger.com/video-play.mp4?contentId=8bca6b03e8a9bdd2
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 21 – O Involuntário Do Espaço
+http://www.blogger.com/video-play.mp4?contentId=65358885a62fdca6
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 22 – O Finado Manda-Chuva
+http://www.blogger.com/video-play.mp4?contentId=6bfe59cd6b22cfca
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 23 – Parabéns Para Você
+http://www.blogger.com/video-play.mp4?contentId=88b7f882cbc46dc1
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 24 – Alguém Está Caduco
+http://www.blogger.com/video-play.mp4?contentId=441b2f93367ef775
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 25 – Rei Por Um Dia
+http://www.blogger.com/video-play.mp4?contentId=f1f455beb0733e39
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 26 – O Sentenciado
+http://www.blogger.com/video-play.mp4?contentId=8627c00ba445a69e
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 27 – Batendo O Record
+http://www.blogger.com/video-play.mp4?contentId=297f91927a7cf34a
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva - Episódio 28 – Contando Vantagem
+http://www.blogger.com/video-play.mp4?contentId=c4cdcacbd94a6cd
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 29 – Turma Atrapalhada
+http://www.blogger.com/video-play.mp4?contentId=40e423b740033a6c
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 30 – Eu E O Outro
+http://www.blogger.com/video-play.mp4?contentId=713a1371319401fe
+
+######################################       DESENHOS        ################    A Pantera Cor-de-Rosa
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 01 – A Pantera Pinta o Sete 
+http://www.blogger.com/video-play.mp4?contentId=d5b9a3206dc0822c
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 02 – A Pantera de Pijama 
+http://www.blogger.com/video-play.mp4?contentId=f30a7d608cdc0b6b
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 03 – Pantera na Loja de Departamento 
+http://www.blogger.com/video-play.mp4?contentId=a545ea16e77013e0
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 04 – Disque “P” para Pantera
+http://www.blogger.com/video-play.mp4?contentId=182a23021c7c6a15 
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 05 – A Arca da Pantera Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=429556756acc150e
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 06 – A Pantera e o Bêbado 
+http://www.blogger.com/video-play.mp4?contentId=9a9815bf123f080c
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 07 – Agente Secreto Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=7786c066bce2f769
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 08 – Pantera em Choque 
+http://www.blogger.com/video-play.mp4?contentId=fc5dbedb9e424d22
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 09 – Diamantes da Pantera 
+http://www.blogger.com/video-play.mp4?contentId=ee6f55bf0923a949
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 10 – A Pantera e a Mosca 
+http://www.blogger.com/video-play.mp4?contentId=7e2d3da3ab400f0
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 11 – Guerra de Vizinhos 
+http://www.blogger.com/video-play.mp4?contentId=b4ffc0655e26b8d2
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 12 – A Balança que Falava Demais 
+http://www.blogger.com/video-play.mp4?contentId=813dbfcb4ba3184c
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 13 – Pantera Pescando 
+http://www.blogger.com/video-play.mp4?contentId=a30748a3d88407b3
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 14 – O Toureiro Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=77aae555759e940a
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 15 – Ponche Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=5ebb06ec7ac267fa
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 16 – Pink Pistons 
+http://www.blogger.com/video-play.mp4?contentId=83505f57b106e5a5
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 17 – Vitamina Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=8f314828f6d7a94e
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 18 – A Casa da Pantera 
+http://www.blogger.com/video-play.mp4?contentId=e490cc21d4cef530
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 19 – O Concerto da Pantera 
+http://www.blogger.com/video-play.mp4?contentId=d47bc55caf559267
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 20 – Sorria Pantera 
+http://www.blogger.com/video-play.mp4?contentId=f34c5119553e53e5
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 21 – A Pantera e o Rato 
+http://www.blogger.com/video-play.mp4?contentId=859a08af989e06d6
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 22 – Seja um Gênio Você Também 
+http://www.blogger.com/video-play.mp4?contentId=5eb692054c0bfea
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 23 – Super Pantera 
+http://www.blogger.com/video-play.mp4?contentId=fe8e2ff122b6c008
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 24 – Bons Sonhos Pantera 
+http://www.blogger.com/video-play.mp4?contentId=249a1b67a0cd4bcd
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 25 – Que Fria
+http://www.blogger.com/video-play.mp4?contentId=7a7578eacbe53a61 
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 26 – Pantera em Pânico 
+http://www.blogger.com/video-play.mp4?contentId=ae05b9816a5a3340
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 27 – Pantera Jardineira 
+http://www.blogger.com/video-play.mp4?contentId=fa59465a202f23f9
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 28 – Sujeira Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=db2f98501b999c20
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 29 – Pantera em Forma 
+http://www.blogger.com/video-play.mp4?contentId=db2f98501b999c20
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 30 – Jato Pantera 
+http://www.blogger.com/video-play.mp4?contentId=4472a16199e6adda
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 31 – Paraíso Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=490c0db220b02cf9
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 32 – O Carona 
+http://www.blogger.com/video-play.mp4?contentId=7484a2fd8b149927
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 33 – Parabéns É Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=7484a2fd8b149927
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 34 – Pantera Pré-fabricada 
+http://www.blogger.com/video-play.mp4?contentId=c188d76e6fc05b57
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 35 – A Mão é Mais Rápida Que o Olho 
+http://www.blogger.com/video-play.mp4?contentId=5fedf361fec608c9
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 36 – Vida Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=e265586909ca5a5a
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 37 – Pantera nos Céus 
+http://www.blogger.com/video-play.mp4?contentId=d3f0aabfc849452b
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 38 – O Melhor Amigo 
+http://www.blogger.com/video-play.mp4?contentId=93f2f43d9610c171
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 39 – Pantera Psicodélica 
+http://www.blogger.com/video-play.mp4?contentId=7ae9511ddb0cde11
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 40 – Pantera Cor-de-rosa na Praia 
+http://www.blogger.com/video-play.mp4?contentId=37e2b336cb3ed2a1
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 41 – Pantera Fora-da-lei
+http://www.blogger.com/video-play.mp4?contentId=781a13370b8f10e7 
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 42 – Patente Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=b1d37f78c1118100
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 43 – Sorte Não Se Joga Fora 
+http://www.blogger.com/video-play.mp4?contentId=6498dd0d71b893f0
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 44 – Tudo Por Tão Pouco
+http://www.blogger.com/video-play.mp4?contentId=7b295f790658972c
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 45 – Astrônomo Lunático 
+http://www.blogger.com/video-play.mp4?contentId=45c28db93ea4b3b6
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 46 – Valente Pantera 
+http://www.blogger.com/video-play.mp4?contentId=380f57f2fa7150c6
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 47 – Pantera em Tratamento 
+http://www.blogger.com/video-play.mp4?contentId=e38aa323b4bbcc62
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 48 – Pantera Pré-histórica 
+http://www.blogger.com/video-play.mp4?contentId=cb56f73d5f39af86
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 49 – A Pantera na Cadeia 
+http://www.blogger.com/video-play.mp4?contentId=cd0cae41fed94e01
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 50 – Disputa de Terras 
+http://www.blogger.com/video-play.mp4?contentId=573cc0c7fcc4f984
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 51 – Desejos de Pantera 
+http://www.blogger.com/video-play.mp4?contentId=7844c7aab128eaab
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 52 – Pantera no Deserto 
+http://www.blogger.com/video-play.mp4?contentId=ee1b039545b3592
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 53 – Pantera Lenhadora 
+http://www.blogger.com/video-play.mp4?contentId=17c3764a617ea299
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 54 – Entrega Especial da Pantera 
+http://www.blogger.com/video-play.mp4?contentId=d83608db013d7c15
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 55 – A Pantera e os Impostos
+http://www.blogger.com/video-play.mp4?contentId=24f62d1c28d786d6 
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 56 – Cinderela Cor-de-rosa
+http://www.blogger.com/video-play.mp4?contentId=ab23dfb7a7ab2a77 
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 57 – Controle de Pragas 
+http://www.blogger.com/video-play.mp4?contentId=7ba546a3b99600c6
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 58 – Pense Duas Vezes Antes 
+http://www.blogger.com/video-play.mp4?contentId=c3b76f6e2b253840
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 59 – Pantera numa Fria 
+http://www.blogger.com/video-play.mp4?contentId=d06d05d434dbd9e4
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 60 – A Noite da Pantera 
+http://www.blogger.com/video-play.mp4?contentId=3d95115e5f765685
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 61 – Milharal da Pantera 
+http://www.blogger.com/video-play.mp4?contentId=f4756c5662b96a45
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 62 – Pantera em Extinção 
+http://www.blogger.com/video-play.mp4?contentId=9c70f6eb43b3d462
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 63 – Uma Mosca na Minha Casa 
+http://www.blogger.com/video-play.mp4?contentId=b5504c0ece6915f3
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 64 – Pantera Desastrada 
+http://www.blogger.com/video-play.mp4?contentId=a15522539182f500
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 65 – Pantera e a Música 
+http://www.blogger.com/video-play.mp4?contentId=83ffee48e5e03f6d
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 66 – Travessura Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=9e7ce02e3ebe0c5b
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title=",A Pantera Cor-de-Rosa – Episódio 67 – Pantera com Pulga 
+http://www.blogger.com/video-play.mp4?contentId=87e05acafe46dd62
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title=",A Pantera Cor-de-Rosa – Episódio 68 – O Furo da Pantera 
+http://www.blogger.com/video-play.mp4?contentId=4366990b62a6415c
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 69 – A Pantera e o Gongo 
+http://www.blogger.com/video-play.mp4?contentId=6df3f8c5ed6cff5e
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 70 – Memórias da Pantera 
+http://www.blogger.com/video-play.mp4?contentId=16d2dc438fc28b92
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 71 – Pink 8-Ball 
+http://www.blogger.com/video-play.mp4?contentId=6e89a6c4042206bb
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 72 – Pantera em Alto Mar 
+http://www.blogger.com/video-play.mp4?contentId=155c56e30c070ad0
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 73 – Pantera em Defesa das Peles 
+http://www.blogger.com/video-play.mp4?contentId=aee9548f01c65b11
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 74 – Pantera Da Vinci 
+http://www.blogger.com/video-play.mp4?contentId=98e5ddd1d0162d85
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 75 – Instrutor Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=1df5989eca1bd57f
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 76 – Salmão cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=8908df0eb1290541
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 77 – Um Quarto Para a Pantera 
+http://www.blogger.com/video-play.mp4?contentId=b011db3243565439
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 78 – Pantera na Transilvânia 
+http://www.blogger.com/video-play.mp4?contentId=d59db65236dd94d2
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 79 – Elefante Cor-de-rosa
+http://www.blogger.com/video-play.mp4?contentId=f371c5490eb3c8df 
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 80 – Mantendo Nossas Florestas Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=56ca8b4500341085
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 81 – Aprenda a Voar com a Pantera 
+http://www.blogger.com/video-play.mp4?contentId=9c7077a700537ae9
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 82 – A Moda é Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=eb75f5085cd5b10
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 83 – A Vingança da Pantera 
+http://www.blogger.com/video-play.mp4?contentId=4182b3f9450edbb8
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 84 – Aventura Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=2568f4f25b616f4
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 85 – Pantera Mística
+http://www.blogger.com/video-play.mp4?contentId=b3fab53f3f9da248 
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 86 – Pantera de Arabee 
+http://www.blogger.com/video-play.mp4?contentId=d74d983856874a31
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 87 – Pantera Profissional 
+http://www.blogger.com/video-play.mp4?contentId=adf01ba824c2b160
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 88 – Flautista Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=7350c8c85328a221
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 89 – Rascunho Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=70d399233be62c57
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 90 – Sherlock Cor-de-rosa Rosa 
+http://www.blogger.com/video-play.mp4?contentId=763a5a9b69ef3c18
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 91 – Rocky Pantera 
+http://www.blogger.com/video-play.mp4?contentId=d4b7379525af6be6
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 92 – Terapia cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=389028e61e9e717d
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 93 – Fotos Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=9494aed5f4a0be6
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 94 – Fliperama Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=c7fa8ee94b1c340b
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 95 – Brinquedo Cor-de-rosa
+http://www.blogger.com/video-play.mp4?contentId=38dd4e5a6b348f41 
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 96 – Trompete Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=d432d708dd9f5b71
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 97 – Pantera Chuvosa 
+http://www.blogger.com/video-play.mp4?contentId=b1e9f869ca10cd73
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 98 – Pantera Dietética 
+http://www.blogger.com/video-play.mp4?contentId=4ab8b4ed1eb20728
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 99 – Objeto Voador Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=4c54f2186f251845
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 100 – A Pantera e o Carro Monstro 
+http://www.blogger.com/video-play.mp4?contentId=927c2233f379241f
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 101 – A Pantera e o Pé de Feijão 
+http://www.blogger.com/video-play.mp4?contentId=50ad08879b8a1ae6
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 102 – Papai Pantera 
+http://www.blogger.com/video-play.mp4?contentId=cd2b79deff2de239
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 103 – O Maior Inimigo da Pantera 
+http://www.blogger.com/video-play.mp4?contentId=ce309ca790b81fd0
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 104 – O Tesouro Escondido da Pantera
+http://www.blogger.com/video-play.mp4?contentId=7ae7e3c1c2b7d128 
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 105 – Panterologista 
+http://www.blogger.com/video-play.mp4?contentId=ac7b6bb7b04d56b8
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 106 – A Pantera e os Casacos Vermelhos 
+http://www.blogger.com/video-play.mp4?contentId=f369485f9491bbc3
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 107 – Pantera Jornalista 
+http://www.blogger.com/video-play.mp4?contentId=7acac00a55aee364
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 108 – Amiguinho da Pantera 
+http://www.blogger.com/video-play.mp4?contentId=305aeddc76aeeb98
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 109 – A Pantera de Bagdad 
+http://www.blogger.com/video-play.mp4?contentId=1e74961da2be5ad
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 110 – A Pantera e o Pirata 
+http://www.blogger.com/video-play.mp4?contentId=6fc550c1b5532b2e
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 111 – Pantera das Selvas
+http://www.blogger.com/video-play.mp4?contentId=9023f0d86022f760 
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 112 – A Cauda da Pantera
+http://www.blogger.com/video-play.mp4?contentId=2a031e2a7aaad2e8 
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 113 – O Sono da Pantera 
+http://www.blogger.com/video-play.mp4?contentId=2144ef589763da21
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 114 – Pantera nas Estrelas 
+"http://www.blogger.com/video-play.mp4?contentId=676dc8be91540001
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 115 – O Café da Manhã da Pantera 
+http://www.blogger.com/video-play.mp4?contentId=52fb42d41ba41b19
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 116 – Toureiro Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=7019b9a55dbad2c6
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 117 – Pato Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=b124da41c7bf2d02
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 118 – Seguindo o Fio 
+http://www.blogger.com/video-play.mp4?contentId=c62606e7a081c71
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 119 – Pantera na Floresta 
+http://www.blogger.com/video-play.mp4?contentId=7cbb6c9f81c57598
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 120 – Pantera Magnética 
+http://www.blogger.com/video-play.mp4?contentId=16a4afa6c9870583
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 121 – A Pantera, a Vela e o Cachorro 
+http://www.blogger.com/video-play.mp4?contentId=d6766c31cd0495f
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 122 – Doutor Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=ae4dcd5f8f36dedb
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 123 – Pantera na Lavanderia 
+http://www.blogger.com/video-play.mp4?contentId=e3739c7770465db7
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 124 – Supermercado Cor-de-rosa
+http://www.blogger.com/video-play.mp4?contentId=795ca525cb2c5af6 
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 125 – A Pantera Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=d6bda98938d2f467
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 126 – Um Tiro no Escuro 
+http://www.blogger.com/video-play.mp4?contentId=17e369e720166591
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 127 – A Nova Transa da Pantera Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=d1d31e821824c492
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 128 – A Vingança da Pantera Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=7ccd88b51e4800b
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 129 – A Trilha da Pantera Cor-de-rosa
+http://www.blogger.com/video-play.mp4?contentId=a7a811071ca3ee8
+
+#####################################     DESENHOS     ####################     Bacamarte e Chumbinho ##################################
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 01 – Comendo Chumbo 
+http://www.blogger.com/video-play.mp4?contentId=48f983d20554e79d
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 02 – Que Mágica Besta 
+http://www.blogger.com/video-play.mp4?contentId=7a8a533c9a699c6
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 03 – A Corneta Mágica 
+http://www.blogger.com/video-play.mp4?contentId=a6b8a0e0e20ff9d5
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 04 – Instinto Selvagem 
+http://www.blogger.com/video-play.mp4?contentId=f8821f175478b14b
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 05 – Um Leão Está A Solta 
+http://www.blogger.com/video-play.mp4?contentId=1aa71898ace1bb38
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 06 – Vamos Brincar De Guerra? 
+http://www.blogger.com/video-play.mp4?contentId=db6fbe38e855e5d
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 07 – Vendo, Mas Não Acreditando 
+http://www.blogger.com/video-play.mp4?contentId=2fdca51fe76059ec
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 08 – O Incentivo 
+http://www.blogger.com/video-play.mp4?contentId=54f28ffe8b229191
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 09 – A Faca De Dois Gumes 
+http://www.blogger.com/video-play.mp4?contentId=9fffa4b7b6948646
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 11 – O Dia Do Pugilato 
+http://www.blogger.com/video-play.mp4?contentId=f32247a4c0f9b173
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 12 – O Pula-Pula 
+http://www.blogger.com/video-play.mp4?contentId=83c474defd658d45
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 13 – Agora é O Urso 
+http://www.blogger.com/video-play.mp4?contentId=42ca1bc072b4f9da
+
+#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 14 – A Lenda De Bat Raterson 
+http://www.blogger.com/video-play.mp4?contentId=b6fa5b6df9532b3a
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 15 – Super Drooper 
+http://www.blogger.com/video-play.mp4?contentId=115fe657efd93f03
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 16 – A Pílula Da Força 
+http://www.blogger.com/video-play.mp4?contentId=6bfbae9b50c39196
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 18 – Sociedade Protetora Dos Ratos 
+http://www.blogger.com/video-play.mp4?contentId=a05f1a8827331299
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 19 – Fantasma De Araque 
+http://www.blogger.com/video-play.mp4?contentId=1d01d9f65da60002
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 20 – Sua Majestate O Rato 
+http://www.blogger.com/video-play.mp4?contentId=934153d302a2afeb
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 22 – O Médico E O Mostro 
+http://www.blogger.com/video-play.mp4?contentId=3456d7bd61216a61
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 23 – O Cozinheiro Sem Sorte
+##################### 1ª Temporada ############## DESENHOS ###################### Dom Pixote #############################
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/F582mp group-title="DESENHOS",Episódio 01 - Dom Pixote Atende O Pequenino Willie 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP01.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 02 - Pixote Coração de Leão
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP02.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 03 - Caçador Complicado 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP03.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 04 - Sr. Dom Pixote 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP04.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 05 - Sheriff Pixote 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP05.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 06 - Pixote Ladrão de Pessoa
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP06.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 07 - Patrulha da Estrada 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP07.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 08 - Pixote Pau-de-rabisco 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP08.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 09 - Dois Corvos Brega 
+
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP09.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 10 - Pixote Bombeiro 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP10.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 11 - Pixote Matador de Dragão 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP11.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 12 - Fisguei Daze 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP12.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 13 - Problemas de Mosquito
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP13.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 14 - Pastor de Ovelhas-forma 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP14.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 15 - Dom Churrasco 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP15.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 16 - Hokum Smokum 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP16.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 17 - Pássaro Casa Blues 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP17.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 18 - Pânico de Carteiro 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP18.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 19 - De Ski Champ Chump 
+
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP19.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 20 - Pixote Domador de Leão 
+
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP20.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS", Episódio 21 - Pixote Pouca Equitação Vermelha
+
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP21.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 22 - O Cupim Pouco Duro
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP22.mp4
+
+############################ 2ª Temporada ############# DESENHOS ############# Dom Pixote ######################### 
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 23 - Beco de Dez Pinos 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP23.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 24 - Triste Peregrino 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP24.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 25 - O Jolly Roger de Saída 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP25.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 26 - Do Alguém Leão 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP26.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 27 - Um Cão de Bully 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP27.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 28 - Nottingham e Yeggs 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP28.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 29 - Pixote, O Gigante Assassino 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP20.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 30 - Policial e Pires 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP30.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 31 - Pixote Menino Pônei 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP31.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 32 - Veterinário do Animal de Estimação
+
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP32.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 33 - Piccadilly Dilly 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP33.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 34 - Pixote Wiki Waki 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP34.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 35 - Hack do Pixote 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP35.mp4
+
+######################################### 3ª Temporada ############# DESENHOS ############# Dom Pixote ######################### 
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 36 - Spud Dud 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP36.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 37 - Dom Legião Vinculado
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP37.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 38 - Fricção Científica 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP38.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 39 - Louca com Vira-latas 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP39.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Dom Pixote - Episódio 40 -Escola de Cavaleiro
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP40.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Dom Pixote - Episódio 41 - Conto do Dom Pixote 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP41.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Dom Pixote - Episódio 42 - O Vingador Desmascarado 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP42.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Dom Pixote - Episódio 43 - Pixote Caipira
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP43.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Dom Pixote - Episódio 44 - Pixote Arma Rápido 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP44.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Dom Pixote - Episódio 45 - Astro-porca Pixote
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP45.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Dom Pixote - Episódio 46 - Pixote e Escada 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP46.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Dom Pixote - Episódio 47 - Lawman Pixote
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP47.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Dom Pixote - Episódio 48 - Cluck e Punhal
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP48.mp4
+
+###################################4ª Temporada ############# DESENHOS ############# Dom Pixote ######################### 
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Dom Pixote - Episódio 49 - Homem das Cavernas Pixote 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP49.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Desenhos Dom Pixote - Episódio 50 - Pixote dos Irlandeses
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP50.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Dom Pixote - Episódio 51 - Grande Confusão na Selva 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP51.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Dom Pixote - Episódio 52 - Pixote Toureiro 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP52.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Dom Pixote - Episódio 53 - Ben Pixote 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP53.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Dom Pixote - Episódio 54 - Pixote em Paris 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP54.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Dom Pixote - Episódio 55 - Barras e Listras 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP55.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Dom Pixote - Episódio 56 - O Homem Scrubby Brush
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP56.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Dom Pixote - Episódio 57 Dois para Tee Vee
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP57.mp4
+
+
+##################### SERIES Real Rob (Dublado) - Lista de Episódios ################################################
+###################### 1ª Temporada
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/ZtV9PQ group-title="SÉRIES",Episódio 01 - Piloto 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/RELRBST01EP01.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/ZtV9PQ group-title="SÉRIES",Episódio 02 - O Episódio do Pênis (Parte 1) 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/RELRBST01EP02.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/ZtV9PQ group-title="SÉRIES",Episódio 03 - O Episódio do Pênis (Parte 2) 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/RELRBST01EP03.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/ZtV9PQ group-title="SÉRIES",Episódio 04 -Tratamento VIP 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/RELRBST01EP04.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/ZtV9PQ group-title="SÉRIES",Episódio 05 - Agradando os Bofes 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/RELRBST01EP05.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/ZtV9PQ group-title="SÉRIES",Episódio 06 -Limpando a Casa 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/RELRBST01EP06.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/ZtV9PQ group-title="SÉRIES",Episódio 07 -Qual é o Meu Negócio? 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/RELRBST01EP07.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/ZtV9PQ group-title="SÉRIES",Episódio 08 -Noite de Estreia 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/RELRBST01EP08.mp4
+
+############################ 2ª Temporada
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/ZtV9PQ group-title="SÉRIES",Episódio 01 -Acupuntura e Rolinhos Primavera 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/RELRBST02EP01.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/ZtV9PQ group-title="SÉRIES",Episódio 02 -Prioridades
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/RELRBST02EP02.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/ZtV9PQ group-title="SÉRIES",Episódio 03 -Um Dia de Brincadeiras Memoráveis
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/RELRBST02EP03.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/ZtV9PQ group-title="SÉRIES",Episódio 04  - Zen Pressa
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/RELRBST02EP04.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/ZtV9PQ group-title="SÉRIES",Episódio 05 - O Ramo dos Cafés 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/RELRBST02EP05.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/ZtV9PQ group-title="SÉRIES",Episódio 06 - Autenticidade
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/RELRBST02EP06.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/ZtV9PQ group-title="SÉRIES",Episódio 07 -Amor Para Todo Lado 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/RELRBST02EP07.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/ZtV9PQ group-title="SÉRIES",Episódio 08 - Embarque Imediato 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/RELRBST02EP08.mp4
+
+################# SERIES Pablo Escobar: O Senhor do Tráfico - Lista de Episódios
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 01 -Um Dos Maiores Narcotraficantes Do Mundo
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP01.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 02 -Expandir Os Negócios 
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLPABLESCBROSDTRT01EP034
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 03 -Prosperando
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP03.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 04 -Uma Tragédia 
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP04.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 05 -Atrapalhar Os Planos 
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP05.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 06 -Guerrilheiros 
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP06.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 07 -Chegar Ao Congresso 
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP07.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 08 -Candidatura Oficializada 
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP08.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 09 -As Chances De Se Eleger Aumentam 
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP09.mp4
+
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 10 -Eleito Deputado E Aproximação De Regina
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP10.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 11 - Quebra Do Silêncio 
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP11.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 12 -Derrota Política 
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP12.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 13 -Violento Ataque 
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP13.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 14 -Em Perigo 
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP14.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 15 -Fuga Para O Panamá
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP15.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 16 -Aliança 
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP16.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 17 -Foto Comprometedora 
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP17.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 18 -Interrogatório De Pedro 
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP18.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 19 - Investigação 
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP19.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 20 -Ameaças Ao Governo 
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP20.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 21 -Problemas Pessoais
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP21.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 22 - Disposto A Matar Coronel Jiménez 
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP22.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 23 - Prazo Final 
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP23.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 24 -Acusações Contra Pablo 
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP24.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 25 - Acordo De Extradição 
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP25.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 26 -Planejando Um Atentado
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP26.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 27 - Golpe Contra O Estado 
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP27.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 28 -Um Dos Sócios É Preso 
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP28.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 29 -Traição De Escobar 
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP30.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 30 - A Fuga 
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP31.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 31 -Ganância Não Tem Limites
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP31.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 32 - Novo Atentado 
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP32.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 33 -Vingança Contra Escobar 
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP33.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 34 -Vida Em Risco 
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP34.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 35 -Extraditar Pedro Motoa
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP35.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 36 -Ataque Contra A Família De Pablo 
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP36.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 37 -Intimidar O Governo 
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP37.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 38 -Sequestro Do Procurador 
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP38.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 39 - Guerra Declarada 
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP39.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 40 - A Próxima Vítima 
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP40.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 41 -Algo Sai Errado 
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP41.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 42 -As Ameaças 
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP42.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 43 -Demora Na Realização Dos Atentados 
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP43.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 44 -Plano De Assassinar O Candidato Presidencial 
+
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP44.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 45 -Guerra Contra O Cartel De Medelín 
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP45.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 46 -Pressão Na Polícia 
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP46.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 47 -Plano De Explosão 
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP47.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 48 -Prisão Dos Suspeitos 
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP48.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 49 -Plano Sem Sucesso
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP49.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 50 -Bomba No Avião 
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP50.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 51 -Inocentes Em Perigo 
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP51.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 52 -Infiltrados 
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP52.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 53 -Ataque Da Polícia 
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP53.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 54 Liberdade Dos Reféns 
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP54.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 55 -Suspensão Das Negociações 
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP55.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 56 -Governo Intimidado 
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP56.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 57 -Conversa Importante 
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP57.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 58 -Descoberta Da Polícia 
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP58.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 59 - Morte No Cartel 
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP59.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 60 -Fuga De Pablo  
+httap://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP60.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 61 -Plano De Sequestro 
+httap://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP61.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 62 - Perigosa Missão 
+httap://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP62.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 63 -Gaviria Relutante 
+httap://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP63.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 64 -Temor De Pablo 
+httap://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP64.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 65 -Pressão Em Pablo 
+httap://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP65.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 66 -Presidente Preocupado 
+httap://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP66.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 67 - Outro Assassinato 
+httap://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP67.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 68 -Escobar Furioso 
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP68.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 69 -Ataque A Pablo 
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP69.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 70 -No Comando Dos Crimes 
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP70.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 71 -Preocupação Com Os PEPES
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP71.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 72 -Atentado
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP72.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 73 -Cartel Desfeito
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP73.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/Uq6ycN group-title="SÉRIES",Episódio 74 - Encurralado 
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PABLESCBROSDTRT01EP74.mp4
+
+
+################## O Mecanismo (Nacional) - Lista de Episódios
+
+######################## 1ª Temporada
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/ZrdTHx group-title="SÉRIES",Episódio 01 -Lava Jato 
+
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/OMCNSMT01EP01.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/ZrdTHx group-title="SÉRIES",Episódio 02 - Halawi 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/OMCNSMT01EP02.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/ZrdTHx group-title="SÉRIES",Episódio 03 -Ventos Frios Vindos do Sul 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/OMCNSMT01EP03.mp4
+
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/ZrdTHx group-title="SÉRIES",Episódio 04 -Fundo Falso 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/OMCNSMT01EP04.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/ZrdTHx group-title="SÉRIES",Episódio 05 - Olhos Vermelhos 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/OMCNSMT01EP05.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/ZrdTHx group-title="SÉRIES",Episódio 06 - Eles Sabiam de Tudo 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/OMCNSMT01EP06.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/ZrdTHx group-title="SÉRIES",Episódio 07 - O Último Respiro 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/OMCNSMT01EP07.mp4
+
+#EXTINF:-1
+tvg-logo=https://goo.gl/ZrdTHx group-title="SÉRIES",Episódio 08 - Juízo Final
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/OMCNSMT01EP08.mp4
+
+############### Genius 1ª Temporada
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/6xK5iH group-title="SÉRIES",Episódio 01 - Capítulo 01
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/GNIST01EP01.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/6xK5iH group-title="SÉRIES",Episódio 02 -Capítulo 02 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/GNIST01EP02.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/6xK5iH group-title="SÉRIES",Episódio 03 -Capítulo 03 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/GNIST01EP03.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/6xK5iH group-title="SÉRIES",Episódio 04 - Capítulo 04 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/GNIST01EP04.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/6xK5iH group-title="SÉRIES",Episódio 05 -Capítulo 05 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/GNIST01EP05.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/6xK5iH group-title="SÉRIES",Episódio 06 -Capítulo 06 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/GNIST01EP06.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/6xK5iH group-title="SÉRIES",Episódio 07 - Capítulo 07 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/GNIST01EP07.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/6xK5iH group-title="SÉRIES",Episódio 08 -Capítulo 08 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/GNIST01EP08.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/6xK5iH group-title="SÉRIES",Episódio 09 -Capítulo 09 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/GNIST01EP09.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/6xK5iH group-title="SÉRIES",Episódio 10 - Capítulo 10
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/GNIST01EP10.mp4
+
+############################################## 24 horas
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/um5UvS group-title="SÉRIES",Episódio 01 - 12:00 AM - 01:00 PM 
+
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/24LGDT01EP01.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/um5UvS group-title="SÉRIES",Episódio 02 - 01:00 PM - 02:00 PM 
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/24LGDT01EP02.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/um5UvS group-title="SÉRIES",Episódio 03 - 02:00 PM - 03:00 PM
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/24LGDT01EP03.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/um5UvS group-title="SÉRIES",Episódio 04 - 03:00 PM - 04:00 PM
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/24LGDT01EP04.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/um5UvS group-title="SÉRIES",Episódio 05 - 04:00 PM - 05:00 PM 
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/24LGDT01EP05.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/um5UvS group-title="SÉRIES",Episódio 06 - 05:00 PM - 06:00 PM
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/24LGDT01EP06.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/um5UvS group-title="SÉRIES",Episódio 07 - 06:00 PM - 07:00 PM
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/24LGDT01EP07.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/um5UvS group-title="SÉRIES",Episódio 08 - 07:00 PM - 08:00 PM
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/24LGDT01EP08.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/um5UvS group-title="SÉRIES",Episódio 09 - 08:00 PM – 09:00 PM
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/24LGDT01EP09.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/um5UvS group-title="SÉRIES",Episódio 10 - 09:00 PM – 10:00 PM 
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/24LGDT01EP10.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/um5UvS group-title="SÉRIES",Episódio 11 - 10:00 PM – 11:00 PM 
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/24LGDT01EP11.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/um5UvS group-title="SÉRIES",Episódio 12 - 11:00 PM – 12:00 AM 
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/24LGDT01EP12.mp4
+
+#########################################Séries/Jean-Claude Van Damme
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/TXeTba group-title="SERIES",Episódio 01 - Piloto 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/JEANCLDVNJHNSNT01EP01.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/TXeTba group-title="SERIES",Episódio 02 - Em Que Ano Você Acha Isso?
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/JEANCLDVNJHNSNT01EP02.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/TXeTba group-title="SERIES",Episódio 03 - Uma Pequena Conversa Sobre A Confiança
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/JEANCLDVNJHNSNT01EP04.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/TXeTba group-title="SERIES",Episódio 04 - Se Tiver Sorte
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/JEANCLDVNJHNSNT01EP04.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/TXeTba group-title="SERIES",Episódio 05 - Corra Para Lugar Nenhum
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/JEANCLDVNJHNSNT01EP05.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/TXeTba group-title="SERIES",Episódio 06 - O Mundo Precisa do Seu Herói
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer13/ondemand/JEANCLDVNJHNSNT01EP06.mp4
+
+################################## Prisão bleck/1ª Temporada
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 01 - Em Busca da Verdade
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP01.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 02 - Acerto de Contas 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP02.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 03 - Teste do Celular
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP03.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 04 - A Volta de Sucre 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP04.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 05 - A Transferência 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP05.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 06 - A Rebelião, 1ª Parte 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP06.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 07 - A 
+Rebelião, 2ª Parte 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP07.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 08 - Perseguição 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP08.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 09 - Um Novo Chefe 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP09.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 10 - De Volta ao Plano de Fuga
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP10.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 11 - 7 é Demais 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP11.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 12 - Perdão Fatal
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP12.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 13 - O Fim do Tunel 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP13.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 14 - O Rato  
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP14.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 15 - O Adiamento 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP15.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 16 - O Guardião do Irmão 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP16.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 17 - O Surto 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP17.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 18 - O Blefe 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP18.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 19 - A Chave 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP19.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 20 - A Segunda 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP20.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 21 - A Noite da Fuga 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP21.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",pisódio 22 - A Reta Final 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT01EP22.mp4
+
+################################### Prisão bleck/2ª Temporada
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 01 - Caçada Humana 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT02EP01.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 02 - Tentativa de Resgate 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT02EP02.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 03 - Perseguição 
+
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT02EP03.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 04 - Primeiro a Morrer 
+
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT02EP04.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 05 - Mapa 1213 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT02EP05.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 06 - Subdivisão
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT02EP06.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 07 - Enterrado 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT02EP07.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 08 - Armadilha Mortal 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT02EP08.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 09 - Desenterrado
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT02EP09.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 10 - Ponto de Encontro 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT02EP10.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 11 - Bolshoi Booze 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT02EP11.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 12 - Separação 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT02EP12.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 13 - Encurralados
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT02EP13.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 14 - João Ninguém 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT02EP14.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 15 - A Mensagem 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT02EP15.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 16 - Chicago 
+
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT02EP16.mp4
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 17 - Sangue Ruim
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT02EP17.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 18 - O Acordo 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT02EP18.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 19 - Doce Caroline 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT02EP19.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 20 - Panamá 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT02EP20.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 21 - Fim do Caminho 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT02EP21.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 22 - A Volta 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT02EP22.mp4
+
+################################## Prisão bleck/3ª Temporada
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 01 - Orientação (Sona) 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT03EP01.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 02 - Fogo e Água 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT03EP02.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 03 - O Telefonema 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT03EP03.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 04 - A Cerca
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT03EP04.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 05 - Interferência 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT03EP05.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 06 - As Fotos 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT03EP06.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 07 - A Fuga 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT03EP07.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 08 -Tentativa de Fuga 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT03EP08.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 09 - Tentativa Frustrada 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT03EP09.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 10 -Por Um Fio 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT03EP10.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 11 -Fuga Noturna 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT03EP11.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 12 -Inferno ou Alto-Mar 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT03EP12.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 13 - A Arte de Negociar 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT03EP13.mp4
+
+############################# Prisão bleck/4ª Temporada
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 01/02 - Scylla / A Invasão 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT04EP01-02.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 03 - A Busca Continua
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT04EP03.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 04 - Águias e Anjos
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT04EP04.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 05 - Sã e Salva
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT04EP05.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 06 - O Erro 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT04EP06.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 07 - O Quinto Cartão 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT04EP07.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 08 - O Preço 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT04EP08.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 09 - Resultado Inesperado 
+
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT04EP09.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 10 - A Planta
+
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT04EP10.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 11 - Rebelião Silenciosa
+
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT04EP11.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 12 - Altruísmo
+
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT04EP12.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 13 - O Trato 
+
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT04EP13.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 14 - Apenas Negócios
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT04EP14.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 15 - Experiência de Vida e Morte
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT04EP15.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 16 - O Estado Ensolarado 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT04EP16.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 17 - Traição 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT04EP17.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 18 - VS 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT04EP18.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 19 - A Conferência 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT04EP19.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 20 - Mocinhos e Bandidos
+
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT04EP20.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 21 - A Troca
+
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT04EP21.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 22 - A Verdade Revelada 
+
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT04EP22.mp4
+
+O Resgate Final
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 23/24 - A Velha Esfera / Cadeia e Livres
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT04EP23-24.mp4
+
+###################### Prisão bleck/5ª Temporada
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Ogygia
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PRBKT05EP01.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 02 -Kaniel Outis 
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PRBKT05EP02.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 03 - A Mentira 
+http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PRBKT05EP03.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 04 - O Dilema do Prisioneiro
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer12/ondemand/PRBKT05EP04.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 05 -Contingência 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer12/ondemand/PRBKT05EP05.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 06 -Fuga Pelo Deserto
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer12/ondemand/PRBKT05EP06.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 07 - Mar Negro
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer12/ondemand/PRBKT05EP07.mp4
+
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 08 - Descendência 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer12/ondemand/PRBKT05EP08.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 09 - Atrás dos Olhos
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer12/ondemand/PRBKT05EP09.mp4
+
+################################################## Sound! ######################
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Anos 70 
+http://192.99.150.31:8241/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Anos 80 
+http://192.99.150.31:8697/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Anos 90 
+http://192.99.150.31:8056/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Anos 2000 
+http://6d9a.webradio.upx.net.br:9940/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Axé
+http://192.99.150.31:8305/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Bossa Nova 
+http://6d9a.webradio.upx.net.br:9974/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Brega 
+http://192.99.150.31:9007/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Eletrônica 
+http://192.99.150.31:9095/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Festa 
+http://6d9a.webradio.upx.net.br:9070/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Forró 
+http://192.99.150.31:9019/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Funk 
+http://192.99.150.31:9089/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Gospel 
+http://192.99.150.31:9101/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Hip Hop 
+http://192.99.150.31:8721/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",HISTORINHA INFANTIL 
+http://192.99.150.31:8371/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Jazz 
+http://192.99.150.31:8042/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Kids 
+http://192.99.150.31:9431/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Lounge 
+http://6d9a.webradio.upx.net.br:9064/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Metal 
+http://6d9a.webradio.upx.net.br:9898/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",MPB 
+http://192.99.150.31:8775/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",MÃºsica ClÃ¡ssica 
+http://6d9a.webradio.upx.net.br:9970/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",New Rock 
+http://6d9a.webradio.upx.net.br:8028/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Pagode 
+http://6d9a.webradio.upx.net.br:9061/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Pop Hits 
+http://6d9a.webradio.upx.net.br:9046/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Pop Rock 
+http://6d9a.webradio.upx.net.br:8016/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Rap Nacional 
+http://192.99.150.31:8377/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Reggae 
+http://192.99.150.31:8715/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",ROBERTO CARLOS 
+http://192.99.150.31:9137/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Rock Brasil 
+http://14923.live.streamtheworld.com/CIDADEROCKBRASILAAC?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Rock ClÃ¡ssico 
+http://192.99.150.31:9125/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",RomÃ¢nticas 
+http://192.99.150.31:8962/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Sertanejo 
+http://192.99.150.31:9485/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Sertanejo UniversitÃ¡rio 
+http://192.99.150.31:9191/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", STUDIO DO AMOR 
+http://192.99.150.31:8962/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Trilhas Sonoras 
+http://6d9a.webradio.upx.net.br:9896/stream?
