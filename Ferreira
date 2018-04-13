@@ -1636,149 +1636,139 @@ http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/P
 
 O Resgate Final
 
-#EXTINF:-1
-tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 23/24 - A Velha Esfera / Cadeia e Livres
+#EXTINF:-1 tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 23/24 - A Velha Esfera / Cadeia e Livres
 http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer01/videos/PRBKT04EP23-24.mp4
 
 ###################### Prisão bleck/5ª Temporada
 
-#EXTINF:-1
-tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Ogygia
+#EXTINF:-1 tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Ogygia
 http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PRBKT05EP01.mp4
 
-#EXTINF:-1
-tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 02 -Kaniel Outis 
+#EXTINF:-1 tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 02 -Kaniel Outis 
 http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PRBKT05EP02.mp4
 
-#EXTINF:-1
-tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 03 - A Mentira 
+#EXTINF:-1 tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 03 - A Mentira 
 http://d234fl6nc0tzg6.redecanais.video/RedeCanais/RedeCanais/RCServer11/ondemand/PRBKT05EP03.mp4
 
-#EXTINF:-1
-tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 04 - O Dilema do Prisioneiro
+#EXTINF:-1 tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 04 - O Dilema do Prisioneiro
 http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer12/ondemand/PRBKT05EP04.mp4
 
-#EXTINF:-1
-tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 05 -Contingência 
+#EXTINF:-1 tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 05 -Contingência 
 http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer12/ondemand/PRBKT05EP05.mp4
 
-#EXTINF:-1
-tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 06 -Fuga Pelo Deserto
+#EXTINF:-1 tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 06 -Fuga Pelo Deserto
 http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer12/ondemand/PRBKT05EP06.mp4
 
-#EXTINF:-1
-tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 07 - Mar Negro
+#EXTINF:-1 tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 07 - Mar Negro
 http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer12/ondemand/PRBKT05EP07.mp4
 
 
-#EXTINF:-1
-tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 08 - Descendência 
+#EXTINF:-1 tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 08 - Descendência 
 http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer12/ondemand/PRBKT05EP08.mp4
 
-#EXTINF:-1
-tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 09 - Atrás dos Olhos
+#EXTINF:-1 tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 09 - Atrás dos Olhos
 http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer12/ondemand/PRBKT05EP09.mp4
 
 ################################################## Sound! ######################
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Anos 70 
+SOUND!
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="SOUND!",Anos 70 
 http://192.99.150.31:8241/stream?
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Anos 80 
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="SOUND!",Anos 80 
 http://192.99.150.31:8697/stream?
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Anos 90 
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="SOUND!",Anos 90 
 http://192.99.150.31:8056/stream?
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Anos 2000 
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="SOUND!",Anos 2000 
 http://6d9a.webradio.upx.net.br:9940/stream?
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Axé
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="SOUND!",Axé
 http://192.99.150.31:8305/stream?
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Bossa Nova 
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="SOUND!",Bossa Nova 
 http://6d9a.webradio.upx.net.br:9974/stream?
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Brega 
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="SOUND!",Brega 
 http://192.99.150.31:9007/stream?
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Eletrônica 
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="SOUND!",Eletrônica 
 http://192.99.150.31:9095/stream?
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Festa 
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="SOUND!",Festa 
 http://6d9a.webradio.upx.net.br:9070/stream?
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Forró 
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="SOUND!",Forró 
 http://192.99.150.31:9019/stream?
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Funk 
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="SOUND!",Funk 
 http://192.99.150.31:9089/stream?
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Gospel 
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="SOUND!",Gospel 
 http://192.99.150.31:9101/stream?
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Hip Hop 
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="SOUND!",Hip Hop 
 http://192.99.150.31:8721/stream?
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",HISTORINHA INFANTIL 
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="SOUND!",HISTORINHA INFANTIL 
 http://192.99.150.31:8371/stream?
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Jazz 
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="SOUND!",Jazz 
 http://192.99.150.31:8042/stream?
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Kids 
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="SOUND!",Kids 
 http://192.99.150.31:9431/stream?
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Lounge 
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="SOUND!",Lounge 
 http://6d9a.webradio.upx.net.br:9064/stream?
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Metal 
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="SOUND!",Metal 
 http://6d9a.webradio.upx.net.br:9898/stream?
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",MPB 
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="SOUND!",MPB 
 http://192.99.150.31:8775/stream?
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",MÃºsica ClÃ¡ssica 
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="SOUND!",MÃºsica ClÃ¡ssica 
 http://6d9a.webradio.upx.net.br:9970/stream?
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",New Rock 
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="SOUND!",New Rock 
 http://6d9a.webradio.upx.net.br:8028/stream?
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Pagode 
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="SOUND!",Pagode 
 http://6d9a.webradio.upx.net.br:9061/stream?
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Pop Hits 
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="SOUND!",Pop Hits 
 http://6d9a.webradio.upx.net.br:9046/stream?
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Pop Rock 
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="SOUND!",Pop Rock 
 http://6d9a.webradio.upx.net.br:8016/stream?
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Rap Nacional 
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="SOUND!",Rap Nacional 
 http://192.99.150.31:8377/stream?
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Reggae 
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="SOUND!",Reggae 
 http://192.99.150.31:8715/stream?
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",ROBERTO CARLOS 
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="SOUND!",ROBERTO CARLOS 
 http://192.99.150.31:9137/stream?
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Rock Brasil 
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="SOUND!",Rock Brasil 
 http://14923.live.streamtheworld.com/CIDADEROCKBRASILAAC?
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Rock ClÃ¡ssico 
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="SOUND!",Rock ClÃ¡ssico 
 http://192.99.150.31:9125/stream?
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",RomÃ¢nticas 
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="SOUND!",RomÃ¢nticas 
 http://192.99.150.31:8962/stream?
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Sertanejo 
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="SOUND!",Sertanejo 
 http://192.99.150.31:9485/stream?
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Sertanejo UniversitÃ¡rio 
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="SOUND!",Sertanejo UniversitÃ¡rio 
 http://192.99.150.31:9191/stream?
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", STUDIO DO AMOR 
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="SOUND!", STUDIO DO AMOR 
 http://192.99.150.31:8962/stream?
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Trilhas Sonoras 
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="SOUND!",Trilhas Sonoras 
 http://6d9a.webradio.upx.net.br:9896/stream?
