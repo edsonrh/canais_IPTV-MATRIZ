@@ -245,6 +245,8 @@ http://stmv3.pagehost.com.br:1935/wagner7534/wagner7534/playlist.m3u8?PEDROJUNIO
 #EXTINF:-1 tvg-id="TvDiario.br" tvg-logo="http://i.imgur.com/dBN229l.png" group-title="TV Aberta",TV Diário
 http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
+#EXTINF:-1 tvg-id="Globosp.br" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="TV Aberta",Globo SP
+
 #EXTINF:-1 tvg-id="Sbt.br" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV Aberta",SBT SP Interior
 http://srv6.zoeweb.tv:1935/z343-live/stream/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
@@ -381,6 +383,8 @@ http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?PEDROJUNIORTUTORIA
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/kIpd4xA.png" group-title="Notícias",GV News
 https://59f1cbe63db89.streamlock.net:1443/gvnews/gvnews/playlist.m3u8?PEDROJUNIORTUTORIAIS
+https://59f1cbe63db89.streamlock.net:1443/gvnews/_definst_/gvnews/chunklist_w1744199994.m3u8
+
 
 
 
