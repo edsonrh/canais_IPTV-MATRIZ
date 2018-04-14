@@ -115,6 +115,17 @@ http://flash1.crossdigital.com.br:1935/camongrace/camongrace.stream/playlist.m3u
 #EXTINF:-1 tvg-id="" tvg-logo="https://s24.postimg.org/7k8y54p9x/Ao_Vivologo.png" group-title="Câmeras",Santuário de Aparecida - Altar Central
 http://caikrondatacenter.com.br:1935/santuario_aparecida/canal5.stream/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
 
+
+################################################################################# Religiosos
+
+#EXTINF:-1 tvg-id="Tvfeliz.br" tvg-logo="http://i.imgur.com/5IC5kuO.png" group-title="Religiosos",TV Feliz
+https://59f2354c05961.streamlock.net:1443/tvfelizrn/_definst_/tvfelizrn/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
 http://aovivo.futeboltv.com:8081/live/15/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
 
