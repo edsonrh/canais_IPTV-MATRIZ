@@ -1,5 +1,165 @@
 G#EXTM3U
 
+################################################################################# TV Aberta
+
+#EXTINF:-1 tvg-id="RedeMinas.br" tvg-logo="http://i.imgur.com/AmNF6Fy.jpg" group-title="TV Aberta",Rede Minas
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/GSJed2X.png" group-title="TV Aberta",TV Urbana
+http://srv9.zoeweb.tv:1935/zw923/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/TX1jfAh.jpg" group-title="TV Aberta",TV Maceió
+http://173.236.10.10:1935/toptv/toptv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/ZWgiH4d.png" group-title="TV Aberta",Rede Meio Norte
+http://api.new.livestream.com/accounts/3332377/events/2958396/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/EqJy1rP.png" group-title="TV Aberta",Sesc TV HD
+http://api.new.livestream.com/accounts/16991778/events/6670101/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/IpPAUfN.png" group-title="TV Aberta",SEC TV
+http://hd4.com.br:1935/sectv2/sectv2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s24.postimg.org/3mh5iwvph/TVT.png" group-title="TV Aberta",TVT
+http://wse8.player.tv.br:1935/aovivotvt/aovivotvt/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/V3zjKvc.png" group-title="TV Aberta",TV FAAP
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s16.postimg.org/6m5zb5e7p/TV_Medicina_Sa_de.png" group-title="TV Aberta",TV Medicina & Saúde
+http://rtmp.cdn.upx.net.br:1935/7dcb/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s16.postimg.org/4rt4ter79/TV_INES.png" group-title="TV Aberta",TV INES
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvINESABR_d360fbbfbf3e5e59a31cf89ec45eb3dc/livestream2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s16.postimg.org/4rt4ter79/TV_INES.png" group-title="TV Aberta",TV INES HD
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvINESABR_d360fbbfbf3e5e59a31cf89ec45eb3dc/livestream3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/xGYSOgE.png" group-title="TV Aberta",Agro Brasil
+http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s30.postimg.org/c6rieq3ch/Novo_Canal.png" group-title="TV Aberta",Novo Canal
+http://live.sba1.com:80/hls-live/livenc/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/Gk7EWc9.png" group-title="TV Aberta",Agro Canal
+http://live.sba1.com:80/hls-live/liveac/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/VBcEqPw.png" group-title="TV Aberta",Conexão BR
+http://live.sba1.com:80/hls-live/livecx/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/NKRWvKq.png" group-title="TV Aberta",Canal do Boi
+http://live.sba1.com:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 tvg-id="Canalrural.br" tvg-logo="http://i.imgur.com/jtiMetX.png" group-title="TV Aberta",Canal Rural
+http://67149o.ha.azioncdn.net/hlsmedium/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-logo="http://i.imgur.com/Or3Q4WA.png" group-title="TV Aberta",TV Gazeta SP HD
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
+
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-logo="http://i.imgur.com/Or3Q4WA.png" group-title="TV Aberta",TV Gazeta RN
+http://wse01.logicahost.com.br:1935/televisaorn/_definst_/televisaorn/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-logo="http://i.imgur.com/Or3Q4WA.png" group-title="TV Aberta",TV Gazeta MA
+http://stmv3.pagehost.com.br:1935/wagner7534/wagner7534/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TvDiario.br" tvg-logo="http://i.imgur.com/dBN229l.png" group-title="TV Aberta",TV Diário
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Globosp.br" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="TV Aberta",Globo SP
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV ABERTA",SBT PE
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1716953599_b176000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV Aberta",SBT SP Interior
+http://tv01.logicahost.com.br:1935/rbtv/rbtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV Aberta",SBT MA
+http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV Aberta",SBT PE
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1716953599_b176000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV ABERTA",SBT PE Interior
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BandRede.br" tvg-logo="http://i.imgur.com/9bw0Q4n.png" group-title="TV Aberta",Band PA
+http://stmv3.srvstm.com/rbatv12/rbatv12/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Redebrasil.br" tvg-logo="http://i.imgur.com/uwzYiHs.png" group-title="TV Aberta",Rede Brasil SP
+http://tv01.logicahost.com.br:1935/rbtv/rbtv/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-logo="http://i.imgur.com/0uUPOMx.png" group-title="TV Aberta",TV Brasil
+http://ebctvbrasil-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctvbrasil/_definst_/live.m3u8
+
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="TV Aberta",TV Cultura PE
+http://wz-brasil1.comets.com.br/tvnovanordeste/aovivo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="TV Aberta",TV Cultura MG
+http://rtmp.cdn.upx.net.br:1935/00084/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="TV Aberta",TV Cultura GO
+http://rsync.com.br:1935/rsync00026/rsync.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="TV Aberta",TV Cultura PA
+http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="TV Aberta",TV Cultura BA
+http://wz-brasil1.comets.com.br:1935/tvbaiana/aovivo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="TV Aberta",TV Cultura PR
+http://200.189.113.201/hls/tve.m3u8
+
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-logo="http://i.imgur.com/kd7IOy7.png" group-title="TV Aberta",TV Cultura PB HD
+http://177.73.84.49/hls/live/live.m3u8
+
+#EXTINF:-1 tvg-id="Futura.br" tvg-logo="http://i.imgur.com/J0vLlTS.png" group-title="TV Aberta",TV Futura PR
+http://caikron.com.br:1935/unipar/tvup/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV ABERTA",Record SC
+https://ricmais.com.br/sc/streaming/show/ric_hd720.m3u8
+
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record RN
+http://184.172.23.109:1935/live/tvtrop_natal/tvtrop_natal_aovivo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV ABERTA",Record GO
+http://srv3.zoeweb.tv:1935/zw315/zw315tvs/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV ABERTA",Record MT
+http://wz3.dnip.com.br:1935/tvgazetamt/tvgazetamt.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record Moçambique
+http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8
+
+#EXTINF:-1 tvg-id="Redetv.br" tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="TV Aberta",Rede TV SP
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Redetv.br" tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="TV Aberta",Rede TV RS
+http://wse8.player.tv.br:1935/rafael926/encoder/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Redetv.br" tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="TV Aberta",Rede TV PB
+https://v5.ciclano.io:1443/8064/8064/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Redetv.br" tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="TV Aberta",Rede TV RO
+http://173.236.10.10:1935/tvonline/tvonline/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tvers.br" tvg-logo="http://i.imgur.com/gQ4GDzQ.png" group-title="TV Aberta",TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tvespanhola.br" tvg-logo="http://i.imgur.com/kLWg5sp.png" group-title="TV Aberta",TVE BA HD
+http://200.187.60.190:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
+
+#EXTINF:-1 tvg-id="Tvescola.br" tvg-logo="http://i.imgur.com/Yj9UKv2.png" group-title="TV Aberta",TV Escola
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tvescola.br" tvg-logo="http://i.imgur.com/Yj9UKv2.png" group-title="TV Aberta",TV Escola HD
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Terraviva.br" tvg-logo="http://i.imgur.com/6vBfgpS.png" group-title="TV Aberta",Terra Viva
+http://evpp.mm.uol.com.br:1935/band/terraviva/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/no1Al0A.png" group-title="TV Aberta",TV Câmara
+http://stream2.camara.leg.br:8134/tv1/manifest.m3u8
+
+
 
 ################################################################################# Futebol Ao Vivo
 
@@ -126,7 +286,10 @@ https://59f2354c05961.streamlock.net:1443/tvfelizrn/_definst_/tvfelizrn/playlist
 http://tvevangelizar20.crossdigital.com.br:1935/evangelizar/tv/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-id="Tvaparecida.br" tvg-logo="http://i.imgur.com/RP0sbkV.png" group-title="Religiosos",TV Aparecida
-http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+http://caikrondatacenter.com.br:1935/santuario_aparecida/canal5.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RNtmXsk.png" group-title="RELIGIOSOS",Gospel Movies Television
+http://stmv2.srvstm.com:1935/gospelf/gospelf/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tvnovotempo.br" tvg-logo="http://i.imgur.com/IZKxzJ9.png" group-title="Religiosos",TV Novo Tempo SP
 http://stream.novotempo.com:1935/tv/tvnovotempo.stream/playlist.m3u8?PEDROJUNIORTUTORIAIS
@@ -153,227 +316,75 @@ http://flash1.crossdigital.com.br:1935/ponto85/ongrace/playlist.m3u8?PEDROJUNIOR
 http://stmv2.srvstm.com:1935/gospelf/gospelf/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/aiNRaga.png" group-title="Religiosos",IURD TV
-http://iuhls-lh.akamaihd-staging.net/i/utvhls1_1@336317/master.m3u8?PEDROJUNIORTUTORIAIS
+http://iuhls-lh.akamaihd-staging.net/i/utvhls1_1@336317/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/aiNRaga.png" group-title="Religiosos",IURD TV Internacional
-http://api.new.livestream.com/accounts/4486152/events/2780306/live.m3u8?PEDROJUNIORTUTORIAIS
+http://api.new.livestream.com/accounts/4486152/events/2780306/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/nt8hDCT.png" group-title="Religiosos",IMPD TV
-https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8?PEDROJUNIORTUTORIAIS
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/CxIuCFa.png" group-title="Religiosos",Rede Gospel
-http://media.igospel.com.br:1935/live/redegospel/playlist.m3u8?PEDROJUNIORTUTORIAIS
+http://media.igospel.com.br:1935/live/redegospel/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/xX2IFya.jpg" group-title="Religiosos",TV Verdade
-http://ocatv.mcgi.me:1935/public/247_br/playlist.m3u8?PEDROJUNIORTUTORIAIS
+http://ocatv.mcgi.me:1935/public/247_br/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/wxqkMUE.png" group-title="Religiosos",Vem & Vê TV 1
-http://srv-vvtv.sisdera.com:1935/live/mp4:vvtv2/playlist.m3u8?PEDROJUNIORTUTORIAIS
+http://srv-vvtv.sisdera.com:1935/live/mp4:vvtv2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/wxqkMUE.png" group-title="Religiosos",Vem & Vê TV 2
-http://srv-vvtv.sisdera.com:1935/live/mp4:vvtv022/playlist.m3u8?PEDROJUNIORTUTORIAIS
+http://srv-vvtv.sisdera.com:1935/live/mp4:vvtv022/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/wxqkMUE.png" group-title="Religiosos",Vem & Vê TV 3
-http://srv-vvtv.sisdera.com:1935/live/mp4:vvtv032/playlist.m3u8?PEDROJUNIORTUTORIAIS
+http://srv-vvtv.sisdera.com:1935/live/mp4:vvtv032/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/zW83GGD.png" group-title="Religiosos",TV Terceiro Anjo
-http://streamer1.streamhost.org:1935/salive/GMI3anjoh/playlist.m3u8?PEDROJUNIORTUTORIAIS
+http://streamer1.streamhost.org:1935/salive/GMI3anjoh/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/tWqhirq.png" group-title="Religiosos",Portal Gospel
-http://s1.wsepanel.com:1935/lukfilm/lukfilm/playlist.m3u8?PEDROJUNIORTUTORIAIS
+http://s1.wsepanel.com:1935/lukfilm/lukfilm/playlist.m3u8
 
-################################################################################# TV Aberta
+#EXTINF:-1 tvg-logo="http://i.imgur.com/c0Yv7h1.png" group-title="RELIGIOSOS",Rede Gênesis
+http://srv3.zoeweb.tv:1935/z474-live/aovivo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RedeMinas.br" tvg-logo="http://i.imgur.com/AmNF6Fy.jpg" group-title="TV Aberta",Rede Minas
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/GSJed2X.png" group-title="TV Aberta",TV Urbana
-http://srv9.zoeweb.tv:1935/zw923/stream/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/TX1jfAh.jpg" group-title="TV Aberta",TV Maceió
-http://173.236.10.10:1935/toptv/toptv/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/ZWgiH4d.png" group-title="TV Aberta",Rede Meio Norte
-http://api.new.livestream.com/accounts/3332377/events/2958396/live.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/EqJy1rP.png" group-title="TV Aberta",Sesc TV HD
-http://api.new.livestream.com/accounts/16991778/events/6670101/live.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/IpPAUfN.png" group-title="TV Aberta",SEC TV
-http://hd4.com.br:1935/sectv2/sectv2/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://s24.postimg.org/3mh5iwvph/TVT.png" group-title="TV Aberta",TVT
-http://wse8.player.tv.br:1935/aovivotvt/aovivotvt/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/V3zjKvc.png" group-title="TV Aberta",TV FAAP
-http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://s16.postimg.org/6m5zb5e7p/TV_Medicina_Sa_de.png" group-title="TV Aberta",TV Medicina & Saúde
-http://rtmp.cdn.upx.net.br:1935/7dcb/myStream.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://s16.postimg.org/4rt4ter79/TV_INES.png" group-title="TV Aberta",TV INES
-http://slrp.sambavideos.sambatech.com/liveevent/acerpTvINESABR_d360fbbfbf3e5e59a31cf89ec45eb3dc/livestream2/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://s16.postimg.org/4rt4ter79/TV_INES.png" group-title="TV Aberta",TV INES HD
-http://slrp.sambavideos.sambatech.com/liveevent/acerpTvINESABR_d360fbbfbf3e5e59a31cf89ec45eb3dc/livestream3/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/xGYSOgE.png" group-title="TV Aberta",Agro Brasil
-http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://s30.postimg.org/c6rieq3ch/Novo_Canal.png" group-title="TV Aberta",Novo Canal
-http://live.sba1.com:80/hls-live/livenc/_definst_/liveevent/livestream.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/Gk7EWc9.png" group-title="TV Aberta",Agro Canal
-http://live.sba1.com:80/hls-live/liveac/_definst_/liveevent/livestream.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/VBcEqPw.png" group-title="TV Aberta",Conexão BR
-http://live.sba1.com:80/hls-live/livecx/_definst_/liveevent/livestream.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/NKRWvKq.png" group-title="TV Aberta",Canal do Boi
-http://live.sba1.com:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="Canalrural.br" tvg-logo="http://i.imgur.com/jtiMetX.png" group-title="TV Aberta",Canal Rural
-http://67149o.ha.azioncdn.net/hlsmedium/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="TVGazeta.br" tvg-logo="http://i.imgur.com/Or3Q4WA.png" group-title="TV Aberta",TV Gazeta SP HD
-http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="TVGazeta.br" tvg-logo="http://i.imgur.com/Or3Q4WA.png" group-title="TV Aberta",TV Gazeta RN
-http://wse01.logicahost.com.br:1935/televisaorn/_definst_/televisaorn/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="TVGazeta.br" tvg-logo="http://i.imgur.com/Or3Q4WA.png" group-title="TV Aberta",TV Gazeta MA
-http://stmv3.pagehost.com.br:1935/wagner7534/wagner7534/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="TvDiario.br" tvg-logo="http://i.imgur.com/dBN229l.png" group-title="TV Aberta",TV Diário
-http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="Globosp.br" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="TV Aberta",Globo SP
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV ABERTA",SBT PE
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1716953599_b176000_sleng.m3u8
-
-#EXTINF:-1 tvg-id="Sbt.br" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV Aberta",SBT SP Interior
-http://tv01.logicahost.com.br:1935/rbtv/rbtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Sbt.br" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV Aberta",SBT MA
-http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="Sbt.br" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV Aberta",SBT PE
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1716953599_b176000_sleng.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV ABERTA",SBT PE Interior
-http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BandRede.br" tvg-logo="http://i.imgur.com/9bw0Q4n.png" group-title="TV Aberta",Band PA
-http://stmv3.srvstm.com/rbatv12/rbatv12/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="Redebrasil.br" tvg-logo="http://i.imgur.com/uwzYiHs.png" group-title="TV Aberta",Rede Brasil SP
-http://tv01.logicahost.com.br:1935/rbtv/rbtv/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-logo="http://i.imgur.com/0uUPOMx.png" group-title="TV Aberta",TV Brasil
-http://ebctvbrasil-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctvbrasil/_definst_/live.m3u8
-
-#EXTINF:-1 tvg-id="Tvcultura.br" tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="TV Aberta",TV Cultura PE
-http://wz-brasil1.comets.com.br/tvnovanordeste/aovivo/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Tvcultura.br" tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="TV Aberta",TV Cultura MG
-http://rtmp.cdn.upx.net.br:1935/00084/myStream.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Tvcultura.br" tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="TV Aberta",TV Cultura GO
-http://rsync.com.br:1935/rsync00026/rsync.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Tvcultura.br" tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="TV Aberta",TV Cultura PA
-http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Tvcultura.br" tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="TV Aberta",TV Cultura BA
-http://wz-brasil1.comets.com.br:1935/tvbaiana/aovivo/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Tvcultura.br" tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="TV Aberta",TV Cultura PR
-http://200.189.113.201/hls/tve.m3u8
-
-#EXTINF:-1 tvg-id="Tvcultura.br" tvg-logo="http://i.imgur.com/kd7IOy7.png" group-title="TV Aberta",TV Cultura PB HD
-http://177.73.84.49/hls/live/live.m3u8
-
-#EXTINF:-1 tvg-id="Futura.br" tvg-logo="http://i.imgur.com/J0vLlTS.png" group-title="TV Aberta",TV Futura PR
-http://caikron.com.br:1935/unipar/tvup/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV ABERTA",Record SC
-https://ricmais.com.br/sc/streaming/show/ric_hd720.m3u8
-
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record RN
-http://184.172.23.109:1935/live/tvtrop_natal/tvtrop_natal_aovivo/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV ABERTA",Record GO
-http://srv3.zoeweb.tv:1935/zw315/zw315tvs/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV ABERTA",Record MT
-http://wz3.dnip.com.br:1935/tvgazetamt/tvgazetamt.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record Moçambique
-http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8
-
-#EXTINF:-1 tvg-id="Redetv.br" tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="TV Aberta",Rede TV SP
-http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Redetv.br" tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="TV Aberta",Rede TV RS
-http://wse8.player.tv.br:1935/rafael926/encoder/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Redetv.br" tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="TV Aberta",Rede TV PB
-https://v5.ciclano.io:1443/8064/8064/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Redetv.br" tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="TV Aberta",Rede TV RO
-http://173.236.10.10:1935/tvonline/tvonline/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Tvers.br" tvg-logo="http://i.imgur.com/gQ4GDzQ.png" group-title="TV Aberta",TVE RS
-http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Tvespanhola.br" tvg-logo="http://i.imgur.com/kLWg5sp.png" group-title="TV Aberta",TVE BA HD
-http://200.187.60.190:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
-
-#EXTINF:-1 tvg-id="Tvescola.br" tvg-logo="http://i.imgur.com/Yj9UKv2.png" group-title="TV Aberta",TV Escola
-http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Tvescola.br" tvg-logo="http://i.imgur.com/Yj9UKv2.png" group-title="TV Aberta",TV Escola HD
-http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream3/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Terraviva.br" tvg-logo="http://i.imgur.com/6vBfgpS.png" group-title="TV Aberta",Terra Viva
-http://evpp.mm.uol.com.br:1935/band/terraviva/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/no1Al0A.png" group-title="TV Aberta",TV Câmara
-http://stream2.camara.leg.br:8134/tv1/manifest.m3u8
 ################################################################################ Esportes
 
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-logo="http://i.imgur.com/UQyuiko.png" group-title="Esportes",ESPN Brasil
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-logo="http://i.imgur.com/UQyuiko.png" group-title="SPORTS",ESPN Brasil
 http://aovivo.futeboltv.com:8081/live/19/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-logo="http://i.imgur.com/YWDW9xv.png" group-title="Esportes",ESPN
-http://aovivo.futeboltv.com:8081/live/16/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-logo="http://i.imgur.com/YWDW9xv.png" group-title="SPORTS",ESPN
+http://aovivo.futeboltv.com:8081/live/16/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ESPN+.br" tvg-logo="http://i.imgur.com/PRy9hgO.png" group-title="Esportes",ESPN+
-http://aovivo.futeboltv.com:8081/live/4/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-logo="http://i.imgur.com/PRy9hgO.png" group-title="SPORTS",ESPN+
+http://aovivo.futeboltv.com:8081/live/4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="EsporteInterativo.br" tvg-logo="http://i.imgur.com/ifuWdBK.png" group-title="Esportes",Esporte Interativo
-http://aovivo.futeboltv.com:8081/live/8/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-id="EsporteInterativo.br" tvg-logo="http://i.imgur.com/ifuWdBK.png" group-title="SPORTS",Esporte Interativo
+http://aovivo.futeboltv.com:8081/live/8/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Eimaxx2.br" tvg-logo="http://i.imgur.com/ifuWdBK.png" group-title="Esportes",EI Maxx 2
-http://aovivo.futeboltv.com:8081/live/2/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-id="Eimaxx2.br" tvg-logo="http://i.imgur.com/ifuWdBK.png" group-title="SPORTS",EI Maxx 2
+http://aovivo.futeboltv.com:8081/live/2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Sportv.br" tvg-logo="http://i.imgur.com/knx9dj1.png" group-title="Esportes",SporTV
-http://aovivo.futeboltv.com:8081/live/20/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-id="Sportv.br" tvg-logo="http://i.imgur.com/knx9dj1.png" group-title="SPORTS",SporTV
+http://aovivo.futeboltv.com:8081/live/20/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-logo="http://i.imgur.com/qpwwQCz.png" group-title="Esportes",SporTV 2
-http://aovivo.futeboltv.com:8081/live/15/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-logo="http://i.imgur.com/qpwwQCz.png" group-title="SPORTS",SporTV 2
+http://aovivo.futeboltv.com:8081/live/15/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-logo="http://i.imgur.com/imNhdzS.png" group-title="Esportes",Fox Sports 2
-http://aovivo.futeboltv.com:8081/live/13/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="SPORTS",Fox Sports
+http://aovivo.futeboltv.com:8081/live/9/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/OY7XoDv.png" group-title="Esportes",NBA
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-logo="http://i.imgur.com/imNhdzS.png" group-title="SPORTS",Fox Sports 2
+http://aovivo.futeboltv.com:8081/live/13/playlist.m3u8?PEDROJUNIORTUTORIAIShttp://aovivo.futeboltv.com:8081/live/9/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/OY7XoDv.png" group-title="SPORTS",NBA
 http://31.204.150.12:8080/edge/4304/tracks-v1a1/index.m3u8?token=17.18.1487.6d44eab61dcf5b1f0e6fa8f6595ee1bc.1.1.1.641.0.0.71875765cf0ee5df30360b6487a7b6ec
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/5jMqNpW.png" group-title="Esportes",Real Madrid TV
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/5jMqNpW.png" group-title="SPORTS",Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/owtTurC.png" group-title="Esportes",Horse Brasil HD
-http://490636978.r.worldcdn.net/490636978/_definst_//horsebrasil1/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/owtTurC.png" group-title="SPORTS",Horse Brasil HD
+http://490636978.r.worldcdn.net/490636978/_definst_//horsebrasil1/playlist.m3u8
 
 ################################################################################# Filmes e Series
 
@@ -388,17 +399,57 @@ http://189.86.89.116:80/hls-live/livecm/_definst_/liveevent/livestream.m3u8?PEDR
 
 ################################################################################# Notícias
 
-#EXTINF:-1 tvg-id="Recordnews.br" tvg-logo="http://i.imgur.com/ac5p192.png" group-title="Notícias",Record News
-http://sm.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-logo="http://i.imgur.com/ac5p192.png" group-title="NOTÍCIAS",Record News
+http://sm.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/WFqNuXt.png" group-title="Notícias",Catve HD 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ac5p192.png" group-title="NOTÍCIAS",Record News HD
+http://stmv4.srvstm.com/recordnewses/recordnewses/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/WFqNuXt.png" group-title="NOTÍCIAS",Catve HD 
 http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/kIpd4xA.png" group-title="Notícias",GV News
 https://59f1cbe63db89.streamlock.net:1443/gvnews/gvnews/playlist.m3u8?PEDROJUNIORTUTORIAIS
 ####https://59f1cbe63db89.streamlock.net:1443/gvnews/_definst_/gvnews/chunklist_w1744199994.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWBIiym.jpg" group-title="FUTEBOL",TV 7450
+http://aovivo.futeboltv.com:8081/live/8/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWBIiym.jpg" group-title="FUTEBOL",TV 7451
+http://aovivo.futeboltv.com:8081/live/9/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWBIiym.jpg" group-title="FUTEBOL",TV 7452
+http://aovivo.futeboltv.com:8081/live/10/playlist.m3u8?NÃO FOI POSSIVEL REPRODUZIR
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWBIiym.jpg" group-title="FUTEBOL",TV 7453
+http://aovivo.futeboltv.com:8081/live/11/playlist.m3u8?NÃO FOI POSSIVEL REPRODUZIR
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWBIiym.jpg" group-title="FUTEBOL",TV 7454
+http://aovivo.futeboltv.com:8081/live/12/playlist.m3u8?NÃO FOI POSSIVEL REPRODUZIR
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWBIiym.jpg" group-title="FUTEBOL",TV 7455
+http://aovivo.futeboltv.com:8081/live/13/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWBIiym.jpg" group-title="FUTEBOL",TV 7456
+http://aovivo.futeboltv.com:8081/live/14/playlist.m3u8?NÃO FOI POSSIVEL REPRODUZIR
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWBIiym.jpg" group-title="FUTEBOL",TV 7457
+http://aovivo.futeboltv.com:8081/live/15/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWBIiym.jpg" group-title="FUTEBOL",TV 7458
+http://aovivo.futeboltv.com:8081/live/16/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWBIiym.jpg" group-title="FUTEBOL",TV 7459
+http://aovivo.futeboltv.com:8081/live/17/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWBIiym.jpg" group-title="FUTEBOL",TV 7460
+http://aovivo.futeboltv.com:8081/live/18/playlist.m3u8?NÃO FOI POSSIVEL REPRODUZIR
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWBIiym.jpg" group-title="FUTEBOL",TV 7461
+http://aovivo.futeboltv.com:8081/live/19/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWBIiym.jpg" group-title="FUTEBOL",TV 7462
+http://aovivo.futeboltv.com:8081/live/20/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
@@ -419,1398 +470,6 @@ http://aovivo.futeboltv.com:8081/live/19/playlist.m3u8?LISTABYPEDROJUNIORTUTORIA
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
 http://aovivo.futeboltv.com:8081/live/20/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 01 
-http://www.blogger.com/video-play.mp4?contentId=ead77a76677b1fee
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 02
-http://www.blogger.com/video-play.mp4?contentId=82476f8e5a962ccb
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 03 
-http://www.blogger.com/video-play.mp4?contentId=9d47366793d55ad2
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 04
-http://www.blogger.com/video-play.mp4?contentId=cb2d53d73b400849
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 05
-http://www.blogger.com/video-play.mp4?contentId=3c0a08d46a14202d
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 06
-http://www.blogger.com/video-play.mp4?contentId=280973e89fac54e9
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 07
-http://www.blogger.com/video-play.mp4?contentId=703e2832ad59db19
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 08
-http://www.blogger.com/video-play.mp4?contentId=280973e89fac54e9
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 09
-http://www.blogger.com/video-play.mp4?contentId=ce4e7592865201ff
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 10
-http://www.blogger.com/video-play.mp4?contentId=47951405160f0383
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 11
-http://www.blogger.com/video-play.mp4?contentId=c2bf9d8b81fcbf39
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 12
-http://www.blogger.com/video-play.mp4?contentId=c85b207b4f6c75b9
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 13
-http://www.blogger.com/video-play.mp4?contentId=ca8346a39de5c575
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 14
-http://www.blogger.com/video-play.mp4?contentId=de2bab227e057fee
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 15
-http://www.blogger.com/video-play.mp4?contentId=2d20e77d08ae0ef5
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 16
-http://www.blogger.com/video-play.mp4?contentId=40be9fbef5b95ab5"
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 17
-http://www.blogger.com/video-play.mp4?contentId=78330a7b353c5494
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 18
-http://www.blogger.com/video-play.mp4?contentId=64f8d7733c78d90b
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 19
-http://www.blogger.com/video-play.mp4?contentId=399211b563f8e544
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 20
-http://www.blogger.com/video-play.mp4?contentId=93bb96b2ad70e9c6
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 21
-http://www.blogger.com/video-play.mp4?contentId=f204c64f097fff1e
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 22
-http://www.blogger.com/video-play.mp4?contentId=c2ad87bbe32e4ad0
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 23
-http://www.blogger.com/video-play.mp4?contentId=279cf731b7b521ea
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 24
-http://www.blogger.com/video-play.mp4?contentId=5500a83ec9c79fa4
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 25
-http://www.blogger.com/video-play.mp4?contentId=ede154d67a6ca29f
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 26
-http://www.blogger.com/video-play.mp4?contentId=ad4549a78bde873d
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 27
-http://www.blogger.com/video-play.mp4?contentId=81476e3fa164403f
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 28
-http://www.blogger.com/video-play.mp4?contentId=cd41937a73782bce
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 29
-http://www.blogger.com/video-play.mp4?contentId=18c11a817abe23f0
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 30
-http://www.blogger.com/video-play.mp4?contentId=767b70359ca34e75
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 31
-http://www.blogger.com/video-play.mp4?contentId=8035c9d3ebf2e2de
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 32
-http://www.blogger.com/video-play.mp4?contentId=db1612f8b562c464
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 33
-http://www.blogger.com/video-play.mp4?contentId=46cc8acfb15d648a
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 34
-http://www.blogger.com/video-play.mp4?contentId=346de5000b5f0c6e
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 35
-http://www.blogger.com/video-play.mp4?contentId=1342436e1b7af6e4
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 36
-http://www.blogger.com/video-play.mp4?contentId=bcd5145803b492a3
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 37
-http://www.blogger.com/video-play.mp4?contentId=a60b15073d3683e2
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 38
-http://www.blogger.com/video-play.mp4?contentId=db458d4522335c63
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 39
-http://www.blogger.com/video-play.mp4?contentId=48d86d493fb13cc7
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 40
-http://www.blogger.com/video-play.mp4?contentId=34a3f4200af1b184
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 41
-http://www.blogger.com/video-play.mp4?contentId=5508cf423c1e43da
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 42
-http://www.blogger.com/video-play.mp4?contentId=14ae6ebd36e31158
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 43
-http://www.blogger.com/video-play.mp4?contentId=5419b10ef7d0a484
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 44
-http://www.blogger.com/video-play.mp4?contentId=5cbe261bb765b6db
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 45
-http://www.blogger.com/video-play.mp4?contentId=9b631fa7a12dcd68
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 46
-http://www.blogger.com/video-play.mp4?contentId=2e9ce24eaae064e2
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 47
-http://www.blogger.com/video-play.mp4?contentId=ff05b8e2d2b256d9
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 48
-http://www.blogger.com/video-play.mp4?contentId=dca62d5e0842b479
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 49
-http://www.blogger.com/video-play.mp4?contentId=2209a3006defde59
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 50
-http://www.blogger.com/video-play.mp4?contentId=43dcffbe2ba27385
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 51
-http://www.blogger.com/video-play.mp4?contentId=8f4b21fc4a94e13b
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 52
-http://www.blogger.com/video-play.mp4?contentId=e15b865287d2fd8d
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 53
-http://www.blogger.com/video-play.mp4?contentId=100032731ca15b33
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 54
-http://www.blogger.com/video-play.mp4?contentId=62413f6f23db780c
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 55
-http://www.blogger.com/video-play.mp4?contentId=1e3843c08b97d167
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 56
-http://www.blogger.com/video-play.mp4?contentId=cdc037ac6bf87e38
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 57
-http://www.blogger.com/video-play.mp4?contentId=a6722155cd5bbf4b
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 58
-http://www.blogger.com/video-play.mp4?contentId=a26ad8e65bab5c93
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 59
-http://www.blogger.com/video-play.mp4?contentId=16c0f01e36ed71ae
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 60
-http://www.blogger.com/video-play.mp4?contentId=4b0da04321153c1d
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 61
-http://www.blogger.com/video-play.mp4?contentId=2eb78b2e9d821820
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 62
-http://www.blogger.com/video-play.mp4?contentId=88be0fd04b2e3566
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 63
-http://www.blogger.com/video-play.mp4?contentId=2b69b0d81cfb61f6
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 64
-http://www.blogger.com/video-play.mp4?contentId=455d4648553bc775
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 65
-http://www.blogger.com/video-play.mp4?contentId=bc2f04cc192939b8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 66
-http://www.blogger.com/video-play.mp4?contentId=104e98280f641183
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 67
-http://www.blogger.com/video-play.mp4?contentId=2b855988fdfc6697
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 68
-http://www.blogger.com/video-play.mp4?contentId=8780ede2f8d7eb33
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 69
-http://www.blogger.com/video-play.mp4?contentId=74f723bcaf6fd73b
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 70
-http://www.blogger.com/video-play.mp4?contentId=e4cc7cb99451124
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 71
-http://www.blogger.com/video-play.mp4?contentId=3670b82420342899
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 72
-http://www.blogger.com/video-play.mp4?contentId=b79ec06c0d3d6852
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 73
-http://www.blogger.com/video-play.mp4?contentId=fc244daf5da57347
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 74
-http://www.blogger.com/video-play.mp4?contentId=4850548fefb7f4cb
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 75
-http://www.blogger.com/video-play.mp4?contentId=26f1ee71c15990f1
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 76
-http://www.blogger.com/video-play.mp4?contentId=9eecb7e001fd7be3
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 77
-http://www.blogger.com/video-play.mp4?contentId=7205c9f16c65d337
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 78
-http://www.blogger.com/video-play.mp4?contentId=9533d3d3d48e3f8b
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 79
-http://www.blogger.com/video-play.mp4?contentId=8534ee1305bbba77
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 80
-http://www.blogger.com/video-play.mp4?contentId=1ba4c8ac9a35a930
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 81
-http://www.blogger.com/video-play.mp4?contentId=b1fe902408088c26
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 82
-http://www.blogger.com/video-play.mp4?contentId=b05a6387f5e8fcbf
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 83
-http://www.blogger.com/video-play.mp4?contentId=7ac5bac54ce4ceca
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 84
-http://www.blogger.com/video-play.mp4?contentId=58f25808cf40fa52
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 85
-http://www.blogger.com/video-play.mp4?contentId=c9aab439118d16d6
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 86
-http://www.blogger.com/video-play.mp4?contentId=915fb4dee4dce77
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 87
-http://www.blogger.com/video-play.mp4?contentId=8258b2a126913c7f
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 88
-http://www.blogger.com/video-play.mp4?contentId=b55b343ee1abc479
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 89
-http://www.blogger.com/video-play.mp4?contentId=954a0b456dbd6949
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 90
-http://www.blogger.com/video-play.mp4?contentId=b64f47bd369ee402
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 91
-http://www.blogger.com/video-play.mp4?contentId=aff13f8ce50db0b1
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 92
-http://www.blogger.com/video-play.mp4?contentId=fe64648611294389
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 93
-http://www.blogger.com/video-play.mp4?contentId=c84b3b3bc40af354
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 94
-http://www.blogger.com/video-play.mp4?contentId=7e7a3de8b0c2d0a7
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 95
-http://www.blogger.com/video-play.mp4?contentId=736ae9dcc9397fa6
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 96
-http://www.blogger.com/video-play.mp4?contentId=646dfe416be56266
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 97
-http://www.blogger.com/video-play.mp4?contentId=ae855eb87698bee8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 98
-tp://www.blogger.com/video-play.mp4?contentId=4131b46033228826
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 99
-http://www.blogger.com/video-play.mp4?contentId=7dbfc302c848d673
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 101
-http://www.blogger.com/video-play.mp4?contentId=f54a7d332b2869c3
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 102
-http://www.blogger.com/video-play.mp4?contentId=a4a1dfe2487e2b0e
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 103
-http://www.blogger.com/video-play.mp4?contentId=7f6c46f5b6a01860
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 104
-http://www.blogger.com/video-play.mp4?contentId=3a02f3a8ef1bcf8f
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 105
-http://www.blogger.com/video-play.mp4?contentId=94a24cef0d58401d
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 106
-http://www.blogger.com/video-play.mp4?contentId=1931ba22ec8099f9
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 107
-http://www.blogger.com/video-play.mp4?contentId=27194402e9f81dfe
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 108
-http://www.blogger.com/video-play.mp4?contentId=89a0405ab6f8baee
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 109
-http://www.blogger.com/video-play.mp4?contentId=fa3e4ac5f5fb19e3
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 111
-http://www.blogger.com/video-play.mp4?contentId=1cf383841cf14dbf
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 112
-http://www.blogger.com/video-play.mp4?contentId=7fc6a7e48edc7e40
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 113
-http://www.blogger.com/video-play.mp4?contentId=fb231bed622a078e
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 114
-http://www.blogger.com/video-play.mp4?contentId=e2a5fe7ffea3a58b
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 115
-http://www.blogger.com/video-play.mp4?contentId=5313b9891f53ebde
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 116
-http://www.blogger.com/video-play.mp4?contentId=81f51eba40452764
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 117
-http://www.blogger.com/video-play.mp4?contentId=a76ca9662d2763fa
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 118
-http://www.blogger.com/video-play.mp4?contentId=e9a1a3dda03f437e
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 119
-http://www.blogger.com/video-play.mp4?contentId=d8d792d78000780e
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 121
-http://www.blogger.com/video-play.mp4?contentId=97e06d3c660d53f5
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 122
-http://www.blogger.com/video-play.mp4?contentId=95c8acfd8d31f46c
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 123
-http://www.blogger.com/video-play.mp4?contentId=2ae59cdd5425e972
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 124
-http://www.blogger.com/video-play.mp4?contentId=cab6057fa76ce54f
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 125
-http://www.blogger.com/video-play.mp4?contentId=7b1078b11f9529c3
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 126
-http://www.blogger.com/video-play.mp4?contentId=361639d0ab507f27
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 127
-http://www.blogger.com/video-play.mp4?contentId=f2c015424f716c98
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 128
-http://www.blogger.com/video-play.mp4?contentId=8778684a23879f40
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 129
-http://www.blogger.com/video-play.mp4?contentId=fa37b82c8c9246b0
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 130
-http://www.blogger.com/video-play.mp4?contentId=b0c711db0f4b1199
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 131
-http://www.blogger.com/video-play.mp4?contentId=4484e8b53164f019
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",1Episódio 132
-http://www.blogger.com/video-play.mp4?contentId=2cafb8c7d6c297bd
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",1Episódio 133
-http://www.blogger.com/video-play.mp4?contentId=a6525561782ea4bd
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",1Episódio 134
-http://www.blogger.com/video-play.mp4?contentId=7ebfde94e43944c8
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",1Episódio 135
-http://www.blogger.com/video-play.mp4?contentId=bd1e656be92de9ea
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",1Episódio 136
-http://www.blogger.com/video-play.mp4?contentId=9853c2afd138aaad
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",1Episódio 137
-http://www.blogger.com/video-play.mp4?contentId=6c21e2d9937e132c
-
-#EXTINF:-1 tvg-id="G" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",1Episódio 138
-http://www.blogger.com/video-play.mp4?contentId=281601b1ffc1b82a
-#EXTINF:-1 tvg-id="G" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 139
-http://www.blogger.com/video-play.mp4?contentId=bec3a19900aa85b3
-
-#EXTINF:-1 tvg-id="G" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",1Episódio 140
-ttp://www.blogger.com/video-play.mp4?contentId=b46c6fb287258153
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 141
-http://www.blogger.com/video-play.mp4?contentId=d2446fc611f22c19
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 142
-http://www.blogger.com/video-play.mp4?contentId=f2a99b75d822c421
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 143
-http://www.blogger.com/video-play.mp4?contentId=7e6a7f52f8737cce
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 144
-http://www.blogger.com/video-play.mp4?contentId=d717163ebeed5fbb
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 145
-http://www.blogger.com/video-play.mp4?contentId=3be0f465222836ff
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 146
-http://www.blogger.com/video-play.mp4?contentId=2efd5d33fa6c0f6a
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 147
-http://www.blogger.com/video-play.mp4?contentId=7de7e00dce536405
-
-#EXTINF:-1 tvg-id="G" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 148
-http://www.blogger.com/video-play.mp4?contentId=5566a0e9db9581b5
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos"Episódio 149
-http://www.blogger.com/video-play.mp4?contentId=e69346fcf1f1710b
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos"Episódio 150
-http://www.blogger.com/video-play.mp4?contentId=6300ce7a781538d7
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos"Episódio 151
-http://www.blogger.com/video-play.mp4?contentId=6662f4b1276d6227
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos"Episódio 152
-http://www.blogger.com/video-play.mp4?contentId=cbb7f8a14fbdf8db
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 153
-http://www.blogger.com/video-play.mp4?contentId=7b72b0fecfd6b9b4"
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 154
-http://www.blogger.com/video-play.mp4?contentId=e7c303e43902378a
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 155
-http://www.blogger.com/video-play.mp4?contentId=c070f4f4350d285d
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 156
-http://www.blogger.com/video-play.mp4?contentId=4563e35aefea5c3a
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 157
-http://www.blogger.com/video-play.mp4?contentId=2dd16a96a13abf77
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 158
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 159
-http://www.blogger.com/video-play.mp4?contentId=495636c86b7cd4d8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 160
-http://www.blogger.com/video-play.mp4?contentId=a954a89ad2219d2b
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 161
-http://www.blogger.com/video-play.mp4?contentId=ff9ecd47ee1c3e88
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 162
-http://www.blogger.com/video-play.mp4?contentId=342efa5ae0de8c6f
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 163
-http://www.blogger.com/video-play.mp4?contentId=b0325873995f8648
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 165
-http://www.blogger.com/video-play.mp4?contentId=940c8d245ddc977
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 166
-http://www.blogger.com/video-play.mp4?contentId=aa31d239dbc5db38
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 167
-http://www.blogger.com/video-play.mp4?contentId=a2c122e210083efa
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 168
-http://www.blogger.com/video-play.mp4?contentId=aadb9780fee9de5c
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 169
-http://www.blogger.com/video-play.mp4?contentId=19f9f1be22e52388
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 170
-http://www.blogger.com/video-play.mp4?contentId=b13fdfe97bd05dcd
-
-
-#EXTINF:-1 tvg-logo="https://goo.gl/s1gLYQ" group-title="DESENHOS",Uma Lula no Teatro – Episódio 01 
-http://www.blogger.com/video-play.mp4?contentId=7feae4439228d587
-
-#EXTINF:-1 tvg-logo="https://goo.gl/s1gLYQ" group-title="DESENHOS",Uma Lula em Orbita – Episódio 02 
-http://www.blogger.com/video-play.mp4?contentId=e1648eb5186e3edd
-
-#EXTINF:-1 tvg-logo="https://goo.gl/s1gLYQ" group-title="DESENHOS",Uma Lula Lelé na Lona – Episódio 03 
-http://www.blogger.com/video-play.mp4?contentId=98dadd6533ff365
-
-#EXTINF:-1 tvg-logo="https://goo.gl/s1gLYQ" group-title="DESENHOS",A Lula Lelé em Cuidado com os Nervos – Episódio 04 
-http://www.blogger.com/video-play.mp4?contentId=d32783f28c2168a3
-
-#EXTINF:-1 tvg-logo="https://goo.gl/s1gLYQ" group-title="DESENHOS",Lula Lelé – Dublado – Episódio 05 
-http://www.blogger.com/video-play.mp4?contentId=fc78ee8aadc488c2
-
-#EXTINF:-1 tvg-logo="https://goo.gl/s1gLYQ" group-title="DESENHOS",Lula Lelé em é uma Água – Episódio 06 
-http://www.blogger.com/video-play.mp4?contentId=f369da293d86cd90
-
-#EXTINF:-1 tvg-logo="https://goo.gl/s1gLYQ" group-title="DESENHOS",Lula Lelé em o Capitão em Confusão – Episódio 07 
-http://www.blogger.com/video-play.mp4?contentId=68933753fc880d6b
-
-#EXTINF:-1 tvg-logo="https://goo.gl/s1gLYQ" group-title="DESENHOS",Lula Lelé aos troncos e barrancos – Episódio 08 
-http://www.blogger.com/video-play.mp4?contentId=9cded4be92b9adfa
-
-#EXTINF:-1 tvg-logo="https://goo.gl/s1gLYQ" group-title="DESENHOS",Lula Lelé em problema duplo – Episódio 09 
-http://www.blogger.com/video-play.mp4?contentId=2ddeae280b22fafe
-
-#EXTINF:-1 tvg-logo="https://goo.gl/s1gLYQ" group-title="DESENHOS",Lula Lelé em mais que complicação – Episódio 10 
-http://www.blogger.com/video-play.mp4?contentId=f650e372facb51d
-
-#EXTINF:-1 tvg-logo="https://goo.gl/s1gLYQ" group-title="DESENHOS",Lula Lelé em que monstuosidade – Episódio 11 
-http://www.blogger.com/video-play.mp4?contentId=1a539ee483f627a9
-
-#EXTINF:-1 tvg-logo="https://goo.gl/s1gLYQ" group-title="DESENHOS",Lula Lelé – Dublado – Episódio 12 
-http://www.blogger.com/video-play.mp4?contentId=e5d771b2188065e5
-
-#EXTINF:-1 tvg-logo="https://goo.gl/s1gLYQ" group-title="DESENHOS",Lula Lelé – Dublado – Episódio 13 
-http://www.blogger.com/video-play.mp4?contentId=b64262fad69ac3bc
-
-#EXTINF:-1 tvg-logo="https://goo.gl/s1gLYQ" group-title="DESENHOS",Lula Lelé em uma babá de amargar – Episódio 14 
-http://www.blogger.com/video-play.mp4?contentId=a95ea01d81d6925a
-
-#EXTINF:-1 tvg-logo="https://goo.gl/s1gLYQ" group-title="DESENHOS",Lula Lelé em astronaulta biruta– Dublado – Episódio 15 
-http://www.blogger.com/video-play.mp4?contentId=c57e4012d4c81929
-
-#EXTINF:-1 tvg-logo="https://goo.gl/s1gLYQ" group-title="DESENHOS",Lula Lelé em as volta com fantasma – Episódio 16 
-http://www.blogger.com/video-play.mp4?contentId=9c8400c72067566b
-
-#EXTINF:-1 tvg-logo="https://goo.gl/s1gLYQ" group-title="DESENHOS",Lula Lelé em O caso de sorte – Episódio 17 
-http://www.blogger.com/video-play.mp4?contentId=c50f5867ad0f1b75
-
-#EXTINF:-1 tvg-logo="https://goo.gl/s1gLYQ" group-title="DESENHOS",Lula Lelé em Fofoca com a Foca – Episódio 18
-http://www.blogger.com/video-play.mp4?contentId=729e432186167e3e
-
-#EXTINF:-1 tvg-logo="https://goo.gl/s1gLYQ" group-title="DESENHOS",Lula Lelé em Assim é de Mais – Episódio 19
-http://www.blogger.com/video-play.mp4?contentId=28671d7ddbef8d8c
-
-#EXTINF:-1 tvg-logo="https://goo.gl/s1gLYQ" group-title="DESENHOS",Lula Lelé em terra do cinema– Dublado – Episódio 20
-http://www.blogger.com/video-play.mp4?contentId=43de51ade8fac670
-
-#EXTINF:-1 tvg-logo="https://goo.gl/s1gLYQ" group-title="DESENHOS",Lula Lelé em o Cavalheiro Negro – Episódio 21
-http://www.blogger.com/video-play.mp4?contentId=6b0f68c5376974a9
-
-#EXTINF:-1 tvg-logo="https://goo.gl/s1gLYQ" group-title="DESENHOS",Lula Lelé em Cashorrada Marinha – Episódio 22
-http://www.blogger.com/video-play.mp4?contentId=797dfa9d896d3601
-
-#EXTINF:-1 tvg-logo="https://goo.gl/s1gLYQ" group-title="DESENHOS",Lula Lelé em Peixe de Araque – Episódio 23 
-http://www.blogger.com/video-play.mp4?contentId=213ea192d83e4dad
-
-#EXTINF:-1 tvg-logo="https://goo.gl/s1gLYQ" group-title="DESENHOS",Lula Lelé – Dublado – Episódio 24
-http://www.blogger.com/video-play.mp4?contentId=dc2ad1c94471bcc0
-
-#EXTINF:-1 tvg-logo="https://goo.gl/s1gLYQ" group-title="DESENHOS",
-Lula Lelé – Dublado – Episódio 25 
-#EXTINF:-1 tvg-logo="https://goo.gl/s1gLYQ" group-title="DESENHOS",
-Lula Lelé – Dublado – Episódio 26 
-
-
-
-#############################      DESENHOS         ###################     A Formiga Atómica
-
-#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="A Formiga Atómica",01 Lá Vai A Triônica
-http://www.blogger.com/video-play.mp4?contentId=f4582bd401b4e0d3
-
-#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="A Formiga Atómica",02 O Monstro De Crankenshaft
-http://www.blogger.com/video-play.mp4?contentId=e3444b5f65f52a16
-
-#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="A Formiga Atómica",03 Uma Formiga De Briga
-http://www.blogger.com/video-play.mp4?contentId=dbef9ed736e62483
-
-#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="A Formiga Atómica",04 A Pulga Feroz
-http://www.blogger.com/video-play.mp4?contentId=114d8949c97b2569
-
-#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="A Formiga Atómica,05 O Robô Errante
-http://www.blogger.com/video-play.mp4?contentId=721fc439e00c29e0
-
-#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="A Formiga Atómica",06 Quem É O Trouxa
-http://www.blogger.com/video-play.mp4?contentId=9540f21f57138ac5
-
-#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="A Formiga Atómica",07 A Formiga Atômica E O Karatê
-http://www.blogger.com/video-play.mp4?contentId=44244696538e4428
-
-#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="A Formiga Atómica",08 A Formiga Mais Rápida Do Oeste
-http://www.blogger.com/video-play.mp4?contentId=64dbee808682e2e4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="A Formiga Atómica",09 Identidades Trocadas
-http://www.blogger.com/video-play.mp4?contentId=64d1a132cace6f31
-
-#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="A Formiga Atómica",10 Perigo É Comigo
-http://www.blogger.com/video-play.mp4?contentId=b50949f2842e6503
-
-#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="A Formiga Atómica",11 Golpe De Mestre
-http://www.blogger.com/video-play.mp4?contentId=9b32e027fe069333
-
-#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="A Formiga Atómica",12 Se Precisar é Só Chamar!
-http://www.blogger.com/video-play.mp4?contentId=d26f2485552e4f34
-
-#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="A Formiga Atómica",13 Com Toda A Força
-http://www.blogger.com/video-play.mp4?contentId=567a6953b84eeaee
-
-#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="A Formiga Atómica",14 Formigas Selvagens
-http://www.blogger.com/video-play.mp4?contentId=1b062320072ce548
-
-#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="A Formiga Atómica",15 Em Defesa Da Lei
-http://www.blogger.com/video-play.mp4?contentId=9da433147f6f6c6
-
-#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="A Formiga Atómica",16 O Caso Do Parque De Diversões
-http://www.blogger.com/video-play.mp4?contentId=9da433147f6f6c6
-
-#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="A Formiga Atómica",17 Tamanho Não é Documento
-http://www.blogger.com/video-play.mp4?contentId=38a70d582ba81de1
-
-#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="A Formiga Atómica",18 Deixe Esse Cupim Prá Mim
-http://www.blogger.com/video-play.mp4?contentId=18a147d4fdbe7029
-
-#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="A Formiga Atómica",19 A Regra Do Jogo
-http://www.blogger.com/video-play.mp4?contentId=5bfdd79a8b7c92c3
-
-#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="A Formiga Atómica",20 – Rumo Ao Oeste
-http://www.blogger.com/video-play.mp4?contentId=1c539bed6ad4bd51
-
-#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="A Formiga Atómica",21 – Que Formiga Valente!
-http://www.blogger.com/video-play.mp4?contentId=3d1db4fbeb8c6668
-
-#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="A Formiga Atómica",22 – Dando Sopa
-http://www.blogger.com/video-play.mp4?contentId=c570a9b61d816a57
-
-#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="A Formiga Atómica",23 – Tudo Pelos Ares
-http://www.blogger.com/video-play.mp4?contentId=8bd573cbd3136cf2
-
-#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="A Formiga Atómica",24 Me Aparece Cada Uma!
-http://www.blogger.com/video-play.mp4?contentId=1a1ecdedfa718df5
-
-#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="A Formiga Atómica",25 O Gorila Matador
-http://www.blogger.com/video-play.mp4?contentId=c828d47c442419d8
-
-#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="A Formiga Atómica",26 A Mim Você Não Assusta
-http://www.blogger.com/video-play.mp4?contentId=97d2c912aa085d2b
-
-##################################################       DESENHOS        ############     A Turma do Manda Chuva   
-
-#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 01 – Havaí: A Turma Vem Aí
-http://www.blogger.com/video-play.mp4?contentId=804e7072191f1a6a
-
-#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 02 – O Opulento Marajá
-http://www.blogger.com/video-play.mp4?contentId=7c5210971b472c5f
-
-#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 03 – Jazz Infernal
-http://www.blogger.com/video-play.mp4?contentId=9a0650ea0dc572e
-
-#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 04 – Corridas E Correrias
-http://www.blogger.com/video-play.mp4?contentId=514679fdaf94418a
-
-#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 05 – Arranhador De Violinos
-http://www.blogger.com/video-play.mp4?contentId=3238cb636b38c479
-
-#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS"DESENHOS",A Turma do Manda Chuva – Episódio 06 – Testamento De Um Excêntrico
-http://www.blogger.com/video-play.mp4?contentId=26b0ab4b44815a54
-
-#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 07 – Amor A Quando Me Levas
-http://www.blogger.com/video-play.mp4?contentId=6e5b386534e6557
-
-#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 08 – Meu Filho, Meu Orgulho
-http://www.blogger.com/video-play.mp4?contentId=a0e7d4d9c95e4a45
-
-#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 09 – Um Filme Realista
-http://www.blogger.com/video-play.mp4?contentId=4cd2c8ac801aba02
-
-#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 10 – Que Rei Sou Eu?
-http://www.blogger.com/video-play.mp4?contentId=a2049c69224429ff
-
-#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 11 – Quando O Coração Dispara
-http://www.blogger.com/video-play.mp4?contentId=c952acbdaf4f5063
-
-#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 12 – Um Diamante A Todo Preço
-http://www.blogger.com/video-play.mp4?contentId=f1eaae05552254f8
-
-#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 13 – Um Presente Passado
-http://www.blogger.com/video-play.mp4?contentId=b6faf156f021f690
-
-#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 14 – Cheque Mate
-http://www.blogger.com/video-play.mp4?contentId=c686819bdc3b3747
-
-#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 15 – Inverno Um Tanto Quente
-http://www.blogger.com/video-play.mp4?contentId=9a8e4cef046fe709
-
-#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 16 – Um Menor Entre Os Maiores
-http://www.blogger.com/video-play.mp4?contentId=fc615d133b16f7d9
-
-#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 17 – A Mascote Do Convescote
-http://www.blogger.com/video-play.mp4?contentId=d0bcab20ac5c0677
-
-#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 18 – Reformadores Conservadores
-http://www.blogger.com/video-play.mp4?contentId=9c06b316345f4451
-
-#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 19 – Turistas E Vigaristas
-http://www.blogger.com/video-play.mp4?contentId=8bca6b03e8a9bdd2
-
-#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 20 – Arte E Artes
-http://www.blogger.com/video-play.mp4?contentId=8bca6b03e8a9bdd2
-
-#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 21 – O Involuntário Do Espaço
-http://www.blogger.com/video-play.mp4?contentId=65358885a62fdca6
-
-#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 22 – O Finado Manda-Chuva
-http://www.blogger.com/video-play.mp4?contentId=6bfe59cd6b22cfca
-
-#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 23 – Parabéns Para Você
-http://www.blogger.com/video-play.mp4?contentId=88b7f882cbc46dc1
-
-#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 24 – Alguém Está Caduco
-http://www.blogger.com/video-play.mp4?contentId=441b2f93367ef775
-
-#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 25 – Rei Por Um Dia
-http://www.blogger.com/video-play.mp4?contentId=f1f455beb0733e39
-
-#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 26 – O Sentenciado
-http://www.blogger.com/video-play.mp4?contentId=8627c00ba445a69e
-
-#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 27 – Batendo O Record
-http://www.blogger.com/video-play.mp4?contentId=297f91927a7cf34a
-
-#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva - Episódio 28 – Contando Vantagem
-http://www.blogger.com/video-play.mp4?contentId=c4cdcacbd94a6cd
-
-#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 29 – Turma Atrapalhada
-http://www.blogger.com/video-play.mp4?contentId=40e423b740033a6c
-
-#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 30 – Eu E O Outro
-http://www.blogger.com/video-play.mp4?contentId=713a1371319401fe
-
-######################################       DESENHOS        ################    A Pantera Cor-de-Rosa
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 01 – A Pantera Pinta o Sete 
-http://www.blogger.com/video-play.mp4?contentId=d5b9a3206dc0822c
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",02 – A Pantera de Pijama 
-http://www.blogger.com/video-play.mp4?contentId=f30a7d608cdc0b6b
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",03 – Pantera na Loja de Departamento 
-http://www.blogger.com/video-play.mp4?contentId=a545ea16e77013e0
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",04 – Disque “P” para Pantera
-http://www.blogger.com/video-play.mp4?contentId=182a23021c7c6a15 
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",05 – A Arca da Pantera Cor-de-rosa 
-http://www.blogger.com/video-play.mp4?contentId=429556756acc150e
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",06 – A Pantera e o Bêbado 
-http://www.blogger.com/video-play.mp4?contentId=9a9815bf123f080c
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",07 – Agente Secreto Cor-de-rosa 
-http://www.blogger.com/video-play.mp4?contentId=7786c066bce2f769
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",08 – Pantera em Choque 
-http://www.blogger.com/video-play.mp4?contentId=fc5dbedb9e424d22
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",09 – Diamantes da Pantera 
-http://www.blogger.com/video-play.mp4?contentId=ee6f55bf0923a949
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",10 – A Pantera e a Mosca 
-http://www.blogger.com/video-play.mp4?contentId=7e2d3da3ab400f0
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",11 – Guerra de Vizinhos 
-http://www.blogger.com/video-play.mp4?contentId=b4ffc0655e26b8d2
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",12 – A Balança que Falava Demais 
-http://www.blogger.com/video-play.mp4?contentId=813dbfcb4ba3184c
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",13 – Pantera Pescando 
-http://www.blogger.com/video-play.mp4?contentId=a30748a3d88407b3
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",14 – O Toureiro Cor-de-rosa 
-http://www.blogger.com/video-play.mp4?contentId=77aae555759e940a
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",15 – Ponche Cor-de-rosa 
-http://www.blogger.com/video-play.mp4?contentId=5ebb06ec7ac267fa
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",16 – Pink Pistons 
-http://www.blogger.com/video-play.mp4?contentId=83505f57b106e5a5
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",17 – Vitamina Cor-de-rosa 
-http://www.blogger.com/video-play.mp4?contentId=8f314828f6d7a94e
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",18 – A Casa da Pantera 
-http://www.blogger.com/video-play.mp4?contentId=e490cc21d4cef530
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",19 – O Concerto da Pantera 
-http://www.blogger.com/video-play.mp4?contentId=d47bc55caf559267
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",20 – Sorria Pantera 
-http://www.blogger.com/video-play.mp4?contentId=f34c5119553e53e5
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",21 – A Pantera e o Rato 
-http://www.blogger.com/video-play.mp4?contentId=859a08af989e06d6
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",22 – Seja um Gênio Você Também 
-http://www.blogger.com/video-play.mp4?contentId=5eb692054c0bfea
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",23 – Super Pantera 
-http://www.blogger.com/video-play.mp4?contentId=fe8e2ff122b6c008
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",24 – Bons Sonhos Pantera 
-http://www.blogger.com/video-play.mp4?contentId=249a1b67a0cd4bcd
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 25 – Que Fria
-http://www.blogger.com/video-play.mp4?contentId=7a7578eacbe53a61 
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",26 – Pantera em Pânico 
-http://www.blogger.com/video-play.mp4?contentId=ae05b9816a5a3340
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",27 – Pantera Jardineira 
-http://www.blogger.com/video-play.mp4?contentId=fa59465a202f23f9
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",28 – Sujeira Cor-de-rosa 
-http://www.blogger.com/video-play.mp4?contentId=db2f98501b999c20
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",29 – Pantera em Forma 
-http://www.blogger.com/video-play.mp4?contentId=db2f98501b999c20
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",30 – Jato Pantera 
-http://www.blogger.com/video-play.mp4?contentId=4472a16199e6adda
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",31 – Paraíso Cor-de-rosa 
-http://www.blogger.com/video-play.mp4?contentId=490c0db220b02cf9
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",32 – O Carona 
-http://www.blogger.com/video-play.mp4?contentId=7484a2fd8b149927
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",33 – Parabéns É Cor-de-rosa 
-http://www.blogger.com/video-play.mp4?contentId=7484a2fd8b149927
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",34 – Pantera Pré-fabricada 
-http://www.blogger.com/video-play.mp4?contentId=c188d76e6fc05b57
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",35 – A Mão é Mais Rápida Que o Olho 
-http://www.blogger.com/video-play.mp4?contentId=5fedf361fec608c9
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",36 – Vida Cor-de-rosa 
-http://www.blogger.com/video-play.mp4?contentId=e265586909ca5a5a
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",37 – Pantera nos Céus 
-http://www.blogger.com/video-play.mp4?contentId=d3f0aabfc849452b
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",38 – O Melhor Amigo 
-http://www.blogger.com/video-play.mp4?contentId=93f2f43d9610c171
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",39 – Pantera Psicodélica 
-http://www.blogger.com/video-play.mp4?contentId=7ae9511ddb0cde11
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",40 – Pantera Cor-de-rosa na Praia 
-http://www.blogger.com/video-play.mp4?contentId=37e2b336cb3ed2a1
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",41 – Pantera Fora-da-lei
-http://www.blogger.com/video-play.mp4?contentId=781a13370b8f10e7 
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",42 – Patente Cor-de-rosa 
-http://www.blogger.com/video-play.mp4?contentId=b1d37f78c1118100
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",43 – Sorte Não Se Joga Fora 
-http://www.blogger.com/video-play.mp4?contentId=6498dd0d71b893f0
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",44 – Tudo Por Tão Pouco
-http://www.blogger.com/video-play.mp4?contentId=7b295f790658972c
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",45 – Astrônomo Lunático 
-http://www.blogger.com/video-play.mp4?contentId=45c28db93ea4b3b6
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",46 – Valente Pantera 
-http://www.blogger.com/video-play.mp4?contentId=380f57f2fa7150c6
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",47 – Pantera em Tratamento 
-http://www.blogger.com/video-play.mp4?contentId=e38aa323b4bbcc62
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",48 – Pantera Pré-histórica 
-http://www.blogger.com/video-play.mp4?contentId=cb56f73d5f39af86
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",49 – A Pantera na Cadeia 
-http://www.blogger.com/video-play.mp4?contentId=cd0cae41fed94e01
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",50 – Disputa de Terras 
-http://www.blogger.com/video-play.mp4?contentId=573cc0c7fcc4f984
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",51 – Desejos de Pantera 
-http://www.blogger.com/video-play.mp4?contentId=7844c7aab128eaab
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",52 – Pantera no Deserto 
-http://www.blogger.com/video-play.mp4?contentId=ee1b039545b3592
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",53 – Pantera Lenhadora 
-http://www.blogger.com/video-play.mp4?contentId=17c3764a617ea299
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",54 – Entrega Especial da Pantera 
-http://www.blogger.com/video-play.mp4?contentId=d83608db013d7c15
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",55 – A Pantera e os Impostos
-http://www.blogger.com/video-play.mp4?contentId=24f62d1c28d786d6 
-
-#EXTINF:-1 
-tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",56 – Cinderela Cor-de-rosa
-http://www.blogger.com/video-play.mp4?contentId=ab23dfb7a7ab2a77 
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",57 – Controle de Pragas 
-http://www.blogger.com/video-play.mp4?contentId=7ba546a3b99600c6
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",58 – Pense Duas Vezes Antes 
-http://www.blogger.com/video-play.mp4?contentId=c3b76f6e2b253840
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",59 – Pantera numa Fria 
-http://www.blogger.com/video-play.mp4?contentId=d06d05d434dbd9e4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",60 – A Noite da Pantera 
-http://www.blogger.com/video-play.mp4?contentId=3d95115e5f765685
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",61 – Milharal da Pantera 
-http://www.blogger.com/video-play.mp4?contentId=f4756c5662b96a45
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",62 – Pantera em Extinção 
-http://www.blogger.com/video-play.mp4?contentId=9c70f6eb43b3d462
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",63 – Uma Mosca na Minha Casa 
-http://www.blogger.com/video-play.mp4?contentId=b5504c0ece6915f3
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",64 – Pantera Desastrada 
-http://www.blogger.com/video-play.mp4?contentId=a15522539182f500
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",65 – Pantera e a Música 
-http://www.blogger.com/video-play.mp4?contentId=83ffee48e5e03f6d
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",66 – Travessura Cor-de-rosa 
-http://www.blogger.com/video-play.mp4?contentId=9e7ce02e3ebe0c5b
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",67 – Pantera com Pulga 
-http://www.blogger.com/video-play.mp4?contentId=87e05acafe46dd62
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",68 – O Furo da Pantera 
-http://www.blogger.com/video-play.mp4?contentId=4366990b62a6415c
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",69 – A Pantera e o Gongo 
-http://www.blogger.com/video-play.mp4?contentId=6df3f8c5ed6cff5e
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",70 – Memórias da Pantera 
-http://www.blogger.com/video-play.mp4?contentId=16d2dc438fc28b92
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",71 – Pink 8-Ball 
-http://www.blogger.com/video-play.mp4?contentId=6e89a6c4042206bb
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",72 – Pantera em Alto Mar 
-http://www.blogger.com/video-play.mp4?contentId=155c56e30c070ad0
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",73 – Pantera em Defesa das Peles 
-http://www.blogger.com/video-play.mp4?contentId=aee9548f01c65b11
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",74 – Pantera Da Vinci 
-http://www.blogger.com/video-play.mp4?contentId=98e5ddd1d0162d85
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",75 – Instrutor Cor-de-rosa 
-http://www.blogger.com/video-play.mp4?contentId=1df5989eca1bd57f
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",76 – Salmão cor-de-rosa 
-http://www.blogger.com/video-play.mp4?contentId=8908df0eb1290541
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",77 – Um Quarto Para a Pantera 
-http://www.blogger.com/video-play.mp4?contentId=b011db3243565439
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",78 – Pantera na Transilvânia 
-http://www.blogger.com/video-play.mp4?contentId=d59db65236dd94d2
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",79 – Elefante Cor-de-rosa
-http://www.blogger.com/video-play.mp4?contentId=f371c5490eb3c8df 
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",80 – Mantendo Nossas Florestas Cor-de-rosa 
-http://www.blogger.com/video-play.mp4?contentId=56ca8b4500341085
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",81 – Aprenda a Voar com a Pantera 
-http://www.blogger.com/video-play.mp4?contentId=9c7077a700537ae9
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",82 – A Moda é Cor-de-rosa 
-http://www.blogger.com/video-play.mp4?contentId=eb75f5085cd5b10
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",83 – A Vingança da Pantera 
-http://www.blogger.com/video-play.mp4?contentId=4182b3f9450edbb8
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",84 – Aventura Cor-de-rosa 
-http://www.blogger.com/video-play.mp4?contentId=2568f4f25b616f4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",85 – Pantera Mística
-http://www.blogger.com/video-play.mp4?contentId=b3fab53f3f9da248 
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",86 – Pantera de Arabee 
-http://www.blogger.com/video-play.mp4?contentId=d74d983856874a31
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",87 – Pantera Profissional 
-http://www.blogger.com/video-play.mp4?contentId=adf01ba824c2b160
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",88 – Flautista Cor-de-rosa 
-http://www.blogger.com/video-play.mp4?contentId=7350c8c85328a221
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",89 – Rascunho Cor-de-rosa 
-http://www.blogger.com/video-play.mp4?contentId=70d399233be62c57
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",90 – Sherlock Cor-de-rosa Rosa 
-http://www.blogger.com/video-play.mp4?contentId=763a5a9b69ef3c18
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",91 – Rocky Pantera 
-http://www.blogger.com/video-play.mp4?contentId=d4b7379525af6be6
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",92 – Terapia cor-de-rosa 
-http://www.blogger.com/video-play.mp4?contentId=389028e61e9e717d
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",93 – Fotos Cor-de-rosa 
-http://www.blogger.com/video-play.mp4?contentId=9494aed5f4a0be6
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",94 – Fliperama Cor-de-rosa 
-http://www.blogger.com/video-play.mp4?contentId=c7fa8ee94b1c340b
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",95 – Brinquedo Cor-de-rosa
-http://www.blogger.com/video-play.mp4?contentId=38dd4e5a6b348f41 
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",96 – Trompete Cor-de-rosa 
-http://www.blogger.com/video-play.mp4?contentId=d432d708dd9f5b71
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",97 – Pantera Chuvosa 
-http://www.blogger.com/video-play.mp4?contentId=b1e9f869ca10cd73
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",98 – Pantera Dietética 
-http://www.blogger.com/video-play.mp4?contentId=4ab8b4ed1eb20728
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",99 – Objeto Voador Cor-de-rosa 
-http://www.blogger.com/video-play.mp4?contentId=4c54f2186f251845
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",100 – A Pantera e o Carro Monstro 
-http://www.blogger.com/video-play.mp4?contentId=927c2233f379241f
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",101 – A Pantera e o Pé de Feijão 
-http://www.blogger.com/video-play.mp4?contentId=50ad08879b8a1ae6
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",102 – Papai Pantera 
-http://www.blogger.com/video-play.mp4?contentId=cd2b79deff2de239
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",103 – O Maior Inimigo da Pantera 
-http://www.blogger.com/video-play.mp4?contentId=ce309ca790b81fd0
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",104 – O Tesouro Escondido da Pantera
-http://www.blogger.com/video-play.mp4?contentId=7ae7e3c1c2b7d128 
-#EXTINF:-1 
-tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",105 – Panterologista 
-http://www.blogger.com/video-play.mp4?contentId=ac7b6bb7b04d56b8
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",106 – A Pantera e os Casacos Vermelhos 
-http://www.blogger.com/video-play.mp4?contentId=f369485f9491bbc3
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",107 – Pantera Jornalista 
-http://www.blogger.com/video-play.mp4?contentId=7acac00a55aee364
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",108 – Amiguinho da Pantera 
-http://www.blogger.com/video-play.mp4?contentId=305aeddc76aeeb98
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",109 – A Pantera de Bagdad 
-http://www.blogger.com/video-play.mp4?contentId=1e74961da2be5ad
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",110 – A Pantera e o Pirata 
-http://www.blogger.com/video-play.mp4?contentId=6fc550c1b5532b2e
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",111 – Pantera das Selvas
-http://www.blogger.com/video-play.mp4?contentId=9023f0d86022f760 
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",112 – A Cauda da Pantera
-http://www.blogger.com/video-play.mp4?contentId=2a031e2a7aaad2e8 
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",113 – O Sono da Pantera 
-http://www.blogger.com/video-play.mp4?contentId=2144ef589763da21
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",114 – Pantera nas Estrelas 
-"http://www.blogger.com/video-play.mp4?contentId=676dc8be91540001
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",115 – O Café da Manhã da Pantera 
-http://www.blogger.com/video-play.mp4?contentId=52fb42d41ba41b19
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",116 – Toureiro Cor-de-rosa 
-http://www.blogger.com/video-play.mp4?contentId=7019b9a55dbad2c6
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",117 – Pato Cor-de-rosa 
-http://www.blogger.com/video-play.mp4?contentId=b124da41c7bf2d02
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",118 – Seguindo o Fio 
-http://www.blogger.com/video-play.mp4?contentId=c62606e7a081c71
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",119 – Pantera na Floresta 
-http://www.blogger.com/video-play.mp4?contentId=7cbb6c9f81c57598
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",120 – Pantera Magnética 
-http://www.blogger.com/video-play.mp4?contentId=16a4afa6c9870583
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",121 – A Pantera, a Vela e o Cachorro 
-http://www.blogger.com/video-play.mp4?contentId=d6766c31cd0495f
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",122 – Doutor Cor-de-rosa 
-http://www.blogger.com/video-play.mp4?contentId=ae4dcd5f8f36dedb
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",123 – Pantera na Lavanderia 
-http://www.blogger.com/video-play.mp4?contentId=e3739c7770465db7
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",124 – Supermercado Cor-de-rosa
-http://www.blogger.com/video-play.mp4?contentId=795ca525cb2c5af6 
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",125 – A Pantera Cor-de-rosa 
-http://www.blogger.com/video-play.mp4?contentId=d6bda98938d2f467
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",126 – Um Tiro no Escuro 
-http://www.blogger.com/video-play.mp4?contentId=17e369e720166591
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",127 – A Nova Transa da Pantera Cor-de-rosa 
-http://www.blogger.com/video-play.mp4?contentId=d1d31e821824c492
-
-#EXTINF:-1 
-tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",128 – A Vingança da Pantera Cor-de-rosa 
-http://www.blogger.com/video-play.mp4?contentId=7ccd88b51e4800b
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",129 – A Trilha da Pantera Cor-de-rosa
-http://www.blogger.com/video-play.mp4?contentId=a7a811071ca3ee8
-
-#####################################     DESENHOS     ####################     Bacamarte e Chumbinho ##################################
-
-#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 01 – Comendo Chumbo 
-http://www.blogger.com/video-play.mp4?contentId=48f983d20554e79d
-
-#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 02 – Que Mágica Besta 
-http://www.blogger.com/video-play.mp4?contentId=7a8a533c9a699c6
-
-#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 03 – A Corneta Mágica 
-http://www.blogger.com/video-play.mp4?contentId=a6b8a0e0e20ff9d5
-
-#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 04 – Instinto Selvagem 
-http://www.blogger.com/video-play.mp4?contentId=f8821f175478b14b
-
-#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 05 – Um Leão Está A Solta 
-http://www.blogger.com/video-play.mp4?contentId=1aa71898ace1bb38
-
-#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 06 – Vamos Brincar De Guerra? 
-http://www.blogger.com/video-play.mp4?contentId=db6fbe38e855e5d
-
-#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 07 – Vendo, Mas Não Acreditando 
-http://www.blogger.com/video-play.mp4?contentId=2fdca51fe76059ec
-
-#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 08 – O Incentivo 
-http://www.blogger.com/video-play.mp4?contentId=54f28ffe8b229191
-
-#EXTINF:-1 
-tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 09 – A Faca De Dois Gumes 
-http://www.blogger.com/video-play.mp4?contentId=9fffa4b7b6948646
-
-#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 11 – O Dia Do Pugilato 
-http://www.blogger.com/video-play.mp4?contentId=f32247a4c0f9b173
-
-#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 12 – O Pula-Pula 
-http://www.blogger.com/video-play.mp4?contentId=83c474defd658d45
-
-#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 13 – Agora é O Urso 
-http://www.blogger.com/video-play.mp4?contentId=42ca1bc072b4f9da
-
-#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 14 – A Lenda De Bat Raterson 
-http://www.blogger.com/video-play.mp4?contentId=b6fa5b6df9532b3a
-
-#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 15 – Super Drooper 
-http://www.blogger.com/video-play.mp4?contentId=115fe657efd93f03
-
-#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 16 – A Pílula Da Força 
-http://www.blogger.com/video-play.mp4?contentId=6bfbae9b50c39196
-
-#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 18 – Sociedade Protetora Dos Ratos 
-http://www.blogger.com/video-play.mp4?contentId=a05f1a8827331299
-
-#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 19 – Fantasma De Araque 
-http://www.blogger.com/video-play.mp4?contentId=1d01d9f65da60002
-
-#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 20 – Sua Majestate O Rato 
-http://www.blogger.com/video-play.mp4?contentId=934153d302a2afeb
-
-#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 22 – O Médico E O Mostro 
-http://www.blogger.com/video-play.mp4?contentId=3456d7bd61216a61
-
-#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 23 – O Cozinheiro Sem Sorte
-
-##################### 1ª Temporada ############## DESENHOS ###################### Dom Pixote #############################
-
-#EXTINF:-1 tvg-logo="https://goo.gl/F582mp group-title="DESENHOS",Episódio 01 - Dom Pixote Atende O Pequenino Willie 
-http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP01.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 02 - Pixote Coração de Leão
-http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP02.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 03 - Caçador Complicado 
-http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP03.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 04 - Sr. Dom Pixote 
-http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP04.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 05 - Sheriff Pixote 
-http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP05.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 06 - Pixote Ladrão de Pessoa
-http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP06.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 07 - Patrulha da Estrada 
-http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP07.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 08 - Pixote Pau-de-rabisco 
-http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP08.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 09 - Dois Corvos Brega 
-http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP09.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 10 - Pixote Bombeiro 
-http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP10.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 11 - Pixote Matador de Dragão 
-http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP11.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 12 - Fisguei Daze 
-http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP12.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 13 - Problemas de Mosquito
-http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP13.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 14 - Pastor de Ovelhas-forma 
-http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP14.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 15 - Dom Churrasco 
-http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP15.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 16 - Hokum Smokum 
-http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP16.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 17 - Pássaro Casa Blues 
-http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP17.mp4
-
-#EXTINF:-1tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 18 - Pânico de Carteiro 
- http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP18.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 19 - De Ski Champ Chump 
-http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP19.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 20 - Pixote Domador de Leão 
-http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP20.mp4
-
-#EXTINF:- 1tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS", Episódio 21 - Pixote Pouca Equitação Vermelha
-http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP21.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 22 - O Cupim Pouco Duro
-http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP22.mp4
-
-############################ 2ª Temporada ############# DESENHOS ############# Dom Pixote ######################### 
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 23 - Beco de Dez Pinos 
-http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP23.mp4
-
-#EXTINF:-1tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 24 - Triste Peregrino 
-http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP24.mp4
-
-#EXTINF:-1
- tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 25 - O Jolly Roger de Saída 
-http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP25.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 26 - Do Alguém Leão 
-http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP26.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 27 - Um Cão de Bully 
-http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP27.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 28 - Nottingham e Yeggs 
-http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP28.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 29 - Pixote, O Gigante Assassino 
-http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP20.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 30 - Policial e Pires 
-http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP30.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 31 - Pixote Menino Pônei 
-http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP31.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 32 - Veterinário do Animal de Estimação
-http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP32.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 33 - Piccadilly Dilly 
-http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP33.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 34 - Pixote Wiki Waki 
-http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP34.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 35 - Hack do Pixote 
-http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP35.mp4
-
-######################################### 3ª Temporada ############# DESENHOS ############# Dom Pixote ######################### 
-
-#EXTINF:-1
-tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 36 - Spud Dud 
-http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP36.mp4
-
-#EXTINF:-1
-tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 37 - Dom Legião Vinculado
-http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP37.mp4
-
-#EXTINF:-1
-tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 38 - Fricção Científica 
-http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP38.mp4
-
-#EXTINF:-1
-tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 39 - Louca com Vira-latas 
-http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP39.mp4
-
-#EXTINF:-1
-tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Dom Pixote - Episódio 40 -Escola de Cavaleiro
-http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP40.mp4
-
-#EXTINF:-1
-tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Dom Pixote - Episódio 41 - Conto do Dom Pixote 
-http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP41.mp4
-
-#EXTINF:-1
-tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Dom Pixote - Episódio 42 - O Vingador Desmascarado 
-http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP42.mp4
-
-#EXTINF:-1
-tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Dom Pixote - Episódio 43 - Pixote Caipira
-http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP43.mp4
-
-#EXTINF:-1
-tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Dom Pixote - Episódio 44 - Pixote Arma Rápido 
-http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP44.mp4
-
-#EXTINF:-1
-tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Dom Pixote - Episódio 45 - Astro-porca Pixote
-http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP45.mp4
-
-#EXTINF:-1
-tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Dom Pixote - Episódio 46 - Pixote e Escada 
-http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP46.mp4
-
-#EXTINF:-1
-tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Dom Pixote - Episódio 47 - Lawman Pixote
-http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP47.mp4
-
-#EXTINF:-1
-tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Dom Pixote - Episódio 48 - Cluck e Punhal
-http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP48.mp4
-
-###################################4ª Temporada ############# DESENHOS ############# Dom Pixote ######################### 
-
-#EXTINF:-1
-tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Dom Pixote - Episódio 49 - Homem das Cavernas Pixote 
-http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP49.mp4
-
-#EXTINF:-1
-tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Desenhos Dom Pixote - Episódio 50 - Pixote dos Irlandeses
-http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP50.mp4
-
-#EXTINF:-1
-tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Dom Pixote - Episódio 51 - Grande Confusão na Selva 
-http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP51.mp4
-
-#EXTINF:-1
-tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Dom Pixote - Episódio 52 - Pixote Toureiro 
-http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP52.mp4
-
-#EXTINF:-1
-tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Dom Pixote - Episódio 53 - Ben Pixote 
-http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP53.mp4
-
-#EXTINF:-1
-tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Dom Pixote - Episódio 54 - Pixote em Paris 
-http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP54.mp4
-
-#EXTINF:-1
-tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Dom Pixote - Episódio 55 - Barras e Listras 
-http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP55.mp4
-
-#EXTINF:-1
-tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Dom Pixote - Episódio 56 - O Homem Scrubby Brush
-http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP56.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Dom Pixote - Episódio 57 Dois para Tee Vee
-http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP57.mp4
 
 
 ##################### SERIES Real Rob (Dublado) - Lista de Episódios ################################################
@@ -8343,5 +7002,1399 @@ http://media-br-am.crackle.com/1/y/d6/30vlf_480p.mp4
 http://media-br-am.crackle.com/1/7/16/1p1lf_480p.mp4
 #EXTINF:-1  group-title="Filmes Dublado"  tvg-logo="http://images-br-am.crackle.com/1/3/v6/01zlf_tnl_210x118.jpg?ts=20140530224248",A Guerra de Hart
 http://media-br-am.crackle.com/1/3/v6/01zlf_480p.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 01 
+http://www.blogger.com/video-play.mp4?contentId=ead77a76677b1fee
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 02
+http://www.blogger.com/video-play.mp4?contentId=82476f8e5a962ccb
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 03 
+http://www.blogger.com/video-play.mp4?contentId=9d47366793d55ad2
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 04
+http://www.blogger.com/video-play.mp4?contentId=cb2d53d73b400849
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 05
+http://www.blogger.com/video-play.mp4?contentId=3c0a08d46a14202d
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 06
+http://www.blogger.com/video-play.mp4?contentId=280973e89fac54e9
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 07
+http://www.blogger.com/video-play.mp4?contentId=703e2832ad59db19
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 08
+http://www.blogger.com/video-play.mp4?contentId=280973e89fac54e9
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 09
+http://www.blogger.com/video-play.mp4?contentId=ce4e7592865201ff
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 10
+http://www.blogger.com/video-play.mp4?contentId=47951405160f0383
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 11
+http://www.blogger.com/video-play.mp4?contentId=c2bf9d8b81fcbf39
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 12
+http://www.blogger.com/video-play.mp4?contentId=c85b207b4f6c75b9
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 13
+http://www.blogger.com/video-play.mp4?contentId=ca8346a39de5c575
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 14
+http://www.blogger.com/video-play.mp4?contentId=de2bab227e057fee
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 15
+http://www.blogger.com/video-play.mp4?contentId=2d20e77d08ae0ef5
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 16
+http://www.blogger.com/video-play.mp4?contentId=40be9fbef5b95ab5"
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 17
+http://www.blogger.com/video-play.mp4?contentId=78330a7b353c5494
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 18
+http://www.blogger.com/video-play.mp4?contentId=64f8d7733c78d90b
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 19
+http://www.blogger.com/video-play.mp4?contentId=399211b563f8e544
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 20
+http://www.blogger.com/video-play.mp4?contentId=93bb96b2ad70e9c6
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 21
+http://www.blogger.com/video-play.mp4?contentId=f204c64f097fff1e
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 22
+http://www.blogger.com/video-play.mp4?contentId=c2ad87bbe32e4ad0
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 23
+http://www.blogger.com/video-play.mp4?contentId=279cf731b7b521ea
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 24
+http://www.blogger.com/video-play.mp4?contentId=5500a83ec9c79fa4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 25
+http://www.blogger.com/video-play.mp4?contentId=ede154d67a6ca29f
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 26
+http://www.blogger.com/video-play.mp4?contentId=ad4549a78bde873d
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 27
+http://www.blogger.com/video-play.mp4?contentId=81476e3fa164403f
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 28
+http://www.blogger.com/video-play.mp4?contentId=cd41937a73782bce
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 29
+http://www.blogger.com/video-play.mp4?contentId=18c11a817abe23f0
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 30
+http://www.blogger.com/video-play.mp4?contentId=767b70359ca34e75
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 31
+http://www.blogger.com/video-play.mp4?contentId=8035c9d3ebf2e2de
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 32
+http://www.blogger.com/video-play.mp4?contentId=db1612f8b562c464
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 33
+http://www.blogger.com/video-play.mp4?contentId=46cc8acfb15d648a
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 34
+http://www.blogger.com/video-play.mp4?contentId=346de5000b5f0c6e
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 35
+http://www.blogger.com/video-play.mp4?contentId=1342436e1b7af6e4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 36
+http://www.blogger.com/video-play.mp4?contentId=bcd5145803b492a3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 37
+http://www.blogger.com/video-play.mp4?contentId=a60b15073d3683e2
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 38
+http://www.blogger.com/video-play.mp4?contentId=db458d4522335c63
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 39
+http://www.blogger.com/video-play.mp4?contentId=48d86d493fb13cc7
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 40
+http://www.blogger.com/video-play.mp4?contentId=34a3f4200af1b184
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 41
+http://www.blogger.com/video-play.mp4?contentId=5508cf423c1e43da
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 42
+http://www.blogger.com/video-play.mp4?contentId=14ae6ebd36e31158
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 43
+http://www.blogger.com/video-play.mp4?contentId=5419b10ef7d0a484
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 44
+http://www.blogger.com/video-play.mp4?contentId=5cbe261bb765b6db
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 45
+http://www.blogger.com/video-play.mp4?contentId=9b631fa7a12dcd68
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 46
+http://www.blogger.com/video-play.mp4?contentId=2e9ce24eaae064e2
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 47
+http://www.blogger.com/video-play.mp4?contentId=ff05b8e2d2b256d9
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 48
+http://www.blogger.com/video-play.mp4?contentId=dca62d5e0842b479
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 49
+http://www.blogger.com/video-play.mp4?contentId=2209a3006defde59
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 50
+http://www.blogger.com/video-play.mp4?contentId=43dcffbe2ba27385
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 51
+http://www.blogger.com/video-play.mp4?contentId=8f4b21fc4a94e13b
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 52
+http://www.blogger.com/video-play.mp4?contentId=e15b865287d2fd8d
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 53
+http://www.blogger.com/video-play.mp4?contentId=100032731ca15b33
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 54
+http://www.blogger.com/video-play.mp4?contentId=62413f6f23db780c
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 55
+http://www.blogger.com/video-play.mp4?contentId=1e3843c08b97d167
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 56
+http://www.blogger.com/video-play.mp4?contentId=cdc037ac6bf87e38
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 57
+http://www.blogger.com/video-play.mp4?contentId=a6722155cd5bbf4b
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 58
+http://www.blogger.com/video-play.mp4?contentId=a26ad8e65bab5c93
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 59
+http://www.blogger.com/video-play.mp4?contentId=16c0f01e36ed71ae
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 60
+http://www.blogger.com/video-play.mp4?contentId=4b0da04321153c1d
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 61
+http://www.blogger.com/video-play.mp4?contentId=2eb78b2e9d821820
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 62
+http://www.blogger.com/video-play.mp4?contentId=88be0fd04b2e3566
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 63
+http://www.blogger.com/video-play.mp4?contentId=2b69b0d81cfb61f6
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 64
+http://www.blogger.com/video-play.mp4?contentId=455d4648553bc775
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 65
+http://www.blogger.com/video-play.mp4?contentId=bc2f04cc192939b8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 66
+http://www.blogger.com/video-play.mp4?contentId=104e98280f641183
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 67
+http://www.blogger.com/video-play.mp4?contentId=2b855988fdfc6697
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 68
+http://www.blogger.com/video-play.mp4?contentId=8780ede2f8d7eb33
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 69
+http://www.blogger.com/video-play.mp4?contentId=74f723bcaf6fd73b
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 70
+http://www.blogger.com/video-play.mp4?contentId=e4cc7cb99451124
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 71
+http://www.blogger.com/video-play.mp4?contentId=3670b82420342899
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 72
+http://www.blogger.com/video-play.mp4?contentId=b79ec06c0d3d6852
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 73
+http://www.blogger.com/video-play.mp4?contentId=fc244daf5da57347
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 74
+http://www.blogger.com/video-play.mp4?contentId=4850548fefb7f4cb
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 75
+http://www.blogger.com/video-play.mp4?contentId=26f1ee71c15990f1
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 76
+http://www.blogger.com/video-play.mp4?contentId=9eecb7e001fd7be3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 77
+http://www.blogger.com/video-play.mp4?contentId=7205c9f16c65d337
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 78
+http://www.blogger.com/video-play.mp4?contentId=9533d3d3d48e3f8b
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 79
+http://www.blogger.com/video-play.mp4?contentId=8534ee1305bbba77
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 80
+http://www.blogger.com/video-play.mp4?contentId=1ba4c8ac9a35a930
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 81
+http://www.blogger.com/video-play.mp4?contentId=b1fe902408088c26
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 82
+http://www.blogger.com/video-play.mp4?contentId=b05a6387f5e8fcbf
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 83
+http://www.blogger.com/video-play.mp4?contentId=7ac5bac54ce4ceca
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 84
+http://www.blogger.com/video-play.mp4?contentId=58f25808cf40fa52
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 85
+http://www.blogger.com/video-play.mp4?contentId=c9aab439118d16d6
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 86
+http://www.blogger.com/video-play.mp4?contentId=915fb4dee4dce77
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 87
+http://www.blogger.com/video-play.mp4?contentId=8258b2a126913c7f
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 88
+http://www.blogger.com/video-play.mp4?contentId=b55b343ee1abc479
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 89
+http://www.blogger.com/video-play.mp4?contentId=954a0b456dbd6949
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 90
+http://www.blogger.com/video-play.mp4?contentId=b64f47bd369ee402
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 91
+http://www.blogger.com/video-play.mp4?contentId=aff13f8ce50db0b1
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 92
+http://www.blogger.com/video-play.mp4?contentId=fe64648611294389
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 93
+http://www.blogger.com/video-play.mp4?contentId=c84b3b3bc40af354
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 94
+http://www.blogger.com/video-play.mp4?contentId=7e7a3de8b0c2d0a7
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 95
+http://www.blogger.com/video-play.mp4?contentId=736ae9dcc9397fa6
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 96
+http://www.blogger.com/video-play.mp4?contentId=646dfe416be56266
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 97
+http://www.blogger.com/video-play.mp4?contentId=ae855eb87698bee8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 98
+tp://www.blogger.com/video-play.mp4?contentId=4131b46033228826
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 99
+http://www.blogger.com/video-play.mp4?contentId=7dbfc302c848d673
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 101
+http://www.blogger.com/video-play.mp4?contentId=f54a7d332b2869c3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 102
+http://www.blogger.com/video-play.mp4?contentId=a4a1dfe2487e2b0e
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 103
+http://www.blogger.com/video-play.mp4?contentId=7f6c46f5b6a01860
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 104
+http://www.blogger.com/video-play.mp4?contentId=3a02f3a8ef1bcf8f
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 105
+http://www.blogger.com/video-play.mp4?contentId=94a24cef0d58401d
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 106
+http://www.blogger.com/video-play.mp4?contentId=1931ba22ec8099f9
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 107
+http://www.blogger.com/video-play.mp4?contentId=27194402e9f81dfe
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 108
+http://www.blogger.com/video-play.mp4?contentId=89a0405ab6f8baee
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 109
+http://www.blogger.com/video-play.mp4?contentId=fa3e4ac5f5fb19e3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 111
+http://www.blogger.com/video-play.mp4?contentId=1cf383841cf14dbf
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 112
+http://www.blogger.com/video-play.mp4?contentId=7fc6a7e48edc7e40
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 113
+http://www.blogger.com/video-play.mp4?contentId=fb231bed622a078e
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 114
+http://www.blogger.com/video-play.mp4?contentId=e2a5fe7ffea3a58b
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 115
+http://www.blogger.com/video-play.mp4?contentId=5313b9891f53ebde
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 116
+http://www.blogger.com/video-play.mp4?contentId=81f51eba40452764
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 117
+http://www.blogger.com/video-play.mp4?contentId=a76ca9662d2763fa
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 118
+http://www.blogger.com/video-play.mp4?contentId=e9a1a3dda03f437e
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 119
+http://www.blogger.com/video-play.mp4?contentId=d8d792d78000780e
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 121
+http://www.blogger.com/video-play.mp4?contentId=97e06d3c660d53f5
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 122
+http://www.blogger.com/video-play.mp4?contentId=95c8acfd8d31f46c
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 123
+http://www.blogger.com/video-play.mp4?contentId=2ae59cdd5425e972
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 124
+http://www.blogger.com/video-play.mp4?contentId=cab6057fa76ce54f
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 125
+http://www.blogger.com/video-play.mp4?contentId=7b1078b11f9529c3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 126
+http://www.blogger.com/video-play.mp4?contentId=361639d0ab507f27
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 127
+http://www.blogger.com/video-play.mp4?contentId=f2c015424f716c98
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 128
+http://www.blogger.com/video-play.mp4?contentId=8778684a23879f40
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 129
+http://www.blogger.com/video-play.mp4?contentId=fa37b82c8c9246b0
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 130
+http://www.blogger.com/video-play.mp4?contentId=b0c711db0f4b1199
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 131
+http://www.blogger.com/video-play.mp4?contentId=4484e8b53164f019
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",1Episódio 132
+http://www.blogger.com/video-play.mp4?contentId=2cafb8c7d6c297bd
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",1Episódio 133
+http://www.blogger.com/video-play.mp4?contentId=a6525561782ea4bd
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",1Episódio 134
+http://www.blogger.com/video-play.mp4?contentId=7ebfde94e43944c8
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",1Episódio 135
+http://www.blogger.com/video-play.mp4?contentId=bd1e656be92de9ea
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",1Episódio 136
+http://www.blogger.com/video-play.mp4?contentId=9853c2afd138aaad
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",1Episódio 137
+http://www.blogger.com/video-play.mp4?contentId=6c21e2d9937e132c
+
+#EXTINF:-1 tvg-id="G" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",1Episódio 138
+http://www.blogger.com/video-play.mp4?contentId=281601b1ffc1b82a
+#EXTINF:-1 tvg-id="G" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 139
+http://www.blogger.com/video-play.mp4?contentId=bec3a19900aa85b3
+
+#EXTINF:-1 tvg-id="G" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",1Episódio 140
+ttp://www.blogger.com/video-play.mp4?contentId=b46c6fb287258153
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 141
+http://www.blogger.com/video-play.mp4?contentId=d2446fc611f22c19
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 142
+http://www.blogger.com/video-play.mp4?contentId=f2a99b75d822c421
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 143
+http://www.blogger.com/video-play.mp4?contentId=7e6a7f52f8737cce
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 144
+http://www.blogger.com/video-play.mp4?contentId=d717163ebeed5fbb
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 145
+http://www.blogger.com/video-play.mp4?contentId=3be0f465222836ff
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 146
+http://www.blogger.com/video-play.mp4?contentId=2efd5d33fa6c0f6a
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 147
+http://www.blogger.com/video-play.mp4?contentId=7de7e00dce536405
+
+#EXTINF:-1 tvg-id="G" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 148
+http://www.blogger.com/video-play.mp4?contentId=5566a0e9db9581b5
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos"Episódio 149
+http://www.blogger.com/video-play.mp4?contentId=e69346fcf1f1710b
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos"Episódio 150
+http://www.blogger.com/video-play.mp4?contentId=6300ce7a781538d7
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos"Episódio 151
+http://www.blogger.com/video-play.mp4?contentId=6662f4b1276d6227
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos"Episódio 152
+http://www.blogger.com/video-play.mp4?contentId=cbb7f8a14fbdf8db
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 153
+http://www.blogger.com/video-play.mp4?contentId=7b72b0fecfd6b9b4"
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 154
+http://www.blogger.com/video-play.mp4?contentId=e7c303e43902378a
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 155
+http://www.blogger.com/video-play.mp4?contentId=c070f4f4350d285d
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 156
+http://www.blogger.com/video-play.mp4?contentId=4563e35aefea5c3a
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 157
+http://www.blogger.com/video-play.mp4?contentId=2dd16a96a13abf77
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 158
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 159
+http://www.blogger.com/video-play.mp4?contentId=495636c86b7cd4d8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 160
+http://www.blogger.com/video-play.mp4?contentId=a954a89ad2219d2b
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 161
+http://www.blogger.com/video-play.mp4?contentId=ff9ecd47ee1c3e88
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 162
+http://www.blogger.com/video-play.mp4?contentId=342efa5ae0de8c6f
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 163
+http://www.blogger.com/video-play.mp4?contentId=b0325873995f8648
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 165
+http://www.blogger.com/video-play.mp4?contentId=940c8d245ddc977
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 166
+http://www.blogger.com/video-play.mp4?contentId=aa31d239dbc5db38
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 167
+http://www.blogger.com/video-play.mp4?contentId=a2c122e210083efa
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 168
+http://www.blogger.com/video-play.mp4?contentId=aadb9780fee9de5c
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 169
+http://www.blogger.com/video-play.mp4?contentId=19f9f1be22e52388
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/cGwVJe" group-title="Gasparzinho e seus Amigos",Episódio 170
+http://www.blogger.com/video-play.mp4?contentId=b13fdfe97bd05dcd
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/s1gLYQ" group-title="DESENHOS",Uma Lula no Teatro – Episódio 01 
+http://www.blogger.com/video-play.mp4?contentId=7feae4439228d587
+
+#EXTINF:-1 tvg-logo="https://goo.gl/s1gLYQ" group-title="DESENHOS",Uma Lula em Orbita – Episódio 02 
+http://www.blogger.com/video-play.mp4?contentId=e1648eb5186e3edd
+
+#EXTINF:-1 tvg-logo="https://goo.gl/s1gLYQ" group-title="DESENHOS",Uma Lula Lelé na Lona – Episódio 03 
+http://www.blogger.com/video-play.mp4?contentId=98dadd6533ff365
+
+#EXTINF:-1 tvg-logo="https://goo.gl/s1gLYQ" group-title="DESENHOS",A Lula Lelé em Cuidado com os Nervos – Episódio 04 
+http://www.blogger.com/video-play.mp4?contentId=d32783f28c2168a3
+
+#EXTINF:-1 tvg-logo="https://goo.gl/s1gLYQ" group-title="DESENHOS",Lula Lelé – Dublado – Episódio 05 
+http://www.blogger.com/video-play.mp4?contentId=fc78ee8aadc488c2
+
+#EXTINF:-1 tvg-logo="https://goo.gl/s1gLYQ" group-title="DESENHOS",Lula Lelé em é uma Água – Episódio 06 
+http://www.blogger.com/video-play.mp4?contentId=f369da293d86cd90
+
+#EXTINF:-1 tvg-logo="https://goo.gl/s1gLYQ" group-title="DESENHOS",Lula Lelé em o Capitão em Confusão – Episódio 07 
+http://www.blogger.com/video-play.mp4?contentId=68933753fc880d6b
+
+#EXTINF:-1 tvg-logo="https://goo.gl/s1gLYQ" group-title="DESENHOS",Lula Lelé aos troncos e barrancos – Episódio 08 
+http://www.blogger.com/video-play.mp4?contentId=9cded4be92b9adfa
+
+#EXTINF:-1 tvg-logo="https://goo.gl/s1gLYQ" group-title="DESENHOS",Lula Lelé em problema duplo – Episódio 09 
+http://www.blogger.com/video-play.mp4?contentId=2ddeae280b22fafe
+
+#EXTINF:-1 tvg-logo="https://goo.gl/s1gLYQ" group-title="DESENHOS",Lula Lelé em mais que complicação – Episódio 10 
+http://www.blogger.com/video-play.mp4?contentId=f650e372facb51d
+
+#EXTINF:-1 tvg-logo="https://goo.gl/s1gLYQ" group-title="DESENHOS",Lula Lelé em que monstuosidade – Episódio 11 
+http://www.blogger.com/video-play.mp4?contentId=1a539ee483f627a9
+
+#EXTINF:-1 tvg-logo="https://goo.gl/s1gLYQ" group-title="DESENHOS",Lula Lelé – Dublado – Episódio 12 
+http://www.blogger.com/video-play.mp4?contentId=e5d771b2188065e5
+
+#EXTINF:-1 tvg-logo="https://goo.gl/s1gLYQ" group-title="DESENHOS",Lula Lelé – Dublado – Episódio 13 
+http://www.blogger.com/video-play.mp4?contentId=b64262fad69ac3bc
+
+#EXTINF:-1 tvg-logo="https://goo.gl/s1gLYQ" group-title="DESENHOS",Lula Lelé em uma babá de amargar – Episódio 14 
+http://www.blogger.com/video-play.mp4?contentId=a95ea01d81d6925a
+
+#EXTINF:-1 tvg-logo="https://goo.gl/s1gLYQ" group-title="DESENHOS",Lula Lelé em astronaulta biruta– Dublado – Episódio 15 
+http://www.blogger.com/video-play.mp4?contentId=c57e4012d4c81929
+
+#EXTINF:-1 tvg-logo="https://goo.gl/s1gLYQ" group-title="DESENHOS",Lula Lelé em as volta com fantasma – Episódio 16 
+http://www.blogger.com/video-play.mp4?contentId=9c8400c72067566b
+
+#EXTINF:-1 tvg-logo="https://goo.gl/s1gLYQ" group-title="DESENHOS",Lula Lelé em O caso de sorte – Episódio 17 
+http://www.blogger.com/video-play.mp4?contentId=c50f5867ad0f1b75
+
+#EXTINF:-1 tvg-logo="https://goo.gl/s1gLYQ" group-title="DESENHOS",Lula Lelé em Fofoca com a Foca – Episódio 18
+http://www.blogger.com/video-play.mp4?contentId=729e432186167e3e
+
+#EXTINF:-1 tvg-logo="https://goo.gl/s1gLYQ" group-title="DESENHOS",Lula Lelé em Assim é de Mais – Episódio 19
+http://www.blogger.com/video-play.mp4?contentId=28671d7ddbef8d8c
+
+#EXTINF:-1 tvg-logo="https://goo.gl/s1gLYQ" group-title="DESENHOS",Lula Lelé em terra do cinema– Dublado – Episódio 20
+http://www.blogger.com/video-play.mp4?contentId=43de51ade8fac670
+
+#EXTINF:-1 tvg-logo="https://goo.gl/s1gLYQ" group-title="DESENHOS",Lula Lelé em o Cavalheiro Negro – Episódio 21
+http://www.blogger.com/video-play.mp4?contentId=6b0f68c5376974a9
+
+#EXTINF:-1 tvg-logo="https://goo.gl/s1gLYQ" group-title="DESENHOS",Lula Lelé em Cashorrada Marinha – Episódio 22
+http://www.blogger.com/video-play.mp4?contentId=797dfa9d896d3601
+
+#EXTINF:-1 tvg-logo="https://goo.gl/s1gLYQ" group-title="DESENHOS",Lula Lelé em Peixe de Araque – Episódio 23 
+http://www.blogger.com/video-play.mp4?contentId=213ea192d83e4dad
+
+#EXTINF:-1 tvg-logo="https://goo.gl/s1gLYQ" group-title="DESENHOS",Lula Lelé – Dublado – Episódio 24
+http://www.blogger.com/video-play.mp4?contentId=dc2ad1c94471bcc0
+
+#EXTINF:-1 tvg-logo="https://goo.gl/s1gLYQ" group-title="DESENHOS",
+Lula Lelé – Dublado – Episódio 25 
+#EXTINF:-1 tvg-logo="https://goo.gl/s1gLYQ" group-title="DESENHOS",
+Lula Lelé – Dublado – Episódio 26 
+
+
+
+#############################      DESENHOS         ###################     A Formiga Atómica
+
+#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="A Formiga Atómica",01 Lá Vai A Triônica
+http://www.blogger.com/video-play.mp4?contentId=f4582bd401b4e0d3
+
+#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="A Formiga Atómica",02 O Monstro De Crankenshaft
+http://www.blogger.com/video-play.mp4?contentId=e3444b5f65f52a16
+
+#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="A Formiga Atómica",03 Uma Formiga De Briga
+http://www.blogger.com/video-play.mp4?contentId=dbef9ed736e62483
+
+#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="A Formiga Atómica",04 A Pulga Feroz
+http://www.blogger.com/video-play.mp4?contentId=114d8949c97b2569
+
+#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="A Formiga Atómica,05 O Robô Errante
+http://www.blogger.com/video-play.mp4?contentId=721fc439e00c29e0
+
+#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="A Formiga Atómica",06 Quem É O Trouxa
+http://www.blogger.com/video-play.mp4?contentId=9540f21f57138ac5
+
+#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="A Formiga Atómica",07 A Formiga Atômica E O Karatê
+http://www.blogger.com/video-play.mp4?contentId=44244696538e4428
+
+#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="A Formiga Atómica",08 A Formiga Mais Rápida Do Oeste
+http://www.blogger.com/video-play.mp4?contentId=64dbee808682e2e4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="A Formiga Atómica",09 Identidades Trocadas
+http://www.blogger.com/video-play.mp4?contentId=64d1a132cace6f31
+
+#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="A Formiga Atómica",10 Perigo É Comigo
+http://www.blogger.com/video-play.mp4?contentId=b50949f2842e6503
+
+#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="A Formiga Atómica",11 Golpe De Mestre
+http://www.blogger.com/video-play.mp4?contentId=9b32e027fe069333
+
+#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="A Formiga Atómica",12 Se Precisar é Só Chamar!
+http://www.blogger.com/video-play.mp4?contentId=d26f2485552e4f34
+
+#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="A Formiga Atómica",13 Com Toda A Força
+http://www.blogger.com/video-play.mp4?contentId=567a6953b84eeaee
+
+#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="A Formiga Atómica",14 Formigas Selvagens
+http://www.blogger.com/video-play.mp4?contentId=1b062320072ce548
+
+#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="A Formiga Atómica",15 Em Defesa Da Lei
+http://www.blogger.com/video-play.mp4?contentId=9da433147f6f6c6
+
+#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="A Formiga Atómica",16 O Caso Do Parque De Diversões
+http://www.blogger.com/video-play.mp4?contentId=9da433147f6f6c6
+
+#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="A Formiga Atómica",17 Tamanho Não é Documento
+http://www.blogger.com/video-play.mp4?contentId=38a70d582ba81de1
+
+#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="A Formiga Atómica",18 Deixe Esse Cupim Prá Mim
+http://www.blogger.com/video-play.mp4?contentId=18a147d4fdbe7029
+
+#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="A Formiga Atómica",19 A Regra Do Jogo
+http://www.blogger.com/video-play.mp4?contentId=5bfdd79a8b7c92c3
+
+#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="A Formiga Atómica",20 – Rumo Ao Oeste
+http://www.blogger.com/video-play.mp4?contentId=1c539bed6ad4bd51
+
+#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="A Formiga Atómica",21 – Que Formiga Valente!
+http://www.blogger.com/video-play.mp4?contentId=3d1db4fbeb8c6668
+
+#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="A Formiga Atómica",22 – Dando Sopa
+http://www.blogger.com/video-play.mp4?contentId=c570a9b61d816a57
+
+#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="A Formiga Atómica",23 – Tudo Pelos Ares
+http://www.blogger.com/video-play.mp4?contentId=8bd573cbd3136cf2
+
+#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="A Formiga Atómica",24 Me Aparece Cada Uma!
+http://www.blogger.com/video-play.mp4?contentId=1a1ecdedfa718df5
+
+#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="A Formiga Atómica",25 O Gorila Matador
+http://www.blogger.com/video-play.mp4?contentId=c828d47c442419d8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="A Formiga Atómica",26 A Mim Você Não Assusta
+http://www.blogger.com/video-play.mp4?contentId=97d2c912aa085d2b
+
+##################################################       DESENHOS        ############     A Turma do Manda Chuva   
+
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 01 – Havaí: A Turma Vem Aí
+http://www.blogger.com/video-play.mp4?contentId=804e7072191f1a6a
+
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 02 – O Opulento Marajá
+http://www.blogger.com/video-play.mp4?contentId=7c5210971b472c5f
+
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 03 – Jazz Infernal
+http://www.blogger.com/video-play.mp4?contentId=9a0650ea0dc572e
+
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 04 – Corridas E Correrias
+http://www.blogger.com/video-play.mp4?contentId=514679fdaf94418a
+
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 05 – Arranhador De Violinos
+http://www.blogger.com/video-play.mp4?contentId=3238cb636b38c479
+
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS"DESENHOS",A Turma do Manda Chuva – Episódio 06 – Testamento De Um Excêntrico
+http://www.blogger.com/video-play.mp4?contentId=26b0ab4b44815a54
+
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 07 – Amor A Quando Me Levas
+http://www.blogger.com/video-play.mp4?contentId=6e5b386534e6557
+
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 08 – Meu Filho, Meu Orgulho
+http://www.blogger.com/video-play.mp4?contentId=a0e7d4d9c95e4a45
+
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 09 – Um Filme Realista
+http://www.blogger.com/video-play.mp4?contentId=4cd2c8ac801aba02
+
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 10 – Que Rei Sou Eu?
+http://www.blogger.com/video-play.mp4?contentId=a2049c69224429ff
+
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 11 – Quando O Coração Dispara
+http://www.blogger.com/video-play.mp4?contentId=c952acbdaf4f5063
+
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 12 – Um Diamante A Todo Preço
+http://www.blogger.com/video-play.mp4?contentId=f1eaae05552254f8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 13 – Um Presente Passado
+http://www.blogger.com/video-play.mp4?contentId=b6faf156f021f690
+
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 14 – Cheque Mate
+http://www.blogger.com/video-play.mp4?contentId=c686819bdc3b3747
+
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 15 – Inverno Um Tanto Quente
+http://www.blogger.com/video-play.mp4?contentId=9a8e4cef046fe709
+
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 16 – Um Menor Entre Os Maiores
+http://www.blogger.com/video-play.mp4?contentId=fc615d133b16f7d9
+
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 17 – A Mascote Do Convescote
+http://www.blogger.com/video-play.mp4?contentId=d0bcab20ac5c0677
+
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 18 – Reformadores Conservadores
+http://www.blogger.com/video-play.mp4?contentId=9c06b316345f4451
+
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 19 – Turistas E Vigaristas
+http://www.blogger.com/video-play.mp4?contentId=8bca6b03e8a9bdd2
+
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 20 – Arte E Artes
+http://www.blogger.com/video-play.mp4?contentId=8bca6b03e8a9bdd2
+
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 21 – O Involuntário Do Espaço
+http://www.blogger.com/video-play.mp4?contentId=65358885a62fdca6
+
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 22 – O Finado Manda-Chuva
+http://www.blogger.com/video-play.mp4?contentId=6bfe59cd6b22cfca
+
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 23 – Parabéns Para Você
+http://www.blogger.com/video-play.mp4?contentId=88b7f882cbc46dc1
+
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 24 – Alguém Está Caduco
+http://www.blogger.com/video-play.mp4?contentId=441b2f93367ef775
+
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 25 – Rei Por Um Dia
+http://www.blogger.com/video-play.mp4?contentId=f1f455beb0733e39
+
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 26 – O Sentenciado
+http://www.blogger.com/video-play.mp4?contentId=8627c00ba445a69e
+
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 27 – Batendo O Record
+http://www.blogger.com/video-play.mp4?contentId=297f91927a7cf34a
+
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva - Episódio 28 – Contando Vantagem
+http://www.blogger.com/video-play.mp4?contentId=c4cdcacbd94a6cd
+
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 29 – Turma Atrapalhada
+http://www.blogger.com/video-play.mp4?contentId=40e423b740033a6c
+
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 30 – Eu E O Outro
+http://www.blogger.com/video-play.mp4?contentId=713a1371319401fe
+
+######################################       DESENHOS        ################    A Pantera Cor-de-Rosa
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 01 – A Pantera Pinta o Sete 
+http://www.blogger.com/video-play.mp4?contentId=d5b9a3206dc0822c
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",02 – A Pantera de Pijama 
+http://www.blogger.com/video-play.mp4?contentId=f30a7d608cdc0b6b
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",03 – Pantera na Loja de Departamento 
+http://www.blogger.com/video-play.mp4?contentId=a545ea16e77013e0
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",04 – Disque “P” para Pantera
+http://www.blogger.com/video-play.mp4?contentId=182a23021c7c6a15 
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",05 – A Arca da Pantera Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=429556756acc150e
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",06 – A Pantera e o Bêbado 
+http://www.blogger.com/video-play.mp4?contentId=9a9815bf123f080c
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",07 – Agente Secreto Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=7786c066bce2f769
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",08 – Pantera em Choque 
+http://www.blogger.com/video-play.mp4?contentId=fc5dbedb9e424d22
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",09 – Diamantes da Pantera 
+http://www.blogger.com/video-play.mp4?contentId=ee6f55bf0923a949
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",10 – A Pantera e a Mosca 
+http://www.blogger.com/video-play.mp4?contentId=7e2d3da3ab400f0
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",11 – Guerra de Vizinhos 
+http://www.blogger.com/video-play.mp4?contentId=b4ffc0655e26b8d2
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",12 – A Balança que Falava Demais 
+http://www.blogger.com/video-play.mp4?contentId=813dbfcb4ba3184c
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",13 – Pantera Pescando 
+http://www.blogger.com/video-play.mp4?contentId=a30748a3d88407b3
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",14 – O Toureiro Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=77aae555759e940a
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",15 – Ponche Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=5ebb06ec7ac267fa
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",16 – Pink Pistons 
+http://www.blogger.com/video-play.mp4?contentId=83505f57b106e5a5
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",17 – Vitamina Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=8f314828f6d7a94e
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",18 – A Casa da Pantera 
+http://www.blogger.com/video-play.mp4?contentId=e490cc21d4cef530
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",19 – O Concerto da Pantera 
+http://www.blogger.com/video-play.mp4?contentId=d47bc55caf559267
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",20 – Sorria Pantera 
+http://www.blogger.com/video-play.mp4?contentId=f34c5119553e53e5
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",21 – A Pantera e o Rato 
+http://www.blogger.com/video-play.mp4?contentId=859a08af989e06d6
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",22 – Seja um Gênio Você Também 
+http://www.blogger.com/video-play.mp4?contentId=5eb692054c0bfea
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",23 – Super Pantera 
+http://www.blogger.com/video-play.mp4?contentId=fe8e2ff122b6c008
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",24 – Bons Sonhos Pantera 
+http://www.blogger.com/video-play.mp4?contentId=249a1b67a0cd4bcd
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 25 – Que Fria
+http://www.blogger.com/video-play.mp4?contentId=7a7578eacbe53a61 
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",26 – Pantera em Pânico 
+http://www.blogger.com/video-play.mp4?contentId=ae05b9816a5a3340
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",27 – Pantera Jardineira 
+http://www.blogger.com/video-play.mp4?contentId=fa59465a202f23f9
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",28 – Sujeira Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=db2f98501b999c20
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",29 – Pantera em Forma 
+http://www.blogger.com/video-play.mp4?contentId=db2f98501b999c20
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",30 – Jato Pantera 
+http://www.blogger.com/video-play.mp4?contentId=4472a16199e6adda
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",31 – Paraíso Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=490c0db220b02cf9
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",32 – O Carona 
+http://www.blogger.com/video-play.mp4?contentId=7484a2fd8b149927
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",33 – Parabéns É Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=7484a2fd8b149927
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",34 – Pantera Pré-fabricada 
+http://www.blogger.com/video-play.mp4?contentId=c188d76e6fc05b57
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",35 – A Mão é Mais Rápida Que o Olho 
+http://www.blogger.com/video-play.mp4?contentId=5fedf361fec608c9
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",36 – Vida Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=e265586909ca5a5a
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",37 – Pantera nos Céus 
+http://www.blogger.com/video-play.mp4?contentId=d3f0aabfc849452b
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",38 – O Melhor Amigo 
+http://www.blogger.com/video-play.mp4?contentId=93f2f43d9610c171
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",39 – Pantera Psicodélica 
+http://www.blogger.com/video-play.mp4?contentId=7ae9511ddb0cde11
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",40 – Pantera Cor-de-rosa na Praia 
+http://www.blogger.com/video-play.mp4?contentId=37e2b336cb3ed2a1
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",41 – Pantera Fora-da-lei
+http://www.blogger.com/video-play.mp4?contentId=781a13370b8f10e7 
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",42 – Patente Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=b1d37f78c1118100
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",43 – Sorte Não Se Joga Fora 
+http://www.blogger.com/video-play.mp4?contentId=6498dd0d71b893f0
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",44 – Tudo Por Tão Pouco
+http://www.blogger.com/video-play.mp4?contentId=7b295f790658972c
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",45 – Astrônomo Lunático 
+http://www.blogger.com/video-play.mp4?contentId=45c28db93ea4b3b6
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",46 – Valente Pantera 
+http://www.blogger.com/video-play.mp4?contentId=380f57f2fa7150c6
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",47 – Pantera em Tratamento 
+http://www.blogger.com/video-play.mp4?contentId=e38aa323b4bbcc62
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",48 – Pantera Pré-histórica 
+http://www.blogger.com/video-play.mp4?contentId=cb56f73d5f39af86
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",49 – A Pantera na Cadeia 
+http://www.blogger.com/video-play.mp4?contentId=cd0cae41fed94e01
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",50 – Disputa de Terras 
+http://www.blogger.com/video-play.mp4?contentId=573cc0c7fcc4f984
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",51 – Desejos de Pantera 
+http://www.blogger.com/video-play.mp4?contentId=7844c7aab128eaab
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",52 – Pantera no Deserto 
+http://www.blogger.com/video-play.mp4?contentId=ee1b039545b3592
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",53 – Pantera Lenhadora 
+http://www.blogger.com/video-play.mp4?contentId=17c3764a617ea299
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",54 – Entrega Especial da Pantera 
+http://www.blogger.com/video-play.mp4?contentId=d83608db013d7c15
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",55 – A Pantera e os Impostos
+http://www.blogger.com/video-play.mp4?contentId=24f62d1c28d786d6 
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",56 – Cinderela Cor-de-rosa
+http://www.blogger.com/video-play.mp4?contentId=ab23dfb7a7ab2a77 
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",57 – Controle de Pragas 
+http://www.blogger.com/video-play.mp4?contentId=7ba546a3b99600c6
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",58 – Pense Duas Vezes Antes 
+http://www.blogger.com/video-play.mp4?contentId=c3b76f6e2b253840
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",59 – Pantera numa Fria 
+http://www.blogger.com/video-play.mp4?contentId=d06d05d434dbd9e4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",60 – A Noite da Pantera 
+http://www.blogger.com/video-play.mp4?contentId=3d95115e5f765685
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",61 – Milharal da Pantera 
+http://www.blogger.com/video-play.mp4?contentId=f4756c5662b96a45
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",62 – Pantera em Extinção 
+http://www.blogger.com/video-play.mp4?contentId=9c70f6eb43b3d462
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",63 – Uma Mosca na Minha Casa 
+http://www.blogger.com/video-play.mp4?contentId=b5504c0ece6915f3
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",64 – Pantera Desastrada 
+http://www.blogger.com/video-play.mp4?contentId=a15522539182f500
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",65 – Pantera e a Música 
+http://www.blogger.com/video-play.mp4?contentId=83ffee48e5e03f6d
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",66 – Travessura Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=9e7ce02e3ebe0c5b
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",67 – Pantera com Pulga 
+http://www.blogger.com/video-play.mp4?contentId=87e05acafe46dd62
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",68 – O Furo da Pantera 
+http://www.blogger.com/video-play.mp4?contentId=4366990b62a6415c
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",69 – A Pantera e o Gongo 
+http://www.blogger.com/video-play.mp4?contentId=6df3f8c5ed6cff5e
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",70 – Memórias da Pantera 
+http://www.blogger.com/video-play.mp4?contentId=16d2dc438fc28b92
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",71 – Pink 8-Ball 
+http://www.blogger.com/video-play.mp4?contentId=6e89a6c4042206bb
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",72 – Pantera em Alto Mar 
+http://www.blogger.com/video-play.mp4?contentId=155c56e30c070ad0
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",73 – Pantera em Defesa das Peles 
+http://www.blogger.com/video-play.mp4?contentId=aee9548f01c65b11
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",74 – Pantera Da Vinci 
+http://www.blogger.com/video-play.mp4?contentId=98e5ddd1d0162d85
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",75 – Instrutor Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=1df5989eca1bd57f
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",76 – Salmão cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=8908df0eb1290541
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",77 – Um Quarto Para a Pantera 
+http://www.blogger.com/video-play.mp4?contentId=b011db3243565439
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",78 – Pantera na Transilvânia 
+http://www.blogger.com/video-play.mp4?contentId=d59db65236dd94d2
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",79 – Elefante Cor-de-rosa
+http://www.blogger.com/video-play.mp4?contentId=f371c5490eb3c8df 
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",80 – Mantendo Nossas Florestas Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=56ca8b4500341085
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",81 – Aprenda a Voar com a Pantera 
+http://www.blogger.com/video-play.mp4?contentId=9c7077a700537ae9
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",82 – A Moda é Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=eb75f5085cd5b10
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",83 – A Vingança da Pantera 
+http://www.blogger.com/video-play.mp4?contentId=4182b3f9450edbb8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",84 – Aventura Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=2568f4f25b616f4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",85 – Pantera Mística
+http://www.blogger.com/video-play.mp4?contentId=b3fab53f3f9da248 
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",86 – Pantera de Arabee 
+http://www.blogger.com/video-play.mp4?contentId=d74d983856874a31
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",87 – Pantera Profissional 
+http://www.blogger.com/video-play.mp4?contentId=adf01ba824c2b160
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",88 – Flautista Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=7350c8c85328a221
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",89 – Rascunho Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=70d399233be62c57
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",90 – Sherlock Cor-de-rosa Rosa 
+http://www.blogger.com/video-play.mp4?contentId=763a5a9b69ef3c18
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",91 – Rocky Pantera 
+http://www.blogger.com/video-play.mp4?contentId=d4b7379525af6be6
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",92 – Terapia cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=389028e61e9e717d
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",93 – Fotos Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=9494aed5f4a0be6
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",94 – Fliperama Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=c7fa8ee94b1c340b
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",95 – Brinquedo Cor-de-rosa
+http://www.blogger.com/video-play.mp4?contentId=38dd4e5a6b348f41 
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",96 – Trompete Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=d432d708dd9f5b71
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",97 – Pantera Chuvosa 
+http://www.blogger.com/video-play.mp4?contentId=b1e9f869ca10cd73
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",98 – Pantera Dietética 
+http://www.blogger.com/video-play.mp4?contentId=4ab8b4ed1eb20728
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",99 – Objeto Voador Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=4c54f2186f251845
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",100 – A Pantera e o Carro Monstro 
+http://www.blogger.com/video-play.mp4?contentId=927c2233f379241f
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",101 – A Pantera e o Pé de Feijão 
+http://www.blogger.com/video-play.mp4?contentId=50ad08879b8a1ae6
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",102 – Papai Pantera 
+http://www.blogger.com/video-play.mp4?contentId=cd2b79deff2de239
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",103 – O Maior Inimigo da Pantera 
+http://www.blogger.com/video-play.mp4?contentId=ce309ca790b81fd0
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",104 – O Tesouro Escondido da Pantera
+http://www.blogger.com/video-play.mp4?contentId=7ae7e3c1c2b7d128 
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",105 – Panterologista 
+http://www.blogger.com/video-play.mp4?contentId=ac7b6bb7b04d56b8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",106 – A Pantera e os Casacos Vermelhos 
+http://www.blogger.com/video-play.mp4?contentId=f369485f9491bbc3
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",107 – Pantera Jornalista 
+http://www.blogger.com/video-play.mp4?contentId=7acac00a55aee364
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",108 – Amiguinho da Pantera 
+http://www.blogger.com/video-play.mp4?contentId=305aeddc76aeeb98
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",109 – A Pantera de Bagdad 
+http://www.blogger.com/video-play.mp4?contentId=1e74961da2be5ad
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",110 – A Pantera e o Pirata 
+http://www.blogger.com/video-play.mp4?contentId=6fc550c1b5532b2e
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",111 – Pantera das Selvas
+http://www.blogger.com/video-play.mp4?contentId=9023f0d86022f760 
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",112 – A Cauda da Pantera
+http://www.blogger.com/video-play.mp4?contentId=2a031e2a7aaad2e8 
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",113 – O Sono da Pantera 
+http://www.blogger.com/video-play.mp4?contentId=2144ef589763da21
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",114 – Pantera nas Estrelas 
+"http://www.blogger.com/video-play.mp4?contentId=676dc8be91540001
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",115 – O Café da Manhã da Pantera 
+http://www.blogger.com/video-play.mp4?contentId=52fb42d41ba41b19
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",116 – Toureiro Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=7019b9a55dbad2c6
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",117 – Pato Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=b124da41c7bf2d02
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",118 – Seguindo o Fio 
+http://www.blogger.com/video-play.mp4?contentId=c62606e7a081c71
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",119 – Pantera na Floresta 
+http://www.blogger.com/video-play.mp4?contentId=7cbb6c9f81c57598
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",120 – Pantera Magnética 
+http://www.blogger.com/video-play.mp4?contentId=16a4afa6c9870583
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",121 – A Pantera, a Vela e o Cachorro 
+http://www.blogger.com/video-play.mp4?contentId=d6766c31cd0495f
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",122 – Doutor Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=ae4dcd5f8f36dedb
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",123 – Pantera na Lavanderia 
+http://www.blogger.com/video-play.mp4?contentId=e3739c7770465db7
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",124 – Supermercado Cor-de-rosa
+http://www.blogger.com/video-play.mp4?contentId=795ca525cb2c5af6 
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",125 – A Pantera Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=d6bda98938d2f467
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",126 – Um Tiro no Escuro 
+http://www.blogger.com/video-play.mp4?contentId=17e369e720166591
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",127 – A Nova Transa da Pantera Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=d1d31e821824c492
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",128 – A Vingança da Pantera Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=7ccd88b51e4800b
+
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",129 – A Trilha da Pantera Cor-de-rosa
+http://www.blogger.com/video-play.mp4?contentId=a7a811071ca3ee8
+
+#####################################     DESENHOS     ####################     Bacamarte e Chumbinho ##################################
+
+#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 01 – Comendo Chumbo 
+http://www.blogger.com/video-play.mp4?contentId=48f983d20554e79d
+
+#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 02 – Que Mágica Besta 
+http://www.blogger.com/video-play.mp4?contentId=7a8a533c9a699c6
+
+#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 03 – A Corneta Mágica 
+http://www.blogger.com/video-play.mp4?contentId=a6b8a0e0e20ff9d5
+
+#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 04 – Instinto Selvagem 
+http://www.blogger.com/video-play.mp4?contentId=f8821f175478b14b
+
+#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 05 – Um Leão Está A Solta 
+http://www.blogger.com/video-play.mp4?contentId=1aa71898ace1bb38
+
+#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 06 – Vamos Brincar De Guerra? 
+http://www.blogger.com/video-play.mp4?contentId=db6fbe38e855e5d
+
+#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 07 – Vendo, Mas Não Acreditando 
+http://www.blogger.com/video-play.mp4?contentId=2fdca51fe76059ec
+
+#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 08 – O Incentivo 
+http://www.blogger.com/video-play.mp4?contentId=54f28ffe8b229191
+
+#EXTINF:-1 
+tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 09 – A Faca De Dois Gumes 
+http://www.blogger.com/video-play.mp4?contentId=9fffa4b7b6948646
+
+#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 11 – O Dia Do Pugilato 
+http://www.blogger.com/video-play.mp4?contentId=f32247a4c0f9b173
+
+#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 12 – O Pula-Pula 
+http://www.blogger.com/video-play.mp4?contentId=83c474defd658d45
+
+#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 13 – Agora é O Urso 
+http://www.blogger.com/video-play.mp4?contentId=42ca1bc072b4f9da
+
+#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 14 – A Lenda De Bat Raterson 
+http://www.blogger.com/video-play.mp4?contentId=b6fa5b6df9532b3a
+
+#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 15 – Super Drooper 
+http://www.blogger.com/video-play.mp4?contentId=115fe657efd93f03
+
+#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 16 – A Pílula Da Força 
+http://www.blogger.com/video-play.mp4?contentId=6bfbae9b50c39196
+
+#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 18 – Sociedade Protetora Dos Ratos 
+http://www.blogger.com/video-play.mp4?contentId=a05f1a8827331299
+
+#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 19 – Fantasma De Araque 
+http://www.blogger.com/video-play.mp4?contentId=1d01d9f65da60002
+
+#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 20 – Sua Majestate O Rato 
+http://www.blogger.com/video-play.mp4?contentId=934153d302a2afeb
+
+#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 22 – O Médico E O Mostro 
+http://www.blogger.com/video-play.mp4?contentId=3456d7bd61216a61
+
+#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 23 – O Cozinheiro Sem Sorte
+
+##################### 1ª Temporada ############## DESENHOS ###################### Dom Pixote #############################
+
+#EXTINF:-1 tvg-logo="https://goo.gl/F582mp group-title="DESENHOS",Episódio 01 - Dom Pixote Atende O Pequenino Willie 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP01.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 02 - Pixote Coração de Leão
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP02.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 03 - Caçador Complicado 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP03.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 04 - Sr. Dom Pixote 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP04.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 05 - Sheriff Pixote 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP05.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 06 - Pixote Ladrão de Pessoa
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP06.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 07 - Patrulha da Estrada 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP07.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 08 - Pixote Pau-de-rabisco 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP08.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 09 - Dois Corvos Brega 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP09.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 10 - Pixote Bombeiro 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP10.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 11 - Pixote Matador de Dragão 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP11.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 12 - Fisguei Daze 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP12.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 13 - Problemas de Mosquito
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP13.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 14 - Pastor de Ovelhas-forma 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP14.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 15 - Dom Churrasco 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP15.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 16 - Hokum Smokum 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP16.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 17 - Pássaro Casa Blues 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP17.mp4
+
+#EXTINF:-1tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 18 - Pânico de Carteiro 
+ http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP18.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 19 - De Ski Champ Chump 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP19.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 20 - Pixote Domador de Leão 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP20.mp4
+
+#EXTINF:- 1tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS", Episódio 21 - Pixote Pouca Equitação Vermelha
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP21.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 22 - O Cupim Pouco Duro
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP22.mp4
+
+############################ 2ª Temporada ############# DESENHOS ############# Dom Pixote ######################### 
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 23 - Beco de Dez Pinos 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP23.mp4
+
+#EXTINF:-1tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 24 - Triste Peregrino 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP24.mp4
+
+#EXTINF:-1
+ tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 25 - O Jolly Roger de Saída 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP25.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 26 - Do Alguém Leão 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP26.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 27 - Um Cão de Bully 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP27.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 28 - Nottingham e Yeggs 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP28.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 29 - Pixote, O Gigante Assassino 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP20.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 30 - Policial e Pires 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP30.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 31 - Pixote Menino Pônei 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP31.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 32 - Veterinário do Animal de Estimação
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP32.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 33 - Piccadilly Dilly 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP33.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 34 - Pixote Wiki Waki 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP34.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 35 - Hack do Pixote 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP35.mp4
+
+######################################### 3ª Temporada ############# DESENHOS ############# Dom Pixote ######################### 
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 36 - Spud Dud 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP36.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 37 - Dom Legião Vinculado
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP37.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 38 - Fricção Científica 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP38.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 39 - Louca com Vira-latas 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP39.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Dom Pixote - Episódio 40 -Escola de Cavaleiro
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP40.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Dom Pixote - Episódio 41 - Conto do Dom Pixote 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP41.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Dom Pixote - Episódio 42 - O Vingador Desmascarado 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP42.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Dom Pixote - Episódio 43 - Pixote Caipira
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP43.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Dom Pixote - Episódio 44 - Pixote Arma Rápido 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP44.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Dom Pixote - Episódio 45 - Astro-porca Pixote
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP45.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Dom Pixote - Episódio 46 - Pixote e Escada 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP46.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Dom Pixote - Episódio 47 - Lawman Pixote
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP47.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Dom Pixote - Episódio 48 - Cluck e Punhal
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP48.mp4
+
+###################################4ª Temporada ############# DESENHOS ############# Dom Pixote ######################### 
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Dom Pixote - Episódio 49 - Homem das Cavernas Pixote 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP49.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Desenhos Dom Pixote - Episódio 50 - Pixote dos Irlandeses
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP50.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Dom Pixote - Episódio 51 - Grande Confusão na Selva 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP51.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Dom Pixote - Episódio 52 - Pixote Toureiro 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP52.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Dom Pixote - Episódio 53 - Ben Pixote 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP53.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Dom Pixote - Episódio 54 - Pixote em Paris 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP54.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Dom Pixote - Episódio 55 - Barras e Listras 
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP55.mp4
+
+#EXTINF:-1
+tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Dom Pixote - Episódio 56 - O Homem Scrubby Brush
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP56.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Dom Pixote - Episódio 57 Dois para Tee Vee
+http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP57.mp4
+
 
 
