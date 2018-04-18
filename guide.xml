@@ -1,0 +1,561 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="SporTV 2">
+    <display-name lang="pt">SporTV 2</display-name>
+    <icon src="http://www.lineup.tv.br/canais/sportv2.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ESPN">
+    <display-name lang="pt">ESPN</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <programme start="20180418003000 -0300" stop="20180418013000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Cerro Porteño (PAR) x Grêmio</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180418013000 -0300" stop="20180418023000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - PSG x Monaco</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180418023000 -0300" stop="20180418033000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Atlético PR x Chapecoense</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180418033000 -0300" stop="20180418050000 -0300" channel="SporTV 2">
+    <title lang="pt">Liga Nacional de Futsal: Sorocaba x Jaraguá</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol de Salão</category>
+  </programme>
+  <programme start="20180418050000 -0300" stop="20180418060000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Internacional x Bahia</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180418060000 -0300" stop="20180418070000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Santos x Ceará</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180418070000 -0300" stop="20180418080000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Botafogo x Palmeiras</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180418080000 -0300" stop="20180418090000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Corinthians x Fluminense</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180418090000 -0300" stop="20180418100000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - São Paulo x Paraná</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180418100000 -0300" stop="20180418110000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Cerro Porteño (PAR) x Grêmio</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180418110000 -0300" stop="20180418120000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Internacional x Bahia</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180418120000 -0300" stop="20180418130000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Botafogo x Palmeiras</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180418130000 -0300" stop="20180418131000 -0300" channel="SporTV 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180418131000 -0300" stop="20180418141000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Cerro Porteño (PAR) x Grêmio</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180418141000 -0300" stop="20180418142000 -0300" channel="SporTV 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180418142000 -0300" stop="20180418152000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Vasco x Atlético MG</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180418152000 -0300" stop="20180418153000 -0300" channel="SporTV 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180418153000 -0300" stop="20180418163000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Corinthians x Fluminense</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180418163000 -0300" stop="20180418164000 -0300" channel="SporTV 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180418164000 -0300" stop="20180418174000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Botafogo x Palmeiras</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180418174000 -0300" stop="20180418175000 -0300" channel="SporTV 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180418175000 -0300" stop="20180418185000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Cerro Porteño (PAR) x Grêmio</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180418185000 -0300" stop="20180418190000 -0300" channel="SporTV 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180418190000 -0300" stop="20180418193000 -0300" channel="SporTV 2">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <desc lang="pt">Só aqui no seu canal campeão, você confere tudo que cerca o próximo evento que será exibido pelo SporTV, com os comentários e as reportagens dos melhores comentaristas esportivos da TV brasileira(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180418193000 -0300" stop="20180418213000 -0300" channel="SporTV 2">
+    <title lang="pt">NBB: Mogi das Cruzes x Caxias - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180418213000 -0300" stop="20180418214500 -0300" channel="SporTV 2">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <desc lang="pt">Só aqui no seu canal campeão, você confere tudo que cerca o próximo evento que será exibido pelo SporTV, com os comentários e as reportagens dos melhores comentaristas esportivos da TV brasileira(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180418214500 -0300" stop="20180418234500 -0300" channel="SporTV 2">
+    <title lang="pt">Náutico x Ponte Preta - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180418234500 -0300" stop="20180418235500 -0300" channel="SporTV 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180418235500 -0300" stop="20180419010000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Cerro Porteño (PAR) x Grêmio</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180419010000 -0300" stop="20180419020000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Independiente (ARG) X Corinthians</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180419020000 -0300" stop="20180419030000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Botafogo x Palmeiras</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180419030000 -0300" stop="20180419040000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - PSG x Monaco</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180419040000 -0300" stop="20180419050000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Santos x Ceará</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180419050000 -0300" stop="20180419060000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Internacional x Bahia</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180419060000 -0300" stop="20180419070000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Cerro Porteño (PAR) x Grêmio</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180419070000 -0300" stop="20180419080000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - PSG x Monaco</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180419080000 -0300" stop="20180419090000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Ferroviário CE x Atlético MG</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180419090000 -0300" stop="20180419100000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Flamengo x Ind. Santa Fé (COL)</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180419100000 -0300" stop="20180419110000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Independiente (ARG) X Corinthians</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180419110000 -0300" stop="20180419120000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Botafogo x Palmeiras</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180419120000 -0300" stop="20180419130000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Cerro Porteño (PAR) x Grêmio</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180419130000 -0300" stop="20180419131000 -0300" channel="SporTV 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180419131000 -0300" stop="20180419141000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Independiente (ARG) X Corinthians</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180419141000 -0300" stop="20180419142000 -0300" channel="SporTV 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180419142000 -0300" stop="20180419152000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Flamengo x Ind. Santa Fé (COL)</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180419152000 -0300" stop="20180419153000 -0300" channel="SporTV 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180419153000 -0300" stop="20180419163000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - Ferroviário CE x Atlético MG</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180419163000 -0300" stop="20180419164000 -0300" channel="SporTV 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180419164000 -0300" stop="20180419173000 -0300" channel="SporTV 2">
+    <title lang="pt">UFC 223 - Khabib x Iaquinta</title>
+    <desc lang="pt">Neste UFC, Iaquinta encara Khabib Nurmagomedov. Rose Namajunas e Joanna Jedrzejczyk fazem uma revanche valendo o cinturão das peso palha. O peso-pena brasileiro Renato Moicano enfrenta Calvin Kattar, e muito mais(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20180419173000 -0300" stop="20180419180000 -0300" channel="SporTV 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180419180000 -0300" stop="20180419184500 -0300" channel="SporTV 2">
+    <title lang="pt">Baú do Esporte</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180419184500 -0300" stop="20180419190000 -0300" channel="SporTV 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180419190000 -0300" stop="20180419193000 -0300" channel="SporTV 2">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <desc lang="pt">Só aqui no seu canal campeão, você confere tudo que cerca o próximo evento que será exibido pelo SporTV, com os comentários e as reportagens dos melhores comentaristas esportivos da TV brasileira(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180419193000 -0300" stop="20180419213000 -0300" channel="SporTV 2">
+    <title lang="pt">NBB: Flamengo x Minas - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Basquete</category>
+  </programme>
+  <programme start="20180419213000 -0300" stop="20180419233000 -0300" channel="SporTV 2">
+    <title lang="pt">Alianza Lima (PER) x Jr. Barranquilla (COL) - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180419233000 -0300" stop="20180419234000 -0300" channel="SporTV 2">
+    <title lang="pt">SporTV News - Vivo</title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180419234000 -0300" stop="20180420003000 -0300" channel="SporTV 2">
+    <title lang="pt">VT - São Paulo x Atlético PR</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180418000000 -0300" stop="20180418003000 -0300" channel="ESPN">
+    <title lang="pt">Último Trem Para a Rússia: Kazan</title>
+    <desc lang="pt">Série original da ESPN: Último Trem para Rússia: De São Petesburgo à Sibéria, a Rússia - maior país do mundo- pode ser atravessada inteira pelos trens da linha Trans-Siberiana. Nessa jornada vamos explorar cada cidade sede de jogo(n)</desc>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180418003000 -0300" stop="20180418020000 -0300" channel="ESPN">
+    <title lang="pt">Bola da Vez: Alex</title>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180418020000 -0300" stop="20180418030000 -0300" channel="ESPN">
+    <title lang="pt">Sportscenter: 3ª Edição</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180418030000 -0300" stop="20180418050000 -0300" channel="ESPN">
+    <title lang="pt">PSG x Monaco</title>
+    <desc lang="pt">Tradicional e charmoso, o Campeonato Francês passou a receber investimentos milionários nas últimas temporadas. Comandado por Neymar, o jogador mais caro mundo, o PSG busca voltar ao topo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180418050000 -0300" stop="20180418070000 -0300" channel="ESPN">
+    <title lang="pt">Bayern De Munique x Borussia M'gladbach</title>
+    <desc lang="pt">A Bundesliga é o torneio de futebol com a maior média de público do mundo. Torcidas apaixonadas e grandes estrelas do esporte disputam o aclamado título do Campeonato Alemão(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180418070000 -0300" stop="20180418073000 -0300" channel="ESPN">
+    <title lang="pt">Último Trem Para a Rússia: Kazan</title>
+    <desc lang="pt">Série original da ESPN: Último Trem para Rússia: De São Petesburgo à Sibéria, a Rússia - maior país do mundo- pode ser atravessada inteira pelos trens da linha Trans-Siberiana. Nessa jornada vamos explorar cada cidade sede de jog(n)</desc>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180418073000 -0300" stop="20180418090000 -0300" channel="ESPN">
+    <title lang="pt">Bola da Vez: Alex</title>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180418090000 -0300" stop="20180418100000 -0300" channel="ESPN">
+    <title lang="pt">ESPN AGORA - Vivo</title>
+    <desc lang="pt">O ESPN Agora faz um giro com as principais notícias esportivas, os bastidores e os destaques da programação(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180418100000 -0300" stop="20180418115500 -0300" channel="ESPN">
+    <title lang="pt">Bate-Bola Bom Dia - Vivo</title>
+    <desc lang="pt">Comece o dia com um panorama completo do futebol. Os principais lances, as últimas notícias e as melhores coberturas de treinamentos. Qualidade de informação sem perder o clima descontraído(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180418115500 -0300" stop="20180418125500 -0300" channel="ESPN">
+    <title lang="pt">Sportscenter: 1ª Edição - Vivo</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180418125500 -0300" stop="20180418153500 -0300" channel="ESPN">
+    <title lang="pt">Bate-Bola Debate - Vivo</title>
+    <desc lang="pt">Confira as análises e discussões sobre os principais temas do dia. Participe ativamente, através da internet, e opine sobre os mais polêmicos e relevantes assuntos do mundo da bola(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180418153500 -0300" stop="20180418174000 -0300" channel="ESPN">
+    <title lang="pt">Bournemouth x Manchester United - Vivo</title>
+    <desc lang="pt">Acompanhe, com exclusividade nos canais ESPN, o campeonato mais disputado e emocionante do mundo. Excelentes jogadores e duelos entre grandes técnicos. Premier League: você só vê na ESPN(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180418174000 -0300" stop="20180418181500 -0300" channel="ESPN">
+    <title lang="pt">Futebol No Mundo - Vivo</title>
+    <desc lang="pt">Programa especialmente dedicado ao futebol internacional. Reportagens, entrevistas exclusivas, matérias históricas e muitos gols dos principais campeonatos do mundo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180418181500 -0300" stop="20180418204500 -0300" channel="ESPN">
+    <title lang="pt">Bate-Bola Na Veia - Vivo</title>
+    <desc lang="pt">Fique por dentro das últimas notícias e análises do futebol. Diretamente dos estádios, os repórteres trazem informações exclusivas sobre os confrontos do dia. Um guia completo para acompanhar a rodada(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180418204500 -0300" stop="20180418214500 -0300" channel="ESPN">
+    <title lang="pt">Sportscenter: 2ª Edição - Vivo</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180418214500 -0300" stop="20180418231500 -0300" channel="ESPN">
+    <title lang="pt">Resenha ESPN</title>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180418231500 -0300" stop="20180418234000 -0300" channel="ESPN">
+    <title lang="pt">Celta x Barcelona</title>
+    <desc lang="pt">A Liga das Estrelas reúne os mais fantásticos jogadores do futebol mundial. Lionel Messi, do Barcelona, e Cristiano Ronaldo, do Real Madrid, comandam suas equipes em busca do cobiçado título espanhol(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180418234000 -0300" stop="20180419020000 -0300" channel="ESPN">
+    <title lang="pt">Linha de Passe: Mesa Redonda - Vivo</title>
+    <desc lang="pt">Os craques dos canais ESPN entram em campo, toda segunda e sexta, para a mais conceituada mesa redonda do futebol. A análise completa da rodada, sempre com olhar crítico e imparcialidade(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180419020000 -0300" stop="20180419041500 -0300" channel="ESPN">
+    <title lang="pt">MLB: Cleveland Indians x Minnesota Twins</title>
+    <desc lang="pt">A MLB reúne 30 equipes norte-americanas no mais antigo e importante campeonato de beisebol do mundo. As grandes estrelas disputam, a cada rebatida, o aclamado título da World Series(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180419041500 -0300" stop="20180419060000 -0300" channel="ESPN">
+    <title lang="pt">Bayer Leverkusen x Bayern de Munique</title>
+    <desc lang="pt">A Copa da Alemanha é disputada desde 1934 e é considerada segunda competição mais importante do país. Reunindo equipes de todas as divisões, é garantia de duelos eletrizantes(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180419060000 -0300" stop="20180419070000 -0300" channel="ESPN">
+    <title lang="pt">Sportscenter: 3ª Edição</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180419070000 -0300" stop="20180419080000 -0300" channel="ESPN">
+    <title lang="pt">Sportscenter: 3ª Edição</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180419080000 -0300" stop="20180419090000 -0300" channel="ESPN">
+    <title lang="pt">Sportscenter: 3ª Edição</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180419090000 -0300" stop="20180419111000 -0300" channel="ESPN">
+    <title lang="pt">NBA: New Orleans Pelicans x Portland Trail Blazers</title>
+    <desc lang="pt">A ESPN tem a melhor cobertura da NBA, a mais importante liga de basquete do mundo. Toda semana, as maiores estrelas do esporte se enfrentam em duelos emocionantes(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180419111000 -0300" stop="20180419125500 -0300" channel="ESPN">
+    <title lang="pt">Celta x Barcelona</title>
+    <desc lang="pt">A Liga das Estrelas reúne os mais fantásticos jogadores do futebol mundial. Messi, do Barcelona, e Cristiano Ronaldo, do Real Madrid, comandam suas equipes em busca do cobiçado título espanhol(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180419125500 -0300" stop="20180419150000 -0300" channel="ESPN">
+    <title lang="pt">Benevento x Atalanta - Vivo</title>
+    <desc lang="pt">Os grandes clubes do futebol italiano batalham pela conquista do Scudetto. Tradição, força e disciplina tática marcam as emocionantes disputas da Serie A(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180419150000 -0300" stop="20180419153500 -0300" channel="ESPN">
+    <title lang="pt">Abre o Jogo: Campeonato Italiano - Vivo</title>
+    <desc lang="pt">Abertura da transmissão das grandes competições esportivas. Análises completas, materiais exclusivos e todas as últimas notícias sobre o evento que virá a seguir(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180419153500 -0300" stop="20180419174500 -0300" channel="ESPN">
+    <title lang="pt">Crotone x Juventus - Vivo</title>
+    <desc lang="pt">Os grandes clubes do futebol italiano batalham pela conquista do Scudetto. Tradição, força e disciplina tática marcam as emocionantes disputas da Serie A(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180419174500 -0300" stop="20180419194500 -0300" channel="ESPN">
+    <title lang="pt">FIFA Filmes: Alemanha 2006 - The Story Of The 2006 Fifa World Cup</title>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180419194500 -0300" stop="20180419200000 -0300" channel="ESPN">
+    <title lang="pt">NBA: Abre o Jogo - Vivo</title>
+    <desc lang="pt">Abertura da transmissão das grandes competições esportivas. Análises completas, materiais exclusivos e todas as últimas notícias sobre o evento que virá a seguir(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180419200000 -0300" stop="20180419223000 -0300" channel="ESPN">
+    <title lang="pt">NBA: Indiana Pacers x Cleveland Cavaliers - Vivo</title>
+    <desc lang="pt">A ESPN tem a melhor cobertura da NBA, a mais importante liga de basquete do mundo. Toda semana, as maiores estrelas do esporte se enfrentam em duelos emocionantes(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180419223000 -0300" stop="20180419230000 -0300" channel="ESPN">
+    <title lang="pt">Último Trem Para a Rússia: Kazan</title>
+    <desc lang="pt">Série original da ESPN: Último Trem para Rússia: De São Petesburgo à Sibéria, a Rússia - maior país do mundo- pode ser atravessada inteira pelos trens da linha Trans-Siberiana. Nessa jornada vamos explorar cada cidade sede de jogo(n)</desc>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180419230000 -0300" stop="20180419233000 -0300" channel="ESPN">
+    <title lang="pt">Multiplayer</title>
+    <desc lang="pt">Gameplays, tutoriais e dicas para FIFA, PES, NBA2k e Madden(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180419233000 -0300" stop="20180420010000 -0300" channel="ESPN">
+    <title lang="pt">EA Sports Madden NFL 18 Ultimate League</title>
+    <desc lang="pt">A FIFA Ultimate Team Championship Series é uma competição esportiva composta por seis qualificadores regionais e um evento final onde os competidores terão a oportunidade de competir pela sua participação no prize pool combinado d(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+</tv>
