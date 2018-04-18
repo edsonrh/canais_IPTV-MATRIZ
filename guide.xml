@@ -5,6 +5,11 @@
     <icon src="http://www.lineup.tv.br/canais/sportv2.gif" />
     <url>http://www.lineup.net.br</url>
   </channel>
+  <channel id="FX">
+    <display-name lang="pt">FX</display-name>
+    <icon src="http://www.lineup.tv.br/canais/fx.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
   <programme start="20180418003000 -0300" stop="20180418013000 -0300" channel="SporTV 2">
     <title lang="pt">VT - Cerro Porteño (PAR) x Grêmio</title>
     <category lang="pt">Esporte</category>
@@ -316,5 +321,349 @@
     <title lang="pt">VT - São Paulo x Atlético PR</title>
     <category lang="pt">Esporte</category>
     <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180418000000 -0300" stop="20180418015000 -0300" channel="FX">
+    <title lang="pt">O Profissional</title>
+    <desc lang="pt">Um traficante de drogas e sua família são assassinados por Gary Stansfield, um corrupto policial da divisão de narcóticos(n)</desc>
+    <date>1994</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>França</country>
+  </programme>
+  <programme start="20180418015000 -0300" stop="20180418021500 -0300" channel="FX">
+    <title lang="pt">American Dad - S10E15</title>
+    <desc lang="pt">Uma comédia animada que gira em torno de Stan Smith, um agente da CIA em Langley Falls, na Virginia, cujo principal objetivo na vida é manter a segurança nacional(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180418021500 -0300" stop="20180418024000 -0300" channel="FX">
+    <title lang="pt">Uma Família da Pesada - S13E13</title>
+    <desc lang="pt">Peter se encontra frustrado quando jogadores do time rival agradecem a Deus por terem derrotado seu amado time, o New England Patriots, e então ele e seus amigos embarcam em uma missão global para encontrar Deus(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180418024000 -0300" stop="20180418030500 -0300" channel="FX">
+    <title lang="pt">Bob's Burgers - S3E19</title>
+    <desc lang="pt">Depois do carro da família quebrar e arruinar os planos para uma noite no cinema, os Belchers acabam competindo no programa de TV "Family Fracas!". Para o desespero do apresentador do programa(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180418030500 -0300" stop="20180418050000 -0300" channel="FX">
+    <title lang="pt">Alta Tensão</title>
+    <desc lang="pt">Rick Jarmin foi testemunha do Estado durante muitos anos. Ele vivia protegido pelo programa de proteção às testemunhas. Tudo ia bem até ele reencontrar sua ex-noiva. Perseguidos, vivem mil perigos(n)</desc>
+    <date>1990</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180418050000 -0300" stop="20180418063000 -0300" channel="FX">
+    <title lang="pt">Cemitério Maldito 2</title>
+    <desc lang="pt">Algumas vezes a morte é melhor que a vida. Mas o arrepiante terror que assolou Ludlow, no Maine, em "Cemitério Maldito", vive agora nesta sufocante sequência do sucesso de 1989, escrito por Stephen King(n)</desc>
+    <date>1992</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Terror</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180418063000 -0300" stop="20180418070000 -0300" channel="FX">
+    <title lang="pt">Uma Família da Pesada - S10E12</title>
+    <desc lang="pt">Após um acidente de trânsito, Peter e Brian são obrigados a assistir a uma reunião dos Alcoólicos Anônimos para solucionar seus problemas com o álcool(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180418070000 -0300" stop="20180418073000 -0300" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180418073000 -0300" stop="20180418080000 -0300" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180418080000 -0300" stop="20180418083000 -0300" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180418083000 -0300" stop="20180418090000 -0300" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180418090000 -0300" stop="20180418100000 -0300" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180418100000 -0300" stop="20180418120000 -0300" channel="FX">
+    <title lang="pt">A Filha do General</title>
+    <desc lang="pt">Investigador militar é designado para descobrir o responsável pelo estupro e assassinato da filha de um general(n)</desc>
+    <date>1999</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Policial</category>
+    <country>Alemanha/EUA</country>
+  </programme>
+  <programme start="20180418120000 -0300" stop="20180418121500 -0300" channel="FX">
+    <title lang="pt">American Dad - S10E16</title>
+    <desc lang="pt">Uma comédia animada que gira em torno de Stan Smith, um agente da CIA em Langley Falls, na Virginia, cujo principal objetivo na vida é manter a segurança nacional(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180418121500 -0300" stop="20180418124000 -0300" channel="FX">
+    <title lang="pt">American Dad - S10E17</title>
+    <desc lang="pt">Os colegas de trabalho de Stan na CIA o ensinam sobre o "rubbernecking", a arte de olhar escondido para outras mulheres, sem que suas esposas percebam(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180418124000 -0300" stop="20180418131000 -0300" channel="FX">
+    <title lang="pt">Uma Família da Pesada - S13E14</title>
+    <desc lang="pt">Quando Chris descobre que ele é o herdeiro da fortuna de Carter - mas se recusa a aceitar o dinheiro -, Peter toma medidas drásticas para manter a riqueza na família(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180418131000 -0300" stop="20180418133500 -0300" channel="FX">
+    <title lang="pt">Bob's Burgers - S3E11</title>
+    <desc lang="pt">Hugo, o repugnante inspetor de saúde que atormenta Bob, deixa seu trabalho para se tornar um nudista depois de descobrir a nova praia nudista da cidade(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180418133500 -0300" stop="20180418150500 -0300" channel="FX">
+    <title lang="pt">A Arma Perfeita</title>
+    <desc lang="pt">Em um futuro não muito distante, um assassino de elite não consegue terminar o seu alvo e encontra-se no funcionamento da organização do Estado totalitário secreta do governo que o emprega(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180418150500 -0300" stop="20180418163500 -0300" channel="FX">
+    <title lang="pt">Aladdin e a Lâmpada da Morte</title>
+    <desc lang="pt">Aladdin e seu amigo Ali, libertam um gênio poderoso de uma lâmpada. A criatura maligna destrói tudo em seu caminho na busca pelo poder absoluto(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Terror</category>
+    <country>Canadá/EUA</country>
+  </programme>
+  <programme start="20180418163500 -0300" stop="20180418182000 -0300" channel="FX">
+    <title lang="pt">Volcano - A Fúria</title>
+    <desc lang="pt">Um vulcão começa a entrar em erupção em plena Los Angeles, e apenas uma geóloga e um técnico podem encontrar a solução para salvar a população da cidade(n)</desc>
+    <date>1997</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180418182000 -0300" stop="20180418203000 -0300" channel="FX">
+    <title lang="pt">Maze Runner: Prova de Fogo</title>
+    <desc lang="pt">Após escapar do labirinto, Thomas e os garotos que o acompanharam em sua fuga da Clareira precisam lidar com uma realidade bem diferente: a superfície da Terra foi queimada pelo sol(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180418203000 -0300" stop="20180418223000 -0300" channel="FX">
+    <title lang="pt">Fique Rico ou Morra Tentando</title>
+    <desc lang="pt">Após sobreviver a um tiroteio, um jovem muda de vida após conhecer um ex-condenado que sonha em se tornar uma estrela do rap(n)</desc>
+    <date>2005</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180418223000 -0300" stop="20180419000500 -0300" channel="FX">
+    <title lang="pt">O Escorpião Rei</title>
+    <desc lang="pt">Há cerca de 5.000 anos, a força do Mal tenta exterminar a população nômade do deserto do Egito, mas o guerreiro Mathayus lutará contra isso(n)</desc>
+    <date>2002</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180419000500 -0300" stop="20180419015500 -0300" channel="FX">
+    <title lang="pt">Colombiana - Em Busca de Vingança</title>
+    <desc lang="pt">Cataleya se tornou uma assassina cruel após testemunhar a morte de seus pais quando era uma criança em Bogotá. Ela trabalha como assassina de aluguel, mas em seu tempo livre fica atenta, procurando pelo mafioso que matou seus pais(n)</desc>
+    <date>2011</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>França/EUA</country>
+  </programme>
+  <programme start="20180419015500 -0300" stop="20180419022000 -0300" channel="FX">
+    <title lang="pt">American Dad - S10E18</title>
+    <desc lang="pt">Stan é demitido da CIA em um corte de verba, mas como seus 20 anos de experiência de trabalho são confidenciais e ficam escondidos de seu "registro permanente", o único emprego que ele consegue é na mercearia local, de onde Steve é gerente(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180419022000 -0300" stop="20180419025000 -0300" channel="FX">
+    <title lang="pt">Uma Família da Pesada - S13E15</title>
+    <desc lang="pt">Peter começa a fumar e é abordado por Mr. Stone, um executivo de publicidade que quer que ele seja o rosto em sua campanha antifumo, mesmo que Peter continue a fumar. Enquanto isso, Stewie ajuda Chris a enfrentar os valentões da escola(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180419025000 -0300" stop="20180419031500 -0300" channel="FX">
+    <title lang="pt">Bob's Burgers - S3E12</title>
+    <desc lang="pt">Alguém está fazendo cocô por toda a escola infantil de Belcher e Tina se vê na missão de chegar "aos fundos" da situação(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180419031500 -0300" stop="20180419045500 -0300" channel="FX">
+    <title lang="pt">Cemitério Maldito 2</title>
+    <desc lang="pt">Algumas vezes a morte é melhor que a vida. Mas o arrepiante terror que assolou Ludlow, no Maine, em "Cemitério Maldito", vive agora nesta sufocante sequência do sucesso de 1989, escrito por Stephen King(n)</desc>
+    <date>1992</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Terror</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180419045500 -0300" stop="20180419063000 -0300" channel="FX">
+    <title lang="pt">Pânico na Floresta 6</title>
+    <desc lang="pt">Uma herança repentina e misteriosa traz Danny e seus amigos para Hobb Springs, um resort esquecido nas profundezas das montanhas de West Virginia. Agora eles precisam fugir de um grupo de canibais monstruosos(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Terror</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180419063000 -0300" stop="20180419070000 -0300" channel="FX">
+    <title lang="pt">Uma Família da Pesada - S10E13</title>
+    <desc lang="pt">Em sua busca por um novo hobby, Chris conhece um títere chamado Franz, um velho amigo de Herbert. Apesar das advertências de Herbert, Chris e Franz ficam amigos até que o passado de Franz vem à tona(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180419070000 -0300" stop="20180419073000 -0300" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180419073000 -0300" stop="20180419080000 -0300" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180419080000 -0300" stop="20180419083000 -0300" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180419083000 -0300" stop="20180419090000 -0300" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180419090000 -0300" stop="20180419100000 -0300" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180419100000 -0300" stop="20180419114000 -0300" channel="FX">
+    <title lang="pt">Cemitério Maldito 2</title>
+    <desc lang="pt">Algumas vezes a morte é melhor que a vida. Mas o arrepiante terror que assolou Ludlow, no Maine, em "Cemitério Maldito", vive agora nesta sufocante sequência do sucesso de 1989, escrito por Stephen King(n)</desc>
+    <date>1992</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Terror</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180419114000 -0300" stop="20180419120000 -0300" channel="FX">
+    <title lang="pt">American Dad - S10E19</title>
+    <desc lang="pt">Hayley começa um estágio em um canal de notícias trabalhando para uma repórter que segue a linhas de Nancy Grace, e que por acaso é Roger fantasiado(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180419120000 -0300" stop="20180419122000 -0300" channel="FX">
+    <title lang="pt">American Dad - S10E20</title>
+    <desc lang="pt">Um ano depois da abdução de Jeff, Hayley ainda está inconsolável - até conhecer o milionário Matt Davis, que pode ser capaz de ajudá-la a seguir em frente(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180419122000 -0300" stop="20180419124500 -0300" channel="FX">
+    <title lang="pt">Uma Família da Pesada - S13E16</title>
+    <desc lang="pt">Brian passa uma DST para Stewie. Enquanto isso, Peter e os garotos brigam com outro grupo pelo The Drunken Clam(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180419124500 -0300" stop="20180419131000 -0300" channel="FX">
+    <title lang="pt">Bob's Burgers - S3E13</title>
+    <desc lang="pt">Quando uma panqueca em formato de coração não é suficiente, as crianças convencem Bob a deixá-las faltar na escola para encontrar um presente de Dia dos Namorados que irá impressionar Linda(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180419131000 -0300" stop="20180419145000 -0300" channel="FX">
+    <title lang="pt">Atrás das Linhas Inimigas II: O Eixo do Mal</title>
+    <desc lang="pt">Para um grupo de soldados norte-americanos enviado à Coréia do Norte o fracasso não é uma opção: eles têm em suas mãos o futuro do mundo, ameaçado pela produção de um míssil nuclear altamente destrutivo(n)</desc>
+    <date>2006</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180419145000 -0300" stop="20180419165000 -0300" channel="FX">
+    <title lang="pt">Livre</title>
+    <desc lang="pt">Após a morte de sua mãe, Cheryl nunca mais foi a mesma. Depois de passar por um divórcio e uma fase sombria em sua vida, ela decide fazer uma trilha de mais de mil milhas pela costa norte-americana do oceano Pacífico para reencontrar a si mesma(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180419165000 -0300" stop="20180419184000 -0300" channel="FX">
+    <title lang="pt">American Pie: O Reencontro</title>
+    <desc lang="pt">Treze anos depois da formatura os ex-companheiros voltam a East Great Fall para desfrutar de uma verdadeira festa de reencontro, onde tudo pode passar. Estes adultos deixarão aparecer os adolescentes de anos atrás?(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180419184000 -0300" stop="20180419204000 -0300" channel="FX">
+    <title lang="pt">Fique Rico ou Morra Tentando</title>
+    <desc lang="pt">Após sobreviver a um tiroteio, um jovem muda de vida após conhecer um ex-condenado que sonha em se tornar uma estrela do rap(n)</desc>
+    <date>2005</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180419204000 -0300" stop="20180419223000 -0300" channel="FX">
+    <title lang="pt">Triplo X 2 - Estado de Emergência</title>
+    <desc lang="pt">Um grupo de rebeldes, dentro do exército norte-americano, ameaça a vida do Presidente. O programa XXX decide mandar a Washington seu novo agente, Darius Stone. Seu passado e habilidades serão suas armas para deter o inimigo(n)</desc>
+    <date>2005</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180419223000 -0300" stop="20180420002000 -0300" channel="FX">
+    <title lang="pt">O Preço do Amanhã</title>
+    <desc lang="pt">Em um futuro próximo, tempo literalmente significa dinheiro para sobreviver. Nesse contexto, Will Salas é acusado e perseguido pelos guardiões do tempo por receber uma enorme e misteriosa doação(n)</desc>
+    <date>2011</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA</country>
   </programme>
 </tv>
