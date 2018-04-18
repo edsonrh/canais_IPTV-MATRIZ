@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="42" tvg-name="FX" tvg-logo="http://img.miptv.ws/FX.png" grop-title="FILMES/SERIES",FX
+http://cdn.miptv.ws:25463/live/jbndx/jbnhf/833.ts
+#EXTINF:-1 tvg-id="1104" tvg-logo="https://goo.gl/j5xbUq" group-title="Filmes e Series",FOX HD
+http://cdn.miptv.ws:25463/live/jbndx/jbnhf/832.ts
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD" tvg-logo="http://img.miptv.ws/HBO.png" grop-title="FILMES/SERIES",HBO HD
+http://cdn.miptv.ws:25463/live/jbndx/jbnhf/820.ts
+#EXTINF:-1 tvg-id="SEH" tvg-name="Sony HD" tvg-logo="http://img.miptv.ws/Canal_Sony.png" grop-title="FILMES/SERIES",Sony HD
+http://cdn.miptv.ws:25463/live/jbndx/jbnhf/880.ts
+#EXTINF:-1 tvg-id="CCE" tvg-name="Comedy Central" tvg-logo="http://img.miptv.ws/Comedy_Central.png" grop-title="FILMES E SERIES",COMEDY CENTRAL
+http://cdn.miptv.ws:25463/live/jbndx/jbnhf/873.ts
+#EXTINF:-1 tvg-id="SPTV2" tvg-name="SporTV 2 HD" tvg-logo="https://goo.gl/ey4qL8" grop-title="ESPORTES",SPORTV 2 HD
+http://cdn.miptv.ws:25463/live/jbndx/jbnhf/871.ts
+#EXTINF:-1 tvg-id="CAP" tvg-name="Animal Planet" tvg-logo="https://goo.gl/DyctLk" grop-title="DOCUMENTARIOS",Animal Planet
+http://cdn.miptv.ws:25463/live/jbndx/jbnhf/870.ts
