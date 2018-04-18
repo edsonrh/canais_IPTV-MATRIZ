@@ -171,7 +171,7 @@
     <category lang="pt">Esporte</category>
     <category lang="pt">Futebol</category>
   </programme>
-  <programme start="20180418000000 -0300" stop="20180418015000 -0300" channel="FX">
+  <programme start="20180418000000 -0300" stop="20180418014800 -0300" channel="FX">
     <title lang="pt">O Profissional</title>
     <desc lang="pt">Um traficante de drogas e sua família são assassinados por Gary Stansfield, um corrupto policial da divisão de narcóticos(n)</desc>
     <date>1994</date>
@@ -179,14 +179,14 @@
     <category lang="pt">Ação</category>
     <country>França</country>
   </programme>
-  <programme start="20180418015000 -0300" stop="20180418021500 -0300" channel="FX">
+  <programme start="20180418014800 -0300" stop="20180418020900 -0300" channel="FX">
     <title lang="pt">American Dad - S10E15</title>
     <desc lang="pt">Uma comédia animada que gira em torno de Stan Smith, um agente da CIA em Langley Falls, na Virginia, cujo principal objetivo na vida é manter a segurança nacional(n)</desc>
     <category lang="pt">Séries</category>
     <category lang="pt">Animação</category>
     <country>EUA</country>
   </programme>
-  <programme start="20180418021500 -0300" stop="20180418024000 -0300" channel="FX">
+  <programme start="20180418020900 -0300" stop="20180418023100 -0300" channel="FX">
     <title lang="pt">Uma Família da Pesada - S13E13</title>
     <desc lang="pt">Peter se encontra frustrado quando jogadores do time rival agradecem a Deus por terem derrotado seu amado time, o New England Patriots, e então ele e seus amigos embarcam em uma missão global para encontrar Deus(n)</desc>
     <date>2014</date>
@@ -194,7 +194,7 @@
     <category lang="pt">Animação</category>
     <country>EUA</country>
   </programme>
-  <programme start="20180418024000 -0300" stop="20180418030500 -0300" channel="FX">
+  <programme start="20180418023100 -0300" stop="20180418025200 -0300" channel="FX">
     <title lang="pt">Bob's Burgers - S3E19</title>
     <desc lang="pt">Depois do carro da família quebrar e arruinar os planos para uma noite no cinema, os Belchers acabam competindo no programa de TV "Family Fracas!". Para o desespero do apresentador do programa(n)</desc>
     <date>2012</date>
@@ -202,7 +202,7 @@
     <category lang="pt">Animação</category>
     <country>EUA</country>
   </programme>
-  <programme start="20180418030500 -0300" stop="20180418050000 -0300" channel="FX">
+  <programme start="20180418025200 -0300" stop="20180418043900 -0300" channel="FX">
     <title lang="pt">Alta Tensão</title>
     <desc lang="pt">Rick Jarmin foi testemunha do Estado durante muitos anos. Ele vivia protegido pelo programa de proteção às testemunhas. Tudo ia bem até ele reencontrar sua ex-noiva. Perseguidos, vivem mil perigos(n)</desc>
     <date>1990</date>
@@ -210,7 +210,7 @@
     <category lang="pt">Ação</category>
     <country>EUA</country>
   </programme>
-  <programme start="20180418050000 -0300" stop="20180418063000 -0300" channel="FX">
+  <programme start="20180418043900 -0300" stop="20180418061700 -0300" channel="FX">
     <title lang="pt">Cemitério Maldito 2</title>
     <desc lang="pt">Algumas vezes a morte é melhor que a vida. Mas o arrepiante terror que assolou Ludlow, no Maine, em "Cemitério Maldito", vive agora nesta sufocante sequência do sucesso de 1989, escrito por Stephen King(n)</desc>
     <date>1992</date>
@@ -218,9 +218,16 @@
     <category lang="pt">Terror</category>
     <country>EUA</country>
   </programme>
-  <programme start="20180418063000 -0300" stop="20180418070000 -0300" channel="FX">
+  <programme start="20180418061700 -0300" stop="20180418063800 -0300" channel="FX">
     <title lang="pt">Uma Família da Pesada - S10E12</title>
     <desc lang="pt">Após um acidente de trânsito, Peter e Brian são obrigados a assistir a uma reunião dos Alcoólicos Anônimos para solucionar seus problemas com o álcool(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180418063800 -0300" stop="20180418070000 -0300" channel="FX">
+    <title lang="pt">Uma Família da Pesada - S10E13</title>
+    <desc lang="pt">Em sua busca por um novo hobby, Chris conhece um títere chamado Franz, um velho amigo de Herbert. Apesar das advertências de Herbert, Chris e Franz ficam amigos até que o passado de Franz vem à tona(n)</desc>
     <category lang="pt">Séries</category>
     <category lang="pt">Animação</category>
     <country>EUA</country>
@@ -255,7 +262,7 @@
     <category lang="pt">Variedades</category>
     <category lang="pt">Diversos</category>
   </programme>
-  <programme start="20180418100000 -0300" stop="20180418120000 -0300" channel="FX">
+  <programme start="20180418100000 -0300" stop="20180418121000 -0300" channel="FX">
     <title lang="pt">A Filha do General</title>
     <desc lang="pt">Investigador militar é designado para descobrir o responsável pelo estupro e assassinato da filha de um general(n)</desc>
     <date>1999</date>
@@ -263,14 +270,7 @@
     <category lang="pt">Policial</category>
     <country>Alemanha/EUA</country>
   </programme>
-  <programme start="20180418120000 -0300" stop="20180418121500 -0300" channel="FX">
-    <title lang="pt">American Dad - S10E16</title>
-    <desc lang="pt">Uma comédia animada que gira em torno de Stan Smith, um agente da CIA em Langley Falls, na Virginia, cujo principal objetivo na vida é manter a segurança nacional(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <country>EUA</country>
-  </programme>
-  <programme start="20180418121500 -0300" stop="20180418124000 -0300" channel="FX">
+  <programme start="20180418121000 -0300" stop="20180418124100 -0300" channel="FX">
     <title lang="pt">American Dad - S10E17</title>
     <desc lang="pt">Os colegas de trabalho de Stan na CIA o ensinam sobre o "rubbernecking", a arte de olhar escondido para outras mulheres, sem que suas esposas percebam(n)</desc>
     <date>2014</date>
@@ -278,15 +278,7 @@
     <category lang="pt">Animação</category>
     <country>EUA</country>
   </programme>
-  <programme start="20180418124000 -0300" stop="20180418131000 -0300" channel="FX">
-    <title lang="pt">Uma Família da Pesada - S13E14</title>
-    <desc lang="pt">Quando Chris descobre que ele é o herdeiro da fortuna de Carter - mas se recusa a aceitar o dinheiro -, Peter toma medidas drásticas para manter a riqueza na família(n)</desc>
-    <date>2014</date>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Animação</category>
-    <country>EUA</country>
-  </programme>
-  <programme start="20180418131000 -0300" stop="20180418133500 -0300" channel="FX">
+  <programme start="20180418124100 -0300" stop="20180418130900 -0300" channel="FX">
     <title lang="pt">Bob's Burgers - S3E11</title>
     <desc lang="pt">Hugo, o repugnante inspetor de saúde que atormenta Bob, deixa seu trabalho para se tornar um nudista depois de descobrir a nova praia nudista da cidade(n)</desc>
     <date>2012</date>
@@ -294,7 +286,7 @@
     <category lang="pt">Animação</category>
     <country>EUA</country>
   </programme>
-  <programme start="20180418133500 -0300" stop="20180418150500 -0300" channel="FX">
+  <programme start="20180418130900 -0300" stop="20180418144800 -0300" channel="FX">
     <title lang="pt">A Arma Perfeita</title>
     <desc lang="pt">Em um futuro não muito distante, um assassino de elite não consegue terminar o seu alvo e encontra-se no funcionamento da organização do Estado totalitário secreta do governo que o emprega(n)</desc>
     <date>2016</date>
@@ -302,7 +294,7 @@
     <category lang="pt">Ação</category>
     <country>EUA</country>
   </programme>
-  <programme start="20180418150500 -0300" stop="20180418163500 -0300" channel="FX">
+  <programme start="20180418144800 -0300" stop="20180418163100 -0300" channel="FX">
     <title lang="pt">Aladdin e a Lâmpada da Morte</title>
     <desc lang="pt">Aladdin e seu amigo Ali, libertam um gênio poderoso de uma lâmpada. A criatura maligna destrói tudo em seu caminho na busca pelo poder absoluto(n)</desc>
     <date>2012</date>
@@ -310,7 +302,7 @@
     <category lang="pt">Terror</category>
     <country>Canadá/EUA</country>
   </programme>
-  <programme start="20180418163500 -0300" stop="20180418182000 -0300" channel="FX">
+  <programme start="20180418163100 -0300" stop="20180418182300 -0300" channel="FX">
     <title lang="pt">Volcano - A Fúria</title>
     <desc lang="pt">Um vulcão começa a entrar em erupção em plena Los Angeles, e apenas uma geóloga e um técnico podem encontrar a solução para salvar a população da cidade(n)</desc>
     <date>1997</date>
@@ -318,7 +310,7 @@
     <category lang="pt">Ação</category>
     <country>EUA</country>
   </programme>
-  <programme start="20180418182000 -0300" stop="20180418203000 -0300" channel="FX">
+  <programme start="20180418182300 -0300" stop="20180418203200 -0300" channel="FX">
     <title lang="pt">Maze Runner: Prova de Fogo</title>
     <desc lang="pt">Após escapar do labirinto, Thomas e os garotos que o acompanharam em sua fuga da Clareira precisam lidar com uma realidade bem diferente: a superfície da Terra foi queimada pelo sol(n)</desc>
     <date>2015</date>
@@ -326,7 +318,7 @@
     <category lang="pt">Aventura</category>
     <country>EUA</country>
   </programme>
-  <programme start="20180418203000 -0300" stop="20180418223000 -0300" channel="FX">
+  <programme start="20180418203200 -0300" stop="20180418223000 -0300" channel="FX">
     <title lang="pt">Fique Rico ou Morra Tentando</title>
     <desc lang="pt">Após sobreviver a um tiroteio, um jovem muda de vida após conhecer um ex-condenado que sonha em se tornar uma estrela do rap(n)</desc>
     <date>2005</date>
@@ -334,7 +326,7 @@
     <category lang="pt">Drama</category>
     <country>EUA</country>
   </programme>
-  <programme start="20180418223000 -0300" stop="20180419000500 -0300" channel="FX">
+  <programme start="20180418223000 -0300" stop="20180419000000 -0300" channel="FX">
     <title lang="pt">O Escorpião Rei</title>
     <desc lang="pt">Há cerca de 5.000 anos, a força do Mal tenta exterminar a população nômade do deserto do Egito, mas o guerreiro Mathayus lutará contra isso(n)</desc>
     <date>2002</date>
