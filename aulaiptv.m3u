@@ -1,4 +1,5 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="SPORTV 2 HD" tvg-logo="https://s20.postimg.org/lomflg27h/sportv2.jpg" grop-title="ESPORTES",SporTV 2
+http://aovivo.futeboltv.com:8081/live/16/playlist.m3u8
 10.0.0.1
