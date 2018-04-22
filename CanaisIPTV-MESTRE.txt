@@ -1,5 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES NAZAFLIX" ,A Noiva do Diabo
+http://nazabox.ddns.net/anddk7.mp4?EGFTv
 
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes" ,Sedutora e Diabolica
+http://media-br-am.crackle.com/1/h/z6/rtvlf_480p.mp4?EGFTv
 
 #EXTINF:-1 
 tvg-logo="https://goo.gl/WCNJ6R" group-title="DESENHOS",A Formiga Atómica Episódio 01 Lá Vai A Triônica
