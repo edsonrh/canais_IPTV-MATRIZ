@@ -1,14 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES  DUBLADOS" ,A Noiva do Diabo
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,A Noiva do Diabo
 http://nazabox.ddns.net/anddk7.mp4?EGFTv
 
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES  DUBLADOS" ,100 Metros
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,100 Metros
 http://nazabox.ddns.net/1mlnh7.mp4?EGFTv
 
-#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes  DUBLADOS" ,Sedutora e Diabolica
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes DUBLADOS" ,Sedutora e Diabolica
 http://media-br-am.crackle.com/1/h/z6/rtvlf_480p.mp4?EGFTv
 
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES  DUBLADOS" ,A Bailarina
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,A Bailarina
 http://nazabox.ddns.net/abvbg7.mp4?EGFTv
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,A Cabana
