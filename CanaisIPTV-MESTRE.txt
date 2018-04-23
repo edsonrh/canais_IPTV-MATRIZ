@@ -34,10 +34,13 @@ http://nazabox.ddns.net/adosl7.mp4?EGFTv
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,American Poltergeist Possuídos
 http://nazabox.ddns.net/appgf7.mp4?EGFTv
+
 #EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Andron O Labirinto Negro
 http://nazabox.ddns.net/aolnk7.mp4?EGFTv
+
 #EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Animais Fantásticos e Onde Habitam
 http://nazabox.ddns.net/afeoh7.mp4?EGFTv
+
 #EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Anjos da Noite Guerra de Sangue
 http://nazabox.ddns.net/asngd7.mp4?EGFTv
 #EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Anoitecer Violento
@@ -442,6 +445,207 @@ http://nazabox.ddns.net/inf/obvp4k.mp4?EGFTv
 http://nazabox.ddns.net/inf/pavsdb.mp4?EGFTv
 #EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Saara
 http://nazabox.ddns.net/inf/srakne.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Gladiador
+http://nazabox.ddns.net/ac/gdorik.mp4?EGFTv
+
+
+
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,A Escolha Perfeita 3
+http://cdn9.ntcdn.us/lanadelrey/movies/escolhaperfeita3-dub-720p.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Jogador Nº1
+http://cdn9.ntcdn.us/lanadelrey/movies/jogadornumeroum-dub-720p.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Pedro Coelho
+http://player720p.com/filmes/pedrocoelho.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Circulo de Fogo A Revolta 
+http://player720p.com/filmes/circulodefogo.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Maria Madalena
+http://player2.aovivohd.site/Filme-Dublado/02-04/Maria.Madalena.2018.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Benji
+http://player2.aovivohd.site/Filme-Dublado/16-03/Benji%202018%20%28720p%29%20DUBLADO.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,A Vilan
+http://player2.aovivohd.site/Filme-Dublado/16-03/A%20Vil%C3%A3%202018%20720p%20DUBLADO.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Sobrenatural: A Ultima Chave
+http://cdn6.micetop.us/content/delivery/filmes2018/SOBRENATURALDUB-BAIXO.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Perda Total
+http://cdn4.micetop.us/content/httpdelivery/filmes2018/PERDATORALDUB-BAIXO.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Fala Serio. Mae!
+http://cdn4.micetop.us/content/httpdelivery/filmes2018/FALASERIEMAE-BAIXO.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Corrida Mortal 4
+http://cdn4.micetop.us/content/httpdelivery/filmes2018/DEATHRACE4-BAIXO.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Paddington 2
+http://cdn4.micetop.us/content/httpdelivery/filmes2018/PADDINGTON2-BAIXO.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Vamps A Morte nao Existe para o Amor
+http://player720p.com/filmes/vamps.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Tome suas pilulas
+http://player720p.com/filmes/take.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,12 Herois
+http://player2.aovivohd.site/Filme-Dublado/23-03/12herois.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Operacao Red Sparrow
+http://player2.aovivohd.site/Filme-Dublado/15-03/redsparrow.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes Dublados" ,Conspiracao Terrorista
+http://bit.do/LHMTvCT?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Revolt
+http://player2.aovivohd.site/Filme-Dublado/02-04/Revolt.2018.720p.BluRay.x264-DUBLADO.mp4
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Boo 2! A Madea Halloween
+http://bit.do/LHMTvBoo2?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Terra Selvagem
+http://cdn6.micetop.us/content/delivery/filmes2018/TERRASELVAGEMDUB-BAIXO.mp4
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Adeus Christopher Robin
+http://cdn9.ntcdn.us/lanadelrey/movies/adeuscristopher-dub-720p.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,O Vigilante Mascarado
+http://cdn9.ntcdn.us/lanadelrey/movies/ovigilantemascarado-dub-720p.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,O Estrangeiro
+http://cdn9.ntcdn.us/lanadelrey/movies/oestrangeiro-dub-720p.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Alvo Triplo
+http://cdn9.ntcdn.us/lanadelrey/movies/alvotriplo-dub-720p.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,The Outside LEG
+http://player2.aovivohd.site/Filme-Legendado/THEOUTSIDE2018LEG-ALTO.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,A Forma da Agua
+http://player2.aovivohd.site/Filme-Dublado/02-03/aformadaagua.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Pequena grande vida
+http://player2.aovivohd.site/Filme-Dublado/14-03/pequenagrandevida.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Honra ao Merito
+http://player2.aovivohd.site/Filme-Dublado/11-03/Honra%20ao%20M%C3%A9rito%202018%20720p%20DUBLADO.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="DESENHOS" ,Lego DC Comics Super Heroes: The Flash
+http://cdn4.micetop.us/content/httpdelivery/filmes2018/LEGOTHEFLASHDUB-BAIXO.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Aniquilacao
+http://cdn4.micetop.us/content/httpdelivery/filmes2018/ANIQUILACAODUB-BAIXO.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Mudo
+http://cdn4.micetop.us/content/httpdelivery/filmes2018/MUTEDUB-BAIXO.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Fullmetal Alchemist
+http://cdn4.micetop.us/content/httpdelivery/filmes2018/FULLMETALDUB-BAIXO.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="DESENHOS" ,Viva: A Vida e uma Festa
+http://cdn4.micetop.us/content/httpdelivery/filmes2018/COCO2017DUB-BAIXO.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="DESENHOS" ,Viva: A Vida e uma Festa
+http://cdn4.micetop.us/content/httpdelivery/filmes2018/COCO2017DUB-BAIXO.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,50 tons de liberdade
+http://cdn9.ntcdn.us/lanadelrey/movies/50tonsliberdade-dub-720p.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Espiao por Acaso LEG
+http://cdn4.micetop.us/content/httpdelivery/filmes2018/ESPIAO2018LEG-BAIXO.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,A morte te da parabens
+http://cdn4.micetop.us/content/httpdelivery/filmes2018/HAPPYDEATHDDUB-BAIXO.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Doentes de Amor
+http://cdn4.micetop.us/content/httpdelivery/filmes2018/BIGSICKDUB-BAIXO.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="DESENHOS" ,Your Name
+http://cdn4.micetop.us/content/httpdelivery/filmes2018/YOURNAMEDUB-BAIXO.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,O Juramento
+http://cdn9.ntcdn.us/lanadelrey/movies/ojuramento-dub-720p.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Liga da Justica
+http://cdn9.ntcdn.us/lanadelrey/movies/ligajustica-dub-720p.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Extraordinario
+http://cdn4.micetop.us/content/httpdelivery/filmes2018/EXTRAORDINARIODUB2018-BAIXO.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Thor: Ragnarok
+http://cdn4.micetop.us/content/httpdelivery/filmes2018/THOR2017DUB-BAIXO.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Hacker – Todo Crime Tem Um Inicio
+http://cdn4.micetop.us/content/httpdelivery/filmes2018/HACKERDUB-BAIXO.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Gosto se discute
+http://cdn4.micetop.us/content/httpdelivery/filmes2018/G0ST0S3DISCUT3-BAIXO.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Loucuras em Familia
+http://cdn4.micetop.us/content/httpdelivery/filmes2018/LOUCURAS2018DUB-BAIXO.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Pai em Dose Dupla 2
+http://cdn4.micetop.us/content/httpdelivery/filmes2018/PAIDOSEDUPLA2DUB-BAIXO.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES NACIONAIS" ,Policia Federal: A Lei e para Todos
+http://cdn4.micetop.us/content/httpdelivery/filmes2017/POFE20117-BAIXO.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Tempestade: Planeta em Furia
+http://cdn9.ntcdn.us/lanadelrey/movies/tempestadefuria-dub-720p.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="DESENHOS" ,Batman Contra o Capuz Vermelho
+http://cdn4.micetop.us/content/httpdelivery/filmes2018/BATMANREDHOODDUB-BAIXO.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FFILMES DUBLADOS" ,O Assassino: O Primeiro Alvo
+http://cdn9.ntcdn.us/lanadelrey/movies/primeiroalvo-dub-720p.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Feito na America
+http://cdn9.ntcdn.us/lanadelrey/movies/americanmade-dub-720p.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Conspiracao Terrorista
+http://player720p.com/filmes/conspiracao.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Bingo – O Rei das Manhas
+http://cdn9.ntcdn.us/lanadelrey/movies/bingo-dub-720p.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Como Se Tornar o Pior Aluno da Escola
+http://cdn9.ntcdn.us/lanadelrey/movies/pioraluno-dub-720p.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Dunkirk
+http://cdn9.ntcdn.us/lanadelrey/movies/dunkirk-dub-720p.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Mae!
+http://cdn9.ntcdn.us/lanadelrey/movies/mom-dub-720p.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,O Poder e o Impossivel
+http://chronos.feralhosting.com/locaweb123/2017/filmes/2017/0p0d3rd01mp0551v3l.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="DESENHOS" ,Pica-Pau: O Filme
+http://player2.aovivohd.site/Filme-Dublado/Pica.O.Filme.2018.Dub.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Planeta dos Macacos: A Guerra
+http://cdn4.micetop.us/content/httpdelivery/filmes2017/PDMAG-BAIXO.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,A Noiva
+http://cdn9.ntcdn.us/lanadelrey/movies/anoiva-dub-720p.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="DESENHOS" ,Atomica
+http://cdn9.ntcdn.us/lanadelrey/movies/atomica-dub-720p.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Esta e a Sua Morte – O Show
+http://cdn9.ntcdn.us/lanadelrey/movies/thisisyourdeath-dub-720p.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="DESENHOS" ,Scooby-Doo & Batman: Os Bravos e Destemidos
+http://cdn4.micetop.us/content/httpdelivery/filmes2017/SCOOBYEBATMANDUB-BAIXO.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,It - A Coisa
+http://cdn4.micetop.us/content/httpdelivery/filmes2017/ITCOISADUB-BAIXO.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Piratas do Caribe - A Vinganca de Salazar
+http://cdn4.micetop.us/content/httpdelivery/filmes2017/PIRATAS5DUB-BAIXO.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Fome de Poder
+http://cdn4.micetop.us/content/httpdelivery/filmes2017/FOMED4PODERDUB-BAIXO.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Internet O Filme
+http://cdn4.micetop.us/content/httpdelivery/filmes2017/INTERNETMOVIE-BAIXO.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES NACIONAIS" ,Vendedor de sonhos
+http://cdn4.micetop.us/content/httpdelivery/filmes2017/VENDEDORSONHOS-ALTO.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Homem-Aranha: De Volta ao Lar
+http://cdn4.micetop.us/content/httpdelivery/filmes2017/ARANHAHOMEMDUB-BAIXO.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Roxanne. Roxanne
+http://player720p.com/filmes/roxanne.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Okja
+http://cdn4.micetop.us/content/httpdelivery/filmes2017/OKJA2017DUB-BAIXO.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Megan Leavey
+http://chronos.feralhosting.com/locaweb123/2017/filmes/2017/M3G4NL34V3Y.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Detroit em Rebeliao
+http://chronos.feralhosting.com/locaweb123/2017/filmes/2017/d3t01t3mr3b3l140.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,A Torre Negra
+http://cdn4.micetop.us/content/httpdelivery/filmes2017/ATN2017DUB-BAIXO.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,A Bela e a Fera
+http://cdn4.micetop.us/content/httpdelivery/filmes2017/BELAFERA2017DUB-BAIXO.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Kingsman - Servico Secreto
+http://cdn4.micetop.us/content/httpdelivery/filmes2017/KSSDUB-BAIXO.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Colossal
+http://cdn4.micetop.us/content/httpdelivery/filmes2017/COLOSSAL2017DUB-BAIXO.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,A Mumia
+http://cdn4.micetop.us/content/httpdelivery/filmes2017/AMUMIA2017DUB-BAIXO.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="DESENHOS" ,Z - A Cidade Perdida
+http://cdn4.micetop.us/content/httpdelivery/filmes2017/ZDUB-BAIXO.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Liga da Justica Sombria
+http://cdn6.micetop.us/content/sobdemanda/netcine-bucket/filmes2016/animacoes/ljdark/LJSDUB-BAIXO.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="DESENHOS" ,O Touro Ferdinando
+http://player2.aovivohd.site/Filme-Dublado/02-03/otouroferdinando.mp4
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Blade Runner 2049
+http://cdn4.micetop.us/content/httpdelivery/filmes2017/BR2049DUB-BAIXO.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Corpo Fechado
+http://cdn4.micetop.us/content/httpdelivery/filmes2017/CORPOFECHADO-BAIXO.mp4?EGTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Fragmentado
+http://cdn4.micetop.us/content/httpdelivery/filmes2017/FRAGDUB-BAIXO.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Bright
+http://cdn4.micetop.us/content/httpdelivery/filmes2017/BRIGHTDUB-BAIXO.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Kingsman: O Circulo Dourado
+http://cdn4.micetop.us/content/httpdelivery/filmes2017/KINGSMAN2017DUB-BAIXO.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,A Forca
+http://player2.aovivohd.site/Filme-Dublado/A%20Forca.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Caes de Guerra
+http://player2.aovivohd.site/Filme-Dublado/C%C3%A3es%20de%20Guerra.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,A Travessia
+http://player2.aovivohd.site/Filme-Dublado/A%20Travessia.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="DESENHOS" ,O Poderoso Chefinho
+http://cdn4.micetop.us/content/httpdelivery/filmes2017/CHEFINHO2017DUB-BAIXO.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Piratas do Caribe: Navegando Em aguas Misteriosas
+http://cdn4.micetop.us/content/httpdelivery/filmes2017/PIRATASC04DUB-BAIXO.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Piratas do Caribe: No Fim do Mundo
+http://cdn4.micetop.us/content/httpdelivery/filmes2017/PIRATASC03DUB-BAIXO.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Piratas do Caribe: O Bau Da Morte
+http://cdn4.micetop.us/content/httpdelivery/filmes2017/PIRATASC02DUB-BAIXO.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Piratas do Caribe: A Maldicao do Perola Negra
+http://cdn4.micetop.us/content/httpdelivery/filmes2017/PIRATASC01DUB-BAIXO.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Eu fico louco
+http://cdn4.micetop.us/content/httpdelivery/filmes2017/EUFICOLOUCO-ALTO.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Dupla Explosiva
+http://cdn4.micetop.us/content/httpdelivery/filmes2017/DUPLA2DUB-BAIXO.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Dupla Explosiva
+http://cdn4.micetop.us/content/httpdelivery/filmes2017/DUPLA2DUB-BAIXO.mp4?EGFTv
 
 #EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="DESENHOS",A Formiga Atómica Episódio 01 Lá Vai A Triônica
 http://www.blogger.com/video-play.mp4?contentId=f4582bd401b4e0d3
