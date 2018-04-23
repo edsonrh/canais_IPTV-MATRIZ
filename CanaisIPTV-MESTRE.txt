@@ -434,7 +434,7 @@ http://nazabox.ddns.net/inf/obdken.mp4?EGFTv
 http://nazabox.ddns.net/inf/olebdt.mp4?EGFTv
 #EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,O Rapaz e o Monstro
 http://nazabox.ddns.net/inf/oreomh.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBRADOS" ,O Reino Gelado 2
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,O Reino Gelado 2
 http://nazabox.ddns.net/inf/org2in.mp4?EGFTv
 #EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,O Bicho vai Pegar 4
 http://nazabox.ddns.net/inf/obvp4k.mp4?EGFTv
