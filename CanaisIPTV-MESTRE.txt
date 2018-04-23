@@ -1,4 +1,58 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://goo.gl/M5gy5N" group-title="TV ABERTA", GLOBO
+http://edge.abcast.net:8081/edge/ver8b1f11ec23e010737aaed9/chunks.m3u8?nimblesessionid=753878&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDE4IDE6Mzk6NDUgUE0maGFzaF92YWx1ZT1wVUZOQk0wei8xSXJSclhYWVFNeVdBPT0mdmFsaWRtaW51dGVzPTEyMA==
+
+#EXTINF:-1 tvg-logo="https://goo.gl/M5gy5N" group-title="TV ABERTA", Globo SP - HD
+http://cdn.whostreams.net:8081/wsedge/t16ich2p0/chunks.m3u8?nimblesessionid=19627735&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDE4IDE6NTI6MzcgUE0maGFzaF92YWx1ZT15Z1JvLzk4K2Fra0dvYkJRWDJvTGpnPT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTINF:-1 tvg-logo="https://goo.gl/M5gy5N" group-title="TV ABERTA", GLOBO RJ
+http://cdn.whostreams.net:8081/wsedge/7zdrwfa/chunks.m3u8?nimblesessionid=19627531&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDE4IDE6NDk6MTcgUE0maGFzaF92YWx1ZT03V0dZeEJGaXZQb01VVUtpbG8xek5nPT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTINF:-1 tvg-logo="https://goo.gl/Gg4bgi" group-title="TV ABERTA", BAND SP - HD
+http://cdn.whostreams.net:8081/wsedge/7456cu4c8xd7bb/chunks.m3u8?nimblesessionid=19628182&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDE4IDE6NTk6NTYgUE0maGFzaF92YWx1ZT1WRjRxM2lJNnBHQlBnRXF3aGlRd3h3PT0mdmFsaWRtaW51dGVzPTIw
+
+EXTINF:-1 tvg-logo="https://goo.gl/Gg4bgi" group-title="TV ABERTA", BAND SP - SD
+http://95.141.35.104:8081/edge/band/chunks.m3u8?nimblesessionid=1055955&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDE4IDI6MDQ6NTMgUE0maGFzaF92YWx1ZT1jMmhYMlkrZW42YmFrNVhTdEE4WjhBPT0mdmFsaWRtaW51dGVzPTU=
+
+EXTINF:-1 tvg-logo="https://goo.gl/uH6MfN" group-title="TV ABERTA", RedeTV
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/chunklist_w2056582622.m3u8
+
+EXTINF:-1 tvg-logo="https://goo.gl/d5rQFu" group-title="TV ABERTA", TV Cultura
+http://wz-brasil1.comets.com.br/tvaperipe/aovivo/chunklist.m3u8
+
+EXTINF:-1 tvg-logo="https://goo.gl/PTsfra" group-title="TV ABERTA", TV Brasil
+http://ebctvbrasil-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctvbrasil/_definst_/live/stream1.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/V3KdbD" group-title="TV ABERTA", SBT HD
+http://srv6.zoeweb.tv:1935/z343-live/stream/chunklist_w1575301168.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/V3KdbD" group-title="TV ABERTA", SBT GO
+http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_w1847565290_b796000.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/V3KdbD" group-title="TV ABERTA", SBT PI
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/chunklist_w1655189941.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/QGZH1c" group-title="TV ABERTA", Rede Vida
+https://rtmp.cdn.upx.net.br/74cc/myStream.sdp/chunklist_w890013460.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/kGMFj5" group-title="TV ABERTA", Rede Brasil
+http://173.236.10.10:1935/rbtv/rbtv/chunklist_w932437076.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/31MUPG" group-title="TV ABERTA", Tv Diario
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/GgeuBW" group-title="NOTICIAS, Record News
+http://sm.fabricahost.com.br:1935/tvguara/tvguara/chunklist_w1837099735.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/HcQ18z" group-title="NOTICIAS, NBR
+http://ebctveventual01-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctveventual01/_definst_/live/stream1.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/uGoefr" group-title="NOTICIAS, TV Senado
+https://bit.ly/2Jk6fKe
+#EXTINF:-1 tvg-logo="https://goo.gl/U5DuC3" group-title="NOTICIAS, GV News
+http://173.236.10.10:1935/gvnews/gvnews/chunklist_w1989471351.m3u8
+
 #EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,A Noiva do Diabo
 http://nazabox.ddns.net/anddk7.mp4?EGFTv
 
