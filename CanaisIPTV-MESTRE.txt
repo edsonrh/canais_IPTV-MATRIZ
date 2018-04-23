@@ -5,7 +5,7 @@ http://nazabox.ddns.net/anddk7.mp4?EGFTv
 #EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,100 Metros
 http://nazabox.ddns.net/1mlnh7.mp4?EGFTv
 
-#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Filmes DUBLADOS" ,Sedutora e Diabolica
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Sedutora e Diabolica
 http://media-br-am.crackle.com/1/h/z6/rtvlf_480p.mp4?EGFTv
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,A Bailarina
@@ -23,7 +23,7 @@ http://nazabox.ddns.net/aclmn7.mp4?EGFTv
 #EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,A Próxima Pele
 http://nazabox.ddns.net/applu7.mp4?EGFTv
 
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES NAZAFLIX" ,A Mala e os Errantes
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,A Mala e os Errantes
 http://nazabox.ddns.net/ameoe7.mp4?EGFTv
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,A Fabulosa Gilly Hopkins
@@ -334,7 +334,7 @@ http://nazabox.ddns.net/xmak4k.mp4?EGFTv
 http://nazabox.ddns.net/zav4kj.mp4?EGFTv
 #EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,A Bela e Fera
 http://nazabox.ddns.net/abex65.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES NAZAFLIX" ,Como Eu Morro
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Como Eu Morro
 http://nazabox.ddns.net/cemjh7.mp4?EGFTv
 #EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Eu Fico Loko
 http://nazabox.ddns.net/eflvb7.mp4?EGFTv
@@ -352,95 +352,95 @@ http://nazabox.ddns.net/mmtsk7.mp4?EGFTv
 http://nazabox.ddns.net/oddaw7.mp4?EGFTv
 #EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,O Homem das Mil Caras
 http://nazabox.ddns.net/ohdmc7.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES NAZAFLIX" ,O Monstro no Armário
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,O Monstro no Armário
 http://nazabox.ddns.net/omnaw7.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBRADOS" ,Personal Shopper
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Personal Shopper
 http://nazabox.ddns.net/psneu7.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBRADOS" ,Raimundos Acustico
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Raimundos Acustico
 http://nazabox.ddns.net/rashr7.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBRADOS" ,Sem Limites 2
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Sem Limites 2
 http://nazabox.ddns.net/slhrt7.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBRADOS" ,Sereia Predadora
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Sereia Predadora
 http://nazabox.ddns.net/spran7.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBRADOS" ,Sonhos Lucidos
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Sonhos Lucidos
 http://nazabox.ddns.net/slosr7.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBRADOS" ,Vida
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Vida
 http://nazabox.ddns.net/vdkeo7.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBRADOS" ,Abril e o Mundo Extraordinário
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Abril e o Mundo Extraordinário
 http://nazabox.ddns.net/inf/aeomej.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBRADOS" ,Barbie Em Um Mundo de Video Game
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Barbie Em Um Mundo de Video Game
 http://nazabox.ddns.net/inf/beumdv.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBRADOS" ,Batman A Piada Mortal
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Batman A Piada Mortal
 http://nazabox.ddns.net/inf/bapmrt.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBRADOS" ,Batman O Retorno da Dupla Dinâmica
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Batman O Retorno da Dupla Dinâmica
 http://nazabox.ddns.net/inf/bprddd.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBRADOS" ,Batman Sem Limites Mechas vs Mutantes
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Batman Sem Limites Mechas vs Mutantes
 http://nazabox.ddns.net/inf/bslmvm.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBRADOS" ,Bob Esponja Um Herói Fora Dagua
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Bob Esponja Um Herói Fora Dagua
 http://nazabox.ddns.net/inf/beuhfd.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBRADOS" ,Cada um na sua Casa
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Cada um na sua Casa
 http://nazabox.ddns.net/inf/cunscm.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBRADOS" ,Cantando de Galo
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Cantando de Galo
 http://nazabox.ddns.net/inf/cdglns.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBRADOS" ,Capitão Harlock Pirata do Espaço
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Capitão Harlock Pirata do Espaço
 http://nazabox.ddns.net/inf/chckmi.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBRADOS" ,Cegonhas A História que não te contaram
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Cegonhas A História que não te contaram
 http://nazabox.ddns.net/inf/cahqnt.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBRADOS" ,Crianças Lobo
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Crianças Lobo
 http://nazabox.ddns.net/inf/clmbhi.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBRADOS" ,Divertida Mente
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Divertida Mente
 http://nazabox.ddns.net/inf/dmonst.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBRADOS" ,Dragon Ball Z Uma Vingança para Freeza
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Dragon Ball Z Uma Vingança para Freeza
 http://nazabox.ddns.net/inf/dbzuvf.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBRADOS" ,Dragon Ball Z O Renascimento de Freeza
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Dragon Ball Z O Renascimento de Freeza
 http://nazabox.ddns.net/inf/dbzorf.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBRADOS" ,Epa Cadê o Noé
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Epa Cadê o Noé
 http://nazabox.ddns.net/inf/ecenlk.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBRADOS" ,Heróis da Galáxia Ratchet e Clank
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Heróis da Galáxia Ratchet e Clank
 http://nazabox.ddns.net/inf/hdgrec.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBRADOS" ,Hop Rebeldes sem Páscoa
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Hop Rebeldes sem Páscoa
 http://nazabox.ddns.net/inf/hrspnb.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBRADOS" ,Hotel Transilvânia 2
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Hotel Transilvânia 2
 http://nazabox.ddns.net/inf/ht2gji.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBRADOS" ,Kingsglaive Final Fantasy XV
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Kingsglaive Final Fantasy XV
 http://nazabox.ddns.net/inf/kffxin.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBRADOS" ,Kubo e as Cordas Mágicas
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Kubo e as Cordas Mágicas
 http://nazabox.ddns.net/inf/keacmr.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBRADOS" ,Kung Fu Panda 3
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Kung Fu Panda 3
 http://nazabox.ddns.net/inf/kfp3jn.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBRADOS" ,Kung Fu Panda Segredos do Pergaminho
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Kung Fu Panda Segredos do Pergaminho
 http://nazabox.ddns.net/inf/kfpsdp.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBRADOS" ,Lego Liga da Justiça Fuga em Massa em Gotham City
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Lego Liga da Justiça Fuga em Massa em Gotham City
 http://nazabox.ddns.net/inf/lldjfm.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBRADOS" ,Lego Scooby Doo Haunted Hollywood
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Lego Scooby Doo Haunted Hollywood
 http://nazabox.ddns.net/inf/lsdhhk.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBRADOS" ,Liga da Justiça Sombria
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Liga da Justiça Sombria
 http://nazabox.ddns.net/inf/ldjsnv.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBRADOS" ,Liga da Justiça vs Jovens Titãs
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Liga da Justiça vs Jovens Titãs
 http://nazabox.ddns.net/inf/ldjvjt.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBRADOS" ,Looney Tunes Fuga dos Coelhos
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Looney Tunes Fuga dos Coelhos
 http://nazabox.ddns.net/inf/ltfdcl.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBRADOS" ,Minions
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Minions
 http://nazabox.ddns.net/inf/mnsjhg.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBRADOS" ,Monster High Eletrizante
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Monster High Eletrizante
 http://nazabox.ddns.net/inf/mhekxi.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBRADOS" ,No Mundo da Lua
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,No Mundo da Lua
 http://nazabox.ddns.net/inf/nmdlbh.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBRADOS" ,Norm e os Invencíveis
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Norm e os Invencíveis
 http://nazabox.ddns.net/inf/neoixh.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBRADOS" ,O Bom Dinossauro
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,O Bom Dinossauro
 http://nazabox.ddns.net/inf/obdken.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBRADOS" ,O Lorax Em Busca da Trúfula Perdida
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,O Lorax Em Busca da Trúfula Perdida
 http://nazabox.ddns.net/inf/olebdt.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBRADOS" ,O Rapaz e o Monstro
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,O Rapaz e o Monstro
 http://nazabox.ddns.net/inf/oreomh.mp4?EGFTv
 #EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBRADOS" ,O Reino Gelado 2
 http://nazabox.ddns.net/inf/org2in.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBRADOS" ,O Bicho vai Pegar 4
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,O Bicho vai Pegar 4
 http://nazabox.ddns.net/inf/obvp4k.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBRADOS" ,Pets A vida Secreta dos Bichos
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Pets A vida Secreta dos Bichos
 http://nazabox.ddns.net/inf/pavsdb.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBRADOS" ,Saara
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Saara
 http://nazabox.ddns.net/inf/srakne.mp4?EGFTv
 
 #EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="DESENHOS",A Formiga Atómica Episódio 01 Lá Vai A Triônica
