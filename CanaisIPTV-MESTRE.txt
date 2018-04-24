@@ -4,7 +4,7 @@
 http://edge.abcast.net:8081/edge/ver8b1f11ec23e010737aaed9/chunks.m3u8?nimblesessionid=753878&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDE4IDE6Mzk6NDUgUE0maGFzaF92YWx1ZT1wVUZOQk0wei8xSXJSclhYWVFNeVdBPT0mdmFsaWRtaW51dGVzPTEyMA==
 
 #EXTINF:-1 tvg-logo="https://goo.gl/M5gy5N" group-title="TV ABERTA", Globo SP - HD
-http://cdn.whostreams.net:8081/wsedge/t16ich2p0/chunks.m3u8?nimblesessionid=19627735&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDE4IDE6NTI6MzcgUE0maGFzaF92YWx1ZT15Z1JvLzk4K2Fra0dvYkJRWDJvTGpnPT0mdmFsaWRtaW51dGVzPTIw
+http://edge.abcast.net:8081/edge/ver8b1f11ec23e010737aaed9/chunks.m3u8?nimblesessionid=760644&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDE4IDM6Mjc6NTMgUE0maGFzaF92YWx1ZT1naGx1MFFrSi9pZmlnRUJjU0hNTitnPT0mdmFsaWRtaW51dGVzPTEyMA==
 
 #EXTINF:-1 tvg-logo="https://goo.gl/M5gy5N" group-title="TV ABERTA", GLOBO RJ
 http://cdn.whostreams.net:8081/wsedge/7zdrwfa/chunks.m3u8?nimblesessionid=19627531&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDE4IDE6NDk6MTcgUE0maGFzaF92YWx1ZT03V0dZeEJGaXZQb01VVUtpbG8xek5nPT0mdmFsaWRtaW51dGVzPTIw
@@ -52,6 +52,36 @@ http://ebctveventual01-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctve
 https://bit.ly/2Jk6fKe
 #EXTINF:-1 tvg-logo="https://goo.gl/U5DuC3" group-title="NOTICIAS, GV News
 http://173.236.10.10:1935/gvnews/gvnews/chunklist_w1989471351.m3u8
+
+
+##################################################################################################### ESPORTE ##########
+#EXTINF:-1 tvg-id="ESPORTE INTERATIVO" https://goo.gl/g8pL9V" group-title="FUTEBOL AO VIVO",ESPORTE INTERATIVO
+http://aovivo.futeboltv.com:8081/live/2/playlist.m3u8?EGFTv
+
+#EXTINF:-1 tvg-id="" https://goo.gl/g8pL9V" group-title="FUTEBOL AO VIVO",FUTEBOL AO VIVO
+http://aovivo.futeboltv.com:8081/live/3/playlist.m3u8?EGFTv
+
+#EXTINF:-1 tvg-id="ESPN+" https://goo.gl/b9ZJom" group-title="FUTEBOL AO VIVO",ESPN+
+http://aovivo.futeboltv.com:8081/live/4/playlist.m3u8?EGFTv
+
+#EXTINF:-1 tvg-id="FUTEBOL AO VIVO" https://goo.gl/b9ZJom" group-title="FUTEBOL AO VIVO",FUTEBOL AO VIVO
+http://aovivo.futeboltv.com:8081/live/7/playlist.m3u8?EGFTv
+
+#EXTINF:-1 tvg-id="ESPORTE INTERATIVO" https://goo.gl/g8pL9V" group-title="FUTEBOL AO VIVO",ESPORTE INTERATIVO
+http://aovivo.futeboltv.com:8081/live/8/playlist.m3u8?EGFTv
+
+#EXTINF:-1 tvg-id="FOX SPORTS 2" https://goo.gl/bsZGDx" group-title="FUTEBOL AO VIVO",FOX SPORTS 2
+http://aovivo.futeboltv.com:8081/live/13/playlist.m3u8?EGFTv
+
+#EXTINF:-1 tvg-id="SPOR Tv 2" https://goo.gl/xRH7Ur" group-title="FUTEBOL AO VIVO",SPOR Tv 2
+http://aovivo.futeboltv.com:8081/live/15/playlist.m3u8?EGFTv
+
+#EXTINF:-1 tvg-id="ESPN" https://goo.gl/cUvDBc" group-title="FUTEBOL AO VIVO",ESPN
+http://aovivo.futeboltv.com:8081/live/16/playlist.m3u8?EGFTv
+
+#EXTINF:-1 tvg-id="GLOBO" https://goo.gl/kiBUr8" group-title="FUTEBOL AO VIVO",GLOBO
+http://aovivo.futeboltv.com:8081/live/17/playlist.m3u8?EGFTv
+
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,A Noiva do Diabo
 http://nazabox.ddns.net/anddk7.mp4?EGFTv
