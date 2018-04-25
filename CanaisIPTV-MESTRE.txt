@@ -24,6 +24,9 @@ http://95.141.35.104:8081/edge/band/chunks.m3u8?EGFTv
 #EXTINF:-1 tvg-id="BandRede.br" tvg-logo="http://i.imgur.com/9bw0Q4n.png" group-title="TV Aberta",Band PA
 http://stmv3.srvstm.com/rbatv12/rbatv12/playlist.m3u8?EGFTv
 
+#EXTINF:-1 tvg-logo="https://lut.im/SOPtBc9rxD/a21WCnGZh58XW1Sb.png" group-title="TV ABERTO", G2P TV 
+http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
+
 EXTINF:-1 tvg-logo="https://goo.gl/uH6MfN" group-title="TV ABERTA", RedeTV
 http://evpp.mm.uol.com.br:1935/redetv1/redetv1/chunklist_w2056582622.m3u8
 
@@ -78,6 +81,11 @@ http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_w1847565290_b796000.
 #EXTINF:-1 tvg-logo="https://goo.gl/V3KdbD" group-title="TV ABERTA", SBT PI
 http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/chunklist_w1655189941.m3u8
 
+#EXTINF:-1 tvg-logo="https://goo.gl/LcpPNw" group-title="TV ABERTA",PUC TV 
+http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tboanapolis.com/img/tbo.png" group-title="WEBTV",TBO ANAPOLIS 
+http://173.236.10.10:1935/tboanapolis/tboanapolis/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/QGZH1c" group-title="TV ABERTA", Rede Vida
 https://rtmp.cdn.upx.net.br/74cc/myStream.sdp/chunklist_w890013460.m3u8
@@ -226,6 +234,9 @@ http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w2079984152.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/LS3VZK" group-title="DESENHOS",CARTOON NETWORK
 http://95.141.35.104:8081/edge/cartoon/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/YsRgTjnDOO/E4nuHDIFHqY6mBmY.png" group-title="DESENHOS", WEB TV VIA MORENA 
+http://wowza2.netpoint.com.br/viamorena/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/2PRHj9" group-title="VARIEDADES",NOSSA TV
 http://stmv1.srvstm.com:1935/tvcadm/tvcadm/live.m3u8
