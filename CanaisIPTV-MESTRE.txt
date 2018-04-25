@@ -24,6 +24,9 @@ http://wz-brasil1.comets.com.br/tvaperipe/aovivo/chunklist.m3u8
 EXTINF:-1 tvg-logo="https://goo.gl/PTsfra" group-title="TV ABERTA", TV Brasil
 http://ebctvbrasil-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctvbrasil/_definst_/live/stream1.m3u8
 
+#EXTINF:-1 tvg-logo="https://goo.gl/V3KdbD" group-title="TV ABERTA", SBT PE
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1707692457_b131000_sleng.m3u8
+
 #EXTINF:-1 tvg-logo="https://goo.gl/V3KdbD" group-title="TV ABERTA", SBT HD
 http://srv6.zoeweb.tv:1935/z343-live/stream/chunklist_w1575301168.m3u8
 
@@ -39,20 +42,41 @@ https://rtmp.cdn.upx.net.br/74cc/myStream.sdp/chunklist_w890013460.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/kGMFj5" group-title="TV ABERTA", Rede Brasil
 http://173.236.10.10:1935/rbtv/rbtv/chunklist_w932437076.m3u8
 
+#EXTINF:-1 tvg-logo="https://goo.gl/TQX5Mb"TV ABERTA",TV GAZETA HD
+http://wse01.logicahost.com.br:1935/televisaorn/_definst_/televisaorn/chunklist_w802624269.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/T2TRpJ" group-title="TV ABERTA",REDE TV
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w889707696.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/wY7ERM" group-title="TV ABERTA",REDE FAMILIA
+http://srv9.zoeweb.tv:1935/zw901/smil:zw901.smil/chunklist_w1920217203_b300000.m3u8
+
 #EXTINF:-1 tvg-logo="https://goo.gl/31MUPG" group-title="TV ABERTA", Tv Diario
 http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/GgeuBW" group-title="NOTICIAS, Record News
+#EXTINF:-1 tvg-logo="https://goo.gl/GgeuBW" group-title="NOTICIAS", Record News
 http://sm.fabricahost.com.br:1935/tvguara/tvguara/chunklist_w1837099735.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/HcQ18z" group-title="NOTICIAS, NBR
+#EXTINF:-1 tvg-logo="https://goo.gl/HcQ18z" group-title="NOTICIAS", NBR
 http://ebctveventual01-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctveventual01/_definst_/live/stream1.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/uGoefr" group-title="NOTICIAS, TV Senado
+#EXTINF:-1 tvg-logo="https://goo.gl/uGoefr" group-title="NOTICIAS", TV Senado
 https://bit.ly/2Jk6fKe
-#EXTINF:-1 tvg-logo="https://goo.gl/U5DuC3" group-title="NOTICIAS, GV News
+#EXTINF:-1 tvg-logo="https://goo.gl/U5DuC3" group-title="NOTICIAS", GV News
 http://173.236.10.10:1935/gvnews/gvnews/chunklist_w1989471351.m3u8
 
+#EXTINF:-1 tvg-logo="https://goo.gl/JFSyCv" group-title="NOTICIAS",TV CÂMARA
+http://stream2.camara.gov.br:8134/tv1/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/PDmTsw" group-title="VARIEDADES",HIT TV
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/2uPPkn" group-title="VARIEDADES",HETRÔ TV
+http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w125343580.m3u8
+http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w2079984152.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/LS3VZK" group-title="DESENHOS",CARTOON NETWORK
+http://95.141.35.104:8081/edge/cartoon/chunks.m3u8
 
 ##################################################################################################### ESPORTE ##########
 #EXTINF:-1 tvg-id="ESPORTE INTERATIVO" https://goo.gl/g8pL9V" group-title="FUTEBOL AO VIVO",ESPORTE INTERATIVO
@@ -68,16 +92,26 @@ http://aovivo.futeboltv.com:8081/live/4/playlist.m3u8?EGFTv
 http://aovivo.futeboltv.com:8081/live/7/playlist.m3u8?EGFTv
 
 #EXTINF:-1 tvg-id="ESPORTE INTERATIVO" https://goo.gl/g8pL9V" group-title="FUTEBOL AO VIVO",ESPORTE INTERATIVO
+http://aovivo.futeboltv.com:8081/live/2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ESPORTE INTERATIVO" https://goo.gl/g8pL9V" group-title="FUTEBOL AO VIVO",ESPORTE INTERATIVO
 http://aovivo.futeboltv.com:8081/live/8/playlist.m3u8?EGFTv
 
 #EXTINF:-1 tvg-id="FOX SPORTS 2" https://goo.gl/bsZGDx" group-title="FUTEBOL AO VIVO",FOX SPORTS 2
 http://aovivo.futeboltv.com:8081/live/13/playlist.m3u8?EGFTv
+
+#EXTINF:-1 tvg-id="FOX SPORTS 2" https://goo.gl/bsZGDx" group-title="FUTEBOL AO VIVO",FOX SPORTS 2
+http://aovivo.futeboltv.com:8081/live/15/playlist.m3u8?EGFTv
 
 #EXTINF:-1 tvg-id="SPOR Tv 2" https://goo.gl/xRH7Ur" group-title="FUTEBOL AO VIVO",SPOR Tv 2
 http://aovivo.futeboltv.com:8081/live/15/playlist.m3u8?EGFTv
 
 #EXTINF:-1 tvg-id="ESPN" https://goo.gl/cUvDBc" group-title="FUTEBOL AO VIVO",ESPN
 http://aovivo.futeboltv.com:8081/live/16/playlist.m3u8?EGFTv
+
+
+#EXTINF:-1 tvg-id="REAL MADRID TV" https://goo.gl/GA9uW7" group-title="FUTEBOL AO VIVO",REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_0450_av-b.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-id="GLOBO" https://goo.gl/kiBUr8" group-title="FUTEBOL AO VIVO",GLOBO
 http://aovivo.futeboltv.com:8081/live/17/playlist.m3u8?EGFTv
