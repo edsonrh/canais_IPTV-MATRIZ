@@ -9,6 +9,9 @@ http://edge.abcast.net:8081/edge/ver8b1f11ec23e010737aaed9/chunks.m3u8?nimbleses
 #EXTINF:-1 tvg-logo="https://goo.gl/M5gy5N" group-title="TV ABERTA", GLOBO RJ
 http://cdn.whostreams.net:8081/wsedge/7zdrwfa/chunks.m3u8?nimblesessionid=19627531&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDE4IDE6NDk6MTcgUE0maGFzaF92YWx1ZT03V0dZeEJGaXZQb01VVUtpbG8xek5nPT0mdmFsaWRtaW51dGVzPTIw
 
+#EXTINF:-1 tvg-logo="https://goo.gl/5AxUkh" group-title="TV ABERTA",FUTURA
+http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/manifest(format=m3u8-aapl).m3u8
+
 #EXTINF:-1 tvg-logo="https://goo.gl/Gg4bgi" group-title="TV ABERTA", BAND SP - HD
 http://cdn.whostreams.net:8081/wsedge/7456cu4c8xd7bb/chunks.m3u8?nimblesessionid=19628182&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDE4IDE6NTk6NTYgUE0maGFzaF92YWx1ZT1WRjRxM2lJNnBHQlBnRXF3aGlRd3h3PT0mdmFsaWRtaW51dGVzPTIw
 
@@ -36,6 +39,7 @@ http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_w1847565290_b796000.
 #EXTINF:-1 tvg-logo="https://goo.gl/V3KdbD" group-title="TV ABERTA", SBT PI
 http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/chunklist_w1655189941.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://goo.gl/QGZH1c" group-title="TV ABERTA", Rede Vida
 https://rtmp.cdn.upx.net.br/74cc/myStream.sdp/chunklist_w890013460.m3u8
 
@@ -51,11 +55,14 @@ http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w889707696.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/wY7ERM" group-title="TV ABERTA",REDE FAMILIA
 http://srv9.zoeweb.tv:1935/zw901/smil:zw901.smil/chunklist_w1920217203_b300000.m3u8
 
+#EXTINF:-1 tvg-logo="https://goo.gl/WwMB8T" group-title="TV ABERTA",TV NOVO TEMPO
+http://stream.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_w2094872790_b2128000_slpor.m3u8
+
 #EXTINF:-1 tvg-logo="https://goo.gl/31MUPG" group-title="TV ABERTA", Tv Diario
 http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/GgeuBW" group-title="NOTICIAS", Record News
-http://sm.fabricahost.com.br:1935/tvguara/tvguara/chunklist_w1837099735.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/GgeuBW" group-title="NOTICIAS",RECORD NEW RN
+http://stmv4.srvstm.com/recordnewses/recordnewses/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/HcQ18z" group-title="NOTICIAS", NBR
 http://ebctveventual01-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctveventual01/_definst_/live/stream1.m3u8
@@ -78,9 +85,21 @@ http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w2079984152.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/LS3VZK" group-title="DESENHOS",CARTOON NETWORK
 http://95.141.35.104:8081/edge/cartoon/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://goo.gl/2PRHj9" group-title="VARIEDADES",NOSSA TV
+http://stmv1.srvstm.com:1935/tvcadm/tvcadm/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/AkSWyu" group-title="VARIEDADES",CANAL RICOS
+http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/ci3gLW" group-title="RELIGIÕES",TV EVANGELIZAR 
+http://tvevangelizar01.crossdigital.com.br:1935/evangelizar/tv/chunklist_w304487034.m3u8
+
 ##################################################################################################### ESPORTE ##########
 #EXTINF:-1 tvg-id="ESPORTE INTERATIVO" https://goo.gl/g8pL9V" group-title="FUTEBOL AO VIVO",ESPORTE INTERATIVO
 http://aovivo.futeboltv.com:8081/live/2/playlist.m3u8?EGFTv
+
+#EXTINF:-1 tvg-id="ALL SPORTS TV "https://goo.gl/owYBNv" group-title="FUTEBOL AO VIVO",ALL SPORTS TV
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
 
 #EXTINF:-1 tvg-id="" https://goo.gl/g8pL9V" group-title="FUTEBOL AO VIVO",FUTEBOL AO VIVO
 http://aovivo.futeboltv.com:8081/live/3/playlist.m3u8?EGFTv
