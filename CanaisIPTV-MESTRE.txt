@@ -235,13 +235,13 @@ http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w2079984152.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/LS3VZK" group-title="DESENHOS",CARTOON NETWORK
 http://95.141.35.104:8081/edge/cartoon/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/PpfTxe" group-title=GALINHA PINTADINHA",Borboletinha - DVD Galinha Pintadinha 2
+#EXTINF:-1 tvg-logo="https://goo.gl/PpfTxe" group-title="GALINHA PINTADINHA",Borboletinha - DVD Galinha Pintadinha 2
 https://youtu.be/28iW_O5qWfU
 
-#EXTINF:-1 tvg-logo="https://goo.gl/PpfTxe" group-title=GALINHA PINTADINHA",O Pintinho Piu 
+#EXTINF:-1 tvg-logo="https://goo.gl/PpfTxe" group-title="GALINHA PINTADINHA",O Pintinho Piu 
 https://youtu.be/m-sVUwMXoHc
 
-#EXTINF:-1 tvg-logo="https://goo.gl/PpfTxe" group-title=GALINHA PINTADINHA",chega a 1 BILHÃO DE VIEWS!
+#EXTINF:-1 tvg-logo="https://goo.gl/PpfTxe" group-title="GALINHA PINTADINHA",chega a 1 BILHÃO DE VIEWS!
 https://youtu.be/h8kpWvfXhds
 
 #EXTINF:-1 tvg-logo="https://lut.im/YsRgTjnDOO/E4nuHDIFHqY6mBmY.png" group-title="DESENHOS", WEB TV VIA MORENA 
