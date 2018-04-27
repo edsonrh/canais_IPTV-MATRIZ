@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://lut.im/nAKOTQRi7f/LsbdLvntn6zXlm9J.png" group-title="CANAL ABERTO", TVE RS 
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/jl02qv2y5/tvfaap.png" group-title="TV Aberta",TV FAAP 
+http://midia.faap.br/faaplatamlive-live/stream_480/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/jl02qv2y5/tvfaap.png" group-title="TV Aberta",TV FAAP HD 
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
+
 #EXTINF:-1 tvg-logo="https://goo.gl/M5gy5N" group-title="TV ABERTA", GLOBO
 http://edge.abcast.net:8081/edge/ver8b1f11ec23e010737aaed9/chunks.m3u8?nimblesessionid=753878&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDE4IDE6Mzk6NDUgUE0maGFzaF92YWx1ZT1wVUZOQk0wei8xSXJSclhYWVFNeVdBPT0mdmFsaWRtaW51dGVzPTEyMA==
 
@@ -60,6 +69,9 @@ http://200.189.113.201/hls/tve.m3u8
 EXTINF:-1 tvg-logo="https://goo.gl/PTsfra" group-title="TV ABERTA", TV Brasil
 http://ebctvbrasil-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctvbrasil/_definst_/live/stream1.m3u8
 
+#EXTINF:-1 tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="",SBT HD 
+http://srv6.zoeweb.tv:1935/z343-live/stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Sbt.br" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV Aberta",SBT SP Interior
 http://tv01.logicahost.com.br:1935/rbtv/rbtv/playlist.m3u8?EGFTv
 
@@ -75,11 +87,17 @@ http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist
 #EXTINF:-1 tvg-logo="https://goo.gl/V3KdbD" group-title="TV ABERTA", SBT HD
 http://srv6.zoeweb.tv:1935/z343-live/stream/chunklist_w1575301168.m3u8
 
+#EXTINF:-1 tvg-logo="https://lut.im/aA6t9hY419/epL7xgiBiQTd8GNk.png" group-title="CANAL ABERTO",SBT PI
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://goo.gl/V3KdbD" group-title="TV ABERTA", SBT GO
 http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_w1847565290_b796000.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/V3KdbD" group-title="TV ABERTA", SBT PI
 http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/chunklist_w1655189941.m3u8
+
+#EXTINF:-1 tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="TV Aberta",SBT RS 
+http://srv6.zoeweb.tv:1935/z343-live/stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/LcpPNw" group-title="TV ABERTA",PUC TV 
 http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
@@ -231,6 +249,9 @@ http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_1.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/2uPPkn" group-title="VARIEDADES",HETRÔ TV
 http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w125343580.m3u8
 http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w2079984152.m3u8
+
+#EXTINF:-1 tvg-logo="http://s16.postimg.org/axul05l4l/TV_Paran.jpg" group-title="TV Aberta",TV PARANÁ 
+http://200.189.113.201/hls/tve.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/LS3VZK" group-title="DESENHOS",CARTOON NETWORK
 http://95.141.35.104:8081/edge/cartoon/chunks.m3u8
