@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://lut.im/nAKOTQRi7f/LsbdLvntn6zXlm9J.png" group-title="CANAL ABERTA", TVE RS 
+#EXTINF:-1 tvg-logo="https://lut.im/nAKOTQRi7f/LsbdLvntn6zXlm9J.png" group-title="TV ABERTA", TVE RS 
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://s20.postimg.org/jl02qv2y5/tvfaap.png" group-title="TV ABERTA",TV FAAP 
 http://midia.faap.br/faaplatamlive-live/stream_480/livestream.m3u8
 
-#EXTINF:-1 tvg-logo="http://s20.postimg.org/jl02qv2y5/tvfaap.png" group-title="TV Aberta",TV FAAP HD 
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/jl02qv2y5/tvfaap.png" group-title="TV ABERTA",TV FAAP HD 
 http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/M5gy5N" group-title="TV ABERTA", GLOBO
@@ -33,7 +33,7 @@ http://95.141.35.104:8081/edge/band/chunks.m3u8?EGFTv
 #EXTINF:-1 tvg-id="BandRede.br" tvg-logo="http://i.imgur.com/9bw0Q4n.png" group-title="TV ABERTA",Band PA
 http://stmv3.srvstm.com/rbatv12/rbatv12/playlist.m3u8?EGFTv
 
-#EXTINF:-1 tvg-logo="https://lut.im/SOPtBc9rxD/a21WCnGZh58XW1Sb.png" group-title="TV ABERTO", G2P TV 
+#EXTINF:-1 tvg-logo="https://lut.im/SOPtBc9rxD/a21WCnGZh58XW1Sb.png" group-title="TV ABERTA", G2P TV 
 http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
 
 EXTINF:-1 tvg-logo="https://goo.gl/uH6MfN" group-title="TV ABERTA", RedeTV
@@ -70,7 +70,7 @@ http://200.189.113.201/hls/tve.m3u8
 #EXTINF:-1 tvg-logo="http://tvdiario.verdesmares.com.br/img/tvdiario/tv-diario.png" group-title="TV ABERTA", TV DIARIO 
 http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/ryx8YR" group-title="CANAL ABERTO",TV SOM ZOOM 
+#EXTINF:-1 tvg-logo="https://goo.gl/ryx8YR" group-title="TV ABERTA",TV SOM ZOOM 
 http://srv3.zoeweb.tv:1935/z443-live/stream1/livestream.m3u8
 
 #EXTINF:-1 tvg-logo="http://s11.postimg.org/l4gjn0o4j/TV_Di_rio_do_Sert_o.png" group-title="TV ABERTA",TV DIARIO DO SERTÃO 
@@ -120,9 +120,6 @@ https://rtmp.cdn.upx.net.br/74cc/myStream.sdp/chunklist_w890013460.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/kGMFj5" group-title="TV ABERTA", Rede Brasil
 http://173.236.10.10:1935/rbtv/rbtv/chunklist_w932437076.m3u8
-
-#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/redemeionorte.png" group-title="ABERTA", REDE MEIO NORTE  
-http://api.new.livestream.com/accounts/3332377/events/2958396/live.m3u8
 
 #EXTINF:-1 tvg-id="Redebrasil.br" tvg-logo="http://i.imgur.com/uwzYiHs.png" group-title="TV ABERTA",Rede Brasil SP
 http://tv01.logicahost.com.br:1935/rbtv/rbtv/playlist.m3u8?EGFTv
@@ -362,7 +359,7 @@ http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ESPORTES INTERNACIONAIS",ABU DABI SPORT 1 HD 
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?Compartilhandolink
 
-#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",ABU DABI SPORT 2 HD 
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES INTERNACIONAIS",ABU DABI SPORT 2 HD 
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?Compartilhandolink
 
 #EXTINF:-1 tvg-logo="https://goo.gl/RuXf9u" group-title="ESPORTES INTERNACIONAIS", TELPIN 2 HD ARGENTINA 
@@ -383,22 +380,22 @@ http://srv-vvtv.sisdera.com.br:1935/live/vvtv033/livestream.m3u8
 #EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,A Noiva do Diabo
 http://nazabox.ddns.net/anddk7.mp4?EGFTv
 
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,100 Metros
+#EXTINF:-1 tvg-logo="https://filmspot.com.pt/images/filmes/posters/big/402693_pt.jpg" group-title="FILMES DUBLADOS" ,100 Metros
 http://nazabox.ddns.net/1mlnh7.mp4?EGFTv
 
-#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Sedutora e Diabolica
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wx2MmkWIFwg/VXYEbPlGt0I/AAAAAAAABPY/dFRDVaQNuEY/s1600/Sedutora%2Be%2BDiab%25C3%25B3lica.jpg" group-title="FILMES DUBLADOS" ,Sedutora e Diabolica
 http://media-br-am.crackle.com/1/h/z6/rtvlf_480p.mp4?EGFTv
 
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,A Bailarina
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/z7EB8fgGuJo/hqdefault.jpg" group-title="FILMES DESENHOS DUBLADOS" ,A Bailarina
 http://nazabox.ddns.net/abvbg7.mp4?EGFTv
 
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,A Cabana
+#EXTINF:-1 tvg-logo="http://www.nemumpoucoepico.com/wp-content/uploads/2017/04/a-cabana2.png" group-title="FILMES DUBLADOS" ,A Cabana
 http://nazabox.ddns.net/aclem7.mp4?EGFTv
 
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,A Chegada
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/16/10/19/01/57/552532.jpg" group-title="FILMES DUBLADOS" ,A Chegada
 http://nazabox.ddns.net/aclnj7.mp4?EGFTv
 
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,A Cura
+#EXTINF:-1 tvg-logo="http://planetalan.com.br/wp-content/uploads/2017/06/A-Cura-2017.png" group-title="FILMES DUBLADOS" ,A Cura
 http://nazabox.ddns.net/aclmn7.mp4?EGFTv
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,A Próxima Pele
