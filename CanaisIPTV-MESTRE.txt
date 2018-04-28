@@ -300,12 +300,16 @@ http://aovivo.futeboltv.com:8081/live/2/playlist.m3u8?EGFTv
 
 #EXTINF:-1 tvg-id="ALL SPORTS TV "https://goo.gl/owYBNv" group-title="FUTEBOL AO VIVO",ALL SPORTS TV
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" https://goo.gl/g8pL9V" group-title="FUTEBOL AO VIVO",FUTEBOL AO VIVO
 http://aovivo.futeboltv.com:8081/live/3/playlist.m3u8?EGFTv
 
 #EXTINF:-1 tvg-id="ESPN+" https://goo.gl/b9ZJom" group-title="FUTEBOL AO VIVO",ESPN+
 http://aovivo.futeboltv.com:8081/live/4/playlist.m3u8?EGFTv
+
+#EXTINF:-1 tvg-logo="" group-title="FUTEBOL AO VIV",ESPORTES PARA TODOS 
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
 
 #EXTINF:-1 tvg-id="FUTEBOL AO VIVO" https://goo.gl/b9ZJom" group-title="FUTEBOL AO VIVO",FUTEBOL AO VIVO
 http://aovivo.futeboltv.com:8081/live/7/playlist.m3u8?EGFTv
@@ -328,12 +332,53 @@ http://aovivo.futeboltv.com:8081/live/15/playlist.m3u8?EGFTv
 #EXTINF:-1 tvg-id="ESPN" https://goo.gl/cUvDBc" group-title="FUTEBOL AO VIVO",ESPN
 http://aovivo.futeboltv.com:8081/live/16/playlist.m3u8?EGFTv
 
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yuxppt1465900144.png/medium" group-title="FUTEBOL AO VIVO",PORTO CANAL 
+http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8
+
 #EXTINF:-1 tvg-id="REAL MADRID TV" https://goo.gl/GA9uW7" group-title="FUTEBOL AO VIVO",REAL MADRID TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_0450_av-b.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-id="GLOBO" https://goo.gl/kiBUr8" group-title="FUTEBOL AO VIVO",GLOBO
 http://aovivo.futeboltv.com:8081/live/17/playlist.m3u8?EGFTv
 
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/meg97lm7h/Horse_Brasil_TV.png" group-title="ESPORTES INTERNACIONAIS",HORSE BRASIL HD 
+http://490636978.r.worldcdn.net/490636978/_definst_/horsebrasil1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/CPN5mJ" group-title="ESPORTES INTERNACIONAIS", SPORT 1 HD 
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES INTERNACIONAIS", SPORT 2 HD 
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/sQatkv4K24/QgdTCYPgaqe7XVwn.jpg" group-title="ESPORTES INTERNACIONAIS", REAL MADRID TV HD 
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.sportyou.es/blog/wp-content/uploads/2015/09/realmadridtv.jpg" group-title="ESPORTES INTERNACIONAIS",Real Madrid TV SD 
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/lEjmGT" group-title="ESPORTES INTERNACIONAIS",REAL MADRID TV 
+http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES INTERNACIONAIS",ABU DABI SPORT 1 HD 
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?Compartilhandolink
+
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",ABU DABI SPORT 2 HD 
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?Compartilhandolink
+
+#EXTINF:-1 tvg-logo="https://goo.gl/RuXf9u" group-title="ESPORTES INTERNACIONAIS", TELPIN 2 HD ARGENTINA 
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="TV/ESPORTES"tvg-logo="http://i.imgur.com/93lCwGC.png" pltv-subgroup="ESPORTES INTERNACIONAL" ,TSN 
+http://wms.shared.streamshow.it/tsn/tsn/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="http://i.imgur.com/yIyAemJ.png" tvg-logo="" group-title="EVANGÉLICOS",VEM E VÊ TV 1 
+http://srv-vvtv.sisdera.com.br:1935/live/vvtv3/livestream.m3u8
+
+#EXTINF:-1 tvg-id="http://i.imgur.com/yIyAemJ.png" tvg-logo="" group-title="EVANGÉLICOS",VEM E VÊ TV 2 
+http://srv-vvtv.sisdera.com.br:1935/live/vvtv023/livestream.m3u8
+
+#EXTINF:-1 tvg-id="http://i.imgur.com/yIyAemJ.png" tvg-logo="" group-title="EVANGÉLICOS",VEM E VÊ TV 3 
+http://srv-vvtv.sisdera.com.br:1935/live/vvtv033/livestream.m3u8
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,A Noiva do Diabo
 http://nazabox.ddns.net/anddk7.mp4?EGFTv
