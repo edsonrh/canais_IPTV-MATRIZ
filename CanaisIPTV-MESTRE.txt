@@ -15,10 +15,10 @@ http://edge.abcast.net:8081/edge/ver8b1f11ec23e010737aaed9/chunks.m3u8?nimbleses
 #EXTINF:-1 tvg-id="Globo SP - HD" tvg-logo="https://goo.gl/M5gy5N" group-title="TV ABERTA",Globo SP - HD
 https://live9.userapi.com/637609/live/_UwNzFpFekY/playlist.m3u8
 
-#EXTINF:-1 tvg-id=" GLOBO RJ" tvg-logo="https://goo.gl/M5gy5N" group-title="TV ABERTA", GLOBO RJ
+#EXTINF:-1 tvg-id="GLOBO RJ" tvg-logo="https://goo.gl/M5gy5N" group-title="TV ABERTA", GLOBO RJ
 https://live9.userapi.com/637609/live/_UwNzFpFekY/playlist.m3u8?EGFTv
 
-EXTINF:-1 tvg-id="FUTURA" tvg-logo="https://goo.gl/5AxUkh" group-title="TV ABERTA",FUTURA
+EXTINF:-1 tvg-id="FUTURA" tvg-logo="https://goo.gl/5AxUkh" group-title="TV ABERTA", FUTURA
 http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/manifest(format=m3u8-aapl).m3u8
 
 #EXTINF:-1 tvg-id="TV Futura PR" tvg-id="Futura.br" tvg-logo="http://i.imgur.com/J0vLlTS.png" group-title="TV ABERTA",TV Futura PR
