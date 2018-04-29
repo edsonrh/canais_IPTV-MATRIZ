@@ -242,15 +242,15 @@ http://wse01.logicahost.com.br:1935/televisaorn/_definst_/televisaorn/playlist.m
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-logo="http://i.imgur.com/Or3Q4WA.png" group-title="TV ABERTA",TV Gazeta MA
 http://stmv3.pagehost.com.br:1935/wagner7534/wagner7534/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/GgeuBW" group-title="NOTICIAS",RECORD NEW RN
+#EXTINF:-1 tvg-logo="https://goo.gl/GgeuBW" group-title="NOTÍCIAS",RECORD NEW RN
 http://stmv4.srvstm.com/recordnewses/recordnewses/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/HcQ18z" group-title="NOTICIAS", NBR
+#EXTINF:-1 tvg-logo="https://goo.gl/HcQ18z" group-title="NOTÍCIAS", NBR
 http://ebctveventual01-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctveventual01/_definst_/live/stream1.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/uGoefr" group-title="NOTICIAS", TV Senado
+#EXTINF:-1 tvg-logo="https://goo.gl/uGoefr" group-title="NOTÍCIAS", TV Senado
 https://bit.ly/2Jk6fKe
-#EXTINF:-1 tvg-logo="https://goo.gl/U5DuC3" group-title="NOTICIAS", GV News
+#EXTINF:-1 tvg-logo="https://goo.gl/U5DuC3" group-title="NOTÍCIAS", GV News
 http://173.236.10.10:1935/gvnews/gvnews/chunklist_w1989471351.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/WFqNuXt.png" group-title="NOTÍCIAS",Catve HD 
@@ -259,7 +259,7 @@ http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/nkSmEG9.jpg" group-title="NOTÍCIAS",Porto Canal
 http://213.13.26.11:1935/live/portocanal/playlist.m3u8?EGFTv
 
-#EXTINF:-1 tvg-logo="https://goo.gl/JFSyCv" group-title="NOTICIAS",TV CÂMARA
+#EXTINF:-1 tvg-logo="https://goo.gl/JFSyCv" group-title="NOTÍCIAS",TV CÂMARA
 http://stream2.camara.gov.br:8134/tv1/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/PDmTsw" group-title="MÚSICAS",HIT TV
