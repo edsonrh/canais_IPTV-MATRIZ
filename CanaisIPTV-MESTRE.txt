@@ -37,7 +37,7 @@ http://stmv3.srvstm.com/rbatv12/rbatv12/playlist.m3u8?EGFTv
 http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
 
 #EXTINF:-1 tvg-id="RedeTV" tvg-logo="https://goo.gl/uH6MfN" group-title="TV ABERTA",RedeTV
-http://evpp.mm.uol.com.br:1935/redetv1/redetv1/chunklist_w2056582622.m3u8
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/chunklist_w2056582622.m3u8?EGFTv
 
 #EXTINF:-1 tvg-id="TV Cultura SE" tvg-logo="https://goo.gl/d5rQFu" group-title="TV ABERTA",TV Cultura SE
 http://wz-brasil1.comets.com.br/tvaperipe/aovivo/chunklist.m3u8?EGFTv
