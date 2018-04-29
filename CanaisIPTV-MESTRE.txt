@@ -9,46 +9,46 @@ http://midia.faap.br/faaplatamlive-live/stream_480/livestream.m3u8
 #EXTINF:-1 tvg-id="TV FAAP HD" tvg-logo="http://s20.postimg.org/jl02qv2y5/tvfaap.png" group-title="TV ABERTA",TV FAAP HD 
 http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
 
-#EXTINF:-1 tvg-id="GLOBO" tvg-logo="https://goo.gl/M5gy5N" group-title="TV ABERTA", GLOBO
+#EXTINF:-1 tvg-id="GLOBO" tvg-logo="https://goo.gl/M5gy5N" group-title="TV ABERTA",GLOBO
 http://edge.abcast.net:8081/edge/ver8b1f11ec23e010737aaed9/chunks.m3u8?nimblesessionid=753878&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDE4IDE6Mzk6NDUgUE0maGFzaF92YWx1ZT1wVUZOQk0wei8xSXJSclhYWVFNeVdBPT0mdmFsaWRtaW51dGVzPTEyMA==
 
-#EXTINF:-1 tvg-id="Globo SP - HD" tvg-logo="https://goo.gl/M5gy5N" group-title="TV ABERTA", Globo SP - HD
+#EXTINF:-1 tvg-id="Globo SP - HD" tvg-logo="https://goo.gl/M5gy5N" group-title="TV ABERTA",Globo SP - HD
 https://live9.userapi.com/637609/live/_UwNzFpFekY/playlist.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://goo.gl/M5gy5N" group-title="TV ABERTA", GLOBO RJ
+#EXTINF:-1 tvg-id=" GLOBO RJ" tvg-logo="https://goo.gl/M5gy5N" group-title="TV ABERTA", GLOBO RJ
 https://live9.userapi.com/637609/live/_UwNzFpFekY/playlist.m3u8?EGFTv
 
-EXTINF:-1 tvg-id=" " tvg-logo="https://goo.gl/5AxUkh" group-title="TV ABERTA",FUTURA
+EXTINF:-1 tvg-id="FUTURA" tvg-logo="https://goo.gl/5AxUkh" group-title="TV ABERTA",FUTURA
 http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/manifest(format=m3u8-aapl).m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-id="Futura.br" tvg-logo="http://i.imgur.com/J0vLlTS.png" group-title="TV Aberta",TV Futura PR
+#EXTINF:-1 tvg-id="TV Futura PR" tvg-id="Futura.br" tvg-logo="http://i.imgur.com/J0vLlTS.png" group-title="TV ABERTA",TV Futura PR
 http://caikron.com.br:1935/unipar/tvup/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/Gg4bgi" group-title="TV ABERTA", BAND SP - HD
+#EXTINF:-1 tvg-id="BAND SP - HD" tvg-logo="https://goo.gl/Gg4bgi" group-title="TV ABERTA",BAND SP - HD
 http://cdn.whostreams.net:8081/wsedge/7456cu4c8xd7bb/chunks.m3u8?nimblesessionid=19628182&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDE4IDE6NTk6NTYgUE0maGFzaF92YWx1ZT1WRjRxM2lJNnBHQlBnRXF3aGlRd3h3PT0mdmFsaWRtaW51dGVzPTIw
 
-EXTINF:-1 tvg-logo="https://goo.gl/Gg4bgi" group-title="TV ABERTA", BAND SP - SD
+EXTINF:-1 tvg-id="BAND SP - SD" tvg-logo="https://goo.gl/Gg4bgi" group-title="TV ABERTA",BAND SP - SD
 http://95.141.35.104:8081/edge/band/chunks.m3u8?EGFTv
 
-#EXTINF:-1 tvg-id="BandRede.br" tvg-logo="http://i.imgur.com/9bw0Q4n.png" group-title="TV ABERTA",Band PA
+#EXTINF:-1 tvg-id="Band PA" tvg-id="BandRede.br" tvg-logo="http://i.imgur.com/9bw0Q4n.png" group-title="TV ABERTA",Band PA
 http://stmv3.srvstm.com/rbatv12/rbatv12/playlist.m3u8?EGFTv
 
-#EXTINF:-1 tvg-logo="https://lut.im/SOPtBc9rxD/a21WCnGZh58XW1Sb.png" group-title="TV ABERTA", G2P TV 
+#EXTINF:-1 tvg-id="TV ABERTA", G2P TV" tvg-logo="https://lut.im/SOPtBc9rxD/a21WCnGZh58XW1Sb.png" group-title="TV ABERTA", G2P TV 
 http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
 
-EXTINF:-1 tvg-logo="https://goo.gl/uH6MfN" group-title="TV ABERTA", RedeTV
+EXTINF:-1 tvg-id="RedeTV" tvg-logo="https://goo.gl/uH6MfN" group-title="TV ABERTA",RedeTV
 http://evpp.mm.uol.com.br:1935/redetv1/redetv1/chunklist_w2056582622.m3u8
 
-EXTINF:-1 tvg-logo="https://goo.gl/d5rQFu" group-title="TV ABERTA", TV Cultura SE
+EXTINF:-1 tvg-id="TV Cultura SE" tvg-logo="https://goo.gl/d5rQFu" group-title="TV ABERTA",TV Cultura SE
 http://wz-brasil1.comets.com.br/tvaperipe/aovivo/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Tvcultura.br" tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="TV ABERTA",TV Cultura PE
+#EXTINF:-1 tvg-id="TV Cultura PE" tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="TV ABERTA",TV Cultura PE
 http://wz-brasil1.comets.com.br/tvnovanordeste/aovivo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BandRede.br" tvg-logo="http://i.imgur.com/9bw0Q4n.png" group-title="TV ABERTA",Band PA
+#EXTINF:-1 tvg-id="TV ABERTA",Band PA" tvg-logo="http://i.imgur.com/9bw0Q4n.png" group-title="TV ABERTA",Band PA
 http://stmv3.srvstm.com/rbatv12/rbatv12/playlist.m3u8?EGFTv
 
-#EXTINF:-1 tvg-id="Tvcultura.br" tvg-logo="http://i.imgur.com/kd7IOy7.png" group-title="TV ABERTA",TV Cultura PB HD
+#EXTINF:-1 tvg-id="TV Cultura PB HD" tvg-logo="http://i.imgur.com/kd7IOy7.png" group-title="TV ABERTA",TV Cultura PB HD
 http://177.73.84.49/hls/live/live.m3u8
 
 #EXTINF:-1 tvg-id="Tvcultura.br" tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="TV ABERTA",TV Cultura MG
@@ -142,7 +142,7 @@ http://srv3.zoeweb.tv:1935/zw315/zw315tvs/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV ABERTA",Record MT
 http://wz3.dnip.com.br:1935/tvgazetamt/tvgazetamt.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record Moçambique
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV ABERTA",Record Moçambique
 http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/T2TRpJ" group-title="TV ABERTA",REDE TV SP
