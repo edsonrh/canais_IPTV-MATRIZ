@@ -36,10 +36,10 @@ http://stmv3.srvstm.com/rbatv12/rbatv12/playlist.m3u8?EGFTv
 #EXTINF:-1 tvg-id="TV ABERTA", G2P TV" tvg-logo="https://lut.im/SOPtBc9rxD/a21WCnGZh58XW1Sb.png" group-title="TV ABERTA", G2P TV 
 http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
 
-EXTINF:-1 tvg-id="RedeTV" tvg-logo="https://goo.gl/uH6MfN" group-title="TV ABERTA",RedeTV
+#EXTINF:-1 tvg-id="RedeTV" tvg-logo="https://goo.gl/uH6MfN" group-title="TV ABERTA",RedeTV
 http://evpp.mm.uol.com.br:1935/redetv1/redetv1/chunklist_w2056582622.m3u8
 
-EXTINF:-1 tvg-id="TV Cultura SE" tvg-logo="https://goo.gl/d5rQFu" group-title="TV ABERTA",TV Cultura SE
+#EXTINF:-1 tvg-id="TV Cultura SE" tvg-logo="https://goo.gl/d5rQFu" group-title="TV ABERTA",TV Cultura SE
 http://wz-brasil1.comets.com.br/tvaperipe/aovivo/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="TV Cultura PE" tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="TV ABERTA",TV Cultura PE
@@ -76,7 +76,7 @@ http://srv3.zoeweb.tv:1935/z443-live/stream1/livestream.m3u8
 #EXTINF:-1 tvg-logo="http://s11.postimg.org/l4gjn0o4j/TV_Di_rio_do_Sert_o.png" group-title="TV ABERTA",TV DIARIO DO SERTÃO 
 http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
 
-EXTINF:-1 tvg-logo="https://goo.gl/PTsfra" group-title="TV ABERTA", TV Brasil
+#EXTINF:-1 tvg-logo="https://goo.gl/PTsfra" group-title="TV ABERTA", TV Brasil
 http://ebctvbrasil-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctvbrasil/_definst_/live/stream1.m3u8
 
 #EXTINF:-1 tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="TV ABERTA",SBT HD 
