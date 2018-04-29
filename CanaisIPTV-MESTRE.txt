@@ -4,6 +4,7 @@
 http://67149o.ha.azioncdn.net/hlsmedium/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HORSE BRASIL CHANNEL" tvg-logo="https://goo.gl/L6k4hL" group-title="AGRONEGÓCIO",HORSE BRASIL CHANNEL
+http://video.worldcdn.net:80/490636978/horsebrasil1.m3u8
 
 #EXTINF:-1 tvg-id="AGRO BRASIL" tvg-logo="https://goo.gl/cr9L2K" group-title="AGRONEGÓCIO",AGRO BRASIL
 
@@ -32,6 +33,21 @@ http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
 
 #EXTINF:-1 tvg-id="GLOBO" tvg-logo="https://goo.gl/M5gy5N" group-title="TV ABERTA",GLOBO
 http://edge.abcast.net:8081/edge/ver8b1f11ec23e010737aaed9/chunks.m3u8?nimblesessionid=753878&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDE4IDE6Mzk6NDUgUE0maGFzaF92YWx1ZT1wVUZOQk0wei8xSXJSclhYWVFNeVdBPT0mdmFsaWRtaW51dGVzPTEyMA==
+
+#EXTINF:-1 tvg-id="TV ARAPUAN PB - HD" tvg-logo="https://goo.gl/4fpk8j" group-title="TV ABERTA",TV ARAPUAN PB - HD
+https://v5.ciclano.io:1443/8064/8064/chunklist_w386777549.m3u8
+
+#EXTINF:-1 tvg-id="TV PORTAL MIDIA PB - HD" tvg-logo="https://goo.gl/Y4Mu12" group-title="TV ABERTA",TV PORTAL MIDIA PB - HD
+http://video02.kshost.com.br/tvportalmidia/tvportalmidia/chunklist_w585903213.m3u8
+
+#EXTINF:-1 tvg-id="WEB TV MIDIA PB - HD" tvg-logo="https://goo.gl/LhVrCA" group-title="TV ABERTA",WEB TV MIDIA PB - HD
+http://stmv1.sejaguia.com.br/tv487/tv487/playlist.m3u8?EGFTv
+
+#EXTINF:-1 tvg-id="TV ASSEMBLÉIA PARAÍBA - HD" tvg-logo="https://goo.gl/HXKzvv" group-title="TV ABERTA",TV ASSEMBLÉIA PARAÍBA - HD
+http://200.164.225.170/hls/tvalpb.m3u8
+
+#EXTINF:-1 tvg-id="CREATIVE TV PB - HD" tvg-logo="https://goo.gl/AgVycg" group-title="TV ABERTA"CREATIVE TV PB - HD
+http://streaming63.sitehosting.com.br:1935/jandy/_definst_/jandy/chunklist_w1550347631.m3u8
 
 #EXTINF:-1 tvg-id="Globo SP - HD" tvg-logo="https://goo.gl/M5gy5N" group-title="TV ABERTA",Globo SP - HD
 https://live9.userapi.com/637609/live/_UwNzFpFekY/playlist.m3u8
@@ -133,14 +149,20 @@ http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
 #EXTINF:-1 tvg-logo="http://www.tboanapolis.com/img/tbo.png" group-title="TV ABERTA",TBO ANAPOLIS 
 http://173.236.10.10:1935/tboanapolis/tboanapolis/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/QGZH1c" group-title="TV ABERTA", Rede Vida
+#EXTINF:-1 tvg-id="Redevida.br "tvg-logo="https://goo.gl/QGZH1c" group-title="TV ABERTA", Rede Vida
 https://rtmp.cdn.upx.net.br/74cc/myStream.sdp/chunklist_w890013460.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/kGMFj5" group-title="TV ABERTA", Rede Brasil
+#EXTINF:-1 tvg-id="Redebrasil.br" tvg-logo="https://goo.gl/kGMFj5" group-title="TV ABERTA", Rede Brasil
 http://173.236.10.10:1935/rbtv/rbtv/chunklist_w932437076.m3u8
 
 #EXTINF:-1 tvg-id="Redebrasil.br" tvg-logo="http://i.imgur.com/uwzYiHs.png" group-title="TV ABERTA",Rede Brasil SP
 http://tv01.logicahost.com.br:1935/rbtv/rbtv/playlist.m3u8?EGFTv
+
+#EXTINF:-1 tvg-id="Redefamilia.br" tvg-logo="https://goo.gl/UqHmeQ" group-title="TV ABERTA", REDE FAMÍLIA 
+http://srv9.zoeweb.tv:1935/zw901/smil:zw901.smil/chunklist_w1920217203_b300000.m3u8
+
+#EXTINF:-1 tvg-id="Redefamilia.br" tvg-logo="https://goo.gl/UqHmeQ" group-title="TV ABERTA", REDE FAMÍLIA HD 
+http://srv9.zoeweb.tv:1935/zw901/zw901.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tvbrasil.br" tvg-logo="http://i.imgur.com/0uUPOMx.png" group-title="TV ABERTA",TV Brasil
 http://ebctvbrasil-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctvbrasil/_definst_/live.m3u8
@@ -182,9 +204,6 @@ http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?EGFtV
 
 #EXTINF:-1 tvg-id="Tvespanhola.br" tvg-logo="http://i.imgur.com/kLWg5sp.png" group-title="TV ABERTA",TVE BA HD
 http://200.187.60.190:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
-
-#EXTINF:-1 tvg-logo="https://goo.gl/wY7ERM" group-title="TV ABERTA",REDE FAMILIA
-http://srv9.zoeweb.tv:1935/zw901/smil:zw901.smil/chunklist_w1920217203_b300000.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/WwMB8T" group-title="TV ABERTA",TV NOVO TEMPO
 http://stream.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_w2094872790_b2128000_slpor.m3u8
