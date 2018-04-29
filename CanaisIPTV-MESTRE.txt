@@ -147,7 +147,8 @@ http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/T2TRpJ" group-title="TV ABERTA",REDE TV SP
 http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w889707696.m3u8
-http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+
+###http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Redetv.br" tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="TV ABERTA",Rede TV RS
 http://wse8.player.tv.br:1935/rafael926/encoder/playlist.m3u8
