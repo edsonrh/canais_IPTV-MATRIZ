@@ -253,6 +253,12 @@ https://bit.ly/2Jk6fKe
 #EXTINF:-1 tvg-logo="https://goo.gl/U5DuC3" group-title="NOTICIAS", GV News
 http://173.236.10.10:1935/gvnews/gvnews/chunklist_w1989471351.m3u8
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WFqNuXt.png" group-title="NOTÍCIAS",Catve HD 
+http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/nkSmEG9.jpg" group-title="NOTÍCIAS",Porto Canal
+http://213.13.26.11:1935/live/portocanal/playlist.m3u8?EGFTv
+
 #EXTINF:-1 tvg-logo="https://goo.gl/JFSyCv" group-title="NOTICIAS",TV CÂMARA
 http://stream2.camara.gov.br:8134/tv1/manifest.m3u8
 
@@ -317,6 +323,12 @@ http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/ci3gLW" group-title="RELIGIÕES",TV EVANGELIZAR 
 http://tvevangelizar01.crossdigital.com.br:1935/evangelizar/tv/chunklist_w304487034.m3u8
 
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",CBN
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?EGFTv
+
+#EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",CINE FILMES 2
+http://rtmp.one.by:1200?EGFTv
+
 ############################################################################# FILMES E SÉRIES ##########################
 #EXTINF:-1tvg-logo="https://bit.ly/2K3PFPT" group-title="FILMES E SÉRIES",FEAR THE WALKING DEAD
 https://bit.ly/2qPAhOk
@@ -324,7 +336,7 @@ https://bit.ly/2qPAhOk
 #EXTINF:-1tvg-logo="http://s16.postimg.org/z4yd0upsl/cine_sky.png" group-title="FILMES E SÉRIES",CINE SKY
 http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8?EGFTv
 
-#EXTINF:-1 tvg-logo="https://goo.gl/LUhcnj" group-title="FILMES E SERIES",NOVA CINEMA 03
+#EXTINF:-1 tvg-logo="https://goo.gl/LUhcnj" group-title="FILMES E SERIES",Classique TV
 http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8?EGFTv
 
 #EXTINF:-1 tvg-logo="https://goo.gl/LUhcnj" group-title="FILMES E SERIES",NOVA CINEMA 04
@@ -341,9 +353,11 @@ http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8?EGFTv
 
 
 ##################################################################################################### ESPORTE ##########
-#EXTINF:-1 tvg-id="ESPORTE INTERATIVO" https://goo.gl/g8pL9V" group-title="FUTEBOL AO VIVO",ESPORTE INTERATIVO
+#EXTINF:-1 tvg-id="PREMIERE" https://bit.ly/2w1knpE" group-title="FUTEBOL AO VIVO",PREMIERE
 http://aovivo.futeboltv.com:8081/live/2/playlist.m3u8?EGFTv
 
+#EXTINF:-1 tvg-id="ESPORTE INTERATIVO" https://goo.gl/g8pL9V" group-title="FUTEBOL AO VIVO",ESPORTE INTERATIVO
+http://aovivo.futeboltv.com:8081/live/8/playlist.m3u8?EGFTv
 #EXTINF:-1 tvg-id="ALL SPORTS TV "https://goo.gl/owYBNv" group-title="FUTEBOL AO VIVO",ALL SPORTS TV
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
 http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
@@ -354,7 +368,7 @@ http://aovivo.futeboltv.com:8081/live/3/playlist.m3u8?EGFTv
 #EXTINF:-1 tvg-id="ESPN+" https://goo.gl/b9ZJom" group-title="FUTEBOL AO VIVO",ESPN+
 http://aovivo.futeboltv.com:8081/live/4/playlist.m3u8?EGFTv
 
-#EXTINF:-1 tvg-logo="" group-title="FUTEBOL AO VIV",ESPORTES PARA TODOS 
+#EXTINF:-1 tvg-logo="" group-title="FUTEBOL AO VIVO",ESPORTES PARA TODOS 
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
 
 #EXTINF:-1 tvg-id="FUTEBOL AO VIVO" https://goo.gl/b9ZJom" group-title="FUTEBOL AO VIVO",FUTEBOL AO VIVO
@@ -372,11 +386,17 @@ http://aovivo.futeboltv.com:8081/live/13/playlist.m3u8?EGFTv
 #EXTINF:-1 tvg-id="FOX SPORTS 2" https://goo.gl/bsZGDx" group-title="FUTEBOL AO VIVO",FOX SPORTS 2
 http://aovivo.futeboltv.com:8081/live/15/playlist.m3u8?EGFTv
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWBIiym.jpg" group-title="FUTEBOL",SPOR Tv
+http://aovivo.futeboltv.com:8081/live/20/playlist.m3u8
+
 #EXTINF:-1 tvg-id="SPOR Tv 2" https://goo.gl/xRH7Ur" group-title="FUTEBOL AO VIVO",SPOR Tv 2
 http://aovivo.futeboltv.com:8081/live/15/playlist.m3u8?EGFTv
 
-#EXTINF:-1 tvg-id="ESPN" https://goo.gl/cUvDBc" group-title="FUTEBOL AO VIVO",ESPN
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://goo.gl/cUvDBc" group-title="FUTEBOL AO VIVO",ESPN
 http://aovivo.futeboltv.com:8081/live/16/playlist.m3u8?EGFTv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWBIiym.jpg" group-title="FUTEBOL AO VIVO",ESPN BRASIL
+http://aovivo.futeboltv.com:8081/live/19/playlist.m3u8?EGFTv
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yuxppt1465900144.png/medium" group-title="FUTEBOL AO VIVO",PORTO CANAL 
 http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8
@@ -384,8 +404,11 @@ http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8
 #EXTINF:-1 tvg-id="REAL MADRID TV" https://goo.gl/GA9uW7" group-title="FUTEBOL AO VIVO",REAL MADRID TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_0450_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-id="GLOBO" https://goo.gl/kiBUr8" group-title="FUTEBOL AO VIVO",GLOBO
+#EXTINF:-1 tvg-id="GLOBO" tvg-logo="https://goo.gl/kiBUr8" group-title="FUTEBOL AO VIVO",GLOBO
 http://aovivo.futeboltv.com:8081/live/17/playlist.m3u8?EGFTv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWBIiym.jpg" group-title="FUTEBOL AO VIVO",COMBATE
+http://aovivo.futeboltv.com:8081/live/18/playlist.m3u8?EGFTv
 
 #EXTINF:-1 tvg-logo="http://s20.postimg.org/meg97lm7h/Horse_Brasil_TV.png" group-title="ESPORTES INTERNACIONAIS",HORSE BRASIL HD 
 http://490636978.r.worldcdn.net/490636978/_definst_/horsebrasil1/playlist.m3u8
