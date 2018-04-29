@@ -13,10 +13,10 @@ http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
 http://edge.abcast.net:8081/edge/ver8b1f11ec23e010737aaed9/chunks.m3u8?nimblesessionid=753878&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDE4IDE6Mzk6NDUgUE0maGFzaF92YWx1ZT1wVUZOQk0wei8xSXJSclhYWVFNeVdBPT0mdmFsaWRtaW51dGVzPTEyMA==
 
 #EXTINF:-1 tvg-logo="https://goo.gl/M5gy5N" group-title="TV ABERTA", Globo SP - HD
-https://live9.userapi.com/637609/live/_UwNzFpFekY/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDE4IDI6MzI6NTYgUE0maGFzaF92YWx1ZT0yaWV6TzJsK3ZDWTdpcURwODg4TjNRPT0mdmFsaWRtaW51dGVzPTIw
+https://live9.userapi.com/637609/live/_UwNzFpFekY/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/M5gy5N" group-title="TV ABERTA", GLOBO RJ
-https://live9.userapi.com/637609/live/_UwNzFpFekY/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDE4IDI6MzI6NTYgUE0maGFzaF92YWx1ZT0yaWV6TzJsK3ZDWTdpcURwODg4TjNRPT0mdmFsaWRtaW51dGVzPTIw
+https://live9.userapi.com/637609/live/_UwNzFpFekY/playlist.m3u8?EGFTv
 
 EXTINF:-1 tvg-logo="https://goo.gl/5AxUkh" group-title="TV ABERTA",FUTURA
 http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/manifest(format=m3u8-aapl).m3u8
@@ -316,6 +316,29 @@ http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/ci3gLW" group-title="RELIGIÕES",TV EVANGELIZAR 
 http://tvevangelizar01.crossdigital.com.br:1935/evangelizar/tv/chunklist_w304487034.m3u8
+
+############################################################################# FILMES E SÉRIES ##########################
+#EXTINF:-1tvg-logo="https://bit.ly/2K3PFPT" group-title="FILMES E SÉRIES",FEAR THE WALKING DEAD
+https://bit.ly/2qPAhOk
+
+#EXTINF:-1tvg-logo="http://s16.postimg.org/z4yd0upsl/cine_sky.png" group-title="FILMES E SÉRIES",CINE SKY
+http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8?EGFTv
+
+#EXTINF:-1 tvg-logo="https://goo.gl/LUhcnj" group-title="FILMES E SERIES",NOVA CINEMA 03
+http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8?EGFTv
+
+#EXTINF:-1 tvg-logo="https://goo.gl/LUhcnj" group-title="FILMES E SERIES",NOVA CINEMA 04
+http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8?EGFTv
+
+#EXTINF:-1 tvg-logo="https://goo.gl/LUhcnj" group-title="FILMES E SERIES",NOVA CINEMA 05
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?EGFTv
+
+#EXTINF:-1 tvg-logo="https://goo.gl/zG3XXJ" group-title="FILMES E SERIES", Cine +
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8?EGFTv
+ 
+
+
+
 
 ##################################################################################################### ESPORTE ##########
 #EXTINF:-1 tvg-id="ESPORTE INTERATIVO" https://goo.gl/g8pL9V" group-title="FUTEBOL AO VIVO",ESPORTE INTERATIVO
@@ -851,9 +874,6 @@ http://nazabox.ddns.net/inf/pavsdb.mp4?EGFTv
 http://nazabox.ddns.net/inf/srakne.mp4?EGFTv
 #EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Gladiador
 http://nazabox.ddns.net/ac/gdorik.mp4?EGFTv
-
-
-
 #EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,A Escolha Perfeita 3
 http://cdn9.ntcdn.us/lanadelrey/movies/escolhaperfeita3-dub-720p.mp4?EGFTv
 #EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Jogador Nº1
@@ -954,7 +974,7 @@ http://cdn4.micetop.us/content/httpdelivery/filmes2017/POFE20117-BAIXO.mp4?EGFTv
 http://cdn9.ntcdn.us/lanadelrey/movies/tempestadefuria-dub-720p.mp4?EGFTv
 #EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="DESENHOS" ,Batman Contra o Capuz Vermelho
 http://cdn4.micetop.us/content/httpdelivery/filmes2018/BATMANREDHOODDUB-BAIXO.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FFILMES DUBLADOS" ,O Assassino: O Primeiro Alvo
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,O Assassino: O Primeiro Alvo
 http://cdn9.ntcdn.us/lanadelrey/movies/primeiroalvo-dub-720p.mp4?EGFTv
 #EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Feito na America
 http://cdn9.ntcdn.us/lanadelrey/movies/americanmade-dub-720p.mp4?EGFTv
