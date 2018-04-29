@@ -1,27 +1,27 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://lut.im/nAKOTQRi7f/LsbdLvntn6zXlm9J.png" group-title="TV ABERTA", TVE RS 
+#EXTINF:-1 tvg-id="TVE RS" tvg-logo="https://lut.im/nAKOTQRi7f/LsbdLvntn6zXlm9J.png" group-title="TV ABERTA",TVE RS 
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://s20.postimg.org/jl02qv2y5/tvfaap.png" group-title="TV ABERTA",TV FAAP 
+#EXTINF:-1 tvg-id="TV FAAP" tvg-logo="http://s20.postimg.org/jl02qv2y5/tvfaap.png" group-title="TV ABERTA",TV FAAP 
 http://midia.faap.br/faaplatamlive-live/stream_480/livestream.m3u8
 
-#EXTINF:-1 tvg-logo="http://s20.postimg.org/jl02qv2y5/tvfaap.png" group-title="TV ABERTA",TV FAAP HD 
+#EXTINF:-1 tvg-id="TV FAAP HD" tvg-logo="http://s20.postimg.org/jl02qv2y5/tvfaap.png" group-title="TV ABERTA",TV FAAP HD 
 http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/M5gy5N" group-title="TV ABERTA", GLOBO
+#EXTINF:-1 tvg-id="GLOBO" tvg-logo="https://goo.gl/M5gy5N" group-title="TV ABERTA", GLOBO
 http://edge.abcast.net:8081/edge/ver8b1f11ec23e010737aaed9/chunks.m3u8?nimblesessionid=753878&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDE4IDE6Mzk6NDUgUE0maGFzaF92YWx1ZT1wVUZOQk0wei8xSXJSclhYWVFNeVdBPT0mdmFsaWRtaW51dGVzPTEyMA==
 
-#EXTINF:-1 tvg-logo="https://goo.gl/M5gy5N" group-title="TV ABERTA", Globo SP - HD
+#EXTINF:-1 tvg-id="Globo SP - HD" tvg-logo="https://goo.gl/M5gy5N" group-title="TV ABERTA", Globo SP - HD
 https://live9.userapi.com/637609/live/_UwNzFpFekY/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/M5gy5N" group-title="TV ABERTA", GLOBO RJ
+#EXTINF:-1 tvg-id=" " tvg-logo="https://goo.gl/M5gy5N" group-title="TV ABERTA", GLOBO RJ
 https://live9.userapi.com/637609/live/_UwNzFpFekY/playlist.m3u8?EGFTv
 
-EXTINF:-1 tvg-logo="https://goo.gl/5AxUkh" group-title="TV ABERTA",FUTURA
+EXTINF:-1 tvg-id=" " tvg-logo="https://goo.gl/5AxUkh" group-title="TV ABERTA",FUTURA
 http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/manifest(format=m3u8-aapl).m3u8
 
-#EXTINF:-1 tvg-id="Futura.br" tvg-logo="http://i.imgur.com/J0vLlTS.png" group-title="TV Aberta",TV Futura PR
+#EXTINF:-1 tvg-id=" " tvg-id="Futura.br" tvg-logo="http://i.imgur.com/J0vLlTS.png" group-title="TV Aberta",TV Futura PR
 http://caikron.com.br:1935/unipar/tvup/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/Gg4bgi" group-title="TV ABERTA", BAND SP - HD
