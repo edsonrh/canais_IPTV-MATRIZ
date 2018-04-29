@@ -241,6 +241,8 @@ http://wse01.logicahost.com.br:1935/televisaorn/_definst_/televisaorn/playlist.m
 
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-logo="http://i.imgur.com/Or3Q4WA.png" group-title="TV ABERTA",TV Gazeta MA
 http://stmv3.pagehost.com.br:1935/wagner7534/wagner7534/playlist.m3u8
+#EXTINF:-1 tvg-id="TV PARANÁ" tvg-logo="http://s16.postimg.org/axul05l4l/TV_Paran.jpg" group-title="TV ABERTA",TV PARANÁ 
+http://200.189.113.201/hls/tve.m3u8
 
 ############################################################################# NOTÍCIAS ################################
 
@@ -301,9 +303,6 @@ http://nodeb.gocaster.net:1935/CGL/_definst_/TODAYFM_TEST2/.m3u8?EGFTv
 
 #EXTINF:-1 tvg-id="G2P TV" tvg-logo="http://www.g2ptv.tv.br/logo.png" group-title="MÚSICAS",G2P TV 
 http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
-
-#EXTINF:-1 tvg-id="TV PARANÁ" tvg-logo="http://s16.postimg.org/axul05l4l/TV_Paran.jpg" group-title="TV Aberta",TV PARANÁ 
-http://200.189.113.201/hls/tve.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/LS3VZK" group-title="DESENHOS",CARTOON NETWORK
 http://95.141.35.104:8081/edge/cartoon/chunks.m3u8
