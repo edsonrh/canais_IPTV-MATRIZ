@@ -264,43 +264,48 @@ http://213.13.26.11:1935/live/portocanal/playlist.m3u8?EGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/JFSyCv" group-title="NOTÍCIAS",TV CÂMARA
 http://stream2.camara.gov.br:8134/tv1/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/PDmTsw" group-title="MÚSICAS",HIT TV
+############################################################################ MÚSICAS #####################################
+
+#EXTINF:-1 tvg-id="WEB TV VIA MORENA " tvg-logo="https://lut.im/YsRgTjnDOO/E4nuHDIFHqY6mBmY.png" group-title="MÚSICAS",WEB TV VIA MORENA 
+http://wowza2.netpoint.com.br/viamorena/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HIT TV" tvg-logo="https://goo.gl/PDmTsw" group-title="MÚSICAS",HIT TV
 http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/2uPPkn" group-title="MÚSICAS",HETRÔ TV
+#EXTINF:-1 tvg-id="HETRÔ TV" tvg-logo="https://goo.gl/2uPPkn" group-title="MÚSICAS",HETRÔ TV
 http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w125343580.m3u8
 http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w2079984152.m3u8
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_398_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/72OLB7"  group-title="MÚSICAS", RETRO MUSIC HD 
+#EXTINF:-1 tvg-id="RETRO MUSIC HD"  tvg-logo="https://goo.gl/72OLB7"  group-title="MÚSICAS",RETRO MUSIC HD 
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/1M0606" group-title="MÚSICAS", VIA MIDIA TV 
+#EXTINF:-1 tvg-id="VIA MIDIA TV" tvg-logo="https://goo.gl/1M0606" group-title="MÚSICAS",VIA MIDIA TV 
 http://d3e1993t7xu9fk.cloudfront.net/viamidia/aovivo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://s20.postimg.org/55679u6x9/hotmusic.jpg" group-title="MÚSICAS",HOT MUSIC 
+#EXTINF:-1 tvg-id="MÚSICAS",HOT MUSIC" tvg-logo="http://s20.postimg.org/55679u6x9/hotmusic.jpg" group-title="MÚSICAS",HOT MUSIC 
 http://wow01.105.net/live/rmc1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/m1A2mD"  group-title="MÚSICAS", CAPITAL TV HD 
+#EXTINF:-1 tvg-id="CAPITAL TV HD" tvg-logo="https://goo.gl/m1A2mD"  group-title="MÚSICAS",CAPITAL TV HD 
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://fancystreams.com/channelthumb/radio105.png"  group-title="MÚSICAS", RADIO 105 TV 
+#EXTINF:-1 tvg-id="" tvg-logo="http://fancystreams.com/channelthumb/radio105.png"  group-title="MÚSICAS", RADIO 105 TV 
 http://fms.105.net:1935/live/105Test1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/fVVy1W"  group-title="MÚSICAS",DJING HD 
+#EXTINF:-1 tvg-id="DJING HD" tvg-logo="https://goo.gl/fVVy1W"  group-title="MÚSICAS",DJING HD 
 http://www.djing.com/tv/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/LVNHOF" group-title="MÚSICAS",CityTV 
+#EXTINF:-1 tvg-id="CityTV" tvg-logo="https://goo.gl/LVNHOF" group-title="MÚSICAS",CityTV 
 http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8?EGFTv
 http://nodeb.gocaster.net:1935/CGL/_definst_/TODAYFM_TEST2/.m3u8?EGFTv
 
-#EXTINF:-1 tvg-logo="http://www.g2ptv.tv.br/logo.png" group-title="MÚSICAS",G2P TV 
+#EXTINF:-1 tvg-id="G2P TV" tvg-logo="http://www.g2ptv.tv.br/logo.png" group-title="MÚSICAS",G2P TV 
 http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
 
-#EXTINF:-1 tvg-logo="http://s16.postimg.org/axul05l4l/TV_Paran.jpg" group-title="TV Aberta",TV PARANÁ 
+#EXTINF:-1 tvg-id="TV PARANÁ" tvg-logo="http://s16.postimg.org/axul05l4l/TV_Paran.jpg" group-title="TV Aberta",TV PARANÁ 
 http://200.189.113.201/hls/tve.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/LS3VZK" group-title="DESENHOS",CARTOON NETWORK
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/LS3VZK" group-title="DESENHOS",CARTOON NETWORK
 http://95.141.35.104:8081/edge/cartoon/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/PpfTxe" group-title="GALINHA PINTADINHA",Borboletinha - DVD Galinha Pintadinha 2
@@ -311,9 +316,6 @@ https://youtu.be/m-sVUwMXoHc
 
 #EXTINF:-1 tvg-logo="https://goo.gl/PpfTxe" group-title="GALINHA PINTADINHA",chega a 1 BILHÃO DE VIEWS!
 https://youtu.be/h8kpWvfXhds
-
-#EXTINF:-1 tvg-logo="https://lut.im/YsRgTjnDOO/E4nuHDIFHqY6mBmY.png" group-title="DESENHOS", WEB TV VIA MORENA 
-http://wowza2.netpoint.com.br/viamorena/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/2PRHj9" group-title="VARIEDADES",NOSSA TV
 http://stmv1.srvstm.com:1935/tvcadm/tvcadm/live.m3u8
