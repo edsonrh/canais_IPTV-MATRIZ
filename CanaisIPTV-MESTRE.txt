@@ -1,5 +1,26 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="CANAL RURAL" tvg-logo="https://goo.gl/AK3AkS" group-title="AGRONEGÓCIO",CANAL RURAL
+http://67149o.ha.azioncdn.net/hlsmedium/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HORSE BRASIL CHANNEL" tvg-logo="https://goo.gl/L6k4hL" group-title="AGRONEGÓCIO",HORSE BRASIL CHANNEL
+
+#EXTINF:-1 tvg-id="AGRO BRASIL" tvg-logo="https://goo.gl/cr9L2K" group-title="AGRONEGÓCIO",AGRO BRASIL
+
+#EXTINF:-1 tvg-id="AGRO CANAL" tvg-logo="http://i.imgur.com/Gk7EWc9.png" group-title="AGRONEGÓCIO",AGRO CANAL
+http://live.sba1.com:80/hls-live/liveac/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 tvg-id="CANAL DO BOI MS" tvg-logo="http://i.imgur.com/NKRWvKq.png" group-title="AGRONEGÓCIO",CANAL DO BOI MS
+http://live.sba1.com:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 tvg-id="TV AGRO" tvg-logo="https://goo.gl/NPHHVg" group-title="AGRONEGÓCIO",TV AGRO-COLOMBIA
+
+
+#EXTINF:-1 tvg-id="CANAL RURAL" tvg-logo="https://goo.gl/vXtu7g" group-title="AGRONEGÓCIO", CANAL RURAL X-SP
+
+#EXTINF:-1 tvg-id="CANAL RURAL" tvg-logo="https://goo.gl/tPbhdG" group-title="AGRONEGÓCIO",TV RURAL-MG
+
+
 #EXTINF:-1 tvg-id="TVE RS" tvg-logo="https://lut.im/nAKOTQRi7f/LsbdLvntn6zXlm9J.png" group-title="TV ABERTA",TVE RS 
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 
@@ -216,17 +237,8 @@ http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://s30.postimg.org/c6rieq3ch/Novo_Canal.png" group-title="TV ABERTA",Novo Canal
 http://live.sba1.com:80/hls-live/livenc/_definst_/liveevent/livestream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/Gk7EWc9.png" group-title="TV ABERTA",Agro Canal
-http://live.sba1.com:80/hls-live/liveac/_definst_/liveevent/livestream.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/VBcEqPw.png" group-title="TV ABERTA",Conexão BR
 http://live.sba1.com:80/hls-live/livecx/_definst_/liveevent/livestream.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/NKRWvKq.png" group-title="TV ABERTA",Canal do Boi
-http://live.sba1.com:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8
-
-#EXTINF:-1 tvg-id="Canalrural.br" tvg-logo="http://i.imgur.com/jtiMetX.png" group-title="TV ABERTA",Canal Rural
-http://67149o.ha.azioncdn.net/hlsmedium/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Terraviva.br" tvg-logo="http://i.imgur.com/6vBfgpS.png" group-title="TV ABERTA",Terra Viva
 http://evpp.mm.uol.com.br:1935/band/terraviva/playlist.m3u8
