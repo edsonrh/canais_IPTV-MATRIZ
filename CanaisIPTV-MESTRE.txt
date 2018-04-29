@@ -40,7 +40,7 @@ http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
 http://evpp.mm.uol.com.br:1935/redetv1/redetv1/chunklist_w2056582622.m3u8
 
 #EXTINF:-1 tvg-id="TV Cultura SE" tvg-logo="https://goo.gl/d5rQFu" group-title="TV ABERTA",TV Cultura SE
-http://wz-brasil1.comets.com.br/tvaperipe/aovivo/chunklist.m3u8
+http://wz-brasil1.comets.com.br/tvaperipe/aovivo/chunklist.m3u8?EGFTv
 
 #EXTINF:-1 tvg-id="TV Cultura PE" tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="TV ABERTA",TV Cultura PE
 http://wz-brasil1.comets.com.br/tvnovanordeste/aovivo/playlist.m3u8
@@ -159,7 +159,7 @@ https://v5.ciclano.io:1443/8064/8064/playlist.m3u8
 http://173.236.10.10:1935/tvonline/tvonline/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tvers.br" tvg-logo="http://i.imgur.com/gQ4GDzQ.png" group-title="TV ABERTA",TVE RS
-http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?EGFtV
 
 #EXTINF:-1 tvg-id="Tvespanhola.br" tvg-logo="http://i.imgur.com/kLWg5sp.png" group-title="TV ABERTA",TVE BA HD
 http://200.187.60.190:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
