@@ -33,7 +33,6 @@ http://95.141.35.104:8081/edge/band/chunks.m3u8?EGFTv
 #EXTINF:-1 tvg-id="Band PA" tvg-id="BandRede.br" tvg-logo="http://i.imgur.com/9bw0Q4n.png" group-title="TV ABERTA",Band PA
 http://stmv3.srvstm.com/rbatv12/rbatv12/playlist.m3u8?EGFTv
 
-
 #EXTINF:-1 tvg-id="TV ABERTA", G2P TV" tvg-logo="https://lut.im/SOPtBc9rxD/a21WCnGZh58XW1Sb.png" group-title="TV ABERTA", G2P TV 
 http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
 
