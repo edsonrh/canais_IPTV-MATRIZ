@@ -1001,11 +1001,11 @@ http://cdn4.micetop.us/content/httpdelivery/filmes2017/POFE20117-BAIXO.mp4?EGFTv
 http://cdn9.ntcdn.us/lanadelrey/movies/tempestadefuria-dub-720p.mp4?EGFTv
 #EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="DESENHOS" ,Batman Contra o Capuz Vermelho
 http://cdn4.micetop.us/content/httpdelivery/filmes2018/BATMANREDHOODDUB-BAIXO.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,O Assassino: O Primeiro Alvo
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS",O Assassino: O Primeiro Alvo
 http://cdn9.ntcdn.us/lanadelrey/movies/primeiroalvo-dub-720p.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Feito na America
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS",Feito na America
 http://cdn9.ntcdn.us/lanadelrey/movies/americanmade-dub-720p.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Conspiracao Terrorista
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS",Conspiracao Terrorista
 http://player720p.com/filmes/conspiracao.mp4?EGFTv
 #EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Bingo – O Rei das Manhas
 http://cdn9.ntcdn.us/lanadelrey/movies/bingo-dub-720p.mp4?EGFTv
