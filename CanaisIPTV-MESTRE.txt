@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="CANAL RURAL" tvg-logo="https://goo.gl/AK3AkS" group-title="AGRONEGÓCIO",CANAL RURAL
-http://67149o.ha.azioncdn.net/hlsmedium/playlist.m3u8
-
 #EXTINF:-1 tvg-id="HORSE BRASIL CHANNEL" tvg-logo="https://goo.gl/L6k4hL" group-title="AGRONEGÓCIO",HORSE BRASIL CHANNEL
 http://video.worldcdn.net:80/490636978/horsebrasil1.m3u8
 
@@ -11,6 +8,7 @@ http://video.worldcdn.net:80/490636978/horsebrasil1.m3u8
 #EXTINF:-1 tvg-id="AGRO CANAL" tvg-logo="http://i.imgur.com/Gk7EWc9.png" group-title="AGRONEGÓCIO",AGRO CANAL
 http://live.sba1.com:80/hls-live/liveac/_definst_/liveevent/livestream.m3u8
 
+
 #EXTINF:-1 tvg-id="CANAL DO BOI MS" tvg-logo="http://i.imgur.com/NKRWvKq.png" group-title="AGRONEGÓCIO",CANAL DO BOI MS
 http://live.sba1.com:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8
 
@@ -18,9 +16,10 @@ http://live.sba1.com:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8
 
 
 #EXTINF:-1 tvg-id="CANAL RURAL" tvg-logo="https://goo.gl/vXtu7g" group-title="AGRONEGÓCIO", CANAL RURAL X-SP
+http://77149o.ha.azioncdn.net/hlslow/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CANAL RURAL" tvg-logo="https://goo.gl/tPbhdG" group-title="AGRONEGÓCIO",TV RURAL-MG
-
+http://67149o.ha.azioncdn.net/hlsmedium/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVE RS" tvg-logo="https://lut.im/nAKOTQRi7f/LsbdLvntn6zXlm9J.png" group-title="TV ABERTA",TVE RS 
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
@@ -113,19 +112,22 @@ http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/PTsfra" group-title="TV ABERTA", TV Brasil
 http://ebctvbrasil-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctvbrasil/_definst_/live/stream1.m3u8
 
-#EXTINF:-1 tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="TV ABERTA",SBT HD 
+#EXTINF:-1 tvg-id="SBT [Brazil]" tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="TV ABERTA",SBT HD 
 http://srv6.zoeweb.tv:1935/z343-live/stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sbt.br" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV ABERTA",SBT SP Interior
 http://tv01.logicahost.com.br:1935/rbtv/rbtv/playlist.m3u8?EGFTv
 
-#EXTINF:-1 tvg-id="Sbt.br" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV ABERTA",SBT MA
+#EXTINF:-1 tvg-id="SBT [Brazil]" tvg-logo="http://s6.postimg.org/h8x1r40sh/sbt.png" group-title="TV Aberta",SBT MT
+http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8?EGFTv
+
+#EXTINF:-1 tvg-id="SBT [Brazil]" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV ABERTA",SBT MA
 http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8?EGFTv
 
-#EXTINF:-1 tvg-logo="https://goo.gl/V3KdbD" group-title="TV ABERTA", SBT RECIFE
+#EXTINF:-1 tvg-id="SBT [Brazil]" tvg-logo="https://goo.gl/V3KdbD" group-title="TV ABERTA", SBT RECIFE
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1707692457_b131000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV ABERTA",SBT PE Interior
+#EXTINF:-1 tvg-id="SBT [Brazil]" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV ABERTA",SBT PE Interior
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/V3KdbD" group-title="TV ABERTA", SBT HD
@@ -172,6 +174,9 @@ http://wse01.logicahost.com.br:1935/televisaorn/_definst_/televisaorn/chunklist_
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV ABERTA",Record SC
 https://ricmais.com.br/sc/streaming/show/ric_hd720.m3u8
+
+#EXTINF:-1 tvg-id="Record [Brazil]" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record ES
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8?EGFTv
 
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV ABERTA",Record RN
 http://184.172.23.109:1935/live/tvtrop_natal/tvtrop_natal_aovivo/playlist.m3u8
@@ -432,6 +437,9 @@ http://aovivo.futeboltv.com:8081/live/19/playlist.m3u8?EGFTv
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yuxppt1465900144.png/medium" group-title="FUTEBOL AO VIVO",PORTO CANAL 
 http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8
+
+#EXTINF:-1 tvg-id="Horse Brasil HD" tvg-logo="https://pbs.twimg.com/profile_images/766731040475996160/TpyEMZUk.jpg" group-title="FUTEBOL AO VIVO",Horse Brasil HD
+http://490636978.r.worldcdn.net/490636978/_definst_/horsebrasil1/playlist.m3u8?EGFTv
 
 #EXTINF:-1 tvg-id="REAL MADRID TV" https://goo.gl/GA9uW7" group-title="FUTEBOL AO VIVO",REAL MADRID TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_0450_av-b.m3u8?sd=10&rebase=on
