@@ -242,6 +242,8 @@ http://wse01.logicahost.com.br:1935/televisaorn/_definst_/televisaorn/playlist.m
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-logo="http://i.imgur.com/Or3Q4WA.png" group-title="TV ABERTA",TV Gazeta MA
 http://stmv3.pagehost.com.br:1935/wagner7534/wagner7534/playlist.m3u8
 
+############################################################################# NOTÍCIAS ################################
+
 #EXTINF:-1 tvg-logo="https://goo.gl/GgeuBW" group-title="NOTÍCIAS",RECORD NEW RN
 http://stmv4.srvstm.com/recordnewses/recordnewses/playlist.m3u8
 
