@@ -104,24 +104,22 @@ http://stream.camarariogrande.rs.gov.br:80/hls/cmrg_512/index.m3u8?LISTASEGFTv
 http://flash8.crossdigital.com.br:1935/2306/2306/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV CIDADE BRUSQUE
 http://179.107.83.10:1935/live/tvcidadeaovivo_1/livestream.m3u8?LISTASEGFTv
-
-
-
-
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV CIDADE VERDE hd
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/live.m3u8?LISTASGLAU
-#EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV CIDADE WEB
-http://stmv3.euroti.com.br:1935/tvcwebportal/tvcwebportal/live.m3u8?LISTASGLAU
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV CUMARU
-http://stmv2.euroti.com.br:1935/tvcumaru/tvcumaru/live.m3u8?LISTASGLAU
+http://stmv2.euroti.com.br:1935/tvcumaru/tvcumaru/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV DA CIDADE JOINVILLE
-http://wse3.player.tv.br:1935/tvdacidade/tvdacidade/live.m3u8?LISTASGLAU
+http://wse3.player.tv.br:1935/tvdacidade/tvdacidade/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV DA GENTE
-http://595b85410a151.streamlock.net:1935/tvdagente/tvdagente/live.m3u8?LISTASGLAU
+http://595b85410a151.streamlock.net:1935/tvdagente/tvdagente/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV DAS ARTES
-http://tv02.logicahost.com.br:1935/tvdasartes/tvdasartes/live.m3u8?LISTASGLAU
+http://tv02.logicahost.com.br:1935/tvdasartes/tvdasartes/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV DC 46
-http://stmv3.euroti.com.br:1935/dc46/dc46/live.m3u8?LISTASGLAU
+http://stmv3.euroti.com.br:1935/dc46/dc46/live.m3u8?LISTASEGFTv
+
+
+
+
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV DESTAK
 http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8?LISTASGLAU
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV DIÁRIO
