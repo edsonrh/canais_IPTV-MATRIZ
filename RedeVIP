@@ -37,18 +37,12 @@ http://stmv2.euroti.com.br:1935/vivamwebradio/vivamwebradio/live.m3u8?LISTASEGFT
 
 ################################ INFANTIL ############################## 
 #EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="https://goo.gl/6CrS8q" group-title="INFANTIL", BABY TV
-http://wowza2.mysoltv.com:1992/UK_UK_Baby/tracks-v1a1/index.m3u8?CANAISGLAU
+http://wowza2.mysoltv.com:1992/UK_UK_Baby/tracks-v1a1/index.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://goo.gl/61XpnT" group-title="INFANTIL",CARTOON NETWORK  
-http://wowza2.mysoltv.com:1992/UK_ENG_CARTOON_NETWORK_gaaa/tracks-v1a1/index.m3u8?CANAISGLAU
-#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="http://i.imgur.com/4KeieN7.png" group-title="INFANTIL",DISNEY CHANNEL http://bit.ly/Disney_channel
-#EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="http://i.imgur.com/60JkJAz.png" group-title="INFANTIL",DISNEY JUNIOR
-http://144.217.72.15/DisneyJRHD/tracks-v1a1/index.m3u8?token=c114ca23cd1e0404a4cdfdc470deb4c3&LISTASGLAU
-#EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="http://i.imgur.com/zNNIALN.png" group-title="INFANTIL",DISNEY XD
-http://tv.ec.cx:1935/redecanais-stream-disneyxd/myStream/playlist.m3u8?CANAISGLAU
+http://wowza2.mysoltv.com:1992/UK_ENG_CARTOON_NETWORK_gaaa/tracks-v1a1/index.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-id="" tvg-name=" GOSPEL CARTOON" tvg-logo="https://goo.gl/TbZ4w1" group-title="INFANTIL",GOSPEL CARTOON
-http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=495096105?CANAISGLAU
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="INFANTIL",NICKELODEON
-http://tv.ec.cx:1935/redecanais-stream-nick/myStream/chunklist.m3u8?CANAISGLAU
+http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=495096105?LISTASEGFTv
+
 
 ##################################### WEB'S TV ################################### 
 
