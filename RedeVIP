@@ -563,58 +563,46 @@ http://api.new.livestream.com/accounts/16991778/events/6670101/live.m3u8?CANAISE
 http://hd4.com.br:1935/sectv2/sectv2/playlist.m3u8?CANAISEGFTv
 #EXTINF:-1 tvg-id="" tvg-name="SOBRENATURAL TV" tvg-logo="https://s20.postimg.org/psbtfbd0d/Logo-_Sobrenatural-_TV-_Pra-_TV.png" group-title="ABERTOS",SOBRENATURAL TV
 http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8?CANAISEGFTv
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Terra Viva" tvg-logo="http://i.imgur.com/Lasl3ys.png" group-title="ABERTOS",TERRA VIVA
-http://evpp.mm.uol.com.br:1935/band/terraviva/playlist.m3u8?CANAISGLAU
-#EXTINF:-1 tvg-id="" tvg-name="TV Brasil" tvg-logo="http://i.imgur.com/LucwZlc.png" group-title="ABERTOS",TV BRASIL
-http://ebctvbrasil-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctvbrasil/_definst_/live.m3u8?CANAISGLAU
+EXTINF:-1 tvg-id="" tvg-name="Terra Viva" tvg-logo="http://i.imgur.com/Lasl3ys.png" group-title="ABERTOS",TERRA VIVA
+http://evpp.mm.uol.com.br:1935/band/terraviva/playlist.m3u8?CANAISEGFTv
 #EXTINF:-1 tvg-id="" tvg-name=" TV CÂMARA”  tvg-logo="http://i.imgur.com/no1Al0A.png" group-title="ABERTOS",TV CÂMARA
-http://stream2.camara.leg.br:8134/tv1/manifest.m3u8?CANAISGLAU
+http://stream2.camara.leg.br:8134/tv1/manifest.m3u8?CANAISEGFTv
 #EXTINF:-1 tvg-id="" tvg-name=" TV CULTURA MG" tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="ABERTOS", TV CULTURA MG
-http://rtmp.cdn.upx.net.br:1935/00084/myStream.sdp/playlist.m3u8?CANAISGLAU
+http://rtmp.cdn.upx.net.br:1935/00084/myStream.sdp/playlist.m3u8?CANAISEGFTv
 #EXTINF:-1 tvg-id="" tvg-name=" TV CULTURA PR" tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="ABERTOS", TV CULTURA PR
-http://200.189.113.201/hls/tve.m3u8?CANAISGLAU
+http://200.189.113.201/hls/tve.m3u8?CANAISEGFTv
 #EXTINF:-1 tvg-id="" tvg-name="TV Diário" tvg-logo="" group-title="ABERTOS",TV DIÁRIO
-http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/playlist.m3u8?CANAISGLAU
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/playlist.m3u8?CANAISEGFTv
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Yj9UKv2.png" group-title="ABERTOS",TV ESCOLA
-http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream2/playlist.m3u8?CANAISGLAU
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream2/playlist.m3u8?CANAISEGFTv
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Yj9UKv2.png" group-title="ABERTOS",TV ESCOLA ALTERNATIVO
-http://liveabr2.sambatech.com.br:80/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestreamabr.m3u8?CANAISGLAU
+http://liveabr2.sambatech.com.br:80/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestreamabr.m3u8?CANAISEGFTv
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Yj9UKv2.png" group-title="ABERTOS",TV ESCOLA HD
-http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream3/playlist.m3u8?CANAISGLAU
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream3/playlist.m3u8?CANAISEGFTv
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Yj9UKv2.png" group-title="ABERTOS",TV ESCOLA HD ALTERNATIVO
-http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8?CANAISGLAU
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8?CANAISEGFTv
 #EXTINF:-1 tvg-logo=""group-title="ABERTOS",RICOS 
-http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/playlist.m3u8?CANAISGLAU
+http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/playlist.m3u8?CANAISEGFTv
 #EXTINF:-1 tvg-id="" tvg-name="TVE" tvg-logo="http://i.imgur.com/oSZZKxP.png" group-title="ABERTOS",TVE
-http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?CANAISGLAU
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?CANAISEGFTv
 #EXTINF:-1 tvg-id=" TVE" tvg-name=" TVE BA HD”tvg-logo="https://goo.gl/gdW4Mr" group-title=" ABERTOS", TVE BA HD
-http://200.187.60.190:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8?CANAISGLAU
+http://200.187.60.190:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8?CANAISEGFTv
 #EXTINF:-1 tvg-id="TV GAZETA" tvg-name="TV GAZETA" tvg-logo="http://i.imgur.com/R9HmhBD.png" group-title="ABERTOS", TV GAZETA
-http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8?CANAISGLAU
-#EXTINF:-1 tvg-id="" tvg-name="TV GUARANI"tvg-logo="http://s16.postimg.org/ovcr5gj79/TV_Guarany.png" group-title="ABERTOS", TV GUARANY
-http://wse.stmip.in:1935/rtguarany/rtguarany/playlist.m3u8?CANAISGLAU
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8?CANAISEGFTv
 #EXTINF:-1 tvg-id="" tvg-name="TV INES" tvg-logo="http://s16.postimg.org/4rt4ter79/TV_INES.png" group-title="ABERTOS",TV INES
-http://slrp.sambavideos.sambatech.com/liveevent/acerpTvINESABR_d360fbbfbf3e5e59a31cf89ec45eb3dc/livestream2/playlist.m3u8?CANAISGLAU
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvINESABR_d360fbbfbf3e5e59a31cf89ec45eb3dc/livestream2/playlist.m3u8?CANAISEGFTv
 #EXTINF:-1 tvg-id="" tvg-name="TV INES HD" tvg-id="" tvg-logo="http://s16.postimg.org/4rt4ter79/TV_INES.png" group-title="ABERTOS",TV INES HD
-http://slrp.sambavideos.sambatech.com/liveevent/acerpTvINESABR_d360fbbfbf3e5e59a31cf89ec45eb3dc/livestream3/playlist.m3u8?CANAISGLAU
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvINESABR_d360fbbfbf3e5e59a31cf89ec45eb3dc/livestream3/playlist.m3u8?CANAISEGFTv
 #EXTINF:-1 tvg-id="TV MACEIÓ" tvg-name="TV MACEIÓ"tvg-logo="http://i.imgur.com/WWOTXQp.png" group-title="ABERTOS", TV MACEIÓ
-http://173.236.10.10:1935/toptv/toptv/chunklist_w233160029.m3u8?CANAISGLAU
+http://173.236.10.10:1935/toptv/toptv/chunklist_w233160029.m3u8?CANAISEGFTv
 #EXTINF:-1 tvg-id="TV MACEIÓ 2" tvg-name="TV MACEIÓ 2" tvg-id="" tvg-logo="http://i.imgur.com/TX1jfAh.jpg" group-title="ABERTOS",TV MACEIÓ 2
-http://173.236.10.10:1935/toptv/toptv/playlist.m3u8?CANAISGLAU
+http://173.236.10.10:1935/toptv/toptv/playlist.m3u8?CANAISEGFTv
 #EXTINF:-1 tvg-id="TV MEIO NORTE" tvg-name="TV MEIO NORTE" tvg-logo="http://i.imgur.com/ZWgiH4d.png" group-title="ABERTOS",TV MEIO NORTE
-http://api.new.livestream.com/accounts/3332377/events/2958396/live.m3u8?CANAISGLAU
-#EXTINF:-1 tvg-id="TV YORUBA" tvg-name="TV YORUBA" tvg-logo="https://yt3.ggpht.com/-Q70BSKw1YWA/AAAAAAAAAAI/AAAAAAAAAAA/zxqTaOSY8EI/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="ABERTOS",TV YORUBA
-http://45.43.208.2:1935/yoruba/yoruba/live.m3u8?CANAISGLAU
+http://api.new.livestream.com/accounts/3332377/events/2958396/live.m3u8?CANAISEGFTv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s20.postimg.org/tys2h5v0t/Via-_Morena.png" group-title="ABERTOS",VIA MORENA
-http://wowza2.netpoint.com.br/viamorena/live/playlist.m3u8?CANAISGLAU
+http://wowza2.netpoint.com.br/viamorena/live/playlist.m3u8?CANAISEGFTv
 #EXTINF:-1 tvg-id="TV URBANA" tvg-name="TV URBANA" tvg-logo="https://goo.gl/eX8uh6" group-title="ABERTOS",TVU (TV URBANA)
-http://srv9.zoeweb.tv:1935/zw923/stream/playlist.m3u8?CANAISGLAU
+http://srv9.zoeweb.tv:1935/zw923/stream/playlist.m3u8?CANAISEGFTv
 
 ################################ CANAIS ESPORTES ############################# 
 #EXTINF:-1 tvg-id="" tvg-name="ALL SPORT" tvg-logo="https://goo.gl/tCzXBb=" group-title="ESPORTE",ALL SPORTS BR
