@@ -220,48 +220,44 @@ http://stmv1.euroti.com.br:1935/wagnermq/wagnermq/live.m3u8?LISTASEGFTv
 http://v.pool.us.wse-1.srvstream.com:1935/fx7-live/fx7-live/livestream.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV SOL HD
 http://tv02.logicahost.com.br:1935/tvsol/tvsol/live.m3u8?LISTASEGFTv
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV VIANNEY
-http://wse7.player.tv.br:1935/iolandomauriciodasilva800/iolandomauriciodasilva800/live.m3u8?LISTASGLAU
+http://wse7.player.tv.br:1935/iolandomauriciodasilva800/iolandomauriciodasilva800/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV VITÓRIA
-http://tvvitoria.viacast.tv:80/livepl/tvvitoria_2_original.m3u8?LISTASGLAU
+http://tvvitoria.viacast.tv:80/livepl/tvvitoria_2_original.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV WEB CIDADE
-http://stmv1.euroti.com.br:1935/tvpeabiru/tvpeabiru/live.m3u8?LISTASGLAU
+http://stmv1.euroti.com.br:1935/tvpeabiru/tvpeabiru/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV WEB PARANÁ
-http://wse3.player.tv.br:1935/tvwebparana/tvwebparana/live.m3u8?LISTASGLAU
+http://wse3.player.tv.br:1935/tvwebparana/tvwebparana/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",GLOBO TV PAN
-http://stmv2.euroti.com.br:1935/joseanne/joseanne/live.m3u8?LISTASGLAU
-#EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",ARARU TV
-http://painel.tvdigitalhd.org:1935/marcos81290/marcos81290/live.m3u8?LISTASGLAU
+http://stmv2.euroti.com.br:1935/joseanne/joseanne/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",RECORD TV ÁGUA BOA
-http://painelvj.com.br:1935/tvaguaboa/tvaguaboa.sdp/live.m3u8?LISTASGLAU
+http://painelvj.com.br:1935/tvaguaboa/tvaguaboa.sdp/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TVC BAURU
-http://painel.tvdigitalhd.org:1935/carlos84562/carlos84562/live.m3u8?LISTASGLAU
+http://painel.tvdigitalhd.org:1935/carlos84562/carlos84562/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TVCOM MACEIÓ
-http://srv6.zoeweb.tv:1935/z883-live/stream/livestream.m3u8?LISTASGLAU
+http://srv6.zoeweb.tv:1935/z883-live/stream/livestream.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV CIDADE
-http://stmv1.euroti.com.br:1935/haroldo/haroldo/live.m3u8?LISTASGLAU
+http://stmv1.euroti.com.br:1935/haroldo/haroldo/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV DIFUSORA
-http://srv3.zoeweb.tv:1935/z437-live/stream/livestream.m3u8?LISTASGLAU
+http://srv3.zoeweb.tv:1935/z437-live/stream/livestream.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",BEM TV
-http://wz3.dnip.com.br:1935/bemtv/bemtv.sdp/live.m3u8?LISTASGLAU
+http://wz3.dnip.com.br:1935/bemtv/bemtv.sdp/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV DIFUSORA SUL HD
-http://srv3.zoeweb.tv:1935/z438-live/stream/livestream.m3u8?LISTASGLAU
-#EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",BÚZIOS TV
+http://srv3.zoeweb.tv:1935/z438-live/stream/livestream.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",CANAL 20 TV
-http://wse8.player.tv.br:1935/canal20/canal20/live.m3u8?LISTASGLAU
+http://wse8.player.tv.br:1935/canal20/canal20/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",CANAL 25
-http://stream01.msolutionbrasil.com.br:80/hls/canal25/live.m3u8?LISTASGLAU
+http://stream01.msolutionbrasil.com.br:80/hls/canal25/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV É-PARANÁ
-http://200.189.113.201:80/hls/tve.m3u8?LISTASGLAU
+http://200.189.113.201:80/hls/tve.m3u8?LLISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",CANAL RICOS
-http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/live.m3u8?LISTASGLAU
+http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV ART
-http://stmv1.euroti.com.br:1935/tvarthd/tvarthd/live.m3u8?LISTASGLAU
+http://stmv1.euroti.com.br:1935/tvarthd/tvarthd/live.m3u8?LISTASEGFTv
+
+
+
+
 http://srv3.zoeweb.tv:1935/z437-live/stream/livestream.m3u8?LISTASGLAU
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV DIGITAL BIRIGUI
 http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8?LISTASGLAU
