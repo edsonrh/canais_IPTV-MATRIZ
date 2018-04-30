@@ -311,29 +311,30 @@ http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid
 
 ##################################### WEB'S TV ################################### 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",REDE METRÓPOLE DE COMUNICAÇÃO
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/2HZUlIt" group-title="WEB TV",REDE METRÓPOLE DE COMUNICAÇÃO
 http://201.31.2.11:4918/live/tvmetropole.stream/livestream.m3u8?LISTASEGFTv
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",REDE NEW
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/2rbc19C" group-title="WEB TV",REDE NEW
 http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8?LISTASEGFTv
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",REDE RC
 http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8?LISTASEGFTv
-#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",REDE TV
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="https://bit.ly/1DfZ5Cz" group-title="WEB TV",REDE TV
 http://evpp.mm.uol.com.br:1935/redetv2/redetv2/live.m3u8?LISTASEGFTv
-#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",REDE TV SHOP
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="https://bit.ly/2HEIn3l" group-title="WEB TV",REDE TV SHOP
 http://186.227.165.118:1935/insatv/tvshop/live.m3u8?LISTASEGFTv
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",SEC TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/2HIZnFV" group-title="WEB TV",SEC TV
 http://hd4.com.br:1935/sectv2/sectv2/live.m3u8?LISTASEGFTv
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",SESC TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/2HIZnFV" group-title="WEB TV",SESC TV
 http://api.new.livestream.com:80/accounts/16991778/events/6670101/live.m3u8?LISTASEGFTv
-#EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",STZ TV
+#EXTINF:-1 tvg-logo="https://bit.ly/2Kp62GQ" group-title="WEB TV",STZ TV
 http://pge0907stz35.nethorizontes.tv:1935/pge0907stz35/stzwebtv/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",BO ANÁPOLIS
 http://tv01.logicahost.com.br:1935/tboanapolis/tboanapolis/live.m3u8?LISTASEGFTv
-#EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TCM 10 HD
+#EXTINF:-1 tvg-logo="https://bit.ly/2rbHHMO" group-title="WEB TV",TCM 10 HD
 http://cw.tcm10.com.br:80/low/canal10.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV A CARA DA BAHIA
 http://hd4.com.br:1935/tvacaradabahia/tvacaradabahia/live.m3u8?LISTASEGFTv
-#EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV A PLATEIA
+#EXTINF:-1 tvg-logo="https://bit.ly/2HCK7OS" group-title="WEB TV",TV A PLATEIA
 http://srv-rs1.sisdera.com:1935/tvap/tvap.smil/chunklist_b1400000.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV ALESE
 http://digilab-live.hls.adaptive.level3.net:80/hls-live/digilablive-tvalese/_definst_/live/stream3.m3u8?LISTASEGFTv
