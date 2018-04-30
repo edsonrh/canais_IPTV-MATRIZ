@@ -281,12 +281,6 @@ http://srv3.zoeweb.tv:1935/z437-live/stream/livestream.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",CENTRAL TV
 http://tv02.logicahost.com.br:1935/rbt01/rbt01/live.m3u8?LISTASEGFTv
 http://srv3.zoeweb.tv:1935/z437-live/stream/livestream.m3u8?LISTASEGFTv
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",CONVERT TV E RÁDIO
 http://stmv2.euroti.com.br:1935/tvconnvert/tvconnvert/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",CORREIO GOIANO TV
@@ -299,8 +293,6 @@ http://78.46.36.212:1935/cwbtv/cwbtv/live.m3u8?LISTASEGFTv
 http://srv3.zoeweb.tv:1935/zw320/stream/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",DTTV
 http://streaming63.sitehosting.com.br:1935/tvneponu/tvneponu/live.m3u8?LISTASEGFTv
-#EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",G2P TV
-http://srv9.zoeweb.tv:1935/zw969/stream/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",GERAES TV
 http://stmv1.euroti.com.br:1935/tv465/tv465/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",GOIÁS É MAIS TV
@@ -309,6 +301,12 @@ http://wse6.player.tv.br:1935/goiasemais/goiasemais/live.m3u8?LISTASEGFTv
 http://tv01.logicahost.com.br:1935/infocowebtv/infocowebtv/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",ITU TV
 http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8?LISTASEGFTv
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",JOIAS VIP
 http://ams2.dtcompany.com.br:1935/live/joiasvip.stream/livestream.m3u8?LISTASGLAU
