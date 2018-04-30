@@ -255,29 +255,25 @@ http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/live.m3u8?LISTASE
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV ART
 http://stmv1.euroti.com.br:1935/tvarthd/tvarthd/live.m3u8?LISTASEGFTv
 http://srv3.zoeweb.tv:1935/z437-live/stream/livestream.m3u8?LISTASEGFTv
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV DIGITAL BIRIGUI
-http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8?LISTASGLAU
-http://srv3.zoeweb.tv:1935/z437-live/stream/livestream.m3u8?LISTASGLAU
+http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8?LISTASEGFTv
+http://srv3.zoeweb.tv:1935/z437-live/stream/livestream.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TVE RS
-http://streaming.procergs.com.br:1935/tve/stve/live.m3u8?LISTASGLAU
-http://srv3.zoeweb.tv:1935/z437-live/stream/livestream.m3u8?LISTASGLAU
+http://streaming.procergs.com.br:1935/tve/stve/live.m3u8?LISTASEGFTv
+http://srv3.zoeweb.tv:1935/z437-live/stream/livestream.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",CANAL SETE
-http://189.51.193.98:8081/canalsete/str3/playlist.m3u8?LISTASGLAU
-http://srv3.zoeweb.tv:1935/z437-live/stream/livestream.m3u8?LISTASGLAU
+http://189.51.193.98:8081/canalsete/str3/playlist.m3u8?LISTASEGFTv
+http://srv3.zoeweb.tv:1935/z437-live/stream/livestream.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TVN BRASIL
-http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8?LISTASGLAU
-http://srv3.zoeweb.tv:1935/z437-live/stream/livestream.m3u8?LISTASGLAU
+http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8?LISTASEGFTv
+http://srv3.zoeweb.tv:1935/z437-live/stream/livestream.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TVC BH
-http://wse3.player.tv.br:1935/tvcbh/tvcbh/live.m3u8?LISTASGLAU
-http://srv3.zoeweb.tv:1935/z437-live/stream/livestream.m3u8?LISTASGLAU
-#EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV ÊXITO
-http://flashd.localmidia.com.br:1935/tvexito/aovivo/live.m3u8#EXTINF:0,TV LINHA HORIZONTE
+http://wse3.player.tv.br:1935/tvcbh/tvcbh/live.m3u8?LISTASEGFTv
+http://srv3.zoeweb.tv:1935/z437-live/stream/livestream.m3u8?LISTASEGFTv
+
+
+
+
 http://tv01.logicahost.com.br:1935/linhahorizonte/linhahorizonte/live.m3u8?LISTASGLAU
 http://srv3.zoeweb.tv:1935/z437-live/stream/livestream.m3u8?LISTASGLAU
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",CARIRI TV
