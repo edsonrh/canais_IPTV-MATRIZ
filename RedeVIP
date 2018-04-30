@@ -196,49 +196,35 @@ http://painel.serveron.com.br:1935/tvregional/tvregional/live.m3u8?LISTASEGFTv
 http://stmv4.euroti.com.br:1935/tvrio/tvrio/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV RIO PRETO
 http://186.227.165.118:1935/insatv/livestream/live.m3u8?LISTASEGFTv
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV SERRA DOURADA
-http://tvsd2.zoeweb.tv:1935/tvsd2/tvsd2.smil/chunklist_b796000.m3u8?LISTASGLAU
+http://tvsd2.zoeweb.tv:1935/tvsd2/tvsd2.smil/chunklist_b796000.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV STEREO SOWND
-http://stmv1.euroti.com.br:1935/leonardo8927/leonardo8927/live.m3u8?LISTASGLAU
-#EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV SÃO LEO
-http://wse5.player.tv.br:1935/tvsaoleo/tvsaoleo/live.m3u8?LISTASGLAU
+http://stmv1.euroti.com.br:1935/leonardo8927/leonardo8927/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV SÃO LEOPOLDO 
-http://stmv2.euroti.com.br:1935/tv433/tv433/live.m3u8?LISTASGLAU
+http://stmv2.euroti.com.br:1935/tv433/tv433/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV TALITONEWS
-http://painel.tvdigitalhd.org:1935/nelsinho80132/nelsinho80132/live.m3u8?LISTASGLAU
-#EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV TAMBAÚ
-http://stmv2.euroti.com.br:1935/tvtambau/tvtambau/live.m3u8?LISTASGLAU
+http://painel.tvdigitalhd.org:1935/nelsinho80132/nelsinho80132/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV TAMOIOS
-http://stmv2.euroti.com.br:1935/carlos9990/carlos9990/live.m3u8?LISTASGLAU
-#EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV TRANSAMÉRICA
-http://tvtransamerica.crossdigital.com.br:1935/ponto2/transamerica2/live.m3u8?LISTASGLAU
-#EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV TROPICAL
-http://184.172.23.109:1935/live/tvtrop_natal/tvtrop_natal_aovivo/livestream.m3u8?LISTASGLAU
-#EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV UNIVATES
-http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/live.m3u8?LISTASGLAU
+http://stmv2.euroti.com.br:1935/carlos9990/carlos9990/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV UNIVERSITÁRIA
-http://150.161.93.173:80/hls/720/index.m3u8?LISTASGLAU
+http://150.161.93.173:80/hls/720/index.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV UNIVERSITÁRIA TUPÃ
-http://painel.tvdigitalhd.org:1935/ricardo94503/ricardo94503/live.m3u8?LISTASGLAU
-#EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV UNIÃO
-http://stmv1.euroti.com.br:1935/tvuniao/tvuniao/live.m3u8?LISTASGLAU
+http://painel.tvdigitalhd.org:1935/ricardo94503/ricardo94503/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV UP HD
-http://caikrondatacenter.com.br:1935/unipar/tvup/live.m3u8?LISTASGLAU
+http://caikrondatacenter.com.br:1935/unipar/tvup/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV URBANA
-http://srv9.zoeweb.tv:1935/zw923/stream/live.m3u8?LISTASGLAU
+http://srv9.zoeweb.tv:1935/zw923/stream/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV VARJOTA EM DESTAQUE
-http://stmv1.euroti.com.br:1935/wagnermq/wagnermq/live.m3u8?LISTASGLAU
-#EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV SIM VITÓRIA
-http://stmv4.euroti.com.br:1935/tvsimvitoria/tvsimvitoria/live.m3u8?LISTASGLAU
+http://stmv1.euroti.com.br:1935/wagnermq/wagnermq/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV SINDEEPRES
-http://v.pool.us.wse-1.srvstream.com:1935/fx7-live/fx7-live/livestream.m3u8?LISTASGLAU
+http://v.pool.us.wse-1.srvstream.com:1935/fx7-live/fx7-live/livestream.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV SOL HD
-http://tv02.logicahost.com.br:1935/tvsol/tvsol/live.m3u8?LISTASGLAU
+http://tv02.logicahost.com.br:1935/tvsol/tvsol/live.m3u8?LISTASEGFTv
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV VIANNEY
 http://wse7.player.tv.br:1935/iolandomauriciodasilva800/iolandomauriciodasilva800/live.m3u8?LISTASGLAU
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV VITÓRIA
