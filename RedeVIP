@@ -254,11 +254,11 @@ http://200.189.113.201:80/hls/tve.m3u8?LLISTASEGFTv
 http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV ART
 http://stmv1.euroti.com.br:1935/tvarthd/tvarthd/live.m3u8?LISTASEGFTv
+http://srv3.zoeweb.tv:1935/z437-live/stream/livestream.m3u8?LISTASEGFTv
 
 
 
 
-http://srv3.zoeweb.tv:1935/z437-live/stream/livestream.m3u8?LISTASGLAU
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV DIGITAL BIRIGUI
 http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8?LISTASGLAU
 http://srv3.zoeweb.tv:1935/z437-live/stream/livestream.m3u8?LISTASGLAU
