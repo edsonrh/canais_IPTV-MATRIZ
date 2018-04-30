@@ -259,6 +259,8 @@ http://srv3.zoeweb.tv:1935/z437-live/stream/livestream.m3u8?LISTASEGFTv
 
 
 
+
+
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV DIGITAL BIRIGUI
 http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8?LISTASGLAU
 http://srv3.zoeweb.tv:1935/z437-live/stream/livestream.m3u8?LISTASGLAU
