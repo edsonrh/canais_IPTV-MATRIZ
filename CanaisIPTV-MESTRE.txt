@@ -366,29 +366,34 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?EGFTv
 #EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",CINE FILMES 2
 http://rtmp.one.by:1200?EGFTv
 
-############################################################################# FILMES E SÉRIES ##########################
-#EXTINF:-1tvg-logo="https://bit.ly/2K3PFPT" group-title="FILMES E SÉRIES",FEAR THE WALKING DEAD
+############################################################################# FILMES & SÉRIES ##########################
+#EXTINF:-1tvg-logo="https://bit.ly/2K3PFPT" group-title="FILMES/SERIES",FEAR THE WALKING DEAD
 https://bit.ly/2qPAhOk
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/SMbsk2" group-title="FILMES/SERIES",CINE GLAU
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?LISTASEGFTv
 #EXTINF:-1tvg-logo="http://s16.postimg.org/z4yd0upsl/cine_sky.png" group-title="FILMES E SÉRIES",CINE SKY
-http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8?EGFTv
-
-#EXTINF:-1 tvg-logo="https://goo.gl/LUhcnj" group-title="FILMES E SERIES",Classique TV
+http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8?LISTASEGFTv
+#EXTINF:-1 tvg-logo="https://goo.gl/LUhcnj" group-title="FILMES/SERIES",CLASSIQUE TV
 http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8?EGFTv
-
+http://stmv2.euroti.com.br:1935/classique/classique/playlist.m3u8?LISTASEGFTv
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/EdTZ0ba.png" group-title="FILMES/SERIES",CLASSIQUE TV ALTERNATIVO
+http://stmv2.srvstm.com/classique/classique/playlist.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/LUhcnj" group-title="FILMES E SERIES",NOVA CINEMA 04
 http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8?EGFTv
-
 #EXTINF:-1 tvg-logo="https://goo.gl/LUhcnj" group-title="FILMES E SERIES",NOVA CINEMA 05
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?EGFTv
-
-#EXTINF:-1 tvg-logo="https://goo.gl/zG3XXJ" group-title="FILMES E SERIES", Cine +
-http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8?EGFTv
+#EXTINF:-1 tvg-logo="https://goo.gl/zG3XXJ" group-title="FILMES/SERIES", Cine +
+http://189.86.89.116:80/hls-live/livecm/_definst_/liveevent/livestream.m3u8?LISTASEGFTv
+#EXTINF:-1 tvg-logo="https://goo.gl/7QQhQB" group-title="FILMES/SERIES",CINE+
+#EXTINF:-1 tvg-logo="https://goo.gl/7QQhQB" group-title="FILMES/SERIES",CINE+ 2
+http://live.sba1.com:80/hls-live/livecm/_definst_/liveevent/livestream.m3u8?LISTASEGFTv
+#EXTINF:-1 tvg-id="" tvg-name="TV KIDMAIS "tvg-logo="http://www.kidmaisfestas.com.br/images/KidmaisEventos.png" group-title="FILMES/SERIES",TV KIDMAIS
+http://tv01.logicahost.com.br:1935/tvkidmais01/tvkidmais01/live.m3u8?LISTASEGFTv
+#EXTINF:-1 tvg-id="" tvg-name="TCM 10 HD" tvg-logo="http://ocamera.com.br/imagens/noticias/578/large/download.png" group-title="FILMES/SERIES",TCM 10 HD
+http://cw.tcm10.com.br:80/low/canal10.m3u8?LISTASEGFTv
+#EXTINF:-1 tvg-id="" tvg-name="VIVAM WEB TV" tvg-logo="https://goo.gl/DQySJY" group-title="FILMES/SERIES",VIVAM WEB TV
+http://stmv2.euroti.com.br:1935/vivamwebradio/vivamwebradio/live.m3u8?LISTASEGFTv
  
-
-
-
-
 ##################################################################################################### ESPORTE ##########
 #EXTINF:-1 tvg-id="PREMIERE" https://bit.ly/2w1knpE" group-title="FUTEBOL AO VIVO",PREMIERE
 http://aovivo.futeboltv.com:8081/live/2/playlist.m3u8?EGFTv
