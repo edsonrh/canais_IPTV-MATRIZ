@@ -411,12 +411,6 @@ http://streaming60.sitehosting.com.br:1935/tvadbras/tvadbras/live.m3u8?LISTASEGF
 http://stmv2.euroti.com.br:1935/tvadcpaz/tvadcpaz/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV GOLPEL",TV ALVORADA ESPÍRITA
 http://78.46.36.212:1935/tvalvorada/tvalvorada/live.m3u8?LISTASEGFTv
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV GOLPEL",TV APARECIDA
 http://caikrondatacenter.com.br:1935/tvaparecida/tvaparecida.stream/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV GOLPEL",TV ASSEMBLEIA CEARÁ
@@ -424,51 +418,53 @@ http://srv6.zoeweb.tv:1935/z404-live/stream/livestream.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV GOLPEL",TV BETEL
 http://stmv1.euroti.com.br:1935/betelnc/betelnc/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV GOLPEL",TV BETHEL
-http://srv9.zoeweb.tv:1935/zw925/stream/live.m3u8?LISTASGLAU
+http://srv9.zoeweb.tv:1935/zw925/stream/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV GOLPEL",TV BOA ESPERANÇA
-http://stmv2.euroti.com.br:1935/16692/16692/live.m3u8?LISTASGLAU
+http://stmv2.euroti.com.br:1935/16692/16692/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV GOLPEL",TV CAIUÁ
-http://midia.radiosaqui.com.br:1935/tvcaiua/aovivo/live.m3u8?LISTASGLAU
+http://midia.radiosaqui.com.br:1935/tvcaiua/aovivo/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV GOLPEL",TV CAMPOS GERAIS
-http://stmv2.euroti.com.br:1935/tvcamposgerais/tvcamposgerais/live.m3u8?LISTASGLAU
+http://stmv2.euroti.com.br:1935/tvcamposgerais/tvcamposgerais/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV GOLPEL",TV CATOLIC
-http://stmv2.euroti.com.br:1935/tvcatolic/tvcatolic/live.m3u8?LISTASGLAU
-#EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV GOLPEL",TV CATOLÉ
-http://painel.tvdigitalhd.org:1935/gilson86576/gilson86576/live.m3u8?LISTASGLAU
-#EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV GOLPEL",TV DEUS VIVO
-http://jstream.ddns.net:1935/ralc1512rm/ralc1512rm720/live.m3u8?LISTASGLAU
+http://stmv2.euroti.com.br:1935/tvcatolic/tvcatolic/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV GOLPEL",TV DORENSE
-http://stmv2.euroti.com.br:1935/tvdorense/tvdorense/live.m3u8?LISTASGLAU
+http://stmv2.euroti.com.br:1935/tvdorense/tvdorense/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV GOLPEL",TV EVANGELIZAR
-http://tvevangelizar01.crossdigital.com.br:1935/evangelizar/tv/live.m3u8?LISTASGLAU
+http://tvevangelizar01.crossdigital.com.br:1935/evangelizar/tv/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV GOLPEL",TV FÁTIMA PARATIBE
-http://tv01.logicahost.com.br:1935/tvfatimaparatibe/tvfatimaparatibe/live.m3u8?LISTASGLAU
+http://tv01.logicahost.com.br:1935/tvfatimaparatibe/tvfatimaparatibe/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV GOLPEL",TV FÁTIMA
-http://streaming63.sitehosting.com.br:1935/telemaco/telemaco/live.m3u8?LISTASGLAU
+http://streaming63.sitehosting.com.br:1935/telemaco/telemaco/live.m3u8?LISTASEGFTv
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV GOLPEL",TV FILADÉLFIA
-http://stmv2.euroti.com.br:1935/nivaldo5820/nivaldo5820/live.m3u8?LISTASGLAU
+http://stmv2.euroti.com.br:1935/nivaldo5820/nivaldo5820/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV GOLPEL",TV FUNTELPA
-http://177.74.1.38:80/funtelpa/tv_funtelpa/live.m3u8?LISTASGLAU
+http://177.74.1.38:80/funtelpa/tv_funtelpa/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV GOLPEL",TV GERAES
-http://painel.serveron.com.br:1935/8054/8054/live.m3u8?LISTASGLAU
+http://painel.serveron.com.br:1935/8054/8054/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV GOLPEL",TV GIDEÕES HD
-http://streaming02.zas.media:1935/gideoes/programacao/live.m3u8?LISTASGLAU
+http://streaming02.zas.media:1935/gideoes/programacao/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV GOLPEL",TV ILHA DIGITAL
-http://tv02.logicahost.com.br:1935/ilhadigital/ilhadigital/live.m3u8?LISTASGLAU
+http://tv02.logicahost.com.br:1935/ilhadigital/ilhadigital/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV GOLPEL",TV IMACULADA CONCEIÇÃO
-http://caikrondatacenter.com.br:1935/ric_tvimaculada/ric.stream/live.m3u8?LISTASGLAU
+http://caikrondatacenter.com.br:1935/ric_tvimaculada/ric.stream/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV GOLPEL",TV JESUS CRISTO
-http://srv6.zoeweb.tv:1935/z476-live/stream/livestream.m3u8?LISTASGLAU
+http://srv6.zoeweb.tv:1935/z476-live/stream/livestream.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV GOLPEL",TV LOUVAR
-http://tv01.logicahost.com.br:1935/renascer/renascer/live.m3u8?LISTASGLAU
+http://tv01.logicahost.com.br:1935/renascer/renascer/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV GOLPEL",TV MACEIÓ
-http://tv01.logicahost.com.br:1935/toptv/toptv/live.m3u8?LISTASGLAU
+http://tv01.logicahost.com.br:1935/toptv/toptv/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV GOLPEL",TV MISSÃO
-http://wse7.player.tv.br:1935/tvmissao/tvmissao/live.m3u8?LISTASGLAU
+http://wse7.player.tv.br:1935/tvmissao/tvmissao/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV GOLPEL",TV MONTEIRO
-http://stmv1.euroti.com.br:1935/tvmonteiro/tvmonteiro/live.m3u8?LISTASGLAU
+http://stmv1.euroti.com.br:1935/tvmonteiro/tvmonteiro/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV GOLPEL",TV MUNDIAL
-http://58a4464faef53.streamlock.net:1935/impd/impd/live.m3u8?LISTASGLAU
+http://58a4464faef53.streamlock.net:1935/impd/impd/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV GOLPEL",TV MUNDO CATÓLICO
 http://wse6.player.tv.br:1935/tmc/tmc/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV GOLPEL",TV NOVA ESPERANÇA
@@ -479,6 +475,8 @@ http://stream.novotempo.com:1935/tv/tvnovotempo.smil/chunklist_b2128000_slpor.m3
 http://streaming63.sitehosting.com.br:1935/wagnerm/wagnerm/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV GOLPEL",TV OMEGA M
 http://stmv2.euroti.com.br:1935/edgleison1324/edgleison1324/live.m3u8?LISTASEGFTv
+
+
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV GOLPEL",TV PARAGUASSU
 http://stmv2.euroti.com.br:1935/tvparaguassu/tvparaguassu/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV GOLPEL",TV PREVE
