@@ -301,149 +301,134 @@ http://wse6.player.tv.br:1935/goiasemais/goiasemais/live.m3u8?LISTASEGFTv
 http://tv01.logicahost.com.br:1935/infocowebtv/infocowebtv/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",ITU TV
 http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8?LISTASEGFTv
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",JOIAS VIP
-http://ams2.dtcompany.com.br:1935/live/joiasvip.stream/livestream.m3u8?LISTASGLAU
-#EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",K10 TV
-http://stmv4.euroti.com.br:1935/k10tv/k10tv/live.m3u8?LISTASGLAU
+http://ams2.dtcompany.com.br:1935/live/joiasvip.stream/livestream.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",LAGOA TV
-http://wse5.player.tv.br:1935/lagoatv/lagoatv/live.m3u8?LISTASGLAU
+http://wse5.player.tv.br:1935/lagoatv/lagoatv/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",MARICÁ TV
-http://wse8.player.tv.br:1935/maricatv/maricatv/live.m3u8?LISTASGLAU
+http://wse8.player.tv.br:1935/maricatv/maricatv/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",MASTER TV
-http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8?LISTASGLAU
+http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",MIL E UMA NOITES
-http://streaming63.sitehosting.com.br:1935/abdalla/abdalla/live.m3u8?LISTASGLAU
+http://streaming63.sitehosting.com.br:1935/abdalla/abdalla/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",MINHA BAHIA TV
-http://streaming63.sitehosting.com.br:1935/xcfilmes/xcfilmes/live.m3u8?LISTASGLAU
+http://streaming63.sitehosting.com.br:1935/xcfilmes/xcfilmes/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",MKK WEB TV
-http://tv02.logicahost.com.br:1935/mkkweb/mkkweb/live.m3u8?LISTASGLAU
+http://tv02.logicahost.com.br:1935/mkkweb/mkkweb/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",MULTI RIO
-http://187.111.97.45:1935/webtv/webtv/live.m3u8?LISTASGLAU
+http://187.111.97.45:1935/webtv/webtv/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",NOVA ERA TV
-http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8?LISTASGLAU
+http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",NOVA TV VALE
-http://stmv2.euroti.com.br:1935/tvvale/tvvale/live.m3u8?LISTASGLAU
+http://stmv2.euroti.com.br:1935/tvvale/tvvale/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",RBA TV
-http://stmv3.euroti.com.br:1935/rbatv12/rbatv12/live.m3u8?LISTASGLAU
-#EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",UCS TV
-http://cdn.srv.br:8088/UCSTV/UCSTV/playlist.m3u8?LISTASGLAU
-#EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",UNEC TV
-http://wse8.player.tv.br:1935/unectv/unectv/live.m3u8?LISTASGLAU
+http://stmv3.euroti.com.br:1935/rbatv12/rbatv12/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",UNISC TV
-http://tv.unisc.br:80/hls/test.m3u8?LISTASGLAU
+http://tv.unisc.br:80/hls/test.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",UNITV
 http://unitvaovivo.ufrgs.br:8080/live.flv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",VALE TV BRASIL
-http://stmv1.euroti.com.br:1935/valetvbrasil/valetvbrasil/live.m3u8?LISTASGLAU
-#EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",VEM E VÊ TV
-http://srv-vvtv.sisdera.com.br:1935/live/vvtv3/livestream.m3u8?LISTASGLAU
-#EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",VEM E VÊ TV 2
-http://srv-vvtv.sisdera.com.br:1935/live/vvtv023/livestream.m3u8?LISTASGLAU
+http://stmv1.euroti.com.br:1935/valetvbrasil/valetvbrasil/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",VIA MORENA
-http://wowza2.netpoint.com.br:1935/viamorena/live/livestream.m3u8?LISTASGLAU
+http://wowza2.netpoint.com.br:1935/viamorena/live/livestream.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",VIN TV
-http://painel.serveron.com.br:1935/8044/8044/live.m3u8?LISTASGLAU
+http://painel.serveron.com.br:1935/8044/8044/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",VIVAM WEB TV
-http://stmv2.euroti.com.br:1935/vivamwebradio/vivamwebradio/live.m3u8?LISTASGLAU
+http://stmv2.euroti.com.br:1935/vivamwebradio/vivamwebradio/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",VV8 TV
-http://servidor.saudeline.tv.br:1935/live/myStream1/livestream.m3u8?LISTASGLAU
+http://servidor.saudeline.tv.br:1935/live/myStream1/livestream.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",WEB TV ARARAQUARA
-http://painel.tvdigitalhd.org:1935/leotinga/leotinga/live.m3u8?LISTASGLAU
+http://painel.tvdigitalhd.org:1935/leotinga/leotinga/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",WEB TV CAPITANDO
-http://tv01.logicahost.com.br:1935/linkmnet/linkmnet/live.m3u8?LISTASGLAU
+http://tv01.logicahost.com.br:1935/linkmnet/linkmnet/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",WEB TV MINAS
-http://tv01.logicahost.com.br:1935/webtvminas/webtvminas/live.m3u8?LISTASGLAU
+http://tv01.logicahost.com.br:1935/webtvminas/webtvminas/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",WEB TV NOVA PARAÍBA
-http://stmv1.euroti.com.br:1935/tv487/tv487/live.m3u8?LISTASGLAU
+http://stmv1.euroti.com.br:1935/tv487/tv487/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",WEB TV SUL
-http://stmv1.euroti.com.br:1935/2017/2017/live.m3u8?LISTASGLAU
+http://stmv1.euroti.com.br:1935/2017/2017/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",WEB TV UAI
-http://tv01.logicahost.com.br:1935/tvuai/tvuai/live.m3u8?LISTASGLAU
+http://tv01.logicahost.com.br:1935/tvuai/tvuai/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",WEB TV VITALIDADE
-http://hd4.com.br:1935/vitalidade/vitalidade/live.m3u8?LISTASGLAU
+http://hd4.com.br:1935/vitalidade/vitalidade/live.m3u8?LISTASEGFTv
+
+
+
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",WTJ TV MINAS
-http://painel.tvdigitalhd.org:1935/wladimir23243/wladimir23243/live.m3u8?LISTASGLAU
+http://painel.tvdigitalhd.org:1935/wladimir23243/wladimir23243/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV ART
-http://stmv1.euroti.com.br:1935/tvarthd/tvarthd/live.m3u8?LISTASGLAU
+http://stmv1.euroti.com.br:1935/tvarthd/tvarthd/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV DIGITAL BIRIGUI
-http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8?LISTASGLAU
+http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV", TV ZAINE
-https://593d7fe3c9b0d.streamlock.net/tvzaine/tvzaine/chunklist_w163222574.m3u8?LISTASGLAU
+https://593d7fe3c9b0d.streamlock.net/tvzaine/tvzaine/chunklist_w163222574.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV CLIPES",REDE GRAVA
-http://stmv2.euroti.com.br:1935/redegrava/redegrava/live.m3u8?LISTASGLAU
+http://stmv2.euroti.com.br:1935/redegrava/redegrava/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV CLIPES",TV AREADO
-http://stmv2.euroti.com.br:1935/tvareado/tvareado/live.m3u8?LISTASGLAU
-#EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV CLIPES",TV BNO
-http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8?LISTASGLAU
+http://stmv2.euroti.com.br:1935/tvareado/tvareado/live.m3u8?LISTASEGFTv
+
+
+
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV CLIPES",TV CAXIAS
-http://stmv1.euroti.com.br:1935/caxiashost/caxiashost/live.m3u8?LISTASGLAU
+http://stmv1.euroti.com.br:1935/caxiashost/caxiashost/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV CLIPES",TV CLIC BRASIL
-http://stmv2.euroti.com.br:1935/clictv/clictv/live.m3u8?LISTASGLAU
+http://stmv2.euroti.com.br:1935/clictv/clictv/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV CLIPES",TV CN AGITOS
-http://wsemedia.com:1935/cn01/cn01/live.m3u8?LISTASGLAU
+http://wsemedia.com:1935/cn01/cn01/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV CLIPES",TV CLIMA
-http://stmv1.euroti.com.br:1935/tvcadm/tvcadm/live.m3u8?LISTASGLAU
+http://stmv1.euroti.com.br:1935/tvcadm/tvcadm/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV CLIPES",TV HIT SAM
-http://stmv3.euroti.com.br:1935/albert6978/albert6978/live.m3u8?LISTASGLAU
+http://stmv3.euroti.com.br:1935/albert6978/albert6978/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV CLIPES",TV MAR
-http://209.126.127.101:1935/tvmar/tvmar/live.m3u8?LISTASGLAU
+http://209.126.127.101:1935/tvmar/tvmar/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV CLIPES",TV MARAJOARA
-http://painel.tvdigitalhd.org:1935/tv31966/tv31966/live.m3u8?LISTASGLAU
+http://painel.tvdigitalhd.org:1935/tv31966/tv31966/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV CLIPES",TV PAJEÚ
-http://stmv2.euroti.com.br:1935/tvpajeu/tvpajeu/live.m3u8?LISTASGLAU
+http://stmv2.euroti.com.br:1935/tvpajeu/tvpajeu/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV CLIPES",TV RBC SALVADOR
-http://stmv1.euroti.com.br:1935/alexandre3116/alexandre3116/live.m3u8?LISTASGLAU
+http://stmv1.euroti.com.br:1935/alexandre3116/alexandre3116/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV CLIPES",TV RIO LARGO
-http://stmv4.euroti.com.br:1935/tvriolargo/tvriolargo/live.m3u8?LISTASGLAU
+http://stmv4.euroti.com.br:1935/tvriolargo/tvriolargo/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV CLIPES",TV RP
-http://painel.serveron.com.br:1935/8042/8042/live.m3u8?LISTASGLAU
+http://painel.serveron.com.br:1935/8042/8042/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV CLIPES",TV SAN
-http://131.0.87.235:8000/tvsan?LISTASGLAU
+http://131.0.87.235:8000/tvsan?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV CLIPES",TV SÃO PAULO
-http://stmv2.euroti.com.br:1935/tvsaopaulo/tvsaopaulo/live.m3u8?LISTASGLAU
-#EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV CLIPES",CANAL 8 
-http://canaloitocampinas.flashplayer.acessaradios.com.br:1935/canaloitocampinas/canaloitocampinas/live.m3u8?LISTASGLAU
+http://stmv2.euroti.com.br:1935/tvsaopaulo/tvsaopaulo/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV CLIPES",TV UNIÃO DE NATAL
-http://flash3.locamega.com.br:1935/locamega/locamega/live.m3u8?LISTASGLAU
+http://flash3.locamega.com.br:1935/locamega/locamega/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV CLIPES",ADONAI WEB TV
-http://stmv1.euroti.com.br:1935/adonaitv/adonaitv/live.m3u8?LISTASGLAU
+http://stmv1.euroti.com.br:1935/adonaitv/adonaitv/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV CLIPES",TVC 16
-http://stmv1.euroti.com.br:1935/tvcidade16/tvcidade16/live.m3u8?LISTASGLAU
+http://stmv1.euroti.com.br:1935/tvcidade16/tvcidade16/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV CLIPES",ADINET TV
-http://stmv2.euroti.com.br:1935/adinet/adinet/live.m3u8?LISTASGLAU
+http://stmv2.euroti.com.br:1935/adinet/adinet/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV CLIPES",CARIOCA TV
-http://tv02.logicahost.com.br:1935/cariocainterativo/cariocainterativo/live.m3u8?LISTASGLAU
-#EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV CLIPES",ESO TV
-http://srv6.zoeweb.tv:1935/z832-live/stream/livestream.m3u8?LISTASGLAU
+http://tv02.logicahost.com.br:1935/cariocainterativo/cariocainterativo/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV GOLPEL",REDE EVANGELIZAR
-http://flash1.crossdigital.com.br:1935/evangelizar/tv/live.m3u8?LISTASGLAU
+http://flash1.crossdigital.com.br:1935/evangelizar/tv/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV GOLPEL",REDE MÃO AMIGA
-http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8?LISTASGLAU
+http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV GOLPEL",RIT
-http://rtmp.9c2c.upx.net.br:1935/9c2c/myStream_all/live.m3u8?LISTASGLAU
+http://rtmp.9c2c.upx.net.br:1935/9c2c/myStream_all/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV GOLPEL",SOBRENATURAL TV
-http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8?LISTASGLAU
+http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV GOLPEL",TV AD BELÉM
-http://streaming60.sitehosting.com.br:1935/tvadbras/tvadbras/live.m3u8
+http://streaming60.sitehosting.com.br:1935/tvadbras/tvadbras/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV GOLPEL",TV ADC PAZ
-http://stmv2.euroti.com.br:1935/tvadcpaz/tvadcpaz/live.m3u8?LISTASGLAU
-#EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV GOLPEL",TV ADUD
-http://stmv4.euroti.com.br:1935/tvadud/tvadud/live.m3u8?LISTASGLAU
+http://stmv2.euroti.com.br:1935/tvadcpaz/tvadcpaz/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV GOLPEL",TV ALVORADA ESPÍRITA
-http://78.46.36.212:1935/tvalvorada/tvalvorada/live.m3u8?LISTASGLAU
+http://78.46.36.212:1935/tvalvorada/tvalvorada/live.m3u8?LISTASEGFTv
+
+
+
+
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV GOLPEL",TV APARECIDA
-http://caikrondatacenter.com.br:1935/tvaparecida/tvaparecida.stream/live.m3u8?LISTASGLAU
+http://caikrondatacenter.com.br:1935/tvaparecida/tvaparecida.stream/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV GOLPEL",TV ASSEMBLEIA CEARÁ
-http://srv6.zoeweb.tv:1935/z404-live/stream/livestream.m3u8?LISTASGLAU
+http://srv6.zoeweb.tv:1935/z404-live/stream/livestream.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV GOLPEL",TV BETEL
-http://stmv1.euroti.com.br:1935/betelnc/betelnc/live.m3u8?LISTASGLAU
+http://stmv1.euroti.com.br:1935/betelnc/betelnc/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV GOLPEL",TV BETHEL
 http://srv9.zoeweb.tv:1935/zw925/stream/live.m3u8?LISTASGLAU
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV GOLPEL",TV BOA ESPERANÇA
@@ -492,13 +477,6 @@ http://stmv1.euroti.com.br:1935/tvmonteiro/tvmonteiro/live.m3u8?LISTASGLAU
 http://58a4464faef53.streamlock.net:1935/impd/impd/live.m3u8?LISTASGLAU
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV GOLPEL",TV MUNDO CATÓLICO
 http://wse6.player.tv.br:1935/tmc/tmc/live.m3u8?LISTASEGFTv
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV GOLPEL",TV NOVA ESPERANÇA
 http://painel.tvdigitalhd.org:1935/jose79451/jose79451/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV GOLPEL",TV NOVO TEMPO
@@ -560,41 +538,30 @@ http://stmv4.euroti.com.br:1935/tvrestauravidas/tvrestauravidas/live.m3u8?LISTAS
 
 ################################ ABERTOS ############################## 
 #EXTINF:-1 tvg-id="" tvg-name=”AGRO BRASIL” tvg-logo="https://goo.gl/u7y4L4" group-title="ABERTOS",AGRO BRASIL
-http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8?CANAISGLAU
+http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8?CANAISEGFTv
 #EXTINF:-1 tvg-id="" tvg-name=”AGRO BRASIL” tvg-logo="https://goo.gl/tg3snO" group-title="ABERTOS",AGRO CANAL
-http://live.sba1.com:80/hls-live/liveac/_definst_/liveevent/livestream.m3u8?CANAISGLAU
-#EXTINF:-1 tvg-id="" tvg-name=”AMAZON SAT” tvg-logo="https://goo.gl/GxhBGC" group-title="ABERTOS",AMAZON SAT
-http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/playlist.m3u8?CANAISGLAU
-#EXTINF:-1 tvg-id="" tvg-name="BAND " tvg-logo="http://i.imgur.com/6xouXln.png" group-title="ABERTOS",BAND  
-http://144.217.72.15/BANDFULLHD/tracks-v1a1/index.m3u8?token=c114ca23cd1e0404a4cdfdc470deb4c3&LISTASGLAU
-#EXTINF:-1 tvg-id="" tvg-name="CANAL RURAL" tvg-logo=" https://goo.gl/i9oj2p" group-title="ABERTOS",CANAL RURAL
-http://hls-live.crur.al:80/hlshigh/playlist.m3u8?CANAISGLAU
+http://live.sba1.com:80/hls-live/liveac/_definst_/liveevent/livestream.m3u8?CANAISEGFTv
 #EXTINF:-1 tvg-id="CANAL DO BOI" tvg-name="CANAL DO BOI” tvg-logo="http://i.imgur.com/NKRWvKq.png" group-title="ABERTOS",CANAL DO BOI
-http://live.sba1.com:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8?CANAISGLAU
-#EXTINF:-1 tvg-id="CONEXÃO BR” tvg-name="CONEXÃO BR” tvg-logo="http://i.imgur.com/VBcEqPw.png" group-title="ABERTOS",CONEXÃO BR
-http://live.sba1.com:80/hls-live/livecx/_definst_/liveevent/livestream.m3u8?CANAISGLAU
-#EXTINF:-1 tvg-id="" tvg-name="FUTURA" tvg-logo="http://i.imgur.com/Vtczjoa.png" group-title="ABERTOS",FUTURA
-http://wz-brasil1.comets.com.br/tvbaiana/aovivo/playlist.m3u8?CANAISGLAU
-#EXTINF:-1 tvg-id="" tvg-name="G2P TV" tvg-logo="https://s20.postimg.org/sc2uw0izx/Mm2-0.png" group-title="ABERTOS",G2P TV
-http://srv9.zoeweb.tv:1935/zw969/stream/live.m3u8?CANAISGLAU
-#EXTINF:-1 tvg-id="" tvg-name="Globo SP" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="ABERTOS",GLOBO 
-http://tv.ec.cx:1935/redecanais-stream-bobo/myStream/chunklist.m3u8?CANAISGLAU
-#EXTINF:-1 tvg-id="" tvg-name="Globo SP" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="ABERTOS",GLOBO ALTERNATIVO
-http://aovivo.futeboltv.com:8081/live/18/chunks.m3u8?LISTASGLAU
+http://live.sba1.com:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8?CANAISEGFTv
 #EXTINF:-1 tvg-id="NBR"tvg-name="NBR”tvg-id=""  tvg-logo="https://goo.gl/9MnQgT" group-title="ABERTOS",NBR
-http://ebctveventual01-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctveventual01/_definst_/live.m3u8?CANAISGLAU
+http://ebctveventual01-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctveventual01/_definst_/live.m3u8?CANAISEGFTv
 #EXTINF:-1 tvg-id="NOVO CANAL" tvg-name="NOVO CANAL”tvg-id="" tvg-logo="https://goo.gl/UJ3ZZN" group-title="ABERTOS",NOVO CANAL
-http://live.sba1.com:80/hls-live/livenc/_definst_/liveevent/livestream.m3u8?CANAISGLAU
+http://live.sba1.com:80/hls-live/livenc/_definst_/liveevent/livestream.m3u8?CANAISEGFTv
 #EXTINF:-1 tvg-id="" tvg-name="RECORD HD" tvg-logo="http://s6.postimg.org/ik4szkwe9/record.png" group-title="ABERTOS",RECORD HD
-http://144.217.72.15/RECORDFULLHD/tracks-v1a1/index.m3u8?token=c114ca23cd1e0404a4cdfdc470deb4c3&LISTASGLAU
+http://144.217.72.15/RECORDFULLHD/tracks-v1a1/index.m3u8?token=c114ca23cd1e0404a4cdfdc470deb4c3&CANAISEGFTv
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="RECORD ES(TV VITÓRIA)" tvg-logo="http://s6.postimg.org/ik4szkwe9/record.png" group-title="ABERTOS",RECORD ES (TV Vitória)
-http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8?CANAISGLAU
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8?CANAISEGFTv
 #EXTINF:-1 tvg-id="" tvg-name="RECORD RN" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="ABERTOS",RECORD RN
-http://184.172.23.109:1935/live/tvtrop_natal/tvtrop_natal_aovivo/playlist.m3u8?CANAISGLAU
+http://184.172.23.109:1935/live/tvtrop_natal/tvtrop_natal_aovivo/playlist.m3u8?CANAISEGFTv
 #EXTINF:-1 tvg-id="" tvg-name="Record" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="ABERTOS",RECORD SP
-http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/chunklist_w1068721152.m3u8?CANAISGLAU
+http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/chunklist_w1068721152.m3u8?CANAISEGFTv
 #EXTINF:-1 tvg-id="" tvg-name="REDE BRASIL®" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/37/Logo_Rede_Brasil.png" group-title="ABERTOS",REDE BRASIL®
-http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8?CANAISGLAU
+http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8?CANAISEGFTv
+
+
 #EXTINF:-1 tvg-id="" tvg-name=REDE FAMÍLIA”tvg-logo="http://i.imgur.com/sQwm6Cl.png" group-title="ABERTOS",REDE FAMÍLIA
 http://srv9.zoeweb.tv:1935/zw901/zw901.smil/playlist.m3u8?CANAISGLAU
 #EXTINF:-1 tvg-id="" tvg-name="REDE TV 2" tvg-logo="http://i.imgur.com/mFIHvKN.png" group-title="ABERTOS",REDE TV 2
