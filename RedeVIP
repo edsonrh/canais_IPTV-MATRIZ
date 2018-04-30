@@ -116,26 +116,24 @@ http://595b85410a151.streamlock.net:1935/tvdagente/tvdagente/live.m3u8?LISTASEGF
 http://tv02.logicahost.com.br:1935/tvdasartes/tvdasartes/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV DC 46
 http://stmv3.euroti.com.br:1935/dc46/dc46/live.m3u8?LISTASEGFTv
-
-
-
-
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV DESTAK
 http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8?LISTASGLAU
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV DIÁRIO
-http://slrp.sambavideos.sambatech.com:80/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/live.m3u8?LISTASGLAU
+http://slrp.sambavideos.sambatech.com:80/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV DO POVO
-http://tv02.logicahost.com.br:1935/tvdopovo/tvdopovo/live.m3u8?LISTASGLAU
+http://tv02.logicahost.com.br:1935/tvdopovo/tvdopovo/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV ELÓI MENDES
-http://stmv2.euroti.com.br:1935/tveloimendes/tveloimendes/live.m3u8?LISTASGLAU
+http://stmv2.euroti.com.br:1935/tveloimendes/tveloimendes/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV ESCOLA
-http://slrp.sambavideos.sambatech.com:80/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/live.m3u8?LISTASGLAU
+http://slrp.sambavideos.sambatech.com:80/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV FELIZ
-http://tv02.logicahost.com.br:1935/tvfelizrn/tvfelizrn/live.m3u8?LISTASGLAU
+http://tv02.logicahost.com.br:1935/tvfelizrn/tvfelizrn/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV FLORIPA
-http://11.fm5.com.br:1935/tvfloripa/tvfloripa/live.m3u8?LISTASGLAU
+http://11.fm5.com.br:1935/tvfloripa/tvfloripa/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV GAZETA
-http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8?LISTASGLAU
+http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8?LISTASEGFTv
+
+
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV GAZETA MT
 http://wz3.dnip.com.br:1935/tvgazetamt/tvgazetamt.sdp/live.m3u8?LISTASGLAU
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV GERAL
