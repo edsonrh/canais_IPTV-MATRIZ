@@ -132,40 +132,39 @@ http://tv02.logicahost.com.br:1935/tvfelizrn/tvfelizrn/live.m3u8?LISTASEGFTv
 http://11.fm5.com.br:1935/tvfloripa/tvfloripa/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV GAZETA
 http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8?LISTASEGFTv
-
-
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV GAZETA MT
-http://wz3.dnip.com.br:1935/tvgazetamt/tvgazetamt.sdp/live.m3u8?LISTASGLAU
+http://wz3.dnip.com.br:1935/tvgazetamt/tvgazetamt.sdp/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV GERAL
-http://s1.wsepanel.com:1935/tvgeral/tvgeral/live.m3u8?LISTASGLAU
+http://s1.wsepanel.com:1935/tvgeral/tvgeral/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV GOIÁS
-http://stmv2.euroti.com.br:1935/tvgoias/tvgoias/live.m3u8?LISTASGLAU
+http://stmv2.euroti.com.br:1935/tvgoias/tvgoias/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV GUARANY
-http://wsecast.com.br:1935/rtguarany/rtguarany/live.m3u8?LISTASGLAU
-#EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV GUARAPARI
-http://video.welltecnologia.com.br:1935/tvguarapari/tvguarapari/live.m3u8?LISTASGLAU
-#EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV GUARULHOS
-http://138.97.241.156:8081/tvguarulhos/tvguarulhos/playlist.m3u8?LISTASGLAU
+http://wsecast.com.br:1935/rtguarany/rtguarany/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV INES
-http://slrp.sambavideos.sambatech.com:80/liveevent/acerpTvINESABR_d360fbbfbf3e5e59a31cf89ec45eb3dc/livestream3/live.m3u8
+http://slrp.sambavideos.sambatech.com:80/liveevent/acerpTvINESABR_d360fbbfbf3e5e59a31cf89ec45eb3dc/livestream3/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV ITABUNA
-http://wse7.player.tv.br:1935/acao50/acao50/live.m3u8?LISTASGLAU
+http://wse7.player.tv.br:1935/acao50/acao50/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV ITAPETININGA
-http://stream02.msolutionbrasil.com.br:1935/tvitape/tvitape/live.m3u8?LISTASGLAU
+http://stream02.msolutionbrasil.com.br:1935/tvitape/tvitape/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV JAPI
-http://wse3.player.tv.br:1935/tvjapi/tvjapi/live.m3u8?LISTASGLAU
+http://wse3.player.tv.br:1935/tvjapi/tvjapi/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV JORNAL CARUARU
-http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8?LISTASGLAU
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV JORNAL LIMEIRA
-http://flash1.crossdigital.com.br:1935/1998/1998/live.m3u8?LISTASGLAU
+http://flash1.crossdigital.com.br:1935/1998/1998/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV JORNAL RECIFE
-http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_b216000_sleng.m3u8?LISTASGLAU
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_b216000_sleng.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV J.SID
-http://stmv2.euroti.com.br:1935/tvjsid/tvjsid/live.m3u8?LISTASGLAU
+http://stmv2.euroti.com.br:1935/tvjsid/tvjsid/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV LITORAL PANORAMA
-http://streaming03.zas.media:1935/panorama/panorama/live.m3u8?LISTASGLAU
+http://streaming03.zas.media:1935/panorama/panorama/live.m3u8?LISTASEGFTv
+
+
+
+
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV LITORAL SUL
-http://cdn2.w7virtual.net:1935/live/canal20/canal20/livestream.m3u8?LISTASGLAU
+http://cdn2.w7virtual.net:1935/live/canal20/canal20/livestream.m3u8?LISTASEGFTv
+
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV MACHADO
 http://stmv2.euroti.com.br:1935/tvmachado/tvmachado/live.m3u8?LISTASGLAU
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV MACKENZIE
