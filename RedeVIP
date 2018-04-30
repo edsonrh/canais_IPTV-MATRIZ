@@ -717,29 +717,27 @@ http://213.13.26.11:1935/live/portocanal/playlist.m3u8?CANAISEGFTv
 http://sm.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8?CANAISEGFTv
 
 ################################ CANAIS RELIGIOSOS ############################ 
+
 #EXTINF:-1 tvg-id="" tvg-name="APARECIDA" tvg-logo="http://i.imgur.com/UOMWJH6.png" group-title="RELIGIOSOS",APARECIDA
-http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8?CANAISGLAU
+http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8?CANAISEGFTv
 #EXTINF:-1 tvg-id="" tvg-name="CANCÃO NOVA" tvg-logo="http://i.imgur.com/wVxLluR.png" group-title="RELIGIOSOS",CANÇÃO NOVA
-http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8?CANAISGLAU
+http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8?CANAISEGFTv
 #EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/1Fuwzj" group-title="RELIGIOSOS",GOSPEL MOVIES TELEVISION
-http://stmv2.srvstm.com:1935/gospelf/gospelf/playlist.m3u8?CANAISGLAU
+http://stmv2.srvstm.com:1935/gospelf/gospelf/playlist.m3u8?CANAISEGFTv
 #EXTINF:-1 tvg-id="GOSPEL MUSIC TELEVISION " tvg-logo="http://i.imgur.com/RNtmXsk.png" group-title="RELIGIOSOS",GOSPEL MUSIC TELEVISION
-http://stmv2.srvstm.com:1935/16692/16692/playlist.m3u8?CANAISGLAU
+http://stmv2.srvstm.com:1935/16692/16692/playlist.m3u8?CANAISEGFTv
 #EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/66ieh36wd/portalgospeltv.png" group-title="RELIGIOSOS",PORTAL GOSPEL
-http://s1.wsepanel.com:1935/lukfilm/lukfilm/playlist.m3u8?CANAISGLAU
+http://s1.wsepanel.com:1935/lukfilm/lukfilm/playlist.m3u8?CANAISEGFTv
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/aiNRaga.png" group-title="RELIGIOSOS", IURD TV
-http://iuhls-lh.akamaihd-staging.net/i/utvhls1_1@336317/master.m3u8?CANAISGLAU
+http://iuhls-lh.akamaihd-staging.net/i/utvhls1_1@336317/master.m3u8?CANAISEGFTv
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/aiNRaga.png" group-title="RELIGIOSOS", IURD TV Internacional
-http://api.new.livestream.com/accounts/4486152/events/2780306/live.m3u8?CANAISGLAU
+http://api.new.livestream.com/accounts/4486152/events/2780306/live.m3u8?CANAISEGFTv
 #EXTINF:-1 tvg-id="TV Novo Tempo" tvg-logo="http://i.imgur.com/IZKxzJ9.png" group-title="RELIGIOSOS",NOVO TEMPO RS
-http://stream.novotempo.com:1935/tv/smil:TvNovoTempoCom.smil/playlist.m3u8?CANAISGLAU
-#EXTINF:-1 tvg-id="TV Novo Tempo" tvg-logo="http://i.imgur.com/IZKxzJ9.png" group-title="RELIGIOSOS",NOVO TEMPO SP
-http://stream.novotempo.com:1935/tv/tvnovotempo.stream/playlist.m3u8?CANAISGLAU
+http://stream.novotempo.com:1935/tv/smil:TvNovoTempoCom.smil/playlist.m3u8?CANAISEGFTv
+EXTINF:-1 tvg-id="TV Novo Tempo" tvg-logo="http://i.imgur.com/IZKxzJ9.png" group-title="RELIGIOSOS",NOVO TEMPO SP
+http://stream.novotempo.com:1935/tv/tvnovotempo.stream/playlist.m3u8?CANAISEGFTv
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/m7MQIPJ.png" group-title="RELIGIOSOS",REDE SÉCULO 21
-http://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/master.m3u8?CANAISGLAU
-
-
-
+http://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/master.m3u8?CANAISEGFTv
 #EXTINF:-1 tvg-logo="http://i.imgur.com/l2Fy8cv.png" group-title="RELIGIOSOS",REDE SUPER
 http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8?CANAISEGFTv
 #EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/kkls8tsq5/tvterceiroanjo.png" group-title="RELIGIOSOS",TV TERCEIRO ANJO
