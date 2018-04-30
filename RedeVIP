@@ -2,42 +2,38 @@
 
 
 #EXTINF:0 type="stream" channelId="2458" tvg-logo="http://i.imgur.com/rantokD.png" group-title="Pedido Especial",  TV COM (Santos-SP)
-http://streaming63.sitehosting.com.br:1935/tvcomsantos/tvcomsantos/playlist.m3u8?LISTASGLAU
+http://streaming63.sitehosting.com.br:1935/tvcomsantos/tvcomsantos/playlist.m3u8?LISTASEGFTv
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="http://i.imgur.com/ZDtGQY3.png" group-title="Pedido Especial", TV Santa Cecilia (Santos-SP)
-http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8?LISTASGLAU
+http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8?LISTASEGFTv
 #EXTINF:0 type="stream" channelId="-1"group-title="Pedido Especial", Camera Santos canal 3
 http://b7.hdrelay.com/camera/23716973-16a1-4935-a54a-9ee9a5a07c25/relay/chunklist_w1941657897.m3u8?LISTASGLAU
 #EXTINF:0 type="stream" channelId="2210" group-title="Pedido Especial", RAI YOYO
-http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1800_av-p.m3u8?LISTASGLAU
+http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1800_av-p.m3u8?LISTASEGFTv
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/hywwhb" group-title="Futebol Ao Vivo", GLOBO Jogos Ao Vivo 7
-http://apk.goo.ac:8081/live/17/chunks.m3u8?LISTASGLAU
+http://apk.goo.ac:8081/live/17/chunks.m3u8?LISTASEGFTv
 
 ################################ FILMES & SÉRIES ############################## 
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/SMbsk2" group-title="FILMES/SERIES",CINE GLAU
-http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?CANAISGLAU
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-id="" tvg-name="CINE SKY" tvg-logo="http://i.imgur.com/zj4BzR5.png" group-title="FILMES/SERIES",CINE SKY
-http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8?CANAISGLAU
+http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/7QQhQB" group-title="FILMES/SERIES",CINE+
-http://189.86.89.116:80/hls-live/livecm/_definst_/liveevent/livestream.m3u8?CANAISGLAU
+http://189.86.89.116:80/hls-live/livecm/_definst_/liveevent/livestream.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/7QQhQB" group-title="FILMES/SERIES",CINE+ 2
-http://live.sba1.com:80/hls-live/livecm/_definst_/liveevent/livestream.m3u8?CANAISGLAU
+http://live.sba1.com:80/hls-live/livecm/_definst_/liveevent/livestream.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/EdTZ0ba.png" group-title="FILMES/SERIES",CLASSIQUE TV
-http://stmv2.euroti.com.br:1935/classique/classique/playlist.m3u8?CANAISGLAU
+http://stmv2.euroti.com.br:1935/classique/classique/playlist.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/EdTZ0ba.png" group-title="FILMES/SERIES",CLASSIQUE TV ALTERNATIVO
-http://stmv2.srvstm.com/classique/classique/playlist.m3u8?CANAISGLAU
+http://stmv2.srvstm.com/classique/classique/playlist.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-id="" tvg-name="TV KIDMAIS" tvg-logo="https://s20.postimg.org/qabk9es4d/images.jpg" group-title="FILMES/SERIES",TV KIDMAIS
-http://tv01.logicahost.com.br:1935/tvkidmais01/tvkidmais01/live.m3u8?CANAISGLAU
+http://tv01.logicahost.com.br:1935/tvkidmais01/tvkidmais01/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-id="" tvg-name="TCM 10 HD" tvg-logo="http://i.imgur.com/4fLVLhF.png" group-title="FILMES/SERIES",TCM 10 HD
-http://cw.tcm10.com.br:80/low/canal10.m3u8?CANAISGLAU
-#EXTINF:-1 tvg-id="TV NA ILHA 2" tvg-name="TV NA ILHA" tvg-logo="https://goo.gl/1gyVsJ" group-title="FILMES/SERIES",TV NA ILHA 2
-http://video01.tvdigitalhd.org/jovani23984/jovani23984/chunklist_w1339591262.m3u8?CANAISGLAU
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://goo.gl/RzDp38" group-title="FILMES/SERIES",UNIVERSAL CHANNEL
-http://iptv.ec.cx/hls/redecanais-universal.m3u8?CANAISGLAU
+http://cw.tcm10.com.br:80/low/canal10.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-id="" tvg-name="VIVAM WEB TV" tvg-logo="https://goo.gl/DQySJY" group-title="FILMES/SERIES",VIVAM WEB TV
-http://stmv2.euroti.com.br:1935/vivamwebradio/vivamwebradio/live.m3u8
+http://stmv2.euroti.com.br:1935/vivamwebradio/vivamwebradio/live.m3u8?LISTASEGFTv
 
 ################################ INFANTIL ############################## 
 #EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="https://goo.gl/6CrS8q" group-title="INFANTIL", BABY TV
