@@ -435,12 +435,6 @@ http://tvevangelizar01.crossdigital.com.br:1935/evangelizar/tv/live.m3u8?LISTASE
 http://tv01.logicahost.com.br:1935/tvfatimaparatibe/tvfatimaparatibe/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV GOLPEL",TV FÁTIMA
 http://streaming63.sitehosting.com.br:1935/telemaco/telemaco/live.m3u8?LISTASEGFTv
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV GOLPEL",TV FILADÉLFIA
 http://stmv2.euroti.com.br:1935/nivaldo5820/nivaldo5820/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV GOLPEL",TV FUNTELPA
@@ -465,8 +459,6 @@ http://wse7.player.tv.br:1935/tvmissao/tvmissao/live.m3u8?LISTASEGFTv
 http://stmv1.euroti.com.br:1935/tvmonteiro/tvmonteiro/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV GOLPEL",TV MUNDIAL
 http://58a4464faef53.streamlock.net:1935/impd/impd/live.m3u8?LISTASEGFTv
-#EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV GOLPEL",TV MUNDO CATÓLICO
-http://wse6.player.tv.br:1935/tmc/tmc/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV GOLPEL",TV NOVA ESPERANÇA
 http://painel.tvdigitalhd.org:1935/jose79451/jose79451/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV GOLPEL",TV NOVO TEMPO
@@ -475,6 +467,11 @@ http://stream.novotempo.com:1935/tv/tvnovotempo.smil/chunklist_b2128000_slpor.m3
 http://streaming63.sitehosting.com.br:1935/wagnerm/wagnerm/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV GOLPEL",TV OMEGA M
 http://stmv2.euroti.com.br:1935/edgleison1324/edgleison1324/live.m3u8?LISTASEGFTv
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV GOLPEL",TV PARAGUASSU
