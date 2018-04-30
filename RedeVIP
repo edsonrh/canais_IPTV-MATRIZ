@@ -173,37 +173,34 @@ http://wse5.player.tv.br:1935/tvmcj/tvmcj/live.m3u8?LISTASEGFTv
 EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV MEIO NORTE
 http://api.new.livestream.com:80/accounts/3332377/events/2958396/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV O POVO
-http://srv3.zoeweb.tv:1935/z01-live/stream/livestream.m3u8?LISTASGLAU
-
-
-
-
+http://srv3.zoeweb.tv:1935/z01-live/stream/livestream.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV ORIGEM
-http://stmv2.euroti.com.br:1935/jorsilei2749/jorsilei2749/live.m3u8?LISTASGLAU
+http://stmv2.euroti.com.br:1935/jorsilei2749/jorsilei2749/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV OSASCO
-http://stmv2.euroti.com.br:1935/luis6478/luis6478/live.m3u8?LISTASGLAU
-#EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV PARANAÍBA
-http://live.tvparanaiba.com.br:80/live/tv/index.m3u8?LISTASGLAU
+http://stmv2.euroti.com.br:1935/luis6478/luis6478/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV PONTO DE VISTA
-http://streaming63.sitehosting.com.br:1935/prof/prof/live.m3u8?LISTASGLAU
+http://streaming63.sitehosting.com.br:1935/prof/prof/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV PORTAL DA BAHIA
-http://tv01.logicahost.com.br:1935/tvportal/tvportal/live.m3u8?LISTASGLAU
+http://tv01.logicahost.com.br:1935/tvportal/tvportal/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV PORTAL DA FEIRA
-http://tv01.logicahost.com.br:1935/portaldafeira/portaldafeira/live.m3u8?LISTASGLAU
+http://tv01.logicahost.com.br:1935/portaldafeira/portaldafeira/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV PORTAL MIDIA
-http://painel.tvdigitalhd.org:1935/tvportalmidia/tvportalmidia/live.m3u8?LISTASGLAU
+http://painel.tvdigitalhd.org:1935/tvportalmidia/tvportalmidia/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV POVO CIGANO
-http://streaming30.sitehosting.com.br:1935/cigano/cigano/live.m3u8?LISTASGLAU
+http://streaming30.sitehosting.com.br:1935/cigano/cigano/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV PRODUTO
-http://wse7.player.tv.br:1935/canalreporter/canalreporter/live.m3u8?LISTASGLAU
+http://wse7.player.tv.br:1935/canalreporter/canalreporter/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV REGIONAL
-http://painel.serveron.com.br:1935/tvregional/tvregional/live.m3u8?LISTASGLAU
+http://painel.serveron.com.br:1935/tvregional/tvregional/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV RIO
-http://stmv4.euroti.com.br:1935/tvrio/tvrio/live.m3u8?LISTASGLAU
+http://stmv4.euroti.com.br:1935/tvrio/tvrio/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV RIO PRETO
-http://186.227.165.118:1935/insatv/livestream/live.m3u8?LISTASGLAU
-#EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",,TV SB4
-http://media.az-mediaserver.com:1935/7120/7120/live.m3u8?LISTASGLAU
+http://186.227.165.118:1935/insatv/livestream/live.m3u8?LISTASEGFTv
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV SERRA DOURADA
 http://tvsd2.zoeweb.tv:1935/tvsd2/tvsd2.smil/chunklist_b796000.m3u8?LISTASGLAU
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV STEREO SOWND
