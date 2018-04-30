@@ -78,47 +78,36 @@ http://streaming.almg.gov.br:80/live/tvalmg.m3u8?LISTASEGFTv
 http://srv3.zoeweb.tv:1935/z99-live/stream/livestream.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV BELO HORIZONTE
 http://stmv2.euroti.com.br:1935/tvbelohorizonte/tvbelohorizonte/live.m3u8?LISTASEGFTv
-
-
-
-#EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV BRASIL
-http://ebctvbrasil-live.hls.adaptive.level3.net:80/hls-live/ebcremuxlive-ebctvbrasil/_definst_/live/stream1.m3u8?LISTASGLAU
-#EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV BRUSQUE
-http://wse5.player.tv.br:1935/aovivo1/aovivo1/live.m3u8?LISTASGLAU
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV CACHOEIRA
-http://stream.novotempo.com:1935/tv/TvNovoTempoCom.smil/chunklist_b2128000_slpor.m3u8?LISTASGLAU
+http://stream.novotempo.com:1935/tv/TvNovoTempoCom.smil/chunklist_b2128000_slpor.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV CALDEIRÃO
-http://wz5.dnip.com.br:1935/tvcaldeirao/tvcaldeirao.sdp/live.m3u8?LISTASGLAU
-#EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV CAMPUS UFSM
-http://200.18.45.14:80/hls-live/livepkgr/_definst_/videos/xlivestream3.m3u8?LISTASGLAU
+http://wz5.dnip.com.br:1935/tvcaldeirao/tvcaldeirao.sdp/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV CANAL 2
-http://stream2.camara.gov.br:80/tv2/manifest.m3u8?LISTASGLAU
+http://stream2.camara.gov.br:80/tv2/manifest.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV CARIOCA NET
-http://hd4.com.br:1935/tvcariocanet/tvcariocanet/live.m3u8?LISTASGLAU
+http://hd4.com.br:1935/tvcariocanet/tvcariocanet/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV CÂMARA
-http://stream2.camara.gov.br:80/tv1/manifest.m3u8?LISTASGLAU
+http://stream2.camara.gov.br:80/tv1/manifest.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV CÂMARA ARAGUARI
-http://streaming60.sitehosting.com.br:1935/indoor/indoor/live.m3u8?LISTASGLAU
+http://streaming60.sitehosting.com.br:1935/indoor/indoor/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV CÂMARA CAXIAS DO SUL
-http://187.63.179.171:1935/live/stream_720p/livestream.m3u8?LISTASGLAU
+http://187.63.179.171:1935/live/stream_720p/livestream.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV CÂMARA CRICIÚMA
-http://server-1.locaaovivo.com.br:1935/liveStream/47700156866/playlist.m3u8?LISTASGLAU
+http://server-1.locaaovivo.com.br:1935/liveStream/47700156866/playlist.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV CÂMARA FEIRA DE SANTANA
-http://s1.wsepanel.com:1935/camarafeira/camarafeira/live.m3u8?LISTASGLAU
+http://s1.wsepanel.com:1935/camarafeira/camarafeira/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV CÂMARA JACAREÍ
-http://svideo.nipbr.com.br:1935/tvcamarajacarei/aovivo/live.m3u8?LISTASGLAU
-#EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV CÂMARA MOGI DAS CRUZES
-http://s1.estadovirtual.com.br:1935/c1407ev2932/aovivo/live.m3u8?LISTASGLAU
-#EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV CÂMARA PARNAMIRIM
-http://tv02.logicahost.com.br:1935/tvcamara/tvcamara/live.m3u8?LISTASGLAU
+http://svideo.nipbr.com.br:1935/tvcamarajacarei/aovivo/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV CÂMARA RIO GRANDE
-http://stream.camarariogrande.rs.gov.br:80/hls/cmrg_512/index.m3u8?LISTASGLAU
-#EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV CENTRO OESTE
-http://streamingbr.engelhosting.com.br:1935/tvcentro/tvcentro/live.m3u8?LISTASGLAU
+http://stream.camarariogrande.rs.gov.br:80/hls/cmrg_512/index.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV CI
-http://flash8.crossdigital.com.br:1935/2306/2306/live.m3u8?LISTASGLAU
+http://flash8.crossdigital.com.br:1935/2306/2306/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV CIDADE BRUSQUE
-http://179.107.83.10:1935/live/tvcidadeaovivo_1/livestream.m3u8?LISTASGLAU
+http://179.107.83.10:1935/live/tvcidadeaovivo_1/livestream.m3u8?LISTASEGFTv
+
+
+
+
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV CIDADE VERDE hd
 http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/live.m3u8?LISTASGLAU
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV CIDADE WEB
