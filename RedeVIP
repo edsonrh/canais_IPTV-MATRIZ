@@ -351,9 +351,6 @@ http://stmv1.euroti.com.br:1935/2017/2017/live.m3u8?LISTASEGFTv
 http://tv01.logicahost.com.br:1935/tvuai/tvuai/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",WEB TV VITALIDADE
 http://hd4.com.br:1935/vitalidade/vitalidade/live.m3u8?LISTASEGFTv
-
-
-
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",WTJ TV MINAS
 http://painel.tvdigitalhd.org:1935/wladimir23243/wladimir23243/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV",TV ART
@@ -366,15 +363,10 @@ https://593d7fe3c9b0d.streamlock.net/tvzaine/tvzaine/chunklist_w163222574.m3u8?L
 http://stmv2.euroti.com.br:1935/redegrava/redegrava/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV CLIPES",TV AREADO
 http://stmv2.euroti.com.br:1935/tvareado/tvareado/live.m3u8?LISTASEGFTv
-
-
-
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV CLIPES",TV CAXIAS
 http://stmv1.euroti.com.br:1935/caxiashost/caxiashost/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV CLIPES",TV CLIC BRASIL
 http://stmv2.euroti.com.br:1935/clictv/clictv/live.m3u8?LISTASEGFTv
-#EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV CLIPES",TV CN AGITOS
-http://wsemedia.com:1935/cn01/cn01/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV CLIPES",TV CLIMA
 http://stmv1.euroti.com.br:1935/tvcadm/tvcadm/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV CLIPES",TV HIT SAM
@@ -419,6 +411,8 @@ http://streaming60.sitehosting.com.br:1935/tvadbras/tvadbras/live.m3u8?LISTASEGF
 http://stmv2.euroti.com.br:1935/tvadcpaz/tvadcpaz/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV GOLPEL",TV ALVORADA ESPÍRITA
 http://78.46.36.212:1935/tvalvorada/tvalvorada/live.m3u8?LISTASEGFTv
+
+
 
 
 
