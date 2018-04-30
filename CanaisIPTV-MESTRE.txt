@@ -371,16 +371,16 @@ http://rtmp.one.by:1200?EGFTv
 https://bit.ly/2qPAhOk
 #EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/SMbsk2" group-title="FILMES/SERIES",CINE GLAU
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?LISTASEGFTv
-#EXTINF:-1tvg-logo="http://s16.postimg.org/z4yd0upsl/cine_sky.png" group-title="FILMES E SÉRIES",CINE SKY
+#EXTINF:-1tvg-logo="http://s16.postimg.org/z4yd0upsl/cine_sky.png" group-title="FILMES/SERIES",CINE SKY
 http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/LUhcnj" group-title="FILMES/SERIES",CLASSIQUE TV
 http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8?EGFTv
 http://stmv2.euroti.com.br:1935/classique/classique/playlist.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/EdTZ0ba.png" group-title="FILMES/SERIES",CLASSIQUE TV ALTERNATIVO
 http://stmv2.srvstm.com/classique/classique/playlist.m3u8?LISTASEGFTv
-#EXTINF:-1 tvg-logo="https://goo.gl/LUhcnj" group-title="FILMES E SERIES",NOVA CINEMA 04
+#EXTINF:-1 tvg-logo="https://goo.gl/LUhcnj" group-title="FILMES/SERIES",NOVA CINEMA 04
 http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8?EGFTv
-#EXTINF:-1 tvg-logo="https://goo.gl/LUhcnj" group-title="FILMES E SERIES",NOVA CINEMA 05
+#EXTINF:-1 tvg-logo="https://goo.gl/LUhcnj" group-title="FILMES/SERIES",NOVA CINEMA 05
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?EGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/zG3XXJ" group-title="FILMES/SERIES", Cine +
 http://189.86.89.116:80/hls-live/livecm/_definst_/liveevent/livestream.m3u8?LISTASEGFTv
