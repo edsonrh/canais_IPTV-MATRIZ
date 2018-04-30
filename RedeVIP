@@ -756,36 +756,12 @@ http://srv-vvtv.sisdera.com:1935/live/mp4:vvtv032/playlist.m3u8?LISTASGLAU
 
 ############################## VARIEDADES ##################################
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s20.postimg.org/l7l1mkjbx/logo.png" group-title="VARIEDADES",CURTA!
-http://str01.ddns.net/006/myStream/playlist.m3u8?CANAISGLAU
-#EXTINF:-1 tvg-id="" tvg-name="Food Network" tvg-logo="http://i.imgur.com/j6NjcTh.png" group-title="VARIEDADES",FOOT NETWORK
-http://str04.ddns.net/103/myStream/playlist.m3u8?CANAISGLAU
-#EXTINF:-1 tvg-id="" tvg-name="Food Network" tvg-logo="http://i.imgur.com/j6NjcTh.png" group-title="VARIEDADES",FOOT NETWORK ALTERNATIVO
-http://144.217.72.15/FOODNETWORKHD/tracks-v1a1/index.m3u8?token=c3ebe7a8a31602c8dbd4b992368e5731&LISTASGLAU
-#EXTINF:-1 tvg-id="" tvg-name="GNT" tvg-logo="" group-title="VARIEDADES",GNT
-http://str03.ddns.net/084/myStream/playlist.m3u8?CANAISGLAU
-#EXTINF:-1 tvg-id="" tvg-name="Mais Globosat" tvg-logo="" group-title="VARIEDADES",MAIS GLOBOSAT
-http://str01.ddns.net/012/myStream/playlist.m3u8?CANAISGLAU
 #EXTINF:-1 tvg-id="" tvg-name="MASTER TV" tvg-logo="https://s20.postimg.org/4g4bhzvql/logo_1.png" group-title="VARIEDADES",MASTER TV
-http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8?CANAISGLAU
+http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8?CANAISEGFTv
 #EXTINF:-1 tvg-id="" tvg-name="MULTIO RIO" tvg-logo="https://s20.postimg.org/4g4bi1619/20160307143159.jpg" group-title="VARIEDADES",MULTI RIO
-http://187.111.97.45:1935/webtv/webtv/live.m3u8?CANAISGLAU
-#EXTINF:-1 tvg-id="" tvg-name="MULTISHOW HD" tvg-logo="https://s20.postimg.org/f2y4nkgsd/3134dba-logo-multitv.jpg" group-title="VARIEDADES",MULTI TV CIDADES
-http://a3.fabricahost.com.br:1935/multitv/stream/live.m3u8?CANAISGLAU
-#EXTINF:-1 tvg-id="" tvg-name="MULTISHOW HD" tvg-logo="https://s20.postimg.org/7zq97x125/download_1.png" group-title="VARIEDADES",MULTISHOW 
-http://142.44.214.189:81/live/OYAYxIE4F8/8bVUm0dWwg/7830.ts?CANAISGLAU
-#EXTINF:-1 tvg-id="" tvg-name="MULTISHOW HD" tvg-logo="https://s20.postimg.org/7zq97x125/download_1.png" group-title="VARIEDADES",MULTISHOW ALTERNATIVO
-http://144.217.72.15/MultishowHD/tracks-v1a1/index.m3u8?token=c3ebe7a8a31602c8dbd4b992368&LISTASGLAU
-#EXTINF:-1 tvg-id="" tvg-name="OFF" tvg-logo="" group-title="VARIEDADES",OFF
-http://144.217.72.15/OffHD/tracks-v1a1/index.m3u8?token=c3ebe7a8a31602c8dbd4b992368e5731&LISTASGLAU
-#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" group-title="VARIEDADES",TLC
-http://str02.ddns.net/034/myStream/playlist.m3u8?CANAISGLAU
-#EXTINF:-1 tvg-id="" tvg-name="TruTV" tvg-logo="" group-title="VARIEDADES",TRUTV
-http://str04.ddns.net/111/myStream/playlist.m3u8?CANAISGLAU
-#EXTINF:-1 tvg-id="" tvg-name="Viva" tvg-logo="http://i.imgur.com/CZMldQu.png" group-title="VARIEDADES",VIVA
-http://str03.ddns.net/079/myStream/playlist.m3u8?CANAISGLAU
+http://187.111.97.45:1935/webtv/webtv/live.m3u8?CANAISEGFTv
 #EXTINF:-1 tvg-id="" tvg-name="TV ART" tvg-logo="https://yt3.ggpht.com/-R-4BjRiKB_0/AAAAAAAAAAI/AAAAAAAAAAA/GOj5Ka5a6Kw/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="VARIEDADES",TV Art
-http://stmv1.srvstm.com/tvarthd/tvarthd/playlist.m3u8?CANAISGLAU
+http://stmv1.srvstm.com/tvarthd/tvarthd/playlist.m3u8?CANAISEGFTv
 
 
 ################################### CAMERAS AO VIVO ############################
