@@ -13,9 +13,11 @@ http://stmv1.sejaguia.com.br/tv487/tv487/playlist.m3u8?EGFTv
 http://200.164.225.170/hls/tvalpb.m3u8
 #EXTINF:-1 tvg-id="CREATIVE TV PB - HD" tvg-logo="https://goo.gl/AgVycg" group-title="TV ABERTA",CREATIVE TV PB - HD
 http://streaming63.sitehosting.com.br:1935/jandy/_definst_/jandy/chunklist_w1550347631.m3u8
-#EXTINF:-1 tvg-id="Globo SP - HD" tvg-logo="https://goo.gl/M5gy5N" group-title="TV ABERTA",Globo SP - HD
+#EXTINF:-1 tvg-id="Grobosp.br" tvg-logo="https://goo.gl/hywwhb" group-title="TV ABERTA", GLOBO - SP
+http://apk.goo.ac:8081/live/17/chunks.m3u8?LISTASEGFTv
+#EXTINF:-1 tvg-id="Grobosphd.br" tvg-logo="https://goo.gl/M5gy5N" group-title="TV ABERTA",Globo SP - HD
 https://live9.userapi.com/637609/live/_UwNzFpFekY/playlist.m3u8
-#EXTINF:-1 tvg-id="GLOBO RJ" tvg-logo="https://goo.gl/M5gy5N" group-title="TV ABERTA", GLOBO RJ
+#EXTINF:-1 tvg-id="Globorj.br" tvg-logo="https://goo.gl/M5gy5N" group-title="TV ABERTA", GLOBO RJ
 https://live9.userapi.com/637609/live/_UwNzFpFekY/playlist.m3u8?EGFTv
 #EXTINF:-1 tvg-id="FUTURA" tvg-logo="https://goo.gl/5AxUkh" group-title="TV ABERTA",FUTURA
 http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/manifest(format=m3u8-aapl).m3u8
