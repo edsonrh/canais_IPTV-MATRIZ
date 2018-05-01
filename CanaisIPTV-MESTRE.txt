@@ -303,7 +303,9 @@ http://stream2.camara.gov.br:8134/tv1/manifest.m3u8
 ################################ INFANTIL ############################## 
 #EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="https://goo.gl/6CrS8q" group-title="INFANTIL", BABY TV
 http://wowza2.mysoltv.com:1992/UK_UK_Baby/tracks-v1a1/index.m3u8?LISTASEGFTv
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://goo.gl/61XpnT" group-title="INFANTIL",CARTOON NETWORK  
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/LS3VZK" group-title="INFANTIL",CARTOON NETWORK
+http://95.141.35.104:8081/edge/cartoon/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://goo.gl/61XpnT" group-title="INFANTIL",CARTOON NETWORK - DUBLADO
 http://wowza2.mysoltv.com:1992/UK_ENG_CARTOON_NETWORK_gaaa/tracks-v1a1/index.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-id="" tvg-name=" GOSPEL CARTOON" tvg-logo="https://goo.gl/TbZ4w1" group-title="INFANTIL",GOSPEL CARTOON
 http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=495096105?LISTASEGFTv
@@ -822,17 +824,6 @@ http://nodeb.gocaster.net:1935/CGL/_definst_/TODAYFM_TEST2/.m3u8?EGFTv
 #EXTINF:-1 tvg-id="G2P TV" tvg-logo="http://www.g2ptv.tv.br/logo.png" group-title="MÚSICAS",G2P TV 
 http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/LS3VZK" group-title="DESENHOS",CARTOON NETWORK
-http://95.141.35.104:8081/edge/cartoon/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://goo.gl/PpfTxe" group-title="GALINHA PINTADINHA",Borboletinha - DVD Galinha Pintadinha 2
-https://youtu.be/28iW_O5qWfU
-
-#EXTINF:-1 tvg-logo="https://goo.gl/PpfTxe" group-title="GALINHA PINTADINHA",O Pintinho Piu 
-https://youtu.be/m-sVUwMXoHc
-
-#EXTINF:-1 tvg-logo="https://goo.gl/PpfTxe" group-title="GALINHA PINTADINHA",chega a 1 BILHÃO DE VIEWS!
-https://youtu.be/h8kpWvfXhds
 
 #EXTINF:-1 tvg-logo="https://goo.gl/2PRHj9" group-title="VARIEDADES",NOSSA TV
 http://stmv1.srvstm.com:1935/tvcadm/tvcadm/live.m3u8
@@ -1700,487 +1691,328 @@ http://www.blogger.com/video-play.mp4?contentId=c828d47c442419d8
 #EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="DESENHOS",A Formiga Atómica – Episódio 26 – A Mim Você Não Assusta
 http://www.blogger.com/video-play.mp4?contentId=97d2c912aa085d2b
 
-##################################################       DESENHOS        ############     A Turma do Manda Chuva   
+###########################################################################################################################################################  A Turma do Manda Chuva ############       
 
-#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 01 – Havaí: A Turma Vem Aí
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="A Turma do Manda Chuva",Episódio 01 – Havaí: A Turma Vem Aí
 http://www.blogger.com/video-play.mp4?contentId=804e7072191f1a6a
-
-#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 02 – O Opulento Marajá
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="A Turma do Manda Chuva",Episódio 02 – O Opulento Marajá
 http://www.blogger.com/video-play.mp4?contentId=7c5210971b472c5f
-
-#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 03 – Jazz Infernal
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="A Turma do Manda Chuva",Episódio 03 – Jazz Infernal
 http://www.blogger.com/video-play.mp4?contentId=9a0650ea0dc572e
-
-#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 04 – Corridas E Correrias
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="A Turma do Manda Chuva",Episódio 04 – Corridas E Correrias
 http://www.blogger.com/video-play.mp4?contentId=514679fdaf94418a
-
-#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 05 – Arranhador De Violinos
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="A Turma do Manda Chuva",Episódio 05 – Arranhador De Violinos
 http://www.blogger.com/video-play.mp4?contentId=3238cb636b38c479
-
-#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS"DESENHOS",A Turma do Manda Chuva – Episódio 06 – Testamento De Um Excêntrico
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="A Turma do Manda Chuva",Episódio 06 – Testamento De Um Excêntrico
 http://www.blogger.com/video-play.mp4?contentId=26b0ab4b44815a54
-
-#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 07 – Amor A Quando Me Levas
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="A Turma do Manda Chuva",Episódio 07 – Amor A Quando Me Levas
 http://www.blogger.com/video-play.mp4?contentId=6e5b386534e6557
-
-#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 08 – Meu Filho, Meu Orgulho
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="A Turma do Manda Chuva",Episódio 08 – Meu Filho, Meu Orgulho
 http://www.blogger.com/video-play.mp4?contentId=a0e7d4d9c95e4a45
-
-#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 09 – Um Filme Realista
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="A Turma do Manda Chuva",Episódio 09 – Um Filme Realista
 http://www.blogger.com/video-play.mp4?contentId=4cd2c8ac801aba02
-
-#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 10 – Que Rei Sou Eu?
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="A Turma do Manda Chuva",Episódio 10 – Que Rei Sou Eu?
 http://www.blogger.com/video-play.mp4?contentId=a2049c69224429ff
-
-#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 11 – Quando O Coração Dispara
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="A Turma do Manda Chuva",Episódio 11 – Quando O Coração Dispara
 http://www.blogger.com/video-play.mp4?contentId=c952acbdaf4f5063
-
-#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 12 – Um Diamante A Todo Preço
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="A Turma do Manda Chuva",Episódio 12 – Um Diamante A Todo Preço
 http://www.blogger.com/video-play.mp4?contentId=f1eaae05552254f8
-
-#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 13 – Um Presente Passado
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="A Turma do Manda Chuva",Episódio 13 – Um Presente Passado
 http://www.blogger.com/video-play.mp4?contentId=b6faf156f021f690
-
-#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 14 – Cheque Mate
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="A Turma do Manda Chuva",Episódio 14 – Cheque Mate
 http://www.blogger.com/video-play.mp4?contentId=c686819bdc3b3747
-
-#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 15 – Inverno Um Tanto Quente
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="A Turma do Manda Chuva",Episódio 15 – Inverno Um Tanto Quente
 http://www.blogger.com/video-play.mp4?contentId=9a8e4cef046fe709
-
-#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 16 – Um Menor Entre Os Maiores
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="A Turma do Manda Chuva",Episódio 16 – Um Menor Entre Os Maiores
 http://www.blogger.com/video-play.mp4?contentId=fc615d133b16f7d9
-
-#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 17 – A Mascote Do Convescote
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="A Turma do Manda Chuva",Episódio 17 – A Mascote Do Convescote
 http://www.blogger.com/video-play.mp4?contentId=d0bcab20ac5c0677
-
-#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 18 – Reformadores Conservadores
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="A Turma do Manda Chuva",Episódio 18 – Reformadores Conservadores
 http://www.blogger.com/video-play.mp4?contentId=9c06b316345f4451
-
-#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 19 – Turistas E Vigaristas
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="A Turma do Manda Chuva",Episódio 19 – Turistas E Vigaristas
 http://www.blogger.com/video-play.mp4?contentId=8bca6b03e8a9bdd2
-
-#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 20 – Arte E Artes
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="A Turma do Manda Chuva",Episódio 20 – Arte E Artes
 http://www.blogger.com/video-play.mp4?contentId=8bca6b03e8a9bdd2
-
-#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 21 – O Involuntário Do Espaço
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="A Turma do Manda Chuva",Episódio 21 – O Involuntário Do Espaço
 http://www.blogger.com/video-play.mp4?contentId=65358885a62fdca6
-
-#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 22 – O Finado Manda-Chuva
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="A Turma do Manda Chuva",Episódio 22 – O Finado Manda-Chuva
 http://www.blogger.com/video-play.mp4?contentId=6bfe59cd6b22cfca
-
-#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 23 – Parabéns Para Você
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="A Turma do Manda Chuva",Episódio 23 – Parabéns Para Você
 http://www.blogger.com/video-play.mp4?contentId=88b7f882cbc46dc1
-
-#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 24 – Alguém Está Caduco
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="A Turma do Manda Chuva",Episódio 24 – Alguém Está Caduco
 http://www.blogger.com/video-play.mp4?contentId=441b2f93367ef775
-
-#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 25 – Rei Por Um Dia
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="A Turma do Manda Chuva",Episódio 25 – Rei Por Um Dia
 http://www.blogger.com/video-play.mp4?contentId=f1f455beb0733e39
-
-#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 26 – O Sentenciado
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="A Turma do Manda Chuva",Episódio 26 – O Sentenciado
 http://www.blogger.com/video-play.mp4?contentId=8627c00ba445a69e
-
-#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 27 – Batendo O Record
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="A Turma do Manda Chuva",Episódio 27 – Batendo O Record
 http://www.blogger.com/video-play.mp4?contentId=297f91927a7cf34a
-
-#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva - Episódio 28 – Contando Vantagem
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="A Turma do Manda Chuva",AEpisódio 28 – Contando Vantagem
 http://www.blogger.com/video-play.mp4?contentId=c4cdcacbd94a6cd
-
-#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 29 – Turma Atrapalhada
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="A Turma do Manda Chuva",Episódio 29 – Turma Atrapalhada
 http://www.blogger.com/video-play.mp4?contentId=40e423b740033a6c
-
-#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva – Episódio 30 – Eu E O Outro
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="A Turma do Manda Chuva",Episódio 30 – Eu E O Outro
 http://www.blogger.com/video-play.mp4?contentId=713a1371319401fe
 
-######################################       DESENHOS        ################    A Pantera Cor-de-Rosa
+############################################################################################################################################################################################## A Pantera Cor-de-Rosa ###################################################### 
 
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 01 – A Pantera Pinta o Sete 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 01 – A Pantera Pinta o Sete 
 http://www.blogger.com/video-play.mp4?contentId=d5b9a3206dc0822c
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 02 – A Pantera de Pijama 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 02 – A Pantera de Pijama 
 http://www.blogger.com/video-play.mp4?contentId=f30a7d608cdc0b6b
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 03 – Pantera na Loja de Departamento 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 03 – Pantera na Loja de Departamento 
 http://www.blogger.com/video-play.mp4?contentId=a545ea16e77013e0
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 04 – Disque “P” para Pantera
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",Episódio 04 – Disque “P” para Pantera
 http://www.blogger.com/video-play.mp4?contentId=182a23021c7c6a15 
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 05 – A Arca da Pantera Cor-de-rosa 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 05 – A Arca da Pantera Cor-de-rosa 
 http://www.blogger.com/video-play.mp4?contentId=429556756acc150e
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 06 – A Pantera e o Bêbado 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 06 – A Pantera e o Bêbado 
 http://www.blogger.com/video-play.mp4?contentId=9a9815bf123f080c
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 07 – Agente Secreto Cor-de-rosa 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 07 – Agente Secreto Cor-de-rosa 
 http://www.blogger.com/video-play.mp4?contentId=7786c066bce2f769
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 08 – Pantera em Choque 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 08 – Pantera em Choque 
 http://www.blogger.com/video-play.mp4?contentId=fc5dbedb9e424d22
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 09 – Diamantes da Pantera 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 09 – Diamantes da Pantera 
 http://www.blogger.com/video-play.mp4?contentId=ee6f55bf0923a949
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 10 – A Pantera e a Mosca 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 10 – A Pantera e a Mosca 
 http://www.blogger.com/video-play.mp4?contentId=7e2d3da3ab400f0
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 11 – Guerra de Vizinhos 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 11 – Guerra de Vizinhos 
 http://www.blogger.com/video-play.mp4?contentId=b4ffc0655e26b8d2
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 12 – A Balança que Falava Demais 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 12 – A Balança que Falava Demais 
 http://www.blogger.com/video-play.mp4?contentId=813dbfcb4ba3184c
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 13 – Pantera Pescando 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 13 – Pantera Pescando 
 http://www.blogger.com/video-play.mp4?contentId=a30748a3d88407b3
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 14 – O Toureiro Cor-de-rosa 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 14 – O Toureiro Cor-de-rosa 
 http://www.blogger.com/video-play.mp4?contentId=77aae555759e940a
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 15 – Ponche Cor-de-rosa 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 15 – Ponche Cor-de-rosa 
 http://www.blogger.com/video-play.mp4?contentId=5ebb06ec7ac267fa
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 16 – Pink Pistons 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 16 – Pink Pistons 
 http://www.blogger.com/video-play.mp4?contentId=83505f57b106e5a5
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 17 – Vitamina Cor-de-rosa 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 17 – Vitamina Cor-de-rosa 
 http://www.blogger.com/video-play.mp4?contentId=8f314828f6d7a94e
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 18 – A Casa da Pantera 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 18 – A Casa da Pantera 
 http://www.blogger.com/video-play.mp4?contentId=e490cc21d4cef530
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 19 – O Concerto da Pantera 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",Episódio 19 – O Concerto da Pantera 
 http://www.blogger.com/video-play.mp4?contentId=d47bc55caf559267
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 20 – Sorria Pantera 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",Episódio 20 – Sorria Pantera 
 http://www.blogger.com/video-play.mp4?contentId=f34c5119553e53e5
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 21 – A Pantera e o Rato 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 21 – A Pantera e o Rato 
 http://www.blogger.com/video-play.mp4?contentId=859a08af989e06d6
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 22 – Seja um Gênio Você Também 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 22 – Seja um Gênio Você Também 
 http://www.blogger.com/video-play.mp4?contentId=5eb692054c0bfea
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 23 – Super Pantera 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 23 – Super Pantera 
 http://www.blogger.com/video-play.mp4?contentId=fe8e2ff122b6c008
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 24 – Bons Sonhos Pantera 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 24 – Bons Sonhos Pantera 
 http://www.blogger.com/video-play.mp4?contentId=249a1b67a0cd4bcd
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 25 – Que Fria
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 25 – Que Fria
 http://www.blogger.com/video-play.mp4?contentId=7a7578eacbe53a61 
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 26 – Pantera em Pânico 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",Episódio 26 – Pantera em Pânico 
 http://www.blogger.com/video-play.mp4?contentId=ae05b9816a5a3340
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 27 – Pantera Jardineira 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 27 – Pantera Jardineira 
 http://www.blogger.com/video-play.mp4?contentId=fa59465a202f23f9
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 28 – Sujeira Cor-de-rosa 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 28 – Sujeira Cor-de-rosa 
 http://www.blogger.com/video-play.mp4?contentId=db2f98501b999c20
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 29 – Pantera em Forma 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 29 – Pantera em Forma 
 http://www.blogger.com/video-play.mp4?contentId=db2f98501b999c20
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 30 – Jato Pantera 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 30 – Jato Pantera 
 http://www.blogger.com/video-play.mp4?contentId=4472a16199e6adda
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 31 – Paraíso Cor-de-rosa 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 31 – Paraíso Cor-de-rosa 
 http://www.blogger.com/video-play.mp4?contentId=490c0db220b02cf9
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 32 – O Carona 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 32 – O Carona 
 http://www.blogger.com/video-play.mp4?contentId=7484a2fd8b149927
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 33 – Parabéns É Cor-de-rosa 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 33 – Parabéns É Cor-de-rosa 
 http://www.blogger.com/video-play.mp4?contentId=7484a2fd8b149927
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 34 – Pantera Pré-fabricada 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 34 – Pantera Pré-fabricada 
 http://www.blogger.com/video-play.mp4?contentId=c188d76e6fc05b57
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 35 – A Mão é Mais Rápida Que o Olho 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 35 – A Mão é Mais Rápida Que o Olho 
 http://www.blogger.com/video-play.mp4?contentId=5fedf361fec608c9
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 36 – Vida Cor-de-rosa 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 36 – Vida Cor-de-rosa 
 http://www.blogger.com/video-play.mp4?contentId=e265586909ca5a5a
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 37 – Pantera nos Céus 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 37 – Pantera nos Céus 
 http://www.blogger.com/video-play.mp4?contentId=d3f0aabfc849452b
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 38 – O Melhor Amigo 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 38 – O Melhor Amigo 
 http://www.blogger.com/video-play.mp4?contentId=93f2f43d9610c171
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 39 – Pantera Psicodélica 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 39 – Pantera Psicodélica 
 http://www.blogger.com/video-play.mp4?contentId=7ae9511ddb0cde11
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 40 – Pantera Cor-de-rosa na Praia 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 40 – Pantera Cor-de-rosa na Praia 
 http://www.blogger.com/video-play.mp4?contentId=37e2b336cb3ed2a1
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 41 – Pantera Fora-da-lei
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 41 – Pantera Fora-da-lei
 http://www.blogger.com/video-play.mp4?contentId=781a13370b8f10e7 
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 42 – Patente Cor-de-rosa 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 42 – Patente Cor-de-rosa 
 http://www.blogger.com/video-play.mp4?contentId=b1d37f78c1118100
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 43 – Sorte Não Se Joga Fora 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 43 – Sorte Não Se Joga Fora 
 http://www.blogger.com/video-play.mp4?contentId=6498dd0d71b893f0
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 44 – Tudo Por Tão Pouco
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",Episódio 44 – Tudo Por Tão Pouco
 http://www.blogger.com/video-play.mp4?contentId=7b295f790658972c
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 45 – Astrônomo Lunático 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",Episódio 45 – Astrônomo Lunático 
 http://www.blogger.com/video-play.mp4?contentId=45c28db93ea4b3b6
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 46 – Valente Pantera 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",Episódio 46 – Valente Pantera 
 http://www.blogger.com/video-play.mp4?contentId=380f57f2fa7150c6
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 47 – Pantera em Tratamento 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",Episódio 47 – Pantera em Tratamento 
 http://www.blogger.com/video-play.mp4?contentId=e38aa323b4bbcc62
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 48 – Pantera Pré-histórica 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",Episódio 48 – Pantera Pré-histórica 
 http://www.blogger.com/video-play.mp4?contentId=cb56f73d5f39af86
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 49 – A Pantera na Cadeia 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",Episódio 49 – A Pantera na Cadeia 
 http://www.blogger.com/video-play.mp4?contentId=cd0cae41fed94e01
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 50 – Disputa de Terras 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 50 – Disputa de Terras 
 http://www.blogger.com/video-play.mp4?contentId=573cc0c7fcc4f984
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 51 – Desejos de Pantera 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 51 – Desejos de Pantera 
 http://www.blogger.com/video-play.mp4?contentId=7844c7aab128eaab
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 52 – Pantera no Deserto 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 52 – Pantera no Deserto 
 http://www.blogger.com/video-play.mp4?contentId=ee1b039545b3592
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 53 – Pantera Lenhadora 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 53 – Pantera Lenhadora 
 http://www.blogger.com/video-play.mp4?contentId=17c3764a617ea299
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 54 – Entrega Especial da Pantera 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 54 – Entrega Especial da Pantera 
 http://www.blogger.com/video-play.mp4?contentId=d83608db013d7c15
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 55 – A Pantera e os Impostos
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 55 – A Pantera e os Impostos
 http://www.blogger.com/video-play.mp4?contentId=24f62d1c28d786d6 
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 56 – Cinderela Cor-de-rosa
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",Episódio 56 – Cinderela Cor-de-rosa
 http://www.blogger.com/video-play.mp4?contentId=ab23dfb7a7ab2a77 
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 57 – Controle de Pragas 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 57 – Controle de Pragas 
 http://www.blogger.com/video-play.mp4?contentId=7ba546a3b99600c6
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 58 – Pense Duas Vezes Antes 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 58 – Pense Duas Vezes Antes 
 http://www.blogger.com/video-play.mp4?contentId=c3b76f6e2b253840
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 59 – Pantera numa Fria 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 59 – Pantera numa Fria 
 http://www.blogger.com/video-play.mp4?contentId=d06d05d434dbd9e4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 60 – A Noite da Pantera 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",Episódio 60 – A Noite da Pantera 
 http://www.blogger.com/video-play.mp4?contentId=3d95115e5f765685
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 61 – Milharal da Pantera 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",Episódio 61 – Milharal da Pantera 
 http://www.blogger.com/video-play.mp4?contentId=f4756c5662b96a45
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 62 – Pantera em Extinção 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 62 – Pantera em Extinção 
 http://www.blogger.com/video-play.mp4?contentId=9c70f6eb43b3d462
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 63 – Uma Mosca na Minha Casa 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 63 – Uma Mosca na Minha Casa 
 http://www.blogger.com/video-play.mp4?contentId=b5504c0ece6915f3
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 64 – Pantera Desastrada 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 64 – Pantera Desastrada 
 http://www.blogger.com/video-play.mp4?contentId=a15522539182f500
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 65 – Pantera e a Música 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 65 – Pantera e a Música 
 http://www.blogger.com/video-play.mp4?contentId=83ffee48e5e03f6d
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 66 – Travessura Cor-de-rosa 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 66 – Travessura Cor-de-rosa 
 http://www.blogger.com/video-play.mp4?contentId=9e7ce02e3ebe0c5b
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title=",A Pantera Cor-de-Rosa – Episódio 67 – Pantera com Pulga 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",isódio 67 – Pantera com Pulga 
 http://www.blogger.com/video-play.mp4?contentId=87e05acafe46dd62
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title=",A Pantera Cor-de-Rosa – Episódio 68 – O Furo da Pantera 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",pisódio 68 – O Furo da Pantera 
 http://www.blogger.com/video-play.mp4?contentId=4366990b62a6415c
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 69 – A Pantera e o Gongo 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 69 – A Pantera e o Gongo 
 http://www.blogger.com/video-play.mp4?contentId=6df3f8c5ed6cff5e
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 70 – Memórias da Pantera 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 70 – Memórias da Pantera 
 http://www.blogger.com/video-play.mp4?contentId=16d2dc438fc28b92
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 71 – Pink 8-Ball 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",A Pantera Cor-de-Rosa – Episódio 71 – Pink 8-Ball 
 http://www.blogger.com/video-play.mp4?contentId=6e89a6c4042206bb
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 72 – Pantera em Alto Mar 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 72 – Pantera em Alto Mar 
 http://www.blogger.com/video-play.mp4?contentId=155c56e30c070ad0
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 73 – Pantera em Defesa das Peles 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 73 – Pantera em Defesa das Peles 
 http://www.blogger.com/video-play.mp4?contentId=aee9548f01c65b11
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 74 – Pantera Da Vinci 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 74 – Pantera Da Vinci 
 http://www.blogger.com/video-play.mp4?contentId=98e5ddd1d0162d85
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 75 – Instrutor Cor-de-rosa 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 75 – Instrutor Cor-de-rosa 
 http://www.blogger.com/video-play.mp4?contentId=1df5989eca1bd57f
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 76 – Salmão cor-de-rosa 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 76 – Salmão cor-de-rosa 
 http://www.blogger.com/video-play.mp4?contentId=8908df0eb1290541
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 77 – Um Quarto Para a Pantera 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 77 – Um Quarto Para a Pantera 
 http://www.blogger.com/video-play.mp4?contentId=b011db3243565439
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 78 – Pantera na Transilvânia 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 78 – Pantera na Transilvânia 
 http://www.blogger.com/video-play.mp4?contentId=d59db65236dd94d2
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 79 – Elefante Cor-de-rosa
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 79 – Elefante Cor-de-rosa
 http://www.blogger.com/video-play.mp4?contentId=f371c5490eb3c8df 
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 80 – Mantendo Nossas Florestas Cor-de-rosa 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 80 – Mantendo Nossas Florestas Cor-de-rosa 
 http://www.blogger.com/video-play.mp4?contentId=56ca8b4500341085
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 81 – Aprenda a Voar com a Pantera 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 81 – Aprenda a Voar com a Pantera 
 http://www.blogger.com/video-play.mp4?contentId=9c7077a700537ae9
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 82 – A Moda é Cor-de-rosa 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 82 – A Moda é Cor-de-rosa 
 http://www.blogger.com/video-play.mp4?contentId=eb75f5085cd5b10
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 83 – A Vingança da Pantera 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 83 – A Vingança da Pantera 
 http://www.blogger.com/video-play.mp4?contentId=4182b3f9450edbb8
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 84 – Aventura Cor-de-rosa 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 84 – Aventura Cor-de-rosa 
 http://www.blogger.com/video-play.mp4?contentId=2568f4f25b616f4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 85 – Pantera Mística
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 85 – Pantera Mística
 http://www.blogger.com/video-play.mp4?contentId=b3fab53f3f9da248 
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 86 – Pantera de Arabee 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 86 – Pantera de Arabee 
 http://www.blogger.com/video-play.mp4?contentId=d74d983856874a31
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 87 – Pantera Profissional 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 87 – Pantera Profissional 
 http://www.blogger.com/video-play.mp4?contentId=adf01ba824c2b160
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 88 – Flautista Cor-de-rosa 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 88 – Flautista Cor-de-rosa 
 http://www.blogger.com/video-play.mp4?contentId=7350c8c85328a221
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 89 – Rascunho Cor-de-rosa 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 89 – Rascunho Cor-de-rosa 
 http://www.blogger.com/video-play.mp4?contentId=70d399233be62c57
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 90 – Sherlock Cor-de-rosa Rosa 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 90 – Sherlock Cor-de-rosa Rosa 
 http://www.blogger.com/video-play.mp4?contentId=763a5a9b69ef3c18
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 91 – Rocky Pantera 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 91 – Rocky Pantera 
 http://www.blogger.com/video-play.mp4?contentId=d4b7379525af6be6
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 92 – Terapia cor-de-rosa 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 92 – Terapia cor-de-rosa 
 http://www.blogger.com/video-play.mp4?contentId=389028e61e9e717d
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 93 – Fotos Cor-de-rosa 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 93 – Fotos Cor-de-rosa 
 http://www.blogger.com/video-play.mp4?contentId=9494aed5f4a0be6
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 94 – Fliperama Cor-de-rosa 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 94 – Fliperama Cor-de-rosa 
 http://www.blogger.com/video-play.mp4?contentId=c7fa8ee94b1c340b
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 95 – Brinquedo Cor-de-rosa
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 95 – Brinquedo Cor-de-rosa
 http://www.blogger.com/video-play.mp4?contentId=38dd4e5a6b348f41 
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 96 – Trompete Cor-de-rosa 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 96 – Trompete Cor-de-rosa 
 http://www.blogger.com/video-play.mp4?contentId=d432d708dd9f5b71
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 97 – Pantera Chuvosa 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 97 – Pantera Chuvosa 
 http://www.blogger.com/video-play.mp4?contentId=b1e9f869ca10cd73
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 98 – Pantera Dietética 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 98 – Pantera Dietética 
 http://www.blogger.com/video-play.mp4?contentId=4ab8b4ed1eb20728
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 99 – Objeto Voador Cor-de-rosa 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 99 – Objeto Voador Cor-de-rosa 
 http://www.blogger.com/video-play.mp4?contentId=4c54f2186f251845
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 100 – A Pantera e o Carro Monstro 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 100 – A Pantera e o Carro Monstro 
 http://www.blogger.com/video-play.mp4?contentId=927c2233f379241f
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 101 – A Pantera e o Pé de Feijão 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 101 – A Pantera e o Pé de Feijão 
 http://www.blogger.com/video-play.mp4?contentId=50ad08879b8a1ae6
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 102 – Papai Pantera 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 102 – Papai Pantera 
 http://www.blogger.com/video-play.mp4?contentId=cd2b79deff2de239
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 103 – O Maior Inimigo da Pantera 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 103 – O Maior Inimigo da Pantera 
 http://www.blogger.com/video-play.mp4?contentId=ce309ca790b81fd0
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 104 – O Tesouro Escondido da Pantera
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 104 – O Tesouro Escondido da Pantera
 http://www.blogger.com/video-play.mp4?contentId=7ae7e3c1c2b7d128 
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 105 – Panterologista 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",Episódio 105 – Panterologista 
 http://www.blogger.com/video-play.mp4?contentId=ac7b6bb7b04d56b8
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 106 – A Pantera e os Casacos Vermelhos 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 106 – A Pantera e os Casacos Vermelhos 
 http://www.blogger.com/video-play.mp4?contentId=f369485f9491bbc3
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 107 – Pantera Jornalista 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 107 – Pantera Jornalista 
 http://www.blogger.com/video-play.mp4?contentId=7acac00a55aee364
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 108 – Amiguinho da Pantera 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 108 – Amiguinho da Pantera 
 http://www.blogger.com/video-play.mp4?contentId=305aeddc76aeeb98
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 109 – A Pantera de Bagdad 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",Episódio 109 – A Pantera de Bagdad 
 http://www.blogger.com/video-play.mp4?contentId=1e74961da2be5ad
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 110 – A Pantera e o Pirata 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 110 – A Pantera e o Pirata 
 http://www.blogger.com/video-play.mp4?contentId=6fc550c1b5532b2e
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 111 – Pantera das Selvas
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 111 – Pantera das Selvas
 http://www.blogger.com/video-play.mp4?contentId=9023f0d86022f760 
-
-#EXTINF:-1 
-tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 112 – A Cauda da Pantera
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 112 – A Cauda da Pantera
 http://www.blogger.com/video-play.mp4?contentId=2a031e2a7aaad2e8 
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 113 – O Sono da Pantera 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",Episódio 113 – O Sono da Pantera 
 http://www.blogger.com/video-play.mp4?contentId=2144ef589763da21
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 114 – Pantera nas Estrelas 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 114 – Pantera nas Estrelas 
 "http://www.blogger.com/video-play.mp4?contentId=676dc8be91540001
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 115 – O Café da Manhã da Pantera 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 115 – O Café da Manhã da Pantera 
 http://www.blogger.com/video-play.mp4?contentId=52fb42d41ba41b19
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 116 – Toureiro Cor-de-rosa 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 116 – Toureiro Cor-de-rosa 
 http://www.blogger.com/video-play.mp4?contentId=7019b9a55dbad2c6
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 117 – Pato Cor-de-rosa 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 117 – Pato Cor-de-rosa 
 http://www.blogger.com/video-play.mp4?contentId=b124da41c7bf2d02
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 118 – Seguindo o Fio 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 118 – Seguindo o Fio 
 http://www.blogger.com/video-play.mp4?contentId=c62606e7a081c71
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 119 – Pantera na Floresta 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 119 – Pantera na Floresta 
 http://www.blogger.com/video-play.mp4?contentId=7cbb6c9f81c57598
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 120 – Pantera Magnética 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 120 – Pantera Magnética 
 http://www.blogger.com/video-play.mp4?contentId=16a4afa6c9870583
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 121 – A Pantera, a Vela e o Cachorro 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",AEpisódio 121 – A Pantera, a Vela e o Cachorro 
 http://www.blogger.com/video-play.mp4?contentId=d6766c31cd0495f
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 122 – Doutor Cor-de-rosa 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 122 – Doutor Cor-de-rosa 
 http://www.blogger.com/video-play.mp4?contentId=ae4dcd5f8f36dedb
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 123 – Pantera na Lavanderia 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 123 – Pantera na Lavanderia 
 http://www.blogger.com/video-play.mp4?contentId=e3739c7770465db7
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 124 – Supermercado Cor-de-rosa
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 124 – Supermercado Cor-de-rosa
 http://www.blogger.com/video-play.mp4?contentId=795ca525cb2c5af6 
-
-#EXTINF:-1 
-tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 125 – A Pantera Cor-de-rosa 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 125 – A Pantera Cor-de-rosa 
 http://www.blogger.com/video-play.mp4?contentId=d6bda98938d2f467
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 126 – Um Tiro no Escuro 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",Episódio 126 – Um Tiro no Escuro 
 http://www.blogger.com/video-play.mp4?contentId=17e369e720166591
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 127 – A Nova Transa da Pantera Cor-de-rosa 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 127 – A Nova Transa da Pantera Cor-de-rosa 
 http://www.blogger.com/video-play.mp4?contentId=d1d31e821824c492
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 128 – A Vingança da Pantera Cor-de-rosa 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 128 – A Vingança da Pantera Cor-de-rosa 
 http://www.blogger.com/video-play.mp4?contentId=7ccd88b51e4800b
-
-#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 129 – A Trilha da Pantera Cor-de-rosa
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 129 – A Trilha da Pantera Cor-de-rosa
 http://www.blogger.com/video-play.mp4?contentId=a7a811071ca3ee8
 
 #####################################     DESENHOS     ####################     Bacamarte e Chumbinho ##################################
