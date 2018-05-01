@@ -694,58 +694,79 @@ http://tv.tvalphanet.com.br:1935/quadrangular/quadrangular/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV GOLPEL",WEB TV RESTAURA VIDAS
 http://stmv4.euroti.com.br:1935/tvrestauravidas/tvrestauravidas/live.m3u8?LISTASEGFTv
 
-############################################################################ MÚSICAS #####################################
+############################################################################################################################################################################################ CANAIS RELIGIOSOS ############################ 
 
-#EXTINF:-1 tvg-id="WEB TV VIA MORENA " tvg-logo="https://lut.im/YsRgTjnDOO/E4nuHDIFHqY6mBmY.png" group-title="MÚSICAS",WEB TV VIA MORENA 
+#EXTINF:-1 tvg-id="" tvg-name="APARECIDA" tvg-logo="http://i.imgur.com/UOMWJH6.png" group-title="RELIGIOSOS",APARECIDA
+http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8?CANAISEGFTv
+#EXTINF:-1 tvg-id="" tvg-name="CANCÃO NOVA" tvg-logo="http://i.imgur.com/wVxLluR.png" group-title="RELIGIOSOS",CANÇÃO NOVA
+http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8?CANAISEGFTv
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/1Fuwzj" group-title="RELIGIOSOS",GOSPEL MOVIES TELEVISION
+http://stmv2.srvstm.com:1935/gospelf/gospelf/playlist.m3u8?CANAISEGFTv
+#EXTINF:-1 tvg-id="GOSPEL MUSIC TELEVISION "tvg-logo="http://i.imgur.com/RNtmXsk.png" group-title="RELIGIOSOS",GOSPEL MUSIC TELEVISION
+http://stmv2.srvstm.com:1935/16692/16692/playlist.m3u8?CANAISEGFTv
+#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/66ieh36wd/portalgospeltv.png" group-title="RELIGIOSOS",PORTAL GOSPEL
+http://s1.wsepanel.com:1935/lukfilm/lukfilm/playlist.m3u8?CANAISEGFTv
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/aiNRaga.png" group-title="RELIGIOSOS", IURD TV
+http://iuhls-lh.akamaihd-staging.net/i/utvhls1_1@336317/master.m3u8?CANAISEGFTv
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/aiNRaga.png" group-title="RELIGIOSOS", IURD TV Internacional
+http://api.new.livestream.com/accounts/4486152/events/2780306/live.m3u8?CANAISEGFTv
+#EXTINF:-1 tvg-id="TV Novo Tempo" tvg-logo="http://i.imgur.com/IZKxzJ9.png" group-title="RELIGIOSOS",NOVO TEMPO RS
+http://stream.novotempo.com:1935/tv/smil:TvNovoTempoCom.smil/playlist.m3u8?CANAISEGFTv
+EXTINF:-1 tvg-id="TV Novo Tempo" tvg-logo="http://i.imgur.com/IZKxzJ9.png" group-title="RELIGIOSOS",NOVO TEMPO SP
+http://stream.novotempo.com:1935/tv/tvnovotempo.stream/playlist.m3u8?CANAISEGFTv
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/m7MQIPJ.png" group-title="RELIGIOSOS",REDE SÉCULO 21
+http://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/master.m3u8?CANAISEGFTv
+#EXTINF:-1 tvg-logo="http://i.imgur.com/l2Fy8cv.png" group-title="RELIGIOSOS",REDE SUPER
+http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8?CANAISEGFTv
+#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/kkls8tsq5/tvterceiroanjo.png" group-title="RELIGIOSOS",TV TERCEIRO ANJO
+http://streamer1.streamhost.org:1935/salive/GMI3anjoh/playlist.m3u8?CANAISEGFTv
+#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/vszywm6jx/tvverdade.jpg" group-title="RELIGIOSOS",TV VERDADE
+http://ocatv.mcgi.me:1935/public/247_br/playlist.m3u8?CANAISEGFTv
+#EXTINF:-1 tvg-id="VEM & VÊ TV 1" http://i.imgur.com/yIyAemJ.png" group-title="RELIGIOSOS",VEM & VÊ TV 1
+http://srv-vvtv.sisdera.com:1935/live/mp4:vvtv2/playlist.m3u8?CANAISEGFTv
+http://srv-vvtv.sisdera.com.br:1935/live/vvtv3/livestream.m3u8
+#EXTINF:-1 tvg-id="VEM & VÊ TV 2" tvg-logo=" http://i.imgur.com/yIyAemJ.png" group-title="RELIGIOSOS",VEM & VÊ TV 2
+http://srv-vvtv.sisdera.com:1935/live/mp4:vvtv022/playlist.m3u?CANAISEGFTv
+http://srv-vvtv.sisdera.com.br:1935/live/vvtv023/livestream.m3u8
+#EXTINF:-1 tvg-id="VEM & VÊ TV 3" tvg-logo=" http://i.imgur.com/yIyAemJ.png" group-title="RELIGIOSOS",VEM & VÊ TV 3
+http://srv-vvtv.sisdera.com:1935/live/mp4:vvtv032/playlist.m3u8?CANAISEGFTv
+http://srv-vvtv.sisdera.com.br:1935/live/vvtv033/livestream.m3u8 
+
+####################################################################################################################################################################################################### CANAIS MÚSICAS #####################################
+
+#EXTINF:-1 tvg-id="WEB TV VIA MORENA "tvg-logo="https://bit.ly/2HI4jKZ" group-title="MÚSICAS",WEB TV VIA MORENA 
 http://wowza2.netpoint.com.br/viamorena/live/playlist.m3u8
-
 #EXTINF:-1 tvg-id="HIT TV" tvg-logo="https://goo.gl/PDmTsw" group-title="MÚSICAS",HIT TV
 http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_1.m3u8
-
 #EXTINF:-1 tvg-id="HETRÔ TV" tvg-logo="https://goo.gl/2uPPkn" group-title="MÚSICAS",HETRÔ TV
 http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w125343580.m3u8
 http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w2079984152.m3u8
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_398_av-p.m3u8
-
 #EXTINF:-1 tvg-id="RETRO MUSIC HD"  tvg-logo="https://goo.gl/72OLB7"  group-title="MÚSICAS",RETRO MUSIC HD 
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
-
 #EXTINF:-1 tvg-id="VIA MIDIA TV" tvg-logo="https://goo.gl/1M0606" group-title="MÚSICAS",VIA MIDIA TV 
 http://d3e1993t7xu9fk.cloudfront.net/viamidia/aovivo/playlist.m3u8
-
 #EXTINF:-1 tvg-id="MÚSICAS",HOT MUSIC" tvg-logo="http://s20.postimg.org/55679u6x9/hotmusic.jpg" group-title="MÚSICAS",HOT MUSIC 
 http://wow01.105.net/live/rmc1/playlist.m3u8
-
 #EXTINF:-1 tvg-id="CAPITAL TV HD" tvg-logo="https://goo.gl/m1A2mD"  group-title="MÚSICAS",CAPITAL TV HD 
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://fancystreams.com/channelthumb/radio105.png"  group-title="MÚSICAS", RADIO 105 TV 
 http://fms.105.net:1935/live/105Test1/playlist.m3u8
-
 #EXTINF:-1 tvg-id="DJING HD" tvg-logo="https://goo.gl/fVVy1W"  group-title="MÚSICAS",DJING HD 
 http://www.djing.com/tv/01.m3u8
-
 #EXTINF:-1 tvg-id="CityTV" tvg-logo="https://goo.gl/LVNHOF" group-title="MÚSICAS",CityTV 
 http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8?EGFTv
 http://nodeb.gocaster.net:1935/CGL/_definst_/TODAYFM_TEST2/.m3u8?EGFTv
-
 #EXTINF:-1 tvg-id="G2P TV" tvg-logo="http://www.g2ptv.tv.br/logo.png" group-title="MÚSICAS",G2P TV 
 http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://goo.gl/2PRHj9" group-title="VARIEDADES",NOSSA TV
 http://stmv1.srvstm.com:1935/tvcadm/tvcadm/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://goo.gl/AkSWyu" group-title="VARIEDADES",CANAL RICOS
 http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/playlist.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://goo.gl/ci3gLW" group-title="RELIGIÕES",TV EVANGELIZAR 
 http://tvevangelizar01.crossdigital.com.br:1935/evangelizar/tv/chunklist_w304487034.m3u8
-
 #EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",CBN
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?EGFTv
-
 #EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",CINE FILMES 2
 http://rtmp.one.by:1200?EGFTv
 
@@ -777,105 +798,143 @@ http://cw.tcm10.com.br:80/low/canal10.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-id="" tvg-name="VIVAM WEB TV" tvg-logo="https://goo.gl/DQySJY" group-title="FILMES/SERIES",VIVAM WEB TV
 http://stmv2.euroti.com.br:1935/vivamwebradio/vivamwebradio/live.m3u8?LISTASEGFTv
  
-##################################################################################################### ESPORTE ##########
-#EXTINF:-1 tvg-id="PREMIERE" https://bit.ly/2w1knpE" group-title="FUTEBOL AO VIVO",PREMIERE
-http://aovivo.futeboltv.com:8081/live/2/playlist.m3u8?EGFTv
+###################################################################################################################################################################################################### ESPORTE ###################################
 
-#EXTINF:-1 tvg-id="ESPORTE INTERATIVO" https://goo.gl/g8pL9V" group-title="FUTEBOL AO VIVO",ESPORTE INTERATIVO
+#EXTINF:-1 tvg-id="PREMIERE" https://bit.ly/2w1knpE" group-title="ESPORTE",PREMIERE
+http://aovivo.futeboltv.com:8081/live/2/playlist.m3u8?EGFTv
+#EXTINF:-1 tvg-id="ESPORTE INTERATIVO" https://goo.gl/g8pL9V" group-title="ESPORTE",ESPORTE INTERATIVO
 http://aovivo.futeboltv.com:8081/live/8/playlist.m3u8?EGFTv
-#EXTINF:-1 tvg-id="ALL SPORTS TV "https://goo.gl/owYBNv" group-title="FUTEBOL AO VIVO",ALL SPORTS TV
+#EXTINF:-1 tvg-id="ALL SPORTS TV "https://goo.gl/owYBNv" group-title="ESPORTE",ALL SPORTS TV
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
 http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" https://goo.gl/g8pL9V" group-title="FUTEBOL AO VIVO",FUTEBOL AO VIVO
+#EXTINF:-1 tvg-id="" https://goo.gl/g8pL9V" group-title="ESPORTE",FUTEBOL AO VIVO
 http://aovivo.futeboltv.com:8081/live/3/playlist.m3u8?EGFTv
-
-#EXTINF:-1 tvg-id="ESPN+" https://goo.gl/b9ZJom" group-title="FUTEBOL AO VIVO",ESPN+
+#EXTINF:-1 tvg-id="ESPN+" https://goo.gl/b9ZJom" group-title="ESPORTE",ESPN+
 http://aovivo.futeboltv.com:8081/live/4/playlist.m3u8?EGFTv
-
-#EXTINF:-1 tvg-logo="" group-title="FUTEBOL AO VIVO",ESPORTES PARA TODOS 
+#EXTINF:-1 tvg-logo="" group-title="FUTEBOL AO VIVO",ESPORTE PARA TODOS 
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
-
 #EXTINF:-1 tvg-id="FUTEBOL AO VIVO" https://goo.gl/b9ZJom" group-title="FUTEBOL AO VIVO",FUTEBOL AO VIVO
 http://aovivo.futeboltv.com:8081/live/7/playlist.m3u8?EGFTv
-
-#EXTINF:-1 tvg-id="ESPORTE INTERATIVO" https://goo.gl/g8pL9V" group-title="FUTEBOL AO VIVO",ESPORTE INTERATIVO
+#EXTINF:-1 tvg-id="ESPORTE INTERATIVO" https://goo.gl/g8pL9V" group-title="ESPORTE",ESPORTE INTERATIVO
 http://aovivo.futeboltv.com:8081/live/2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ESPORTE INTERATIVO" https://goo.gl/g8pL9V" group-title="FUTEBOL AO VIVO",ESPORTE INTERATIVO
+#EXTINF:-1 tvg-id="ESPORTE INTERATIVO" https://goo.gl/g8pL9V" group-title="ESPORTE",ESPORTE INTERATIVO
 http://aovivo.futeboltv.com:8081/live/8/playlist.m3u8?EGFTv
-
-#EXTINF:-1 tvg-id="FOX SPORTS 2" https://goo.gl/bsZGDx" group-title="FUTEBOL AO VIVO",FOX SPORTS 2
+#EXTINF:-1 tvg-id="FOX SPORTS 2" https://goo.gl/bsZGDx" group-title="ESPORTE",FOX SPORTS 2
 http://aovivo.futeboltv.com:8081/live/13/playlist.m3u8?EGFTv
-
-#EXTINF:-1 tvg-id="FOX SPORTS 2" https://goo.gl/bsZGDx" group-title="FUTEBOL AO VIVO",FOX SPORTS 2
+#EXTINF:-1 tvg-id="FOX SPORTS 2" https://goo.gl/bsZGDx" group-title="ESPORTE",FOX SPORTS 2
 http://aovivo.futeboltv.com:8081/live/15/playlist.m3u8?EGFTv
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jWBIiym.jpg" group-title="FUTEBOL",SPOR Tv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWBIiym.jpg" group-title="ESPORTE",SPOR Tv
 http://aovivo.futeboltv.com:8081/live/20/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SPOR Tv 2" https://goo.gl/xRH7Ur" group-title="FUTEBOL AO VIVO",SPOR Tv 2
+#EXTINF:-1 tvg-id="SPOR Tv 2" https://goo.gl/xRH7Ur" group-title="ESPORTE",SPOR Tv 2
 http://aovivo.futeboltv.com:8081/live/15/playlist.m3u8?EGFTv
-
-#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://goo.gl/cUvDBc" group-title="FUTEBOL AO VIVO",ESPN
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://goo.gl/cUvDBc" group-title="ESPORTE",ESPN
 http://aovivo.futeboltv.com:8081/live/16/playlist.m3u8?EGFTv
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jWBIiym.jpg" group-title="FUTEBOL AO VIVO",ESPN BRASIL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWBIiym.jpg" group-title="ESPORTE",ESPN BRASIL
 http://aovivo.futeboltv.com:8081/live/19/playlist.m3u8?EGFTv
-
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yuxppt1465900144.png/medium" group-title="FUTEBOL AO VIVO",PORTO CANAL 
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yuxppt1465900144.png/medium" group-title="ESPORTE",PORTO CANAL 
 http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8
-
 #EXTINF:-1 tvg-id="Horse Brasil HD" tvg-logo="https://pbs.twimg.com/profile_images/766731040475996160/TpyEMZUk.jpg" group-title="FUTEBOL AO VIVO",Horse Brasil HD
 http://490636978.r.worldcdn.net/490636978/_definst_/horsebrasil1/playlist.m3u8?EGFTv
-
 #EXTINF:-1 tvg-id="REAL MADRID TV" https://goo.gl/GA9uW7" group-title="FUTEBOL AO VIVO",REAL MADRID TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_0450_av-b.m3u8?sd=10&rebase=on
-
 #EXTINF:-1 tvg-id="GLOBO" tvg-logo="https://goo.gl/kiBUr8" group-title="FUTEBOL AO VIVO",GLOBO
 http://aovivo.futeboltv.com:8081/live/17/playlist.m3u8?EGFTv
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jWBIiym.jpg" group-title="FUTEBOL AO VIVO",COMBATE
 http://aovivo.futeboltv.com:8081/live/18/playlist.m3u8?EGFTv
-
 #EXTINF:-1 tvg-logo="http://s20.postimg.org/meg97lm7h/Horse_Brasil_TV.png" group-title="ESPORTES INTERNACIONAIS",HORSE BRASIL HD 
 http://490636978.r.worldcdn.net/490636978/_definst_/horsebrasil1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://goo.gl/CPN5mJ" group-title="ESPORTES INTERNACIONAIS", SPORT 1 HD 
+#EXTINF:-1 tvg-logo="https://goo.gl/CPN5mJ" group-title="ESPORTE", SPORT 1 HD 
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="ESPORTES INTERNACIONAIS", SPORT 2 HD 
+#EXTINF:-1 tvg-logo="" group-title="ESPORTE", SPORT 2 HD 
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://lut.im/sQatkv4K24/QgdTCYPgaqe7XVwn.jpg" group-title="ESPORTES INTERNACIONAIS", REAL MADRID TV HD 
+#EXTINF:-1 tvg-logo="https://lut.im/sQatkv4K24/QgdTCYPgaqe7XVwn.jpg" group-title="ESPORTE", REAL MADRID TV HD 
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.sportyou.es/blog/wp-content/uploads/2015/09/realmadridtv.jpg" group-title="ESPORTES INTERNACIONAIS",Real Madrid TV SD 
+#EXTINF:-1 tvg-logo="http://www.sportyou.es/blog/wp-content/uploads/2015/09/realmadridtv.jpg" group-title="ESPORTE",Real Madrid TV SD 
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
-
-#EXTINF:-1 tvg-logo="https://goo.gl/lEjmGT" group-title="ESPORTES INTERNACIONAIS",REAL MADRID TV 
+#EXTINF:-1 tvg-logo="https://goo.gl/lEjmGT" group-title="ESPORTE",REAL MADRID TV 
 http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="ESPORTES INTERNACIONAIS",ABU DABI SPORT 1 HD 
+#EXTINF:-1 tvg-logo="" group-title="ESPORTE",ABU DABI SPORT 1 HD 
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?Compartilhandolink
-
 #EXTINF:-1 tvg-logo="" group-title="ESPORTES INTERNACIONAIS",ABU DABI SPORT 2 HD 
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?Compartilhandolink
-
-#EXTINF:-1 tvg-logo="https://goo.gl/RuXf9u" group-title="ESPORTES INTERNACIONAIS", TELPIN 2 HD ARGENTINA 
+#EXTINF:-1 tvg-logo="https://goo.gl/RuXf9u" group-title="ESPORTE", TELPIN 2 HD ARGENTINA 
 http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
-
-#EXTINF:-1 group-title="TV/ESPORTES"tvg-logo="http://i.imgur.com/93lCwGC.png" pltv-subgroup="ESPORTES INTERNACIONAL" ,TSN 
+#EXTINF:-1 group-title="TV/ESPORTES"tvg-logo="http://i.imgur.com/93lCwGC.png" pltv-subgroup="ESPORTE" ,TSN 
 http://wms.shared.streamshow.it/tsn/tsn/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="http://i.imgur.com/yIyAemJ.png" tvg-logo="" group-title="EVANGÉLICOS",VEM E VÊ TV 1 
-http://srv-vvtv.sisdera.com.br:1935/live/vvtv3/livestream.m3u8
+############################################################################################################################################################################################### Sound! ##########################################
 
-#EXTINF:-1 tvg-id="http://i.imgur.com/yIyAemJ.png" tvg-logo="" group-title="EVANGÉLICOS",VEM E VÊ TV 2 
-http://srv-vvtv.sisdera.com.br:1935/live/vvtv023/livestream.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Anos 70 
+http://192.99.150.31:8241/stream?CANAISEGFTv
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Anos 80 
+http://192.99.150.31:8697/stream?CANAISEGFTv
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Anos 90 
+http://192.99.150.31:8056/stream?CANAISEGFTv
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Anos 2000 
+http://6d9a.webradio.upx.net.br:9940/stream?
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Axé
+http://192.99.150.31:8305/stream?CANAISEGFTv
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Bossa Nova 
+http://6d9a.webradio.upx.net.br:9974/stream?CANAISEGFTv
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Brega 
+http://192.99.150.31:9007/stream?CANAISEGFTv
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Eletrônica 
+http://192.99.150.31:9095/stream?CANAISEGFTv
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Festa 
+http://6d9a.webradio.upx.net.br:9070/stream?CANAISEGFTv
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Forró 
+http://192.99.150.31:9019/stream?CANAISEGFTv
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Funk 
+http://192.99.150.31:9089/stream?CANAISEGFTv
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Gospel 
+http://192.99.150.31:9101/stream?CANAISEGFTv
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Hip Hop 
+http://192.99.150.31:8721/stream?CANAISEGFTv
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",HISTORINHA INFANTIL 
+http://192.99.150.31:8371/stream?CANAISEGFTv
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Jazz 
+http://192.99.150.31:8042/stream?CANAISEGFTv
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Kids 
+http://192.99.150.31:9431/stream?CANAISEGFTv
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Lounge 
+http://6d9a.webradio.upx.net.br:9064/stream?CANAISEGFTv
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Metal 
+http://6d9a.webradio.upx.net.br:9898/stream?CANAISEGFTv
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",MPB 
+http://192.99.150.31:8775/stream?CANAISEGFTv
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",MÃºsica ClÃ¡ssica 
+http://6d9a.webradio.upx.net.br:9970/stream?CANAISEGFTv
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",New Rock 
+http://6d9a.webradio.upx.net.br:8028/stream?CANAISEGFTv
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Pagode 
+http://6d9a.webradio.upx.net.br:9061/stream?CANAISEGFTv
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Pop Hits 
+http://6d9a.webradio.upx.net.br:9046/stream?CANAISEGFTv
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Pop Rock 
+http://6d9a.webradio.upx.net.br:8016/stream?CANAISEGFTv
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Rap Nacional 
+http://192.99.150.31:8377/stream?CANAISEGFTv
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Reggae 
+http://192.99.150.31:8715/stream?CANAISEGFTv
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",ROBERTO CARLOS 
+http://192.99.150.31:9137/stream?CANAISEGFTv
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Rock Brasil 
+http://14923.live.streamtheworld.com/CIDADEROCKBRASILAAC?CANAISEGFTv
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Rock ClÃ¡ssico 
+http://192.99.150.31:9125/stream?CANAISEGFTv
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",RomÃ¢nticas 
+http://192.99.150.31:8962/stream?CANAISEGFTv
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Sertanejo 
+http://192.99.150.31:9485/stream?CANAISEGFTv
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Sertanejo UniversitÃ¡rio 
+http://192.99.150.31:9191/stream?CANAISEGFTv
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", STUDIO DO AMOR 
+http://192.99.150.31:8962/stream?CANAISEGFTv
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Trilhas Sonoras 
+http://6d9a.webradio.upx.net.br:9896/stream?CANAISEGFTv
 
-#EXTINF:-1 tvg-id="http://i.imgur.com/yIyAemJ.png" tvg-logo="" group-title="EVANGÉLICOS",VEM E VÊ TV 3 
-http://srv-vvtv.sisdera.com.br:1935/live/vvtv033/livestream.m3u8
+
+################################################################################################################################################################################################### FILMES DUBLADOS ################################################
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,A Noiva do Diabo
 http://nazabox.ddns.net/anddk7.mp4?EGFTv
@@ -1599,7 +1658,7 @@ http://www.blogger.com/video-play.mp4?contentId=c828d47c442419d8
 #EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="DESENHOS",A Formiga Atómica – Episódio 26 – A Mim Você Não Assusta
 http://www.blogger.com/video-play.mp4?contentId=97d2c912aa085d2b
 
-###########################################################################################################################################################  A Turma do Manda Chuva ############       
+########################################################################################################################################################################################################  A Turma do Manda Chuva ############       
 
 #EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="A Turma do Manda Chuva",Episódio 01 – Havaí: A Turma Vem Aí
 http://www.blogger.com/video-play.mp4?contentId=804e7072191f1a6a
@@ -1923,244 +1982,163 @@ http://www.blogger.com/video-play.mp4?contentId=7ccd88b51e4800b
 #EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="A Pantera Cor-de-Rosa",Episódio 129 – A Trilha da Pantera Cor-de-rosa
 http://www.blogger.com/video-play.mp4?contentId=a7a811071ca3ee8
 
-#####################################     DESENHOS     ####################     Bacamarte e Chumbinho ##################################
+##################################################################################################################################################################################################### Bacamarte e Chumbinho ##############################################
 
-#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 01 – Comendo Chumbo 
+#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="Bacamarte e Chumbinho",Episódio 01 – Comendo Chumbo 
 http://www.blogger.com/video-play.mp4?contentId=48f983d20554e79d
-
-#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 02 – Que Mágica Besta 
+#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="Bacamarte e Chumbinho",Episódio 02 – Que Mágica Besta 
 http://www.blogger.com/video-play.mp4?contentId=7a8a533c9a699c6
-
-#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 03 – A Corneta Mágica 
+#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="Bacamarte e Chumbinho",Episódio 03 – A Corneta Mágica 
 http://www.blogger.com/video-play.mp4?contentId=a6b8a0e0e20ff9d5
-
-#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 04 – Instinto Selvagem 
+#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="Bacamarte e Chumbinho",Episódio 04 – Instinto Selvagem 
 http://www.blogger.com/video-play.mp4?contentId=f8821f175478b14b
-
-#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 05 – Um Leão Está A Solta 
+#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="Bacamarte e Chumbinho",Episódio 05 – Um Leão Está A Solta 
 http://www.blogger.com/video-play.mp4?contentId=1aa71898ace1bb38
-
-#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 06 – Vamos Brincar De Guerra? 
+#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="Bacamarte e Chumbinho",Episódio 06 – Vamos Brincar De Guerra? 
 http://www.blogger.com/video-play.mp4?contentId=db6fbe38e855e5d
-
-#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 07 – Vendo, Mas Não Acreditando 
+#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="Bacamarte e Chumbinho",Episódio 07 – Vendo, Mas Não Acreditando 
 http://www.blogger.com/video-play.mp4?contentId=2fdca51fe76059ec
-
-#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 08 – O Incentivo 
+#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="Bacamarte e Chumbinho",Episódio 08 – O Incentivo 
 http://www.blogger.com/video-play.mp4?contentId=54f28ffe8b229191
-
-#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 09 – A Faca De Dois Gumes 
+#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="Bacamarte e Chumbinho",Episódio 09 – A Faca De Dois Gumes 
 http://www.blogger.com/video-play.mp4?contentId=9fffa4b7b6948646
-
-#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 11 – O Dia Do Pugilato 
+#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="Bacamarte e Chumbinho",Episódio 11 – O Dia Do Pugilato 
 http://www.blogger.com/video-play.mp4?contentId=f32247a4c0f9b173
-
-#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 12 – O Pula-Pula 
+#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="Bacamarte e Chumbinho",Episódio 12 – O Pula-Pula 
 http://www.blogger.com/video-play.mp4?contentId=83c474defd658d45
-
-#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 13 – Agora é O Urso 
+#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="Bacamarte e Chumbinho",Episódio 13 – Agora é O Urso 
 http://www.blogger.com/video-play.mp4?contentId=42ca1bc072b4f9da
-
-#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 14 – A Lenda De Bat Raterson 
+#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="Bacamarte e Chumbinho",Episódio 14 – A Lenda De Bat Raterson 
 http://www.blogger.com/video-play.mp4?contentId=b6fa5b6df9532b3a
-
-#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 15 – Super Drooper 
+#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="Bacamarte e Chumbinho",Episódio 15 – Super Drooper 
 http://www.blogger.com/video-play.mp4?contentId=115fe657efd93f03
-
-#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 16 – A Pílula Da Força 
+#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="Bacamarte e Chumbinho",Episódio 16 – A Pílula Da Força 
 http://www.blogger.com/video-play.mp4?contentId=6bfbae9b50c39196
-
-#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 18 – Sociedade Protetora Dos Ratos 
+#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="Bacamarte e Chumbinho",Episódio 18 – Sociedade Protetora Dos Ratos 
 http://www.blogger.com/video-play.mp4?contentId=a05f1a8827331299
-
-#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 19 – Fantasma De Araque 
+#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="Bacamarte e Chumbinho",Episódio 19 – Fantasma De Araque 
 http://www.blogger.com/video-play.mp4?contentId=1d01d9f65da60002
-
-#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 20 – Sua Majestate O Rato 
+#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="Bacamarte e Chumbinho",Episódio 20 – Sua Majestate O Rato 
 http://www.blogger.com/video-play.mp4?contentId=934153d302a2afeb
-
-#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 22 – O Médico E O Mostro 
+#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="Bacamarte e Chumbinho",Episódio 22 – O Médico E O Mostro 
 http://www.blogger.com/video-play.mp4?contentId=3456d7bd61216a61
+#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="Bacamarte e Chumbinho",Episódio 23 – O Cozinheiro Sem Sorte
 
-#EXTINF:-1 tvg-logo="https://goo.gl/EaDaXW" group-title="DESENHOS",Bacamarte e Chumbinho – Episódio 23 – O Cozinheiro Sem Sorte
+################################################################################################################################################################################################### Dom Pixote #############################
 
-##################### 1ª Temporada ############## DESENHOS ###################### Dom Pixote #############################
-
-#EXTINF:-1 tvg-logo="https://goo.gl/F582mp group-title="DESENHOS",Episódio 01 - Dom Pixote Atende O Pequenino Willie 
+#EXTINF:-1 tvg-logo="https://goo.gl/F582mp group-title="Dom Pixote Atende",Episódio 01 - O Pequenino Willie 
 http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP01.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 02 - Pixote Coração de Leão
+#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="Dom Pixote Atende",Episódio 02 - Pixote Coração de Leão
 http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP02.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 03 - Caçador Complicado 
+#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="Dom Pixote Atende",Episódio 03 - Caçador Complicado 
 http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP03.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 04 - Sr. Dom Pixote 
+#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="Dom Pixote Atende",Episódio 04 - Sr. Dom Pixote 
 http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP04.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 05 - Sheriff Pixote 
+#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="Dom Pixote Atende",Episódio 05 - Sheriff Pixote 
 http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP05.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 06 - Pixote Ladrão de Pessoa
+#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="Dom Pixote Atende",Episódio 06 - Pixote Ladrão de Pessoa
 http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP06.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 07 - Patrulha da Estrada 
+#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="Dom Pixote Atende",Episódio 07 - Patrulha da Estrada 
 http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP07.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 08 - Pixote Pau-de-rabisco 
+#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="Dom Pixote Atende",Episódio 08 - Pixote Pau-de-rabisco 
 http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP08.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 09 - Dois Corvos Brega 
+#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="Dom Pixote Atende",Episódio 09 - Dois Corvos Brega 
 http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP09.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 10 - Pixote Bombeiro 
+#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="Dom Pixote Atende",Episódio 10 - Pixote Bombeiro 
 http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP10.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 11 - Pixote Matador de Dragão 
+#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="Dom Pixote Atende",Episódio 11 - Pixote Matador de Dragão 
 http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP11.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 12 - Fisguei Daze 
+#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="Dom Pixote Atende",Episódio 12 - Fisguei Daze 
 http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP12.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 13 - Problemas de Mosquito
+#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="Dom Pixote Atende",Episódio 13 - Problemas de Mosquito
 http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP13.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 14 - Pastor de Ovelhas-forma 
+#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="Dom Pixote Atende",Episódio 14 - Pastor de Ovelhas-forma 
 http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP14.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 15 - Dom Churrasco 
+#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="Dom Pixote Atende",Episódio 15 - Dom Churrasco 
 http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP15.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 16 - Hokum Smokum 
+#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="Dom Pixote Atende",Episódio 16 - Hokum Smokum 
 http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP16.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 17 - Pássaro Casa Blues 
+#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="Dom Pixote Atende",Episódio 17 - Pássaro Casa Blues 
 http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP17.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 18 - Pânico de Carteiro 
+#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="Dom Pixote Atende",Episódio 18 - Pânico de Carteiro 
 http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP18.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 19 - De Ski Champ Chump 
+#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="Dom Pixote Atende",Episódio 19 - De Ski Champ Chump 
 http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP19.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 20 - Pixote Domador de Leão 
+#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="Dom Pixote Atende",Episódio 20 - Pixote Domador de Leão 
 http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP20.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS", Episódio 21 - Pixote Pouca Equitação Vermelha
+#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="Dom Pixote Atende", Episódio 21 - Pixote Pouca Equitação Vermelha
 http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP21.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 22 - O Cupim Pouco Duro
+#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="Dom Pixote Atende",Episódio 22 - O Cupim Pouco Duro
 http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP22.mp4
-
-############################ 2ª Temporada ############# DESENHOS ############# Dom Pixote ######################### 
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 23 - Beco de Dez Pinos 
+#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="Dom Pixote Atende",Episódio 23 - Beco de Dez Pinos 
 http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP23.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 24 - Triste Peregrino 
+#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="Dom Pixote Atende",Episódio 24 - Triste Peregrino 
 http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP24.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 25 - O Jolly Roger de Saída 
+#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="Dom Pixote Atende",Episódio 25 - O Jolly Roger de Saída 
 http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP25.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 26 - Do Alguém Leão 
+#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="Dom Pixote Atende",Episódio 26 - Do Alguém Leão 
 http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP26.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 27 - Um Cão de Bully 
+#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="Dom Pixote Atende",Episódio 27 - Um Cão de Bully 
 http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP27.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 28 - Nottingham e Yeggs 
+#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="Dom Pixote Atende",Episódio 28 - Nottingham e Yeggs 
 http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP28.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 29 - Pixote, O Gigante Assassino 
+#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="Dom Pixote Atende",Episódio 29 - Pixote, O Gigante Assassino 
 http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP20.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 30 - Policial e Pires 
+#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="Dom Pixote Atende",Episódio 30 - Policial e Pires 
 http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP30.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 31 - Pixote Menino Pônei 
+#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="Dom Pixote Atende",Episódio 31 - Pixote Menino Pônei 
 http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP31.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 32 - Veterinário do Animal de Estimação
+#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="Dom Pixote Atende",Episódio 32 - Veterinário do Animal de Estimação
 http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP32.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 33 - Piccadilly Dilly 
+#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="Dom Pixote Atende",Episódio 33 - Piccadilly Dilly 
 http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP33.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 34 - Pixote Wiki Waki 
+#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="Dom Pixote Atende",Episódio 34 - Pixote Wiki Waki 
 http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP34.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 35 - Hack do Pixote 
+#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="Dom Pixote Atende",Episódio 35 - Hack do Pixote 
 http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP35.mp4
-
-######################################### 3ª Temporada ############# DESENHOS ############# Dom Pixote ######################### 
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 36 - Spud Dud 
+#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="Dom Pixote Atende",Episódio 36 - Spud Dud 
 http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP36.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 37 - Dom Legião Vinculado
+#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="Dom Pixote Atende",Episódio 37 - Dom Legião Vinculado
 http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP37.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 38 - Fricção Científica 
+#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="Dom Pixote Atende",Episódio 38 - Fricção Científica 
 http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP38.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="DESENHOS",Episódio 39 - Louca com Vira-latas 
+#EXTINF:-1 tvg-logo="https://goo.gl/GSxkwR" group-title="Dom Pixote Atende",Episódio 39 - Louca com Vira-latas 
 http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP39.mp4
-
 #EXTINF:-1 tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Dom Pixote - Episódio 40 -Escola de Cavaleiro
 http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP40.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Dom Pixote - Episódio 41 - Conto do Dom Pixote 
+#EXTINF:-1 tvg-logo="https://goo.gl/F582mp" group-title="Dom Pixote Atende",Dom Pixote - Episódio 41 - Conto do Dom Pixote 
 http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP41.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Dom Pixote - Episódio 42 - O Vingador Desmascarado 
+#EXTINF:-1 tvg-logo="https://goo.gl/F582mp" group-title="Dom Pixote Atende",Dom Pixote - Episódio 42 - O Vingador Desmascarado 
 http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP42.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Dom Pixote - Episódio 43 - Pixote Caipira
+#EXTINF:-1 tvg-logo="https://goo.gl/F582mp" group-title="Dom Pixote Atende",Dom Pixote - Episódio 43 - Pixote Caipira
 http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP43.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Dom Pixote - Episódio 44 - Pixote Arma Rápido 
+#EXTINF:-1 tvg-logo="https://goo.gl/F582mp" group-title="Dom Pixote Atende",Dom Pixote - Episódio 44 - Pixote Arma Rápido 
 http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP44.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Dom Pixote - Episódio 45 - Astro-porca Pixote
+#EXTINF:-1 tvg-logo="https://goo.gl/F582mp" group-title="Dom Pixote Atende",Dom Pixote - Episódio 45 - Astro-porca Pixote
 http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP45.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Dom Pixote - Episódio 46 - Pixote e Escada 
+#EXTINF:-1 tvg-logo="https://goo.gl/F582mp" group-title="Dom Pixote Atende",Dom Pixote - Episódio 46 - Pixote e Escada 
 http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP46.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Dom Pixote - Episódio 47 - Lawman Pixote
+#EXTINF:-1 tvg-logo="https://goo.gl/F582mp" group-title="Dom Pixote Atende",Dom Pixote - Episódio 47 - Lawman Pixote
 http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP47.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Dom Pixote - Episódio 48 - Cluck e Punhal
+#EXTINF:-1 tvg-logo="https://goo.gl/F582mp" group-title="Dom Pixote Atende",Dom Pixote - Episódio 48 - Cluck e Punhal
 http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP48.mp4
-
-###################################4ª Temporada ############# DESENHOS ############# Dom Pixote ######################### 
-
-#EXTINF:-1 tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Dom Pixote - Episódio 49 - Homem das Cavernas Pixote 
+#EXTINF:-1 tvg-logo="https://goo.gl/F582mp" group-title="Dom Pixote Atende",Dom Pixote - Episódio 49 - Homem das Cavernas Pixote 
 http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP49.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Desenhos Dom Pixote - Episódio 50 - Pixote dos Irlandeses
+#EXTINF:-1 tvg-logo="https://goo.gl/F582mp" group-title="Dom Pixote Atende",Desenhos Dom Pixote - Episódio 50 - Pixote dos Irlandeses
 http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP50.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Dom Pixote - Episódio 51 - Grande Confusão na Selva 
+#EXTINF:-1 tvg-logo="https://goo.gl/F582mp" group-title="Dom Pixote Atende",Dom Pixote - Episódio 51 - Grande Confusão na Selva 
 http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP51.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Dom Pixote - Episódio 52 - Pixote Toureiro 
+#EXTINF:-1 tvg-logo="https://goo.gl/F582mp" group-title="Dom Pixote Atende",Dom Pixote - Episódio 52 - Pixote Toureiro 
 http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP52.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Dom Pixote - Episódio 53 - Ben Pixote 
+#EXTINF:-1 tvg-logo="https://goo.gl/F582mp" group-title="Dom Pixote Atende",Dom Pixote - Episódio 53 - Ben Pixote 
 http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP53.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Dom Pixote - Episódio 54 - Pixote em Paris 
+#EXTINF:-1 tvg-logo="https://goo.gl/F582mp" group-title="Dom Pixote Atende",Dom Pixote - Episódio 54 - Pixote em Paris 
 http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP54.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Dom Pixote - Episódio 55 - Barras e Listras 
+#EXTINF:-1 tvg-logo="https://goo.gl/F582mp" group-title="Dom Pixote Atende",Dom Pixote - Episódio 55 - Barras e Listras 
 http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP55.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Dom Pixote - Episódio 56 - O Homem Scrubby Brush
+#EXTINF:-1 tvg-logo="https://goo.gl/F582mp" group-title="Dom Pixote Atende",Dom Pixote - Episódio 56 - O Homem Scrubby Brush
 http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP56.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/F582mp" group-title="DESENHOS",Dom Pixote - Episódio 57 Dois para Tee Vee
+#EXTINF:-1 tvg-logo="https://goo.gl/F582mp" group-title="Dom Pixote Atende",Dom Pixote - Episódio 57 Dois para Tee Vee
 http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer09/ondemand/DMPXTEP57.mp4
 
 
@@ -2838,106 +2816,3 @@ http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer12/ondemand
 #EXTINF:-1 tvg-logo="https://goo.gl/jGM2GR group-title="SÉRIES",Episódio 09 - Atrás dos Olhos
 http://d2ffn9f9wdgeuu.redecanais.video/RedeCanais/RedeCanais/RCServer12/ondemand/PRBKT05EP09.mp4
 
-################################################## Sound! ######################
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Anos 70 
-http://192.99.150.31:8241/stream?
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Anos 80 
-http://192.99.150.31:8697/stream?
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Anos 90 
-http://192.99.150.31:8056/stream?
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Anos 2000 
-http://6d9a.webradio.upx.net.br:9940/stream?
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Axé
-http://192.99.150.31:8305/stream?
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Bossa Nova 
-http://6d9a.webradio.upx.net.br:9974/stream?
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Brega 
-http://192.99.150.31:9007/stream?
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Eletrônica 
-http://192.99.150.31:9095/stream?
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Festa 
-http://6d9a.webradio.upx.net.br:9070/stream?
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Forró 
-http://192.99.150.31:9019/stream?
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Funk 
-http://192.99.150.31:9089/stream?
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Gospel 
-http://192.99.150.31:9101/stream?
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Hip Hop 
-http://192.99.150.31:8721/stream?
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",HISTORINHA INFANTIL 
-http://192.99.150.31:8371/stream?
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Jazz 
-http://192.99.150.31:8042/stream?
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Kids 
-http://192.99.150.31:9431/stream?
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Lounge 
-http://6d9a.webradio.upx.net.br:9064/stream?
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Metal 
-http://6d9a.webradio.upx.net.br:9898/stream?
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",MPB 
-http://192.99.150.31:8775/stream?
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",MÃºsica ClÃ¡ssica 
-http://6d9a.webradio.upx.net.br:9970/stream?
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",New Rock 
-http://6d9a.webradio.upx.net.br:8028/stream?
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Pagode 
-http://6d9a.webradio.upx.net.br:9061/stream?
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Pop Hits 
-http://6d9a.webradio.upx.net.br:9046/stream?
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Pop Rock 
-http://6d9a.webradio.upx.net.br:8016/stream?
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Rap Nacional 
-http://192.99.150.31:8377/stream?
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Reggae 
-http://192.99.150.31:8715/stream?
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",ROBERTO CARLOS 
-http://192.99.150.31:9137/stream?
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Rock Brasil 
-http://14923.live.streamtheworld.com/CIDADEROCKBRASILAAC?
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Rock ClÃ¡ssico 
-http://192.99.150.31:9125/stream?
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",RomÃ¢nticas 
-http://192.99.150.31:8962/stream?
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Sertanejo 
-http://192.99.150.31:9485/stream?
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Sertanejo UniversitÃ¡rio 
-http://192.99.150.31:9191/stream?
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", STUDIO DO AMOR 
-http://192.99.150.31:8962/stream?
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Trilhas Sonoras 
-http://6d9a.webradio.upx.net.br:9896/stream?
