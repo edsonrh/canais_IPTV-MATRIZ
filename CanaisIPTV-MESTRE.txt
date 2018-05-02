@@ -3116,7 +3116,7 @@ http://stream2.fastcdn.me/flv/456.mp4?CANAISGLAU
 http://stream2.fastcdn.me/flv/451.mp4?CANAISGLAU
 #EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS PORNO",STREAM 08
 http://stream2.fastcdn.me/flv/422.mp4?CANAISGLAU
-#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOSPORNO",STREAM 09
+#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS PORNO",STREAM 09
 http://stream2.fastcdn.me/flv/414.mp4?CANAISGLAU
 #EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS PORNO",STREAM 10
 http://stream2.fastcdn.me/flv/416.mp4?CANAISGLAU
@@ -3158,85 +3158,85 @@ http://stream2.fastcdn.me/flv/336.mp4?CANAISGLAU
 http://stream2.fastcdn.me/flv/333.mp4?CANAISGLAU
 #EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS PORNO",STREAM 29
 http://stream2.fastcdn.me/flv/326.mp4?CANAISGLAU
-#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOSPORNO",STREAM 30
+#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS PORNO",STREAM 30
 http://stream2.fastcdn.me/flv/322.mp4?CANAISGLAU
-#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS",STREAM 31
+#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS PORNO",STREAM 31
 http://stream2.fastcdn.me/flv/318.mp4?CANAISGLAU
-#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS",STREAM 32
+#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS PORNO",STREAM 32
 http://stream2.fastcdn.me/flv/316.mp4?CANAISGLAU
-#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS",STREAM 33
+#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS PORNO",STREAM 33
 http://stream2.fastcdn.me/flv/308.mp4?CANAISGLAU
-#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS",STREAM 34
+#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS PORNO",STREAM 34
 http://stream2.fastcdn.me/flv/311.mp4?CANAISGLAU
-#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS",STREAM 35
+#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS PORNO",STREAM 35
 http://stream2.fastcdn.me/flv/310.mp4?CANAISGLAU
-#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS",STREAM 36
+#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS PORNO",STREAM 36
 http://stream2.fastcdn.me/flv/301.mp4?CANAISGLAU
-#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS",STREAM 37
+#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS PORNO",STREAM 37
 http://stream2.fastcdn.me/flv/303.mp4?CANAISGLAU
-#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS",STREAM 38
+#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS PORNO",STREAM 38
 http://stream2.fastcdn.me/flv/299.mp4?CANAISGLAU
-#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS",STREAM 39
+#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS PORNO",STREAM 39
 http://stream2.fastcdn.me/flv/293.mp4?CANAISGLAU
-#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS",STREAM 40
+#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS PORNO",STREAM 40
 http://stream2.fastcdn.me/flv/291.mp4?CANAISGLAU
-#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS",STREAM 41
+#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS PORNO",STREAM 41
 http://stream2.fastcdn.me/flv/280.mp4?CANAISGLAU
-#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS",STREAM 42
+#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS PORNO",STREAM 42
 http://stream2.fastcdn.me/flv/283.mp4?CANAISGLAU
-#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS",STREAM 43
+#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS PORNO",STREAM 43
 http://stream2.fastcdn.me/flv/282.mp4?CANAISGLAU
-#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS",STREAM 44
+#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS PORNO",STREAM 44
 http://stream2.fastcdn.me/flv/281.mp4?CANAISGLAU
-#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS",STREAM 45
+#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS PORNO",STREAM 45
 http://stream2.fastcdn.me/flv/279.mp4?CANAISGLAU
-#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS",STREAM 46
+#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS PORNO",STREAM 46
 http://stream2.fastcdn.me/flv/275.mp4?CANAISGLAU
-#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS",STREAM 47
+#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS PORNO",STREAM 47
 http://stream2.fastcdn.me/flv/273.mp4?CANAISGLAU
-#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS",STREAM 48
+#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS PORNO",STREAM 48
 http://stream2.fastcdn.me/flv/269.mp4?CANAISGLAU
-#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS",STREAM 49
+#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS PORNO",STREAM 49
 http://stream2.fastcdn.me/flv/268.mp4?CANAISGLAU
-#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS",STREAM 50
+#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS PORNO",STREAM 50
 http://stream2.fastcdn.me/flv/271.mp4?CANAISGLAU
-#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS",STREAM 51
+#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS PORNO",STREAM 51
 http://stream2.fastcdn.me/flv/267.mp4?CANAISGLAU
-#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS",STREAM 52
+#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS PORNO",STREAM 52
 http://stream2.fastcdn.me/flv/266.mp4?CANAISGLAU
-#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS",STREAM 53
+#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS PORNO",STREAM 53
 http://stream2.fastcdn.me/flv/265.mp4?CANAISGLAU
-#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS",STREAM 54
+#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS PORNO",STREAM 54
 http://stream2.fastcdn.me/flv/264.mp4?CANAISGLAU
-#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS",STREAM 55
+#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS PORNO",STREAM 55
 http://stream2.fastcdn.me/flv/262.mp4?CANAISGLAU
-#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS",STREAM 56
+#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS PORNO",STREAM 56
 http://stream2.fastcdn.me/flv/261.mp4?CANAISGLAU
-#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS",STREAM 57
+#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS PORNO",STREAM 57
 http://stream2.fastcdn.me/flv/259.mp4?CANAISGLAU
-#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS",STREAM 58
+#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS PORNO",STREAM 58
 http://stream2.fastcdn.me/flv/260.mp4?CANAISGLAU
-#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS",STREAM 59
+#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS PORNO",STREAM 59
 http://stream2.fastcdn.me/flv/256.mp4?CANAISGLAU
-#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS",STREAM 60
+#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS PORNO",STREAM 60
 http://stream2.fastcdn.me/flv/254.mp4?CANAISGLAU
-#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS",STREAM 61
+#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS PORNO",STREAM 61
 http://stream2.fastcdn.me/flv/251.mp4?CANAISGLAU
-#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS",STREAM 62
+#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS PORNO",STREAM 62
 http://stream2.fastcdn.me/flv/249.mp4?CANAISGLAU
-#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS",STREAM 63
+#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS PORNO",STREAM 63
 http://stream2.fastcdn.me/flv/248.mp4?CANAISGLAU
-#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS",STREAM 64
+#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS PORNO",STREAM 64
 http://stream2.fastcdn.me/flv/227.mp4?CANAISGLAU
-#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS",STREAM 65
+#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS PORNO",STREAM 65
 http://stream2.fastcdn.me/flv/214.mp4?CANAISGLAU
-#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS",STREAM 66
+#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS PORNO",STREAM 66
 http://stream2.fastcdn.me/flv/216.mp4?CANAISGLAU
-#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS",STREAM 67
+#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS PORNO",STREAM 67
 http://stream2.fastcdn.me/flv/210.mp4?CANAISGLAU
-#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS",STREAM 68
+#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS PORNO",STREAM 68
 http://stream2.fastcdn.me/flv/200.mp4?CANAISGLAU
-#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS",STREAM 69
+#EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS PORNO",STREAM 69
 http://stream2.fastcdn.me/flv/199.mp4?CANAISGLAU
 #EXTINF:1 tvg-logo="https://goo.gl/hZkcea" group-title="VIDEOS PORNO",STREAM 70
 http://stream2.fastcdn.me/flv/197.mp4?CANAISGLAU
@@ -3248,11 +3248,11 @@ http://stream2.fastcdn.me/flv/195.mp4?CANAISEGFTv
 http://stream2.fastcdn.me/flv/193.mp4?CANAISEGFTv
 
 #EXTINF:1 tvg-logo="https://goo.gl/5y5XyJ" group-title="VIDEOS PORNO",Video 01
-http://img5.younggirlstube.com/scj/thumbs/galleries/7/184/0_772.flv?CANAISGLAU
+http://img5.younggirlstube.com/scj/thumbs/galleries/7/184/0_772.flv?CANAISEGFTv
 #EXTINF:1 tvg-logo="https://goo.gl/5y5XyJ" group-title="VIDEOS PORNO",Video 02
-http://content2.sexforsure.com/2013/07/02/12/Video.mp4?CANAISGLAU
+http://content2.sexforsure.com/2013/07/02/12/Video.mp4?CANAISEGFTv
 #EXTINF:1 tvg-logo="https://goo.gl/5y5XyJ" group-title="VIDEOS PORNO",Video 03
-http://content2.sexforsure.com/2013/07/03/3/Video.mp4?CANAISGLAU
+http://content2.sexforsure.com/2013/07/03/3/Video.mp4?CANAISEGFTv
 #EXTINF:1 tvg-logo="https://goo.gl/5y5XyJ" group-title="VIDEOS PORNO",Video 04
 http://content2.sexforsure.com/2013/07/02/18/Video.mp4?CANAISGLAU
 #EXTINF:1 tvg-logo="https://goo.gl/5y5XyJ" group-title="VIDEOS PORNO",Video 05
