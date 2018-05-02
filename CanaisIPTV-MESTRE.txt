@@ -885,76 +885,24 @@ http://wms.shared.streamshow.it/tsn/tsn/chunklist.m3u8
 
 ################################################################################################################################################################################# DOCUMENTÁRIOS HISTORY ####################################################################
 
-#EXTINF:-1 tvg-logo="https://goo.gl/7m75SA" group-title="DOCUMENTÁRIOS", Vietnã- Os Arquivos Perdidos (ep.1 - O Início)
-http://proxy-17.nyc.dailymotion.com/sec(xddf04241ef9e5fd46dbe33b5a867360)/video/755/536/265635557_mp4_h264_aac_ld.m3u8?LISTASGLAU
-
-#EXTINF:-1 tvg-logo="https://goo.gl/7m75SA" group-title="DOCUMENTÁRIOS", Vietnã - Os arquivos Perdidos (ep.2)
-http://proxy-22.nyc.dailymotion.com/sec(xeacd1ffd2c56d9fb40e4b7f5a867360)/video/141/248/163842141_mp4_h264_aac_ld.m3u8?LISTASGLAU
-
-#EXTINF:-1 tvg-logo="https://goo.gl/7m75SA" group-title="DOCUMENTÁRIOS", Vietnã - Os Arquivos Perdidos (ep.3)
-http://proxy-01.nyc.dailymotion.com/sec(x3f6bcd63c86b3b682c1be515a867360)/video/549/047/164740945_mp4_h264_aac_ld.m3u8?LISTASGLAU
-
-#EXTINF:-1 tvg-logo="https://goo.gl/7m75SA" group-title="DOCUMENTÁRIOS", Vietnã - Os Arquivos perdidos (ep.4 - GUERRA DE MUDANÇA)
-https://proxy-12.nyc.dailymotion.com/sec(x4a70e102ed1964078f54fd55ab88c60)/video/816/873/172378618_mp4_h264_aac_ld.m3u8?LISTASGLAU
-
-#EXTINF:-1 tvg-logo="https://goo.gl/7m75SA" group-title="DOCUMENTÁRIOS", FANTASMAS DA HISTÓRIA - Os Crimes do Açougueiro
-http://proxy-01.nyc.dailymotion.com/sec(x663762040abb58982cc66935a867360)/video/329/495/265594923_mp4_h264_aac_hq.m3u8?LISTASGLAU
-
-#EXTINF:-1 tvg-logo="https://goo.gl/7m75SA" group-title="DOCUMENTÁRIOS", Fantasmas da História - H.H. HOLMES
-http://proxy-06.nyc.dailymotion.com/sec(x288d2ab45faa66ec04c7cf25a867360)/video/711/733/202337117_mp4_h264_aac_hq.m3u8?LISTASGLAU
-
-#EXTINF:-1 tvg-logo="https://goo.gl/7m75SA" group-title="DOCUMENTÁRIOS", UNIDOS PELA HISTÓRIA - O Lado Obscuro
-http://proxy-16.nyc.dailymotion.com/sec(x7dccd0b96f596c88d6888a85a867360)/video/987/442/202244789_mp4_h264_aac_hq.m3u8?LISTASGLAU
-
-#EXTINF:-1 tvg-logo="https://goo.gl/7m75SA" group-title="DOCUMENTÁRIOS", IRONIAS DA HISTÓRIA - Fidel Castro e Etc...
-http://proxy-09.nyc.dailymotion.com/sec(x133b027987f8c953a500d895a867360)/video/293/723/200327392_mp4_h264_aac_hq.m3u8?LISTASGLAU
-
-#EXTINF:-1 tvg-logo="https://goo.gl/7m75SA" group-title="DOCUMENTÁRIOS", AS CHACINAS DE MASON
-http://proxy-04.nyc.dailymotion.com/sec(x6c88e633bee8098ffaa77345a867360)/video/304/923/183329403_mp4_h264_aac_hq.m3u8?LISTASGLAU
-
-#EXTINF:-1 tvg-logo="https://goo.gl/7m75SA" group-title="DOCUMENTÁRIOS", O Violino Perdido do Titanic
-http://proxy-12.nyc.dailymotion.com/sec(x2a7b117b53f957c7675a1ee5a867360)/video/123/793/197397321_mp4_h264_aac_hq.m3u8?LISTASGLAU
-
-#EXTINF:-1 tvg-logo="https://goo.gl/7m75SA" group-title="DOCUMENTÁRIOS", DIREITOS CIVIS (Segregação Racial)
-http://proxy-20.nyc.dailymotion.com/sec(xa9e94cf00504981f5a72d1d5a867360)/video/438/013/202310834_mp4_h264_aac_hq.m3u8?LISTASGLAU
-
-#EXTINF:-1 tvg-logo="https://goo.gl/7m75SA" group-title="DOCUMENTÁRIOS", HISTÓRIA SECRETA - Madri
-http://proxy-06.nyc.dailymotion.com/sec(x183bbefe591330bbb0871035a867360)/video/025/133/197331520_mp4_h264_aac_hq.m3u8?LISTASGLAU
-
-#EXTINF:-1 tvg-logo="https://goo.gl/7m75SA" group-title="DOCUMENTÁRIOS", HISTÓRIA DE LAS VEGAS
-http://proxy-06.nyc.dailymotion.com/sec(x06affbacc5e688b64caa3385a867360)/video/773/306/184603377_mp4_h264_aac_hq.m3u8?LISTASGLAU
-
-#EXTINF:-1 tvg-logo="https://goo.gl/7m75SA" group-title="DOCUMENTÁRIOS", O Cérebro de John F. Kennedy
-http://proxy-22.nyc.dailymotion.com/sec(x4a371bf3fcfa32716344fe25a867360)/video/140/603/183306041_mp4_h264_aac_hq.m3u8?LISTASGLAU
-
-#EXTINF:-1 tvg-logo="https://goo.gl/7m75SA" group-title="DOCUMENTÁRIOS", CARMEM NA AMÉRICA
-http://proxy-09.nyc.dailymotion.com/sec(x65aeeecfda570d1ab37523e5a871c20)/video/520/574/135475025_mp4_h264_aac_ld.m3u8?LISTASGLAU
-
-#EXTINF:-1 tvg-logo="https://goo.gl/7m75SA" group-title="DOCUMENTÁRIOS", O SIGILO DA MÁFIA
-http://proxy-06.nyc.dailymotion.com/sec(x3426a38a5a7f950b0433ad65a871c20)/video/125/359/154953521_mp4_h264_aac_hq.m3u8?LISTASGLAU
-
 #EXTINF:-1 tvg-logo="https://goo.gl/vVrVvA" group-title="DOCUMENTÁRIOS HISTORY",  Terceiro Reich: Ascensão
-http://archive.org/download/Terceiro.Reich.Ascensao.e.Queda/Terceiro%20Reich%20-%20A%20Ascens%c3%a3o.mp4?CANAISGLAU
+http://archive.org/download/Terceiro.Reich.Ascensao.e.Queda/Terceiro%20Reich%20-%20A%20Ascens%c3%a3o.mp4?CANAISEGFTv
 
 #EXTINF:-1 tvg-logo="https://goo.gl/vVrVvA" group-title="DOCUMENTÁRIOS HISTORY",  Terceiro Reich: Queda
-http://archive.org/download/Terceiro.Reich.Ascensao.e.Queda/Terceiro%20Reich%20-%20A%20Queda.mp4?CANAISGLAU
+http://archive.org/download/Terceiro.Reich.Ascensao.e.Queda/Terceiro%20Reich%20-%20A%20Queda.mp4?CANAISEGFTv
 
 #EXTINF:-1 tvg-logo="https://goo.gl/vVrVvA" group-title="DOCUMENTÁRIOS HISTORY",   Pesos Pesados Os Reis Do Ringue
-http://ia601506.us.archive.org/15/items/PesosPesadosOsReisDoRingue/Pesos%20Pesados%20-%20Os%20Reis%20do%20Ringue.mp4?CANAISGLAU
+http://ia601506.us.archive.org/15/items/PesosPesadosOsReisDoRingue/Pesos%20Pesados%20-%20Os%20Reis%20do%20Ringue.mp4?CANAISEGFTv
 
-#EXTINF:-1 tvg-logo="https://goo.gl/vVrVvA" group-title="DOCUMENTÁRIOS HISTORY",   Febre de Futebol - O Melhor da História do Futebol
-http://archive.org/download/Febre.de.Futebol/Febre.de.Futebol.O.Melhor.da.Historia.do.Futebol.Copas.1904.a.2004.WebRip.mp4?CANAISGLAU
 
 #EXTINF:-1 tvg-logo="https://goo.gl/vVrVvA" group-title="DOCUMENTÁRIOS HISTORY",   Além dos limites humanos - hipoxia
-http://archive.org/download/AlemDosLimitesHumanosDubladoDocumentario/02%20-%20Frio%5bmvm%5d.mp4?CANAISGLAU
+http://archive.org/download/AlemDosLimitesHumanosDubladoDocumentario/02%20-%20Frio%5bmvm%5d.mp4?CANAISEGFTv
 
 #EXTINF:-1 tvg-logo="https://goo.gl/vVrVvA" group-title="DOCUMENTÁRIOS HISTORY",  Além dos limites humanos -frio
-http://archive.org/download/AlemDosLimitesHumanosDubladoDocumentario/01%20-%20Hipoxia%5bmvm%5d.mp4?CANAISGLAU
+http://archive.org/download/AlemDosLimitesHumanosDubladoDocumentario/01%20-%20Hipoxia%5bmvm%5d.mp4?CANAISEGFTv
 
 #EXTINF:-1 tvg-logo="https://goo.gl/vVrVvA" group-title="DOCUMENTÁRIOS HISTORY",  Além dos limites humanos -tempo
-http://archive.org/download/AlemDosLimitesHumanosDubladoDocumentario/03%20-%20Tempo%5bmvm%5d.mp4?CANAISGLAU
-
-
+http://archive.org/download/AlemDosLimitesHumanosDubladoDocumentario/03%20-%20Tempo%5bmvm%5d.mp4?CANAISEGFTv
 
 #EXTINF:-1 tvg-logo="https://goo.gl/vVrVvA" group-title="DOCUMENTÁRIOS HISTORY",  Telescópio O universo revelado
 http://archive.org/download/Telescopio-2016/TELESC%c3%93PIO%20-%20O%20UNIVERSO%20REVELADO%20480p%20HDTV-Master.mp4?CANAISEGFTv
@@ -963,132 +911,127 @@ http://archive.org/download/A.Historia.da.Eletricidade-Dublado.720p/A%20hist%c3%
 #EXTINF:-1 tvg-logo="https://goo.gl/vVrVvA" group-title="DOCUMENTÁRIOS HISTORY",   A ERA DA INVENCAO
 http://archive.org/download/A.Historia.da.Eletricidade-Dublado.720p/A%20hist%c3%b3ria%20da%20Eletricidade%20-%20ep2%20A%20Era%20da%20Inven%c3%a7%c3%a3o%20-%20Dublado%20720p.mp4?CANAISEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/vVrVvA" group-title="DOCUMENTÁRIOS HISTORY",   A Ponte
-http://archive.org/download/The.JinxThe.Life.and.Deaths.of.Robert.Durst.Part.4.HDTV.x264BATV1/The%20Bridge%202006.mp4
+http://archive.org/download/The.JinxThe.Life.and.Deaths.of.Robert.Durst.Part.4.HDTV.x264BATV1/The%20Bridge%202006.mp4?CANAISEGFTv
 
 ##EXTINF:-1 tvg-logo="https://goo.gl/vVrVvA" group-title="DOCUMENTÁRIOS HISTORY",  Black Fish Furia Animal
-http://archive.org/download/The.JinxThe.Life.and.Deaths.of.Robert.Durst.Part.4.HDTV.x264BATV1/Blackfish%20-%20F%c3%baria%20Animal%20-%20Dual%20%c3%81udio.mp4
-
-#EXTINF:-1 tvg-logo="https://goo.gl/vVrVvA" group-title="DOCUMENTÁRIOS HISTORY",   Garoto Interrompido
-http://ia801302.us.archive.org/9/items/Garoto.Interrompido/hbo.boy.interrupted.2008.ptbr.mp4?CANAISGLAU
+http://archive.org/download/The.JinxThe.Life.and.Deaths.of.Robert.Durst.Part.4.HDTV.x264BATV1/Blackfish%20-%20F%c3%baria%20Animal%20-%20Dual%20%c3%81udio.mp4?CANAISEGFTv
 
 #EXTINF:-1 tvg-logo="https://goo.gl/vVrVvA" group-title="DOCUMENTÁRIOS HISTORY",  Grandes golpes
-http://archive.org/download/GrandesGolpesHistoryChannelHD/Grandes%20Golpes%20%5bHistory%20Channel%20HD%5d.mp4?CANAISGLAU
+http://archive.org/download/GrandesGolpesHistoryChannelHD/Grandes%20Golpes%20%5bHistory%20Channel%20HD%5d.mp4?CANAISEGFTv
 
 #EXTINF:-1 tvg-logo="https://goo.gl/vVrVvA" group-title="DOCUMENTÁRIOS HISTORY",  Filhos De Galileu 
-http://archive.org/download/FilhosDeGalileuDocumentrio/Filhos%20de%20Galileu%20-%20Document%c3%a1rio.mp4?CANAISGLAU
+http://archive.org/download/FilhosDeGalileuDocumentrio/Filhos%20de%20Galileu%20-%20Document%c3%a1rio.mp4?CANAISEGFTv
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/bq5Kj4I.png" group-title="DOCUMENTÁRIOS HISTORY", REVELACOES E REVOLUCOES
-http://archive.org/download/A.Historia.da.Eletricidade-Dublado.720p/A%20hist%c3%b3ria%20da%20Eletricidade%20-%20ep3%20Revela%c3%a7%c3%b5es%20e%20Revolu%c3%a7%c3%b5es%20-%20Dublado%20720p.mp4?CANAISGLAU
-
-#EXTINF:-1 tvg-logo="https://goo.gl/vVrVvA" group-title="DOCUMENTÁRIOS HISTORY",  Eram os Deuses Astronautas?
-http://archive.org/download/Eram.DeusesAstronautas/Eram.Os.Deuses.Astronautas.DvdRip.Pt-Br.Divx.mp4
+http://archive.org/download/A.Historia.da.Eletricidade-Dublado.720p/A%20hist%c3%b3ria%20da%20Eletricidade%20-%20ep3%20Revela%c3%a7%c3%b5es%20e%20Revolu%c3%a7%c3%b5es%20-%20Dublado%20720p.mp4?CANAISEGFTv
 
 #EXTINF:-1 tvg-logo="https://goo.gl/vVrVvA" group-title="DOCUMENTÁRIOS HISTORY",  The Jinx: parte 1
-http://archive.org/download/The.JinxThe.Life.and.Deaths.of.Robert.Durst.Part.1.720p.HDTV.x264BATV1/The.Jinx-The.Life.and.Deaths.of.Robert.Durst.Part.1.720p.HDTV.x264-BATV~1.mp4
+http://archive.org/download/The.JinxThe.Life.and.Deaths.of.Robert.Durst.Part.1.720p.HDTV.x264BATV1/The.Jinx-The.Life.and.Deaths.of.Robert.Durst.Part.1.720p.HDTV.x264-BATV~1.mp4?CANAISEGFTv
 
 #EXTINF:-1 tvg-logo="https://goo.gl/vVrVvA" group-title="DOCUMENTÁRIOS HISTORY",  The Jinx: parte 2
-http://archive.org/download/The.JinxThe.Life.and.Deaths.of.Robert.Durst.Part.2/The.Jinx-The.Life.and.Deaths.of.Robert.Durst.Part.2.mp4?CANAISGLAU
+http://archive.org/download/The.JinxThe.Life.and.Deaths.of.Robert.Durst.Part.2/The.Jinx-The.Life.and.Deaths.of.Robert.Durst.Part.2.mp4?CANAISEGFTv
 
 #EXTINF:-1 tvg-logo="https://goo.gl/vVrVvA" group-title="DOCUMENTÁRIOS HISTORY",  The Jinx: parte 3
-http://archive.org/download/The.JinxThe.Life.and.Deaths.of.Robert.Durst.Part.3.720p.HDTV.x264BATV1/The.Jinx-The.Life.and.Deaths.of.Robert.Durst.Part.3.720p.HDTV.x264-BATV~1.mp4?CANAISGLAU
+http://archive.org/download/The.JinxThe.Life.and.Deaths.of.Robert.Durst.Part.3.720p.HDTV.x264BATV1/The.Jinx-The.Life.and.Deaths.of.Robert.Durst.Part.3.720p.HDTV.x264-BATV~1.mp4?CANAISEGFTv
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/The_Jinx_%28miniseries%29_POSTER.jpg" group-title="DOCUMENTÁRIOS HISTORY", The Jinx: parte 4
-http://archive.org/download/The.JinxThe.Life.and.Deaths.of.Robert.Durst.Part.4.HDTV.x264BATV1/The.Jinx-The.Life.and.Deaths.of.Robert.Durst.Part.4.HDTV.x264-BATV~1.mp4?CANAISGLAU
+http://archive.org/download/The.JinxThe.Life.and.Deaths.of.Robert.Durst.Part.4.HDTV.x264BATV1/The.Jinx-The.Life.and.Deaths.of.Robert.Durst.Part.4.HDTV.x264-BATV~1.mp4?CANAISEGFTv
 
 #EXTINF:-1 tvg-logo="https://goo.gl/vVrVvA" group-title="DOCUMENTÁRIOS HISTORY",  The Jinx: parte 5
-http://archive.org/download/The.JinxThe.Life.and.Deaths.of.Robert.Durst.Part.4.HDTV.x264BATV1/The.Jinx-The.Life.and.Deaths.of.Robert.Durst.Part.5.HDTV.x264-BATV~1.mp4?CANAISGLAU
+http://archive.org/download/The.JinxThe.Life.and.Deaths.of.Robert.Durst.Part.4.HDTV.x264BATV1/The.Jinx-The.Life.and.Deaths.of.Robert.Durst.Part.5.HDTV.x264-BATV~1.mp4?CANAISEGFTv
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/The_Jinx_%28miniseries%29_POSTER.jpg" group-title="DOCUMENTÁRIOS HISTORY", The Jinx: parte 6
-http://archive.org/download/The.JinxThe.Life.and.Deaths.of.Robert.Durst.Part.4.HDTV.x264BATV1/The.Jinx-The.Life.and.Deaths.of.Robert.Durst.Part.6.HDTV.x264-BATV~1.mp4?CANAISGLAU
+http://archive.org/download/The.JinxThe.Life.and.Deaths.of.Robert.Durst.Part.4.HDTV.x264BATV1/The.Jinx-The.Life.and.Deaths.of.Robert.Durst.Part.6.HDTV.x264-BATV~1.mp4?CANAISEGFTv
 
 #EXTINF:-1 tvg-logo="https://goo.gl/vVrVvA" group-title="DOCUMENTÁRIOS HISTORY",  Prova infalível o caso Roswell
-http://archive.org/download/ProvaInfalivelOCasoRoswellDubladoDocumentarioDiscoveryCivilization/Prova%20Infal%c3%advel-%20O%20Caso%20Roswell%20%28Dublado%29%20-%20Document%c3%a1rio%20Discovery%20Civilization.mp4?CANAISGLAU
+http://archive.org/download/ProvaInfalivelOCasoRoswellDubladoDocumentarioDiscoveryCivilization/Prova%20Infal%c3%advel-%20O%20Caso%20Roswell%20%28Dublado%29%20-%20Document%c3%a1rio%20Discovery%20Civilization.mp4?CANAISEGFTv
 
 #EXTINF:-1 tvg-logo="https://goo.gl/vVrVvA" group-title="DOCUMENTÁRIOS HISTORY",  Stephen Hawking e as Células-Tronco
 http://archive.org/download/Stephen.Hawking.e.as.Celulas-Tronco/C%c3%a9lulas-tronco%20com%20Stephen%20Hawking-PSG.mp4.mp4?CANAISGLAU
 
 #EXTINF:-1 tvg-logo="https://goo.gl/vVrVvA" group-title="DOCUMENTÁRIOS HISTORY",  O Sentido Da Vida Stephen Hawking
-http://archive.org/download/OSentidoDaVidaPorStephenHawking/O%20Sentido%20da%20Vida%20por%20Stephen%20Hawking.mp4?CANAISGLAU
+http://archive.org/download/OSentidoDaVidaPorStephenHawking/O%20Sentido%20da%20Vida%20por%20Stephen%20Hawking.mp4?CANAISEGFTv
 
 #EXTINF:-1 tvg-logo="https://goo.gl/vVrVvA" group-title="DOCUMENTÁRIOS HISTORY", Tarja Branca
-http://archive.org/download/tarjabranca/VTS_01_1_Joined.mp4?CANAISGLAU
+http://archive.org/download/tarjabranca/VTS_01_1_Joined.mp4?CANAISEGFTv
 
 #EXTINF:-1 tvg-logo="https://goo.gl/vVrVvA" group-title="DOCUMENTÁRIOS HISTORY",  Junho o mes que abalou o Brazil
-http://archive.org/download/JunhO.Filme/Junho-O.M%c3%aas.que.Abalou.o.Brasil.2014.docsPT.mp4?CANAISGLAU
+http://archive.org/download/JunhO.Filme/Junho-O.M%c3%aas.que.Abalou.o.Brasil.2014.docsPT.mp4?CANAISEGFTv
 
 #EXTINF:-1 tvg-logo="https://goo.gl/vVrVvA" group-title="DOCUMENTÁRIOS HISTORY",   O helicóptero de 50 milhões de reais
-http://archive.org/download/helicoca/helicoca.mp4?CANAISGLAU
+http://archive.org/download/helicoca/helicoca.mp4?CANAISEGFTv
 
-#EXTINF:-1 tvg-logo="https://goo.gl/vVrVvA" group-title="DOCUMENTÁRIOS HISTORY",  Amazônia - Heranças de uma Utopia
-http://archive.org/download/Amazonia.Herancas.Utopica/Amazonia.Herancas.de.uma.Utopia.mp4?CANAISGLAU
 
-#EXTINF:-1 tvg-logo="https://goo.gl/vVrVvA" group-title="DOCUMENTÁRIOS HISTORY",  10 Coisas que Você Precisa Saber Sobre Perder Peso
-http://archive.org/download/Perder.Peso/10.Things.You.Need.to.Know.About.Losing.Weight.XviD.mp4?CANAISGLAU
-
-#EXTINF:-1 tvg-logo="https://goo.gl/vVrVvA" group-title="DOCUMENTÁRIOS HISTORY",  Inventos.Telefones.Celulares
-http://ia601700.us.archive.org/27/items/Inventos.Telefones.Celulares/discovery.channel-como.inventamos.o.mundo-ep01-celular.mp4?CANAISGLAU
 
 #EXTINF:-1 tvg-logo="https://goo.gl/vVrVvA" group-title="DOCUMENTÁRIOS HISTORY",  A Guerra do Vietnã- Parte 1
-http://ia601509.us.archive.org/15/items/AGuerraDoVietnaParte1/A%20Guerra%20do%20Vietn%C3%A3-%20Parte%201.mp4?CANAISGLAU
+http://ia601509.us.archive.org/15/items/AGuerraDoVietnaParte1/A%20Guerra%20do%20Vietn%C3%A3-%20Parte%201.mp4?CANAISEGFTv
 
 #EXTINF:-1 tvg-logo="https://goo.gl/vVrVvA" group-title="DOCUMENTÁRIOS HISTORY",  A Guerra do Vietnã- Parte 2
-http://ia601509.us.archive.org/15/items/AGuerraDoVietnaParte1/Vietn%C3%A3%20Os%20Arquivos%20Perdidos%20Ep.2.mp4?CANAISGLAU
+http://ia601509.us.archive.org/15/items/AGuerraDoVietnaParte1/Vietn%C3%A3%20Os%20Arquivos%20Perdidos%20Ep.2.mp4?CANAISEGFTv
 
 #EXTINF:-1 tvg-logo="https://goo.gl/vVrVvA" group-title="DOCUMENTÁRIOS HISTORY",  Dentro Do Sol
-http://ia601500.us.archive.org/28/items/DentroDoSolDocumentrioDublado/Dentro%20do%20Sol%20Document%C3%A1rio%20Dublado%21.mp4?CANAISGLAU
+http://ia601500.us.archive.org/28/items/DentroDoSolDocumentrioDublado/Dentro%20do%20Sol%20Document%C3%A1rio%20Dublado%21.mp4?CANAISEGFTv
 
 #EXTINF:-1 tvg-logo="https://goo.gl/vVrVvA" group-title="DOCUMENTÁRIOS HISTORY",  Guerra Do Paraguai A Nossa Grande Guerra
-http://ia801506.us.archive.org/2/items/GuerraDoParaguaiANossaGrandeGuerra/Guerra%20do%20Paraguai%20-%20A%20nossa%20Grande%20Guerra.mp4?CANAISGLAU
-
-#EXTINF:-1 tvg-logo="https://goo.gl/vVrVvA" group-title="DOCUMENTÁRIOS HISTORY",  Conheça O Estado Islamico
-http://ia601501.us.archive.org/27/items/ConhecaOEstadoIslamicoGloboNews/Conhe%C3%A7a%20o%20Estado%20Isl%C3%A2mico%20-%20Globo%20News.mp4?CANAISGLAU
+http://ia801506.us.archive.org/2/items/GuerraDoParaguaiANossaGrandeGuerra/Guerra%20do%20Paraguai%20-%20A%20nossa%20Grande%20Guerra.mp4?CANAISEGFTv
 
 #EXTINF:-1 tvg-logo="https://goo.gl/vVrVvA" group-title="DOCUMENTÁRIOS HISTORY",  Extremis
-http://ia601503.us.archive.org/12/items/AssistirExtremisDubladoOnlineVerFilmeOnline/Assistir%20-%20Extremis%20Dublado%20Online%20-%20Ver%20Filme%20Online.mp4?CANAISGLAU
+http://ia601503.us.archive.org/12/items/AssistirExtremisDubladoOnlineVerFilmeOnline/Assistir%20-%20Extremis%20Dublado%20Online%20-%20Ver%20Filme%20Online.mp4?CANAISEGFTv
 
 #EXTINF:-1 tvg-logo="https://goo.gl/vVrVvA" group-title="DOCUMENTÁRIOS HISTORY",  Magia Do Churrasco
-http://ia601504.us.archive.org/30/items/AssistirMagiaDoChurrascoNacionalOnlineVerFilmeOnline/Assistir%20-%20Magia%20do%20Churrasco%20Nacional%20Online%20-%20Ver%20Filme%20Online.mp4?CANAISGLAU
+http://ia601504.us.archive.org/30/items/AssistirMagiaDoChurrascoNacionalOnlineVerFilmeOnline/Assistir%20-%20Magia%20do%20Churrasco%20Nacional%20Online%20-%20Ver%20Filme%20Online.mp4?CANAISEGFTv
 
 #EXTINF:-1 tvg-logo="https://goo.gl/vVrVvA" group-title="DOCUMENTÁRIOS HISTORY",  Prisioneiros Do Holocausto 2011
-http://ia601506.us.archive.org/8/items/NationalGeographicPrisioneirosDoHolocausto2011DubladoHolocausto/National%20Geographic%20Prisioneiros%20do%20Holocausto%202011%20Dublado%20holocausto.mp4?CANAISGLAU
+http://ia601506.us.archive.org/8/items/NationalGeographicPrisioneirosDoHolocausto2011DubladoHolocausto/National%20Geographic%20Prisioneiros%20do%20Holocausto%202011%20Dublado%20holocausto.mp4?CANAISEGFTv
 
 #EXTINF:-1 tvg-logo="https://goo.gl/vVrVvA" group-title="DOCUMENTÁRIOS HISTORY",  Pesos Pesados Os Reis Do Ringue
-http://ia601506.us.archive.org/15/items/PesosPesadosOsReisDoRingue/Pesos%20Pesados%20-%20Os%20Reis%20do%20Ringue.mp4?CANAISGLAU
+http://ia601506.us.archive.org/15/items/PesosPesadosOsReisDoRingue/Pesos%20Pesados%20-%20Os%20Reis%20do%20Ringue.mp4?CANAISEGFTv
 
 #EXTINF:-1 tvg-logo="https://goo.gl/vVrVvA" group-title="DOCUMENTÁRIOS HISTORY",   A Grande História - SAL
-http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%201%20-%20Sal%20.mp4?CANAISGLAU
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%201%20-%20Sal%20.mp4?CANAISEGFTv
+
 #EXTINF:-1 tvg-logo="https://goo.gl/vVrVvA" group-title="DOCUMENTÁRIOS HISTORY",  A Grande História - OURO
-http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%202%20-%20Ouro.mp4?CANAISGLAU
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%202%20-%20Ouro.mp4?CANAISEGFTv
+
 #EXTINF:-1 tvg-logo="https://goo.gl/vVrVvA" group-title="DOCUMENTÁRIOS HISTORY",   A Grande História - CAVALO
-http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%203%20-%20Cavalo%20.mp4?CANAISGLAU
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%203%20-%20Cavalo%20.mp4?CANAISEGFTv
+
 #EXTINF:-1 tvg-logo="https://goo.gl/vVrVvA" group-title="DOCUMENTÁRIOS HISTORY",   A Grande História - ABAIXO DE ZERO
-http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%204%20-%20Abaixo%20De%20Zero.mp4?CANAISGLAU
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%204%20-%20Abaixo%20De%20Zero.mp4?CANAISEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/vVrVvA" group-title="DOCUMENTÁRIOS HISTORY",   A Grande História - MEGAESTRUTURAS
-http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%205%20-%20Megaestruturas.mp4
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%205%20-%20Megaestruturas.mp4?CANAISEGFTv
+
 #EXTINF:-1 tvg-logo="https://goo.gl/vVrVvA" group-title="DOCUMENTÁRIOS HISTORY",  A Grande História - O MUNDO DAS ARMAS
-http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%206%20-%20O%20Mundo%20Das%20Armas.mp4?CANAISGLAU
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%206%20-%20O%20Mundo%20Das%20Armas.mp4?CANAISEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/vVrVvA" group-title="DOCUMENTÁRIOS HISTORY",   A Grande História - A ASCENSÃO DOS CARNIVOROS
-http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%207%20-%20A%20Ascens%c3%a3o%20dos%20Carn%c3%advoros.mp4?CANAISGLAU
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%207%20-%20A%20Ascens%c3%a3o%20dos%20Carn%c3%advoros.mp4?CANAISEGFTv
+
 #EXTINF:-1 tvg-logo="https://goo.gl/vVrVvA" group-title="DOCUMENTÁRIOS HISTORY",   A Grande História - MONTANHAS
-http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%208%20-%20Montanhas.mp4?CANAISGLAU
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%208%20-%20Montanhas.mp4?CANAISEGFTv
+
 #EXTINF:-1 tvg-logo="https://goo.gl/vVrVvA" group-title="DOCUMENTÁRIOS HISTORY",   A Grande História - ESTIMULO CEREBRAL
-http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%209%20-%20Est%c3%admulo%20Cerebral.mp4?CANAISGLAU
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%209%20-%20Est%c3%admulo%20Cerebral.mp4?CANAISEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/vVrVvA" group-title="DOCUMENTÁRIOS HISTORY",   A Grande História - DESAFIANDO A GRAVIDADE
-http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%2010%20-%20Desafiando%20A%20Gravidade.mp4?CANAISGLAU
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%2010%20-%20Desafiando%20A%20Gravidade.mp4?CANAISEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/vVrVvA" group-title="DOCUMENTÁRIOS HISTORY",   A Grande História - MAQUINA DO TEMPO PORTATIL
-http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%2011%20-%20M%c3%a1quina%20do%20Tempo%20Port%c3%a1til.mp4?CANAISGLAU
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%2011%20-%20M%c3%a1quina%20do%20Tempo%20Port%c3%a1til.mp4?CANAISEGFTv
+
 #EXTINF:-1 tvg-logo="https://goo.gl/vVrVvA" group-title="DOCUMENTÁRIOS HISTORY",   A Grande História - METEOROS MORTAIS
-http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%2012%20-%20Meteoros%20Mortais.mp4?CANAISGLAU
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%2012%20-%20Meteoros%20Mortais.mp4?CANAISEGFTv
+
 #EXTINF:-1 tvg-logo="https://goo.gl/vVrVvA" group-title="DOCUMENTÁRIOS HISTORY",  A Grande História - DECODIFICANDO
-http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%2013%20-%20Decodificado.mp4?CANAISGLAU
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%2013%20-%20Decodificado.mp4?CANAISEGFTv
+
 #EXTINF:-1 tvg-logo="https://goo.gl/vVrVvA" group-title="DOCUMENTÁRIOS HISTORY",   A Grande História - SUPERNOVA DE PRATA
-http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%2014%20-%20Supernova%20de%20Prata.mp4?CANAISGLAU
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%2014%20-%20Supernova%20de%20Prata.mp4?CANAISEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/vVrVvA" group-title="DOCUMENTÁRIOS HISTORY",   A Grande História - O SOL
-http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%2015%20-%20O%20Sol.mp4?CANAISGLAU
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%2015%20-%20O%20Sol.mp4?CANAISEGFTv
+
 #EXTINF:-1 tvg-logo="https://goo.gl/vVrVvA" group-title="DOCUMENTÁRIOS HISTORY",   A Grande História - H2O
-http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%2016%20-%20H2O.mp4?CANAISGLAU
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%2016%20-%20H2O.mp4?CANAISEGFTv
+
 #EXTINF:-1 tvg-logo="https://goo.gl/vVrVvA" group-title="DOCUMENTÁRIOS HISTORY", A Grande História - FINAL
-http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%2017%20-%20Final.mp4?CANAISGLAU
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%2017%20-%20Final.mp4?CANAISEGFTv
 
 
 ############################################################################################################################################################################################### Sound! ##########################################
