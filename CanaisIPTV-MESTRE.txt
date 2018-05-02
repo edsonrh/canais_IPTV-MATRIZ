@@ -882,6 +882,12 @@ http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
 #EXTINF:-1 group-title="TV/ESPORTES"tvg-logo="http://i.imgur.com/93lCwGC.png" pltv-subgroup="ESPORTE" ,TSN 
 http://wms.shared.streamshow.it/tsn/tsn/chunklist.m3u8
 
+
+################################################################################################################################################################################# DOCUMENTÁRIOS HISTORY ####################################################################
+
+#EXTINF:-1 tvg-logo="https://goo.gl/vVrVvA" group-title="DOCUMENTÁRIOS HISTORY",   A ERA DA INVENCAO
+http://archive.org/download/A.Historia.da.Eletricidade-Dublado.720p/A%20hist%c3%b3ria%20da%20Eletricidade%20-%20ep2%20A%20Era%20da%20Inven%c3%a7%c3%a3o%20-%20Dublado%20720p.mp4?CANAISGLAU
+
 ############################################################################################################################################################################################### Sound! ##########################################
 
 #EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Anos 70 
