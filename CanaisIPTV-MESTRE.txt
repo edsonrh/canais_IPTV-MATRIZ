@@ -1,6 +1,7 @@
 #EXTM3U
 ################################################################################################################################################################################################## TV ABERTA ###############################################################
-
+#EXTINF:-1 tvg-logo="https://lut.im/3pzwDPiAa2/b5lFOJ5g19hvjTDG.png" group-title="TV ABERTA"", AMAZON SAT [COLOR orange](ON)[/COLOR]
+http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8
 #EXTINF:-1 tvg-id="GLOBO" tvg-logo="https://goo.gl/M5gy5N" group-title="TV ABERTA",GLOBO
 http://edge.abcast.net:8081/edge/ver8b1f11ec23e010737aaed9/chunks.m3u8?nimblesessionid=753878&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDE4IDE6Mzk6NDUgUE0maGFzaF92YWx1ZT1wVUZOQk0wei8xSXJSclhYWVFNeVdBPT0mdmFsaWRtaW51dGVzPTEyMA==
 #EXTINF:-1 tvg-id="TV ARAPUAN PB - HD" tvg-logo="https://goo.gl/4fpk8j" group-title="TV ABERTA",TV ARAPUAN PB - HD
@@ -1036,23 +1037,23 @@ http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c
 
 ############################################################################################################################################################################################### Sound! ##########################################
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Anos 70 
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Anos 70 [COLOR orange](ON)[/COLOR]
 http://192.99.150.31:8241/stream?CANAISEGFTv
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Anos 80 
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Anos 80 [COLOR orange](ON)[/COLOR]
 http://192.99.150.31:8697/stream?CANAISEGFTv
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Anos 90 
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Anos 90 [COLOR orange](ON)[/COLOR]
 http://192.99.150.31:8056/stream?CANAISEGFTv
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Anos 2000 
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Anos 2000 [COLOR orange](ON)[/COLOR]
 http://6d9a.webradio.upx.net.br:9940/stream?
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Axé
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Axé [COLOR orange](ON)[/COLOR]
 http://192.99.150.31:8305/stream?CANAISEGFTv
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Bossa Nova 
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Bossa Nova [COLOR orange](ON)[/COLOR]
 http://6d9a.webradio.upx.net.br:9974/stream?CANAISEGFTv
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Brega 
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Brega [COLOR orange](ON)[/COLOR]
 http://192.99.150.31:9007/stream?CANAISEGFTv
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Eletrônica 
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Eletrônica [COLOR orange](ON)[/COLOR]
 http://192.99.150.31:9095/stream?CANAISEGFTv
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Festa 
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Festa [COLOR orange](ON)[/COLOR]
 http://6d9a.webradio.upx.net.br:9070/stream?CANAISEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Forró 
 http://192.99.150.31:9019/stream?CANAISEGFTv
