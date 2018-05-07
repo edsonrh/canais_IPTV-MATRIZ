@@ -1,4 +1,5 @@
 #EXTM3U
+http://bit.ly/TSOFFILMES
 ################################################################################################################################################################################################## TV ABERTA ###############################################################
 #EXTINF:-1 tvg-logo="https://lut.im/3pzwDPiAa2/b5lFOJ5g19hvjTDG.png" group-title="TV ABERTA"", AMAZON SAT [COLOR orange](ON)[/COLOR]
 http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8
@@ -1105,6 +1106,21 @@ http://192.99.150.31:9191/stream?CANAISEGFTv
 http://192.99.150.31:8962/stream?CANAISEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Trilhas Sonoras 
 http://6d9a.webradio.upx.net.br:9896/stream?CANAISEGFTv
+
+################################################################################################################################################################################################### FILMES DUBLADOS ################################################
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/virgin.png" group-title="MUSICA", VIRGIN TV
+http://fms.105.net:1935/live/virgin2%20/index.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/djing.png" group-title="MUSICA", DIJING HD
+https://www.djing.com/tv/live.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/djing.png" group-title="MUSICA", DIJING IBIZA HD
+https://www.djing.com/tv/dancefloor.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/djing.png" group-title="MUSICA", DIJING ANIMATION HD
+https://www.djing.com/tv/animation.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/djing.png" group-title="MUSICA", DIJING CLASSICS HD
+https://www.djing.com/tv/classics.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/nrjhits.png" group-title="MUSICA", NRJ HITS - BELJIQUE
+http://5.196.138.6:1935/live/nrjbelgique_720p/plylist.m3u8
 
 
 ################################################################################################################################################################################################### FILMES DUBLADOS ################################################
