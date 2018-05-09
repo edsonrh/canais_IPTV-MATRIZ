@@ -801,6 +801,7 @@ http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?LISTASEGFTv
 http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/LUhcnj" group-title="FILMES/SERIES",CLASSIQUE TV
 http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8?EGFTv
+http://stmv2.srvstm.com/classique/classique/playlist.m3u8?EGFTv
 http://stmv2.euroti.com.br:1935/classique/classique/playlist.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/EdTZ0ba.png" group-title="FILMES/SERIES",CLASSIQUE TV ALTERNATIVO
 http://stmv2.srvstm.com/classique/classique/playlist.m3u8?LISTASEGFTv
@@ -813,6 +814,8 @@ http://189.86.89.116:80/hls-live/livecm/_definst_/liveevent/livestream.m3u8?LIST
 #EXTINF:-1 tvg-logo="https://goo.gl/7QQhQB" group-title="FILMES/SERIES",CINE+
 #EXTINF:-1 tvg-logo="https://goo.gl/7QQhQB" group-title="FILMES/SERIES",CINE+ 2
 http://live.sba1.com:80/hls-live/livecm/_definst_/liveevent/livestream.m3u8?LISTASEGFTv
+#EXTINF:-1 tvg-logo="https://goo.gl/RjHWUA" group-title="FILMES E SERIES", Cine sky
+http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV KIDMAIS "tvg-logo="http://www.kidmaisfestas.com.br/images/KidmaisEventos.png" group-title="FILMES/SERIES",TV KIDMAIS
 http://tv01.logicahost.com.br:1935/tvkidmais01/tvkidmais01/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-id="" tvg-name="TCM 10 HD" tvg-logo="http://ocamera.com.br/imagens/noticias/578/large/download.png" group-title="FILMES/SERIES",TCM 10 HD
