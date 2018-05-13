@@ -16,11 +16,15 @@ http://200.164.225.170/hls/tvalpb.m3u8
 #EXTINF:-1 tvg-id="CREATIVE TV PB - HD" tvg-logo="https://goo.gl/AgVycg" group-title="TV ABERTA",CREATIVE TV PB - HD
 http://streaming63.sitehosting.com.br:1935/jandy/_definst_/jandy/chunklist_w1550347631.m3u8
 #EXTINF:-1 tvg-id="Grobosp.br" tvg-logo="https://goo.gl/hywwhb" group-title="TV ABERTA", GLOBO - SP
+http://apk.goo.ac:8081/live/17/playlist.m3u8
 http://apk.goo.ac:8081/live/17/chunks.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-id="Grobosphd.br" tvg-logo="https://goo.gl/M5gy5N" group-title="TV ABERTA",Globo SP - HD
+http://olha.ai/bfh8FN
 https://live9.userapi.com/637609/live/_UwNzFpFekY/playlist.m3u8
 #EXTINF:-1 tvg-id="Globorj.br" tvg-logo="https://goo.gl/M5gy5N" group-title="TV ABERTA", GLOBO RJ
 https://live9.userapi.com/637609/live/_UwNzFpFekY/playlist.m3u8?EGFTv
+#EXTINF:-1 tvg-logo="http://s17.postimg.org/w75u3yg1n/globo2.png" group-title="TV Aberta",GLOBO SD
+http://olha.ai/iRveFf
 #EXTINF:-1 tvg-id="FUTURA" tvg-logo="https://goo.gl/5AxUkh" group-title="TV ABERTA",FUTURA
 http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1 tvg-id="TV Futura PR" tvg-id="Futura.br" tvg-logo="http://i.imgur.com/J0vLlTS.png" group-title="TV ABERTA",TV Futura PR
@@ -62,6 +66,7 @@ http://srv6.zoeweb.tv:1935/z343-live/stream/chunklist_w1873081295.m3u8?CANAISEGF
 http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8?EGFTv
 #EXTINF:-1 tvg-id="SBT [Brazil]" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV ABERTA",SBT MA
 http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8?EGFTv
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?CANAISEGFTv
 http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1876866237.m3u8?CANAISEGFTv
 #EXTINF:-1 tvg-id="SBT [Brazil]" tvg-logo="https://goo.gl/V3KdbD" group-title="TV ABERTA", SBT RECIFE
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1707692457_b131000_sleng.m3u8
@@ -78,8 +83,11 @@ http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_w1847565290_b796000.
 http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8?CANAISEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/V3KdbD" group-title="TV ABERTA", SBT PI
 http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/chunklist_w1655189941.m3u8
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?CANAISEGFTv
 #EXTINF:-1 tvg-logo="hhttps://goo.gl/V3KdbD" group-title="TV ABERTA",SBT RS 
 http://srv6.zoeweb.tv:1935/z343-live/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Sbt.br" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV Aberta",SBT SC
+https://slbps-sambavideos.akamaized.net/liveevent/livesc_7669e5c05e7b20455acc3bdec60c7f23/livestream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/LcpPNw" group-title="TV ABERTA",PUC TV 
 http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
 #EXTINF:-1 tvg-logo="http://www.tboanapolis.com/img/tbo.png" group-title="TV ABERTA",TBO ANAPOLIS 
@@ -194,6 +202,8 @@ http://200.189.113.201/hls/tve.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/GgeuBW" group-title="NOTÍCIAS",RECORD NEW RN
 http://stmv4.srvstm.com/recordnewses/recordnewses/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/ig4JdX" group-title="NOTICIAS",BAND NEWS 
+http://olha.ai/ScWw5t
 #EXTINF:-1 tvg-logo="https://goo.gl/HcQ18z" group-title="NOTÍCIAS", NBR
 http://ebctveventual01-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctveventual01/_definst_/live/stream1.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/uGoefr" group-title="NOTÍCIAS", TV Senado
@@ -741,6 +751,10 @@ http://stmv3.euroti.com.br:1935/jose5319/jose5319/live.m3u8?LISTASEGFTv
 http://tv.tvalphanet.com.br:1935/quadrangular/quadrangular/live.m3u8?LISTASEGFTv
 #EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB's TV GOLPEL",WEB TV RESTAURA VIDAS
 http://stmv4.euroti.com.br:1935/tvrestauravidas/tvrestauravidas/live.m3u8?LISTASEGFTv
+#EXTINF:-1 tvg-logo="https://goo.gl/4Wl7FY" group-title="WEB's TV GOLPEL",WEB TV SEMEAR 
+http://cdn2.w7virtual.net:1935/live/addicara/addicara/livestream.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/4Wl7FY" group-title="WEB's TV GOLPEL",TV WEB BAHIA 
+http://streaming63.sitehosting.com.br:1935/xcfilmes/xcfilmes/live.m3u8
 
 ############################################################################################################################################################################################ CANAIS RELIGIOSOS ############################ 
 
@@ -786,6 +800,8 @@ http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8?CANAISEGFTv
 
 #EXTINF:-1 tvg-id="WEB TV VIA MORENA "tvg-logo="https://bit.ly/2HI4jKZ" group-title="MÚSICAS",WEB TV VIA MORENA 
 http://wowza2.netpoint.com.br/viamorena/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/41Bb2x1cL9L.png" group-title="MÚSICAS", HEARTV 
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_398_av-p.m3u8
 #EXTINF:-1 tvg-id="HIT TV" tvg-logo="https://goo.gl/PDmTsw" group-title="MÚSICAS",HIT TV
 http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_1.m3u8
 #EXTINF:-1 tvg-id="HETRÔ TV" tvg-logo="https://goo.gl/2uPPkn" group-title="MÚSICAS",HETRÔ TV
