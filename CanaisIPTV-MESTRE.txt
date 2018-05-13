@@ -35,8 +35,6 @@ http://cdn.whostreams.net:8081/wsedge/7456cu4c8xd7bb/chunks.m3u8?nimblesessionid
 http://95.141.35.104:8081/edge/band/chunks.m3u8?EGFTv
 #EXTINF:-1 tvg-id="Band PA" tvg-id="BandRede.br" tvg-logo="http://i.imgur.com/9bw0Q4n.png" group-title="TV ABERTA",Band PA
 http://stmv3.srvstm.com/rbatv12/rbatv12/playlist.m3u8?EGFTv
-#EXTINF:-1 tvg-id="TV ABERTA", G2P TV" tvg-logo="https://lut.im/SOPtBc9rxD/a21WCnGZh58XW1Sb.png" group-title="TV ABERTA", G2P TV 
-http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
 #EXTINF:-1 tvg-id="RedeTV" tvg-logo="https://goo.gl/uH6MfN" group-title="TV ABERTA",RedeTV
 http://evpp.mm.uol.com.br:1935/redetv1/redetv1/chunklist_w2056582622.m3u8?EGFTv
 #EXTINF:-1 tvg-id="TV Cultura SE" tvg-logo="https://goo.gl/d5rQFu" group-title="TV ABERTA",TV Cultura SE
@@ -823,8 +821,6 @@ http://www.djing.com/tv/01.m3u8
 #EXTINF:-1 tvg-id="CityTV" tvg-logo="https://goo.gl/LVNHOF" group-title="MÚSICAS",CityTV 
 http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8?EGFTv
 http://nodeb.gocaster.net:1935/CGL/_definst_/TODAYFM_TEST2/.m3u8?EGFTv
-#EXTINF:-1 tvg-id="G2P TV" tvg-logo="http://www.g2ptv.tv.br/logo.png" group-title="MÚSICAS",G2P TV 
-http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/2PRHj9" group-title="VARIEDADES",NOSSA TV
 http://stmv1.srvstm.com:1935/tvcadm/tvcadm/live.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/AkSWyu" group-title="VARIEDADES",CANAL RICOS
@@ -835,6 +831,10 @@ http://tvevangelizar01.crossdigital.com.br:1935/evangelizar/tv/chunklist_w304487
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?EGFTv
 #EXTINF:-1 tvg-logo="http://dm-ip.tv/img/tv.jpg" group-title="ALTERNATIVOS",CINE FILMES 2
 http://rtmp.one.by:1200?EGFTv
+#EXTINF:-1 tvg-id="G2P TV" tvg-logo="http://www.g2ptv.tv.br/logo.png" group-title="MÚSICAS",G2P TV 
+http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/4i8o6fouh/DHING.jpg" group-title="MÚSICAS",DJ HITS 
+http://www.djing.com/tv/04.m3u8
 
 ############################################################################# FILMES & SÉRIES ##########################
 #EXTINF:-1tvg-logo="https://bit.ly/2K3PFPT" group-title="FILMES/SERIES",FEAR THE WALKING DEAD
@@ -2032,6 +2032,60 @@ http://cdn4.micetop.us/content/httpdelivery/filmes2017/EUFICOLOUCO-ALTO.mp4?EGFT
 http://cdn4.micetop.us/content/httpdelivery/filmes2017/DUPLA2DUB-BAIXO.mp4?EGFTv
 #EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Dupla Explosiva
 http://cdn4.micetop.us/content/httpdelivery/filmes2017/DUPLA2DUB-BAIXO.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS", VINGADORES 3: GUERRA INFINITA
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/VINGADORESGUERRAINFINITATSV2DUB.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Verdade ou Desafio
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/VDDOUDESAFIODUB.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Family Blood
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/FAMILYBLOODDUB.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Anon
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/ANONDUB.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Meu romance perfeito
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/MEUROMANCEPERFEITODUB.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Darc
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/DARCDUB.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Matrix
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/MATRIX.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Matrix Reloaded
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/MATRIXRELOADED.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Matrix Revolutions
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/MATRIXREVOLUTION.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="CFILMES DUBLADOS" ,Cinquenta Tons de Cinza
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/CTDCDUB.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Cinquenta Tons de Liberdade
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/50T0NSDELIBERDADEHDDUB.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Jogos Mortais
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/JOGOSMORTAIS.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Jogos Mortais II
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/JOGOSMORTAIS2.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Jogos Mortais III
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/JOGOSMORTAIS3.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Jogos Mortais IV
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/JOGOSMORTAIS4.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Jogos Mortais V
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/JOGOSMORTAIS5.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Jogos Mortais VI
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/JOGOSMORTAIS6.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Jogos Mortais: O Final
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/JOGOSMORTAIS7.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Maquina Mortifera
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/MAQUINAMORTIFERA.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Maquina Mortifera 3
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/MAQUINAMORTIFERA3.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Maquina Mortifera 2
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/MAQUINAMORTIFERA2.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Homem de ferro
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/CC197ECF336AE63C6DA7/A478CEAB57AFDFF9DFEF.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Homem de ferro 2
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/C8F58E2AACDF3A523B2D/91856341122FE19461D7.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Homem de ferro 3
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/5D12D43DDFD671C5AA55/DB266F158E3A4D455844.mp4
+
+
+
+########################################################### FILMES DESENHOS ########################################
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="DESENHOS" ,Princesa Encantada
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/PRINCESAENCANTADADUB.mp4
 
 #EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="DESENHOS",A Formiga Atómica Episódio 01 Lá Vai A Triônica
 http://www.blogger.com/video-play.mp4?contentId=f4582bd401b4e0d3
@@ -2172,6 +2226,7 @@ http://www.blogger.com/video-play.mp4?contentId=c4cdcacbd94a6cd
 http://www.blogger.com/video-play.mp4?contentId=40e423b740033a6c
 #EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="A Turma do Manda Chuva",Episódio 30 – Eu E O Outro
 http://www.blogger.com/video-play.mp4?contentId=713a1371319401fe
+
 
 ############################################################################################################################################################################################## A Pantera Cor-de-Rosa ###################################################### 
 
