@@ -1201,7 +1201,7 @@ http://media-br-am.crackle.com/1/z/v6/j1zlf_480p.mp4?LISTASEGFTv
 #EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2IaHXGp",Quarentena
 http://media-br-am.crackle.com/1/p/v6/gkvlf_480p.mp4?LISTASEGFTv
 
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2IeizeH",Identidade
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2IaOAbE",Identidade
 http://media-br-am.crackle.com/1/8/v6/l2zlf_480p.mp4?LISTASEGFTv
 
 #EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2IbaOui",A Beira do Abismo
