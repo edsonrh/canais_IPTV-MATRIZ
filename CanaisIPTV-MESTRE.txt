@@ -791,8 +791,7 @@ http://srv-vvtv.sisdera.com.br:1935/live/vvtv023/livestream.m3u8
 #EXTINF:-1 tvg-id="VEM & VÊ TV 3" tvg-logo=" http://i.imgur.com/yIyAemJ.png" group-title="RELIGIOSOS",VEM & VÊ TV 3
 http://srv-vvtv.sisdera.com:1935/live/mp4:vvtv032/playlist.m3u8?CANAISEGFTv
 http://srv-vvtv.sisdera.com.br:1935/live/vvtv033/livestream.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="SOBRENATURAL TV" tvg-logo="https://bit.ly/2reAagb" group-title="RELIGIOSOS",SOBRENATURAL TV
-http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8?CANAISEGFTv
+
 
 ####################################################################################################################################################################################################### CANAIS MÚSICAS #####################################
 
@@ -1940,8 +1939,6 @@ http://cdn4.micetop.us/content/httpdelivery/filmes2018/BATMANREDHOODDUB-BAIXO.mp
 http://cdn9.ntcdn.us/lanadelrey/movies/primeiroalvo-dub-720p.mp4?EGFTv
 #EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS",Feito na America
 http://cdn9.ntcdn.us/lanadelrey/movies/americanmade-dub-720p.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS",Conspiracao Terrorista
-http://player720p.com/filmes/conspiracao.mp4?EGFTv
 #EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Bingo – O Rei das Manhas
 http://cdn9.ntcdn.us/lanadelrey/movies/bingo-dub-720p.mp4?EGFTv
 #EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="FILMES DUBLADOS" ,Como Se Tornar o Pior Aluno da Escola
@@ -2092,10 +2089,104 @@ http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/INSTINTOSELVAGEM2.mp4
 http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/TERRORNOPANTANODUB.mp4
 #EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Terror no Pantano 2
 http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/TERRORNOPANTANO2DUB.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Doce Argumento
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/DOCEARGUMENTODUB.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Pronto. Falei!
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/PRONTOFALEIDUB.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Mercury 13
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/MERCURY13DUB.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,La vem os pais
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/LAVEMOSPAISDUB.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,O Artista do desastre
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/ARTISTADODESASTREDUB.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Psychokinesis
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/PSYCHOKINESISDUB.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Uma aventura e tanto
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/UMAAVENTURAETANTODUB.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Panico na cabana
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/PANICONACABANADUB.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Letras da Morte
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/LETRASDAMORTEDUB.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Sombras da vida
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/SOMBRASDAVIDADUB.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,O Preco
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/OPRECODUB.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Dude: A vida e assim
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/DUDEAVIDAEASSIMDUB.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Perseguicao Criminosa
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/PERSEGUICAOCRIMINOSAHDRIPDUB.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,O Amanhecer mais escuro
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/OAMANHECERMAISESCURODUB.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Sobrenatural: A Ultima Chave
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/SOBRENATURALUCDUB.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,The Titan
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/THETITANDUB.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Rampage – Destruicao Total
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/RAMPAGETSDUB.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,A Rainha Da Cocaina
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/ARAINHADACOCAINADUB.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Amor Simon
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/COMAMORSIMONTSDUB.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,A Caminho da Fe
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/ACAMINHODAFEDUB.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Carteristas
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/CARTERISTASDUB.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Eu Nao Sou Um Homem Facil
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/EUNAOSOUHOMEMFACILDUB.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Paterno
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/PATERNODUB.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Projeto Eden Vol. 1
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/PROJETOEDENDUB.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,A Maldicao da casa Whinchester
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/AMALDICA0DACWTSDUB.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Os Parcas
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/OSPARCASHD.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Com Amor. Van Gogh
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/COMAMORVANGOGHDUB.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,No Limite – Overdrive
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/OVERDRIVE.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Passado Roubado
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/PASSADOROUBADO.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Pantera Negra
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/PANTERANEGRADUBHD.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Dia Dos Mortos
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/DIADOSMORTOSDUB.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,A Grande Jogada
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/AGRANDEJOGADADUB.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Cora Coralina Todas as vidas
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/CORACORALINA.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,A Bruxa
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/ABRUXADUB.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,A Garota Dinamarquesa
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/AGAROTADINAMARQUESA.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADO" ,A Lenda de Tarzan
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/ALENDADETARZAN.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADO" ,Baywatch S.O.S. Malibu
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/979F271B87B6439BA7BE/D27F855965842A96E9FF.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="Classicos" ,300: A Ascensao Do Império
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/3002.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADO" ,O Exterminador Do Futuro: A Salvacao
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/EXTERMINADORDOFUTURO.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADO" ,O Exterminador do Futuro 2: O Julgamento Final
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/EXTERMINADORDOFUTURO2.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADO" ,O Exterminador do Futuro 3: Rebeliao das Maquinas
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/EXTERMINADORDOFUTURO3.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADO" ,O Exterminador do Futuro 4: A Salvacao
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/EXTERMINADORDOFUTURO4.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADO" ,O Exterminador do Futuro: Genesis
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/EXTERMINADORGENESIS.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADO" ,Carga Explosiva - O Legado
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/CARGAEXPLOSIVA4.mp4
 
 
 
 ########################################################### FILMES DESENHOS ########################################
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="DESENHOS" ,Esquadrao Suicida: Hell to Pay
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/ESQUADRAOSUICIDAHELLTOPAYDUB.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="DESENHOS" ,Lino: Uma Aventura de Sete Vidas
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/LINOHDRIPNAC.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="DESENHOS" ,Spark: Uma Aventura Espacial
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/SPARKUAEDUB.mp4
 #EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="DESENHOS" ,Princesa Encantada
 http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/PRINCESAENCANTADADUB.mp4
 
