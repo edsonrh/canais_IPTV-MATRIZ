@@ -2080,6 +2080,18 @@ http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/CC197ECF336AE63C6DA7/A478CEAB5
 http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/C8F58E2AACDF3A523B2D/91856341122FE19461D7.mp4
 #EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Homem de ferro 3
 http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/5D12D43DDFD671C5AA55/DB266F158E3A4D455844.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Marley e Eu
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/MARLEYEEUDUB.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Marley e Eu 2
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/MARLEYEEU2DUB.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Instinto Selvagem
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/INSTINTOSELVAGEM.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Instinto Selvagem 2
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/INSTINTOSELVAGEM2.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Terror no Pantano
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/TERRORNOPANTANODUB.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Terror no Pantano 2
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/TERRORNOPANTANO2DUB.mp4
 
 
 
