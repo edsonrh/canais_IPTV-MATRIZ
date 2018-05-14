@@ -2159,24 +2159,190 @@ http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/CORACORALINA.mp4
 http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/ABRUXADUB.mp4
 #EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,A Garota Dinamarquesa
 http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/AGAROTADINAMARQUESA.mp4
-#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADO" ,A Lenda de Tarzan
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,A Lenda de Tarzan
 http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/ALENDADETARZAN.mp4
-#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADO" ,Baywatch S.O.S. Malibu
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Baywatch S.O.S. Malibu
 http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/979F271B87B6439BA7BE/D27F855965842A96E9FF.mp4
-#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="Classicos" ,300: A Ascensao Do Império
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,300: A Ascensao Do Império
 http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/3002.mp4
-#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADO" ,O Exterminador Do Futuro: A Salvacao
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,O Exterminador Do Futuro: A Salvacao
 http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/EXTERMINADORDOFUTURO.mp4
-#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADO" ,O Exterminador do Futuro 2: O Julgamento Final
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,O Exterminador do Futuro 2: O Julgamento Final
 http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/EXTERMINADORDOFUTURO2.mp4
-#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADO" ,O Exterminador do Futuro 3: Rebeliao das Maquinas
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,O Exterminador do Futuro 3: Rebeliao das Maquinas
 http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/EXTERMINADORDOFUTURO3.mp4
-#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADO" ,O Exterminador do Futuro 4: A Salvacao
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,O Exterminador do Futuro 4: A Salvacao
 http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/EXTERMINADORDOFUTURO4.mp4
-#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADO" ,O Exterminador do Futuro: Genesis
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,O Exterminador do Futuro: Genesis
 http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/EXTERMINADORGENESIS.mp4
-#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADO" ,Carga Explosiva - O Legado
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Carga Explosiva - O Legado
 http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/CARGAEXPLOSIVA4.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Carga Explosiva 3
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/CARGAEXPLOSIVA3.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Carga Explosiva 2
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/CARGAEXPLOSIVA2.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Carga Explosiva
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/CARGAEXPLOSIVA.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Viagem Maldita
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/VIAGEMMALDITA.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Viagem Maldita 2 - O Retorno dos Malditos
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/VIAGEMMALDITA2.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,O Ataque dos Vermes Malditos
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/OATAQUEDOSVERMESMALDITOSDUB.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,O Ataque dos Vermes Malditos 2
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/OATAQUEDOSVERMESMALDITOS2.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,O Ataque dos Vermes Malditos 3
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/OATAQUEDOSVERMESMALDITOS3.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,O Ataque dos Vermes Malditos 4
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/OATAQUEDOSVERMESMALDITOS4.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,O Ataque dos Vermes Malditos 5
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/OATAQUEDOSVERMESMALDITOS5.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Kill Bill: Volume 2
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/KILLBILL2.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Instinto Selvagem
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/INSTINTOSELVAGEM.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Instinto Selvagem 2
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/INSTINTOSELVAGEM2.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Donnie Darko
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/DONNIEDARKO.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="ILMES DUBLADOS" ,O Colecionador de Corpos
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/OCOLECIONADORDECORPOS.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,O Colecionador de Corpos 2
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/OCOLECIONADORDECORPOS2.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Harry Potter e a Pedra Filosofal
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/13444182CA6D631A685C/7A5D8DFB1513B6E687F3.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Harry Potter e a Camara Secreta
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/3A52FC665E9DC449336A/68BB439B6B916F7173CA.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Harry Potter e o Prisioneiro de Azkaban
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/3D74C55E28E3133EDF12/5528C486125D996F41DA.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Harry Potter e o Calice de Fogo
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/251A8BFAE527C75E9D46/25F4AB28374AC6DC281F.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Harry Potter e a Ordem da Fenix
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/5FC784414FCFA55248F4/8CAEA94FECA7196C64C2.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Harry Potter e o Enigma do Principe
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/A8BEB537D45B97844564/8261C967714388B87DDA.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Harry Potter e as Reliquias da Morte: Parte 1
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/AEAE67132D77ABBE42BF/F977D4371C18B52B36B4.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Harry Potter e as Reliquias da Morte: Parte 2
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/C8C51BC434FCFAE2AC34/4CFD3E26836AFD7E29F8.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,[REC]
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/REC.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,[REC] 2 – Possuidos
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/REC2.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,[REC] 3 – Genesis
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/REC3.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,[REC] 4 – Apocalipse
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/REC4.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Poltergeist – O Fenomeno
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/POLTERGEIST1982.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Poltergeist 2 – O Outro Lado
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/POLTERGEIST2.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Poltergeist 3 – O Capitulo Final
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/POLTERGEIST3.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Poltergeist – O Fenomeno 2015
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/POLTERGEIST2015.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="Classicos" ,Alien – O Oitavo Passageiro
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/ALIEN8PASSAGEIRO.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Aliens – O Resgate
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/ALIENSORESGATE.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Alien 3
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/ALIEN3.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Alien – A Ressurreicao
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/ALIEN4RESSURREICAO.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,O Grito
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/OGRITO.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,O Grito 2
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/OGRITO2.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,O Grito 3
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/OGRITO3.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Abismo do Medo
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/ABISMODOMEDO.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Abismo do Medo 2
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/ABISMODOMEDO2.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,O Chamado
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/OCHAMADO.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,O Chamado 2
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/OCHAMADO2.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,O Albergue
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/ALBERGUE.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,O Albergue 2
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/ALBERGUE2.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Panico na Floresta
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/PANICONAFLORESTA.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Panico na Floresta 2
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/PANICONAFLORESTA2.mp4?
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Panico na Floresta 3
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/PANICONAFLORESTA3.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Panico na Floresta 4
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/PANICONAFLORESTA4.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Panico na Floresta 5
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/PANICONAFLORESTA5.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Panico na Floresta 6
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/PANICONAFLORESTA6.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Panico
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/PANICO.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Panico 2
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/PANICO2.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Panico 3
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/PANICO3.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Panico 4
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/PANICO4.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Blade – O Cacador de Vampiros
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/BLADE.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Blade 2
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/BLADE2.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Blade: Trinity
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/BLADETRINITY.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Atividade Paranormal
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/ATIVIDADEPARANORMAL.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Atividade Paranormal 2
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/ATIVIDADEPARANORMAL2.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Atividade Paranormal 3
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/ATIVIDADEPARANORMAL3.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Atividade Paranormal 4
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/ATIVIDADEPARANORMAL4.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Atividade Paranormal 5
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/ATIVIDADEPARANORMAL5.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Premonicao
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/PREMONICAO.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Premonicao 2
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/PREMONICAO2.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Premonicao 3
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/PREMONICAO3.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Premonicao 4
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/PREMONICAO4.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Premonicao 5
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/PREMONICAO5.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Anjos da Noite: Underworld
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/ANJOSDANOITE.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Anjos da Noite 2: A Evolucao
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/ANJOSDANOITE2.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Anjos da Noite 3: A Rebeliao
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/ANJOSDANOITE3.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Anjos da Noite 4: O Despertar
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/ANJOSDANOITE4.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Anjos da Noite: Guerras de Sangue LEG
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/ANJOSDANOITEGS.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Olhos Famintos
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/OLHOSFAMINTOS.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Olhos Famintos 2
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/OLHOSFAMINTOS2.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Olhos Famintos 3
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/OLHOSFAMINTOS3.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Resident Evil – O Hospede Maldito
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/RESIDENTEVILOHM.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Resident Evil 2: Apocalipse
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/RESIDENTEVIL2APO.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Resident Evil 3: A Extincao
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/RESIDENTEVIL3E.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Resident Evil 4: Recomeco
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/RESIDENTEVIL4REC.mp4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Resident Evil 5: Retribuicao
+http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/RESIDENTEVIL5RETRI.mp4
+
+
+
+
 
 
 
