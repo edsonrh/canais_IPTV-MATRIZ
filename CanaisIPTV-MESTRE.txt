@@ -838,7 +838,7 @@ http://www.djing.com/tv/04.m3u8
 ############################################################################# FILMES & SÉRIES ##########################
 #EXTINF:-1tvg-logo="https://bit.ly/2K3PFPT" group-title="FILMES/SERIES",FEAR THE WALKING DEAD
 https://bit.ly/2qPAhOk
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/SMbsk2" group-title="FILMES/SERIES",CINE GLAU
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/SMbsk2" group-title="FILMES/SERIES",CINE
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?LISTASEGFTv
 #EXTINF:-1tvg-logo="http://s16.postimg.org/z4yd0upsl/cine_sky.png" group-title="FILMES/SERIES",CINE SKY
 http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8?LISTASEGFTv
@@ -2303,46 +2303,136 @@ http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/ATIVIDADEPARANORMAL3.mp4
 http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/ATIVIDADEPARANORMAL4.mp4
 #EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Atividade Paranormal 5
 http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/ATIVIDADEPARANORMAL5.mp4
-#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Premonicao
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS",Premonicao
 http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/PREMONICAO.mp4
-#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Premonicao 2
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS",Premonicao 2
 http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/PREMONICAO2.mp4
-#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Premonicao 3
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS",Premonicao 3
 http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/PREMONICAO3.mp4
-#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Premonicao 4
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS",Premonicao 4
 http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/PREMONICAO4.mp4
-#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Premonicao 5
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS",Premonicao 5
 http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/PREMONICAO5.mp4
-#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Anjos da Noite: Underworld
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS",Anjos da Noite: Underworld
 http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/ANJOSDANOITE.mp4
-#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Anjos da Noite 2: A Evolucao
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS",Anjos da Noite 2: A Evolucao
 http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/ANJOSDANOITE2.mp4
-#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Anjos da Noite 3: A Rebeliao
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS",Anjos da Noite 3: A Rebeliao
 http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/ANJOSDANOITE3.mp4
-#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Anjos da Noite 4: O Despertar
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS",Anjos da Noite 4: O Despertar
 http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/ANJOSDANOITE4.mp4
-#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Anjos da Noite: Guerras de Sangue LEG
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS",Anjos da Noite: Guerras de Sangue LEG
 http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/ANJOSDANOITEGS.mp4
-#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Olhos Famintos
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS",Olhos Famintos
 http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/OLHOSFAMINTOS.mp4
-#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Olhos Famintos 2
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS",Olhos Famintos 2
 http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/OLHOSFAMINTOS2.mp4
-#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Olhos Famintos 3
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS",Olhos Famintos 3
 http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/OLHOSFAMINTOS3.mp4
-#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Resident Evil – O Hospede Maldito
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS",Resident Evil – O Hospede Maldito
 http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/RESIDENTEVILOHM.mp4
-#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Resident Evil 2: Apocalipse
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS",Resident Evil 2: Apocalipse
 http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/RESIDENTEVIL2APO.mp4
-#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Resident Evil 3: A Extincao
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS",Resident Evil 3: A Extincao
 http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/RESIDENTEVIL3E.mp4
-#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Resident Evil 4: Recomeco
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS",Resident Evil 4: Recomeco
 http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/RESIDENTEVIL4REC.mp4
-#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Resident Evil 5: Retribuicao
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS",Resident Evil 5: Retribuicao
 http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/RESIDENTEVIL5RETRI.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/2L7YOHI" group-title="FILMES DUBLADOS",Tres Mulheres, Tres Amores
+http://media-br-am.crackle.com/1/p/d6/12vlf_480p.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/2KqNo0vg" group-title="FILMES DUBLADOS",Pegar e Largar
+http://media-br-am.crackle.com/1/9/16/7p1lf_480p.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/2IMoj2R" group-title="FILMES DUBLADOS",Funny Lady
+http://media-br-am.crackle.com/1/0/56/hw1lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/NaQuHN",O Casamento de Rachel
+http://media-br-am.crackle.com/1/1/16/ap1lf_480p.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/2IpUypr" group-title="FILMES DUBLADOS",Apenas Uma Vez
+http://media-br-am.crackle.com/1/y/f6/86ylf_480p.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/2wPEQhS" group-title="FILMES DUBLADOS",A Jovem Rainha Victoria
+http://media-br-am.crackle.com/1/y/f6/66ylf_480p.mp4
+#EXTINF:-1 LETRA P"tvg-logo="https://bit.ly/2IqZ8Q7" group-title="FILMES DUBLADOS",Primeira Descida
+http://media-br-am.crackle.com/1/y/d6/30vlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/7/16/1p1lf_tnl_210x118.jpg" group-title="FILMES DUBLADOS",Lagrimas do Sol
+http://media-br-am.crackle.com/1/7/16/1p1lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/TMiA9o2.jpg" group-title="FILMES DUBLADOS",A Guerra de Hart
+http://media-br-am.crackle.com/1/3/v6/01zlf_480p.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/2rKlbuI"group-title="FILMES DUBLADOS",Bernardo e Bianca
+http://content.jwplatform.com/videos/z4qdoqIw-uWIQ80NM.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i.imgur.com/uluGsxH.png"group-title="FILMES DUBLADOS", 13º Distrito - Ultimato
+http://proxy-18.nyc.dailymotion.com/sec(d0af87b58d1c07f8fb983561cee5aed8)/video/153/883/153388351_mp4_h264_aac_hd.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/uluGsxH.png" group-title="FILMES DUBLADOS", Ai que Vida!
+http://proxy-051.dc3.dailymotion.com/sec(325258acdfd282ce692099ee2aa5474c)/video/367/115/123511763_mp4_h264_aac_hq_2.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/uluGsxH.png" group-title="FILMES DUBLADOS", Carro A Máquina do Diabo
+http://proxy-075.dc3.dailymotion.com/sec(3d5002a863d9ec3fe92d50c803994b03)/video/161/234/193432161_mp4_h264_aac_hq.m3u8
+#EXTINF:-1 tvg-logo="http://goo.gl/NaQuHN" group-title="FILMES DUBLADOS",O Casamento de Rachel
+http://media-br-am.crackle.com/1/1/16/ap1lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/uluGsxH.png" group-title="FILMES DUBLADOS", Código Da Máfia
+http://proxy-051.dc3.dailymotion.com/sec(9fa902a9cb3369accf7c0b453530873d)/video/183/691/146196381_mp4_h264_aac_hq_2.m3u8
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/87/75/21/19961181.jpg" group-title="FILMES DUBLADOS",Apenas Uma Vez
+http://media-br-am.crackle.com/1/y/f6/86ylf_480p.mp4
+#EXTINF:-1tvg-logo="https://bit.ly/2rMTuR3" group-title="FILMES DUBLADOS",Torturado
+http://media-br-am.crackle.com/1/s/d6/e3vlf_480p.mp4
+#EXTINF:-1  tvg-logo="https://bit.ly/2Kv0oClg" group-title="FILMES DUBLADOS",Vestida Para Matar
+http://media-br-am.crackle.com/1/p/v6/ekvlf_480p.mp4
+#EXTINF:-1  tvg-logo="https://bit.ly/2wL53xTg" group-title="FILMES DUBLADOS",Persuasao
+http://media-br-am.crackle.com/1/0/v6/o1zlf_480p.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/2GpjCXp" group-title="FILMES DUBLADOS",O Melhor Amigo da Noiva
+http://media-br-am.crackle.com/1/t/96/001lf_480p.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/2IM0gRv" group-title="FILMES DUBLADOS",Nicholas Nickleby
+http://media-br-am.crackle.com/1/a/h6/n8vlf_480p.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/2jZBFL0" group-title="FILMES DUBLADOS",Africa dos Meus Sonhos
+http://media-br-am.crackle.com/1/0/16/6o1lf_480p.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/2rOx9Td" group-title="FILMES DUBLADOS",O Segredo de Brokeback Mountain
+http://media-br-am.crackle.com/1/k/l6/2dwlf_480p.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/XpTGCD"  group-title="FILMES DUBLADOS,O Principal Suspeito
+http://media-br-am.crackle.com/1/u/h6/z7vlf_480p.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/C5ehec" group-title="FILMES DUBLADOS",Kalifornia - Uma Viagem ao Inferno
+http://media-br-am.crackle.com/1/r/v6/lkvlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://www.interfilmes.com/FILMES/21900/21934/fotocapa.jpg" group-title="FILMES DUBLADOS",Nao Adianta Fugir
+http://media-br-am.crackle.com/1/r/v6/nkvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/Ep8a9Y" group-title="FILMES DUBLADOS",O Ritual (2012)
+http://media-br-am.crackle.com/1/3/v6/z1zlf_480p.mp4
+#EXTINF:-1  tvg-logo="https://bit.ly/2rLqrxm" group-title="FILMES DUBLADOS,Menina Ma.com
+http://media-br-am.crackle.com/1/y/n6/ty2lf_480p.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/2rLuMkN" group-title="FILMES DUBLADOS,O Contrato
+http://media-br-am.crackle.com/1/x/n6/oy2lf_480p.mp4
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/b/ol/u2byb_tnl_210x118.jpg",O Senhor das Armas
+http://media-br-am.crackle.com/1/j/z6/2tvlf_480p.mp4
+#EXTINF:-1  tvg-logo="http://br.web.img1.acsta.net/medias/nmedia/18/87/17/46/19872770.jpg",Os Reis de Dogtown
+http://media-br-am.crackle.com/1/1/n6/39ulf_480p.mp4
+#EXTINF:-1  tvg-logo="http://i.imgur.com/GQTRstB.jpg" group-title="FILMES DUBLADOS",Red - Aposentados e Perigosos
+http://media-br-am.crackle.com/1/q/f6/b6ylf_480p.mp4
+#EXTINF:-1  tvg-logo="http://images-br-am.crackle.com/1/n/im/rrdyb_tnl_210x118.jpg" group-title="FILMES DUBLADOS",Risco Absoluto
+http://media-br-am.crackle.com/1/n/im/rrdyb_480p.mp4
+#EXTINF:-1  tvg-logo="http://media7.fast-torrent.ru/media/files/s4/mh/ik/robot-politsejskij-2.jpg" group-title="FILMES DUBLADOS",RoboCop 2
+http://media-br-am.crackle.com/1/t/d6/g3vlf_480p.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/D2p3YT7.jpg" group-title="FILMES DUBLADOS",Rocky Balboa
+http://media-br-am.crackle.com/1/x/f6/23ylf_480p.mp4
+#EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/r/4l/zucyb_tnl_210x118.jpg" group-title="FILMES DUBLADOS",Ruslan - Vinganca Explosiva
+http://media-br-am.crackle.com/1/s/d6/d3vlf_480p.mp4
+#EXTINF:-1  tvg-logo="http://images-br-am.crackle.com/1/h/ql/oh7wb_tnl_210x118.jpg group-title="FILMES DUBLADOS"",Soldado Universal 3 - Regeneracao
+http://media-br-am.crackle.com/1/i/z6/utvlf_480p.mp4
+#EXTINF:-1  tvg-logo="http://images-br-am.crackle.com/1/7/sl/vdcyb_tnl_210x118.jpg",Tempos de Violencia
+http://media-br-am.crackle.com/1/r/d6/b0vlf_480p.mp
+#EXTINF:-1  tvg-logo="http://i.imgur.com/P1NBqJ1.jpg" group-title="FILMES DUBLADOS",Um Ato de Liberdade
+http://media-br-am.crackle.com/1/z/f6/c7ylf_480p.mp4
 
 
 
