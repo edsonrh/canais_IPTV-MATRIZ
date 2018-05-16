@@ -2391,7 +2391,8 @@ http://media-br-am.crackle.com/1/u/h6/z7vlf_480p.mp4
 http://media-br-am.crackle.com/1/r/v6/lkvlf_480p.mp4
 #EXTINF:-1 tvg-logo="http://www.interfilmes.com/FILMES/21900/21934/fotocapa.jpg" group-title="FILMES DUBLADOS",Nao Adianta Fugir
 http://media-br-am.crackle.com/1/r/v6/nkvlf_480p.mp4
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/uluGsxH.png" group-title="FILMES DUBLADOS", Diário de Uma Paixão
+http://proxy-20.nyc.dailymotion.com/sec(6bbf393b29ef5a0325f4f6fea2b3d1b4)/video/594/513/156315495_mp4_h264_aac_hd.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/Ep8a9Y" group-title="FILMES DUBLADOS",O Ritual (2012)
 http://media-br-am.crackle.com/1/3/v6/z1zlf_480p.mp4
 #EXTINF:-1  tvg-logo="https://bit.ly/2rLqrxm" group-title="FILMES DUBLADOS,Menina Ma.com
