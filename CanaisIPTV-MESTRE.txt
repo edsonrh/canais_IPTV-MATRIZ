@@ -2447,6 +2447,17 @@ https://lh3.googleusercontent.com/tclKI1eZqsk73s508a_ebpNq4nBKtjEu7rd2Z4WuVCXW0z
 https://lh3.googleusercontent.com/XMu-sysvJjT3eBn1FUtbbjwYGlSkDgyCilOgckUco2xkWAc8ENc-aIcCP3Nicb0sc4zWsrUC=m37 
 #EXTINF:-1 tvg-logo="https://bit.ly/2k4Vot1" group-title="FILMES DUBLADOS" pltv-subgroup=,O Menino do Pijama Listrado
 http://media-br-am.crackle.com/1/g/t6/dh4lf_480p.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/2k4Vot1" group-title="FILMES DUBLADOS" pltv-subgroup=,Os meninos que enganavam nazistas
+http://185.22.173.118/V2/Os.Meninos.que.Enganavam.Nazistas.2017.720p.BluRay.6CH.x264.DUBLADO-WWW.BLUDV.COM.mp4
+#EXTINF:0 tvg-logo="https://bit.ly/2k4Vot1" group-title="FILMES DUBLADOS" pltv-subgroup=,QUATRO VIDAS DE UM CACHORRO
+https://ia601500.us.archive.org/4/items/lua4vidacachorro/lua4vidacachorro.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/2k4Vot1" group-title="FILMES DUBLADOS" pltv-subgroup=,Matador de Aluguel
+http://media-br-am.crackle.com/1/z/f6/d4ylf_480p.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/2k4Vot1" group-title="FILMES DUBLADOS" pltv-subgroup=,O Colecionador de Ossos
+http://media-br-am.crackle.com/1/f/f6/14ylf_480p_1mbps.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/2k4Vot1" group-title="FILMES DUBLADOS" pltv-subgroup=,O Grande Anjo Negro
+http://media-br-am.crackle.com/1/q/v6/invlf_480p_1mbps.mp4
+
 ########################################################### FILMES DESENHOS ########################################
 #EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="DESENHOS" ,Esquadrao Suicida: Hell to Pay
 http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/ESQUADRAOSUICIDAHELLTOPAYDUB.mp4
