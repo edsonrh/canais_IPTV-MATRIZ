@@ -2434,9 +2434,19 @@ http://media-br-am.crackle.com/1/i/z6/utvlf_480p.mp4
 http://media-br-am.crackle.com/1/r/d6/b0vlf_480p.mp
 #EXTINF:-1  tvg-logo="http://i.imgur.com/P1NBqJ1.jpg" group-title="FILMES DUBLADOS",Um Ato de Liberdade
 http://media-br-am.crackle.com/1/z/f6/c7ylf_480p.mp4
-
-
-
+#EXTINF:-1 tvg-logo="https://bit.ly/2k4Vot1" group-title="FILMES DUBLADOS" pltv-subgroup=,O CONDE DE MONTE CRISTO
+https://lh3.googleusercontent.com/jjx5jWG9ol6ZNNyRmGH55BZwGzaeVtRAmDj5Ro5ZUHrNKecyDXZ41NYra9cP4b1tRBr3oDVFRmxcag=m22
+#EXTINF:-1 tvg-logo="https://bit.ly/2k4Vot1" group-title="FILMES DUBLADOS" pltv-subgroup=,O DURAO
+https://lh3.googleusercontent.com/SsQD2I025dsf366Xp305VbXh8kEjcYVKGooe0OTbr0d9bb-g04Oyrw7OnmBAt6urFkHybrv9G-u3gg=m22
+#EXTINF:-1 tvg-logo="https://bit.ly/2k4Vot1" group-title="FILMES DUBLADOS" pltv-subgroup=,O Guardiao
+http://media-br-am.crackle.com/1/s/am/pddyb_480p.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/2k4Vot1" group-title="FILMES DUBLADOS" pltv-subgroup=,O Guardiao 2
+http://media-br-am.crackle.com/1/g/16/vaylf_480p.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/2k4Vot1" group-title="FILMES DUBLADOS" pltv-subgroup=,O GUIA MOCHILEIRO DAS GALAXIAS
+https://lh3.googleusercontent.com/tclKI1eZqsk73s508a_ebpNq4nBKtjEu7rd2Z4WuVCXW0zvXvFJVixyKkt50VcyUqfjsSz-tINEgkg=m22
+https://lh3.googleusercontent.com/XMu-sysvJjT3eBn1FUtbbjwYGlSkDgyCilOgckUco2xkWAc8ENc-aIcCP3Nicb0sc4zWsrUC=m37 
+#EXTINF:-1 tvg-logo="https://bit.ly/2k4Vot1" group-title="FILMES DUBLADOS" pltv-subgroup=,O Menino do Pijama Listrado
+http://media-br-am.crackle.com/1/g/t6/dh4lf_480p.mp4
 ########################################################### FILMES DESENHOS ########################################
 #EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="DESENHOS" ,Esquadrao Suicida: Hell to Pay
 http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/ESQUADRAOSUICIDAHELLTOPAYDUB.mp4
