@@ -2399,21 +2399,38 @@ http://media-br-am.crackle.com/1/3/v6/z1zlf_480p.mp4
 http://media-br-am.crackle.com/1/y/n6/ty2lf_480p.mp4
 #EXTINF:-1 tvg-logo="https://bit.ly/2rLuMkN" group-title="FILMES DUBLADOS,O Contrato
 http://media-br-am.crackle.com/1/x/n6/oy2lf_480p.mp4
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://bit.ly/2LaK9vk" group-title="FILMES DUBLADOS, Hotel Ruanda
+http://media-br-am.crackle.com/1/0/d6/a4vlf_480p.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/2k4Vot1" group-title="FILMES DUBLADOS" pltv-subgroup=,A MULHER DE PRETO 2  
+https://lh3.googleusercontent.com/eDhmG_kMKaBWvADODXcskZvVA0fIzXe8o20sHSAag7xJhOjH9OZNTby2G_tvWuSUqoZj1heBY6ft4g=m22
+#EXTINF:-1 tvg-logo="https://bit.ly/2k4Vot1" group-title="FILMES DUBLADOS" pltv-subgroup=,Anjos da Lei
+http://media-br-am.crackle.com/1/m/16/n04lf_480p.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/2k4Vot1" group-title="FILMES DUBLADOS" pltv-subgroup=,A NOITE DO ESPANTALHO  
+https://lh3.googleusercontent.com/vrmYzw-R_dwSVFjbOzDZtGRQ9hlF7PvsI13kyNe9Dfjz9Cj4o0_bbdnyn0V4FyXjMvjH8fo9=m37
+#EXTINF:-1 tvg-logo="https://bit.ly/2k4Vot1" group-title="FILMES DUBLADOS" pltv-subgroup=,APOLLO 18  
+https://lh3.googleusercontent.com/Lmr1unP4GRBZ-bIN9JFL2Bg8Jmc6B3sdzdj3PeAoN2au2bCPRDiltYMe-4XwonOZ8paPh1cg=m22
+#EXTINF:-1 tvg-logo="https://bit.ly/2k4Vot1" group-title="FILMES DUBLADOS" pltv-subgroup=,A PRIMEIRA VEZ
+https://lh3.googleusercontent.com/CInn07rjjPqVvmFCxlCxA_v3SW9Cw_FKxmr2zklDDuDz-Qh6Ux4GfH-aA6Qx1ZpSi_Uwf7uDyXOd8Q=m22
+#EXTINF:-1 tvg-logo="https://bit.ly/2k4Vot1" group-title="FILMES DUBLADOS" pltv-subgroup=,A QUEDA - AS ULTIMAS HORAS DE HITLER HD
+https://lh3.googleusercontent.com/bHvBlOkU4u1LW4qe_JKOdkehZ0pBwzD1efmqeTJp_YVB7GvYIgC6BlmLE20QTcI0VvTmVNBV0K2oxA=m22
+#EXTINF:-1 tvg-logo="https://bit.ly/2k4Vot1" group-title="FILMES DUBLADOS" pltv-subgroup=,ARMAGEDDON ( 1998 ) 
+https://lh3.googleusercontent.com/OQ4cZD-MQ4wrCxp6JQJZm6w58ndn_8MKOfOZPsE3shKIUR3vuEHWtkVQuVT_S59eKbkKbDyz=m22
+#EXTINF:-1 tvg-logo="https://bit.ly/2k4Vot1" group-title="FILMES DUBLADOS" pltv-subgroup=,ARROWHEAD - HD  
+https://lh3.googleusercontent.com/JhUCc50vqxIAm9Po1dkPil0h5MMXXwQrdkWqzd89OfwBTMObkx8q4hL8IovW2u_KUcdSUD0quG-Ea_IiGQ=m22
+#EXTINF:-1 tvg-logo="https://bit.ly/2k4Vot1" group-title="FILMES DUBLADOS" pltv-subgroup=,As Aventuras de Sammy
+http://media-br-am.crackle.com/1/q/p6/3d4lf_480p.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/2k4Vot1" group-title="FILMES DUBLADOS" pltv-subgroup=,AS LOUCAS AVENTURA DE JAMES WEST 
+https://lh3.googleusercontent.com/jLRYicQdrHDCKSECeR0Tq0bA9QoMEYAqBUt28udXcZvcd7BkTycBbwyV2bPGKocL8gTi6DEz6eUgKg=m22
+#EXTINF:-1 tvg-logo="https://bit.ly/2k4Vot1" group-title="FILMES DUBLADOS" pltv-subgroup=,A SEITA
+https://lh3.googleusercontent.com/d5Ji-EZvDh-VWbcnTH5PfHBm6Bpn-Gdxi_M3tUGdMPkI0lmV5i6XMS2FmH4MmKpqVDps11Fj2rQXFw=m22
+#EXTINF:-1 tvg-logo="https://bit.ly/2k4Vot1" group-title="FILMES DUBLADOS" pltv-subgroup=,A SERIE DIVERGENTE, INSURGENTE HD  
+https://lh3.googleusercontent.com/SH6CQu2FQkWqBWbg-mQ-fTTrkVtnBy8tUuhujILBYK10vBtDMJ5mfdTZnvhSfjMedIfJrgvNaR2RUA=m22
+#EXTINF:-1 tvg-logo="https://bit.ly/2k4Vot1" group-title="FILMES DUBLADOS" pltv-subgroup=,ASSASSINO A PREÇO FIXO 2
+https://lh3.googleusercontent.com/x4CioN1EstFxxWaUHl88Ff1q3tiWO44IFMy7n1FxfVR_ixxBc89IpK9KS6fU6yZKtV-JMauvjIKa=m22
+#EXTINF:-1 tvg-logo="https://bit.ly/2k4Vot1" group-title="FILMES DUBLADOS" pltv-subgroup=,A SOCIEDADE SECRETA DE SOUPTOWN
+https://lh3.googleusercontent.com/b0VMbWw-0LtLjLxxsOMwYLH1IjRCUvf25r0oI0ki_lmWdosLM2PgxKLdGIyMpaxNq5sHjW2iz2ti3Q=m22
+#EXTINF:-1 tvg-logo="https://bit.ly/2k4Vot1" group-title="FILMES DUBLADOS" pltv-subgroup=,APRENDENDO COM A VOVO  
+https://lh3.googleusercontent.com/k6cVOYPLP1oJrgVgyCd1sV5-v-CCMksl5HYPft2-9UYqDLgdQBfWYARfekKPPN3_xuG0ZOHfOSJdmw=m22
 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/b/ol/u2byb_tnl_210x118.jpg",O Senhor das Armas
 http://media-br-am.crackle.com/1/j/z6/2tvlf_480p.mp4
 #EXTINF:-1  tvg-logo="http://br.web.img1.acsta.net/medias/nmedia/18/87/17/46/19872770.jpg",Os Reis de Dogtown
@@ -2457,8 +2474,34 @@ http://media-br-am.crackle.com/1/z/f6/d4ylf_480p.mp4
 http://media-br-am.crackle.com/1/f/f6/14ylf_480p_1mbps.mp4
 #EXTINF:-1 tvg-logo="https://bit.ly/2k4Vot1" group-title="FILMES DUBLADOS" pltv-subgroup=,O Grande Anjo Negro
 http://media-br-am.crackle.com/1/q/v6/invlf_480p_1mbps.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/2k4Vot1" group-title="FILMES DUBLADOS" pltv-subgroup=,Assalto sobre trilhos
+http://media-br-am.crackle.com/1/5/f6/07ylf_480p.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/2k4Vot1" group-title="FILMES DUBLADOS" pltv-subgroup=,AS TRAVESSURAS DE UMA SEREIA
+https://lh3.googleusercontent.com/OPgPI9We_hrIslaa6TwCw7-cqLKspbWxOCm-Nw4m3H_lDMtaXniqIcRrlN5N4ZyS42y6Evxq-H7jXQ=m22
+#EXTINF:-1 tvg-logo="https://bit.ly/2k4Vot1" group-title="FILMES DUBLADOS" pltv-subgroup=,A Ultima Profecia
+http://media-br-am.crackle.com/1/z/n6/zy2lf_480p.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/2k4Vot1" group-title="FILMES DUBLADOS" pltv-subgroup=,A VISITA
+https://lh3.googleusercontent.com/pI6Vnh0c4o30R_ifmbpo5bLm0Tm6Sad2aC5UoqXjHg8HX-BOMLJXPabmIL2jvxH3AMVin0gFS0wYnw=m22
+#EXTINF:-1 tvg-logo="https://bit.ly/2k4Vot1" group-title="FILMES DUBLADOS" pltv-subgroup=,BATMAN - O CAVALEIRO DAS TREVAS RESSURGE
+https://lh3.googleusercontent.com/VguWnEeqTITH8RMHv0JRo-FkEDUaDEzDd7xi4CdtIwB1ZVTW8cUBQ91zB5jd2QfAcPJS59HWWGk_Fm9EPQ=m22
+
+
+
+
+
+
+
+
+
+
 
 ########################################################### FILMES DESENHOS ########################################
+#EXTINF:-1 tvg-logo="https://bit.ly/2k4Vot1" group-title="DESENHOS" pltv-subgroup=,BATMAN - O CAVALEIRO DAS TREVAS RESSURGE
+https://lh3.googleusercontent.com/VguWnEeqTITH8RMHv0JRo-FkEDUaDEzDd7xi4CdtIwB1ZVTW8cUBQ91zB5jd2QfAcPJS59HWWGk_Fm9EPQ=m22
+#EXTINF:-1 tvg-logo="https://bit.ly/2k4Vot1" group-title="DESENHOS" pltv-subgroup=,ASTERIX E O DOMINIO DOS DEUSES  
+https://lh3.googleusercontent.com/x0Cwq9bx7u1v7JiH8Nxxafd5GWkY8Uf_LMxjVpmLdK_9wCDW1-OsUn68s5zBMgy4DaSGZj60F-6j1rYVDQ=m22
+#EXTINF:-1 tvg-logo="https://bit.ly/2k4Vot1" group-title="DESENHOS" pltv-subgroup=,As Tartarugas Ninjas 2007
+http://media-br-am.crackle.com/1/k/z6/6i3lf_480p.mp4
 #EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="DESENHOS" ,Esquadrao Suicida: Hell to Pay
 http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/ESQUADRAOSUICIDAHELLTOPAYDUB.mp4
 #EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="DESENHOS" ,Lino: Uma Aventura de Sete Vidas
