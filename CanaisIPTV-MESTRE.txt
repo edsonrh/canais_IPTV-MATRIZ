@@ -1171,302 +1171,6 @@ http://5.196.138.6:1935/live/nrjbelgique_720p/plylist.m3u8
 
 ################################################################################################################################################################################################### FILMES DUBLADOS ################################################
 
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2IjSZ8p",A Janela Secreta
-http://media-br-am.crackle.com/1/u/56/rv1lf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2jTQeA0",Segundas Intencoes 3
-http://media-br-am.crackle.com/1/5/16/qp1lf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2jRPdbB",Na Companhia Do Medo
-http://media-br-am.crackle.com/1/t/56/qv1lf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2jRPdbB",O Codigo Da Vinci
-http://media-br-am.crackle.com/1/n/z6/grvlf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2Ig9A0U",Rios Vermelhos
-http://media-br-am.crackle.com/1/k/j6/uwulf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2I9ceFo",Sem Vestigios
-http://media-br-am.crackle.com/1/y/56/bw1lf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2KiUAM6",Desejo a Tres
-http://media-br-am.crackle.com/1/e/56/0t1lf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2IDAleO",Red Corner
-http://media-br-am.crackle.com/1/l/56/ur1lf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2rzzgKy",Comportamento Suspeito
-http://media-br-am.crackle.com/1/6/f6/37ylf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2Ih2FAq",Mulher Solteira Procura
-http://media-br-am.crackle.com/1/y/r6/2gvlf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2rCqIUa",Quando um Estranho Chama
-http://media-br-am.crackle.com/1/p/f6/45ylf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2IDP2ys",Estrada Maldita
-http://media-br-am.crackle.com/1/3/f6/r7ylf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2KkKavz",Lenda Urbana 3 - A Vinganca de Mary
-http://media-br-am.crackle.com/1/v/n6/f9ulf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="http://upload.wikimedia.org/wikipedia/en/8/8e/Stigmata_film.jpg",Stigmata
-http://media-br-am.crackle.com/1/z/v6/j1zlf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2IaHXGp",Quarentena
-http://media-br-am.crackle.com/1/p/v6/gkvlf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2IaOAbE",Identidade
-http://media-br-am.crackle.com/1/8/v6/l2zlf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2IbaOui",A Beira do Abismo
-http://media-br-am.crackle.com/1/1/v6/r1zlf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2Kh2DJf",Amar, Trair e Roubar
-http://media-br-am.crackle.com/1/q/v6/kkvlf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2Ik0g8d",Cativeiro
-http://media-br-am.crackle.com/1/h/z6/stvlf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2rCHVN6",Corpo em Evidencia
-http://media-br-am.crackle.com/1/j/16/97wlf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2Ieiqb9",Enquanto Ela Estiver Fora
-http://media-br-am.crackle.com/1/r/d6/9zvlf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2IbaI5U",Estranha Obsessao
-http://media-br-am.crackle.com/1/b/h6/r5vlf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2rIiMA2",Hotel Ruanda
-http://media-br-am.crackle.com/1/0/d6/a4vlf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2IBjUQ7",Malicia
-http://media-br-am.crackle.com/1/o/im/urdyb_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2jTWdos",Sociedade Feroz
-http://media-br-am.crackle.com/1/a/l6/ycwlf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2wBjCnQ",Bruno
-http://media-br-am.crackle.com/1/v/96/731lf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2KWLPbR",Casamento as Avessas
-http://media-br-am.crackle.com/1/g/f6/34ylf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2KRPvvr",O ABC do Amor
-http://media-br-am.crackle.com/1/n/f6/w2ylf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2IznNFf",Juno
-http://media-br-am.crackle.com/1/a/56/lq1lf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2KYcW6o",As Branquelas
-http://media-br-am.crackle.com/1/v/96/931lf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2IyLHRh",Bons Costumes
-http://media-br-am.crackle.com/1/w/96/d41lf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2Kgvq0v",Julie & Julia
-http://media-br-am.crackle.com/1/r/n6/2w2lf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2IaS0eo",De Repente 30
-http://media-br-am.crackle.com/1/s/96/y01lf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2rCUIPH",Meus Quinze Anos
-http://media-br-am.crackle.com/1/j/96/uz1lf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2jTepP6",Adoraveis Mulheres
-http://media-br-am.crackle.com/1/3/f6/s7ylf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2IdvpOi",Uma Beleza de Salao
-http://media-br-am.crackle.com/1/r/f6/d6ylf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2jRfI0I",Lembrancas de Hollywood
-http://media-br-am.crackle.com/1/9/l6/zjwlf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2wDpqwU",All That Jazz - O Show Deve Continuar
-http://media-br-am.crackle.com/1/_/d6/i5vlf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2rBQVlG",Mal Posso Esperar
-http://media-br-am.crackle.com/1/v/96/a41lf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2wBDSp5",Um Criminoso Decente
-http://media-br-am.crackle.com/1/q/96/p01lf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2IbEVSb",Os Seus, os Meus e os Nossos
-http://media-br-am.crackle.com/1/a/h6/m8vlf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2KVFvkI",Os Produtores
-http://media-br-am.crackle.com/1/d/l6/bdwlf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2jQaYIS",O clube de Leitura de Jane Austen
-http://media-br-am.crackle.com/1/2/d6/g4vlf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2GbAroO",Lua de Mel em Las Vegas
-http://media-br-am.crackle.com/1/z/f6/a7ylf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2rDoQdE",Jogue a Mamae do Trem
-http://media-br-am.crackle.com/1/2/v6/y1zlf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2jUigLM",Feitico da Lua
-http://media-br-am.crackle.com/1/2/16/gp1lf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2IAbuc0",Eu, Minha Mulher e Minhas Copias
-http://media-br-am.crackle.com/1/y/n6/q9ulf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2rFClIW",Annie
-http://media-br-am.crackle.com/1/s/96/z01lf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2jTcs5e",A Pantera Cor de Rosa
-http://media-br-am.crackle.com/1/9/16/8p1lf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2IezHAV",A Hora do Rango
-http://media-br-am.crackle.com/1/u/l6/7ewlf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2Iz0YBI",Um Salao do Barulho
-http://media-br-am.crackle.com/1/r/f6/d6ylf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2IebzhY,Mixed Nuts
-http://media-br-am.crackle.com/1/z/56/cw1lf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2rFesRZ",Ricky Bobby - A Toda Velocidade
-http://media-br-am.crackle.com/1/x/r6/0gvlf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2wEOROQ",Superbad - E Hoje
-http://media-br-am.crackle.com/1/q/d6/32vlf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2IhFlm0",Uma Festa no Ar
-http://media-br-am.crackle.com/1/l/56/tr1lf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2IgkrDN",Uma Turma Do Barulho
-http://media-br-am.crackle.com/1/n/f6/y2ylf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2rCT8NL",O Ultimo Grande Heroi
-http://media-br-am.crackle.com/1/y/n6/s9ulf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2jQCztn,Kung-Fusao
-http://media-br-am.crackle.com/1/s/n6/65ulf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2rDo3cG",O Oposto do Sexo
-http://media-br-am.crackle.com/1/e/l6/gdwlf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2rCFlWL",Ironias do Amor
-http://media-br-am.crackle.com/1/x/h6/97vlf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2GbuXdC",Um Peixe Chamado Wanda
-http://media-br-am.crackle.com/1/i/f6/c2ylf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2IhEfXq",Bastidores de um Casamento
-http://media-br-am.crackle.com/1/w/v6/80zlf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2Gb8fm2",O Chamado de Xangai
-http://media-br-am.crackle.com/1/3/16/jp1lf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2rFjNsr",Penelope
-http://media-br-am.crackle.com/1/x/n6/ry2lf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2wBeuQF",O Paraiso e Logo Aqui
-http://media-br-am.crackle.com/1/y/d6/20vlf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2wBft3g9",Nem Por Cima do Meu Cadaver
-http://media-br-am.crackle.com/1/5/8l/w7cyb_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2GcXa3E",Adeus, Amor
-http://media-br-am.crackle.com/1/-/d6/g5vlf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2rE6XLX",Um Amor de Verao
-http://media-br-am.crackle.com/1/y/16/0o1lf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2IExt1l",Tres Mulheres, Tres Amores
-http://media-br-am.crackle.com/1/p/d6/12vlf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2Gbtd44",Meu Primeiro Amor - Parte 2
-http://media-br-am.crackle.com/1/z/16/4o1lf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2wzds7J",Uma Beleza de Salao
-http://media-br-am.crackle.com/1/r/f6/d6ylf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2rDEvKd",Superbad - E Hoje
-http://media-br-am.crackle.com/1/q/d6/32vlf_480p.mp4?LISTASEGFTv
-
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,A Noiva do Diabo
-http://nazabox.ddns.net/anddk7.mp4?EGFTv
-
-#EXTINF:-1 tvg-logo="https://filmspot.com.pt/images/filmes/posters/big/402693_pt.jpg" group-title="FILMES DUBLADOS" ,100 Metros
-http://nazabox.ddns.net/1mlnh7.mp4?EGFTv
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wx2MmkWIFwg/VXYEbPlGt0I/AAAAAAAABPY/dFRDVaQNuEY/s1600/Sedutora%2Be%2BDiab%25C3%25B3lica.jpg" group-title="FILMES DUBLADOS" ,Sedutora e Diabolica
-http://media-br-am.crackle.com/1/h/z6/rtvlf_480p.mp4?EGFTv
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/z7EB8fgGuJo/hqdefault.jpg" group-title="FILMES DESENHOS DUBLADOS" ,A Bailarina
-http://nazabox.ddns.net/abvbg7.mp4?EGFTv
-
-#EXTINF:-1 tvg-logo="http://www.nemumpoucoepico.com/wp-content/uploads/2017/04/a-cabana2.png" group-title="FILMES DUBLADOS" ,A Cabana
-http://nazabox.ddns.net/aclem7.mp4?EGFTv
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/16/10/19/01/57/552532.jpg" group-title="FILMES DUBLADOS" ,A Chegada
-http://nazabox.ddns.net/aclnj7.mp4?EGFTv
-
-#EXTINF:-1 tvg-logo="http://planetalan.com.br/wp-content/uploads/2017/06/A-Cura-2017.png" group-title="FILMES DUBLADOS" ,A Cura
-http://nazabox.ddns.net/aclmn7.mp4?EGFTv
-
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,A Próxima Pele
-http://nazabox.ddns.net/applu7.mp4?EGFTv
-
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,A Mala e os Errantes
-http://nazabox.ddns.net/ameoe7.mp4?EGFTv
-
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,A Fabulosa Gilly Hopkins
-http://nazabox.ddns.net/aghke7.mp4?EGFTv
-
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Aliados
-http://nazabox.ddns.net/adosl7.mp4?EGFTv
-
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,American Poltergeist Possuídos
-http://nazabox.ddns.net/appgf7.mp4?EGFTv
-
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Andron O Labirinto Negro
-http://nazabox.ddns.net/aolnk7.mp4?EGFTv
-
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Animais Fantásticos e Onde Habitam
-http://nazabox.ddns.net/afeoh7.mp4?EGFTv
-
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Anjos da Noite Guerra de Sangue
-http://nazabox.ddns.net/asngd7.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Anoitecer Violento
-http://nazabox.ddns.net/avlen7.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Antibirth
-http://nazabox.ddns.net/athkn7.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Apostando tudo
-http://nazabox.ddns.net/atnjl7.mp4?LHMTv
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,As Confissões
-http://nazabox.ddns.net/acqcb7.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Assassins Creed
-http://nazabox.ddns.net/acmnp7.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Até o Último Homem
-http://nazabox.ddns.net/aouhs7.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Beleza Oculta
-http://nazabox.ddns.net/bosbh7.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Blame
-http://nazabox.ddns.net/bmeki7.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Busca Explosiva 5 Campo de Batalha
-http://nazabox.ddns.net/be5cd7.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Campo Minado
-http://nazabox.ddns.net/cmlop7.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Cão Selvagem
-http://nazabox.ddns.net/cswhg7.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Capitão Fantástico
-http://nazabox.ddns.net/cfvrt7.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Celular
-http://nazabox.ddns.net/clrpj7.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Chalk it Up
-http://nazabox.ddns.net/ciulk7.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Christine
-http://nazabox.ddns.net/cnelo7.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Cidade Sitiada
-http://nazabox.ddns.net/cslnm7.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Cinquenta Tons mais Escuros
-http://nazabox.ddns.net/ctmep7.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Código de Silêncio
-http://nazabox.ddns.net/cdshj7.mp4?EGFTv
 #EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Coragem em Campo
 http://nazabox.ddns.net/cecbv7.mp4?EGFTv
 #EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Cordeiros e Carrascos
@@ -1581,8 +1285,219 @@ http://nazabox.ddns.net/pmikn7.mp4?EGFTv
 http://nazabox.ddns.net/pdnli7.mp4?EGFTv
 #EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Perdendo o Fôlego
 http://nazabox.ddns.net/poflw7.mp4?EGFTv
-#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Quatro Vidas de um Cachorro
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,QUATRO VIDAS DE UM CACHORRO
 http://nazabox.ddns.net/qvduc7.mp4?EGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2IjSZ8p",A Janela Secreta
+http://media-br-am.crackle.com/1/u/56/rv1lf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2jTQeA0",Segundas Intencoes 3
+http://media-br-am.crackle.com/1/5/16/qp1lf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2jRPdbB",Na Companhia Do Medo
+http://media-br-am.crackle.com/1/t/56/qv1lf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2jRPdbB",O Codigo Da Vinci
+http://media-br-am.crackle.com/1/n/z6/grvlf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2Ig9A0U",Rios Vermelhos
+http://media-br-am.crackle.com/1/k/j6/uwulf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2I9ceFo",Sem Vestigios
+http://media-br-am.crackle.com/1/y/56/bw1lf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2KiUAM6",Desejo a Tres
+http://media-br-am.crackle.com/1/e/56/0t1lf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2IDAleO",Red Corner
+http://media-br-am.crackle.com/1/l/56/ur1lf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2rzzgKy",Comportamento Suspeito
+http://media-br-am.crackle.com/1/6/f6/37ylf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2Ih2FAq",Mulher Solteira Procura
+http://media-br-am.crackle.com/1/y/r6/2gvlf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2rCqIUa",Quando um Estranho Chama
+http://media-br-am.crackle.com/1/p/f6/45ylf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2IDP2ys",Estrada Maldita
+http://media-br-am.crackle.com/1/3/f6/r7ylf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2KkKavz",Lenda Urbana 3 - A Vinganca de Mary
+http://media-br-am.crackle.com/1/v/n6/f9ulf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="http://upload.wikimedia.org/wikipedia/en/8/8e/Stigmata_film.jpg",Stigmata
+http://media-br-am.crackle.com/1/z/v6/j1zlf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2IaHXGp",Quarentena
+http://media-br-am.crackle.com/1/p/v6/gkvlf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2IaOAbE",Identidade
+http://media-br-am.crackle.com/1/8/v6/l2zlf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2IbaOui",A Beira do Abismo
+http://media-br-am.crackle.com/1/1/v6/r1zlf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2Kh2DJf",Amar, Trair e Roubar
+http://media-br-am.crackle.com/1/q/v6/kkvlf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2Ik0g8d",Cativeiro
+http://media-br-am.crackle.com/1/h/z6/stvlf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2rCHVN6",Corpo em Evidencia
+http://media-br-am.crackle.com/1/j/16/97wlf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2Ieiqb9",Enquanto Ela Estiver Fora
+http://media-br-am.crackle.com/1/r/d6/9zvlf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2IbaI5U",Estranha Obsessao
+http://media-br-am.crackle.com/1/b/h6/r5vlf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2rIiMA2",Hotel Ruanda
+http://media-br-am.crackle.com/1/0/d6/a4vlf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2IBjUQ7",Malicia
+http://media-br-am.crackle.com/1/o/im/urdyb_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2jTWdos",Sociedade Feroz
+http://media-br-am.crackle.com/1/a/l6/ycwlf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2wBjCnQ",Bruno
+http://media-br-am.crackle.com/1/v/96/731lf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2KWLPbR",Casamento as Avessas
+http://media-br-am.crackle.com/1/g/f6/34ylf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2KRPvvr",O ABC do Amor
+http://media-br-am.crackle.com/1/n/f6/w2ylf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2IznNFf",Juno
+http://media-br-am.crackle.com/1/a/56/lq1lf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2KYcW6o",As Branquelas
+http://media-br-am.crackle.com/1/v/96/931lf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2IyLHRh",Bons Costumes
+http://media-br-am.crackle.com/1/w/96/d41lf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2Kgvq0v",Julie & Julia
+http://media-br-am.crackle.com/1/r/n6/2w2lf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2IaS0eo",De Repente 30
+http://media-br-am.crackle.com/1/s/96/y01lf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2rCUIPH",Meus Quinze Anos
+http://media-br-am.crackle.com/1/j/96/uz1lf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2jTepP6",Adoraveis Mulheres
+http://media-br-am.crackle.com/1/3/f6/s7ylf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2IdvpOi",Uma Beleza de Salao
+http://media-br-am.crackle.com/1/r/f6/d6ylf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2jRfI0I",Lembrancas de Hollywood
+http://media-br-am.crackle.com/1/9/l6/zjwlf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2wDpqwU",All That Jazz - O Show Deve Continuar
+http://media-br-am.crackle.com/1/_/d6/i5vlf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2rBQVlG",Mal Posso Esperar
+http://media-br-am.crackle.com/1/v/96/a41lf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2wBDSp5",Um Criminoso Decente
+http://media-br-am.crackle.com/1/q/96/p01lf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2IbEVSb",Os Seus, os Meus e os Nossos
+http://media-br-am.crackle.com/1/a/h6/m8vlf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2KVFvkI",Os Produtores
+http://media-br-am.crackle.com/1/d/l6/bdwlf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2jQaYIS",O clube de Leitura de Jane Austen
+http://media-br-am.crackle.com/1/2/d6/g4vlf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2GbAroO",Lua de Mel em Las Vegas
+http://media-br-am.crackle.com/1/z/f6/a7ylf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2rDoQdE",Jogue a Mamae do Trem
+http://media-br-am.crackle.com/1/2/v6/y1zlf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2jUigLM",Feitico da Lua
+http://media-br-am.crackle.com/1/2/16/gp1lf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2IAbuc0",Eu, Minha Mulher e Minhas Copias
+http://media-br-am.crackle.com/1/y/n6/q9ulf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2rFClIW",Annie
+http://media-br-am.crackle.com/1/s/96/z01lf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2jTcs5e",A Pantera Cor de Rosa
+http://media-br-am.crackle.com/1/9/16/8p1lf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2IezHAV",A Hora do Rango
+http://media-br-am.crackle.com/1/u/l6/7ewlf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2Iz0YBI",Um Salao do Barulho
+http://media-br-am.crackle.com/1/r/f6/d6ylf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2IebzhY,Mixed Nuts
+http://media-br-am.crackle.com/1/z/56/cw1lf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2rFesRZ",Ricky Bobby - A Toda Velocidade
+http://media-br-am.crackle.com/1/x/r6/0gvlf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2wEOROQ",Superbad - E Hoje
+http://media-br-am.crackle.com/1/q/d6/32vlf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2IhFlm0",Uma Festa no Ar
+http://media-br-am.crackle.com/1/l/56/tr1lf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2IgkrDN",Uma Turma Do Barulho
+http://media-br-am.crackle.com/1/n/f6/y2ylf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2rCT8NL",O Ultimo Grande Heroi
+http://media-br-am.crackle.com/1/y/n6/s9ulf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2jQCztn,Kung-Fusao
+http://media-br-am.crackle.com/1/s/n6/65ulf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2rDo3cG",O Oposto do Sexo
+http://media-br-am.crackle.com/1/e/l6/gdwlf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2rCFlWL",Ironias do Amor
+http://media-br-am.crackle.com/1/x/h6/97vlf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2GbuXdC",Um Peixe Chamado Wanda
+http://media-br-am.crackle.com/1/i/f6/c2ylf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2IhEfXq",Bastidores de um Casamento
+http://media-br-am.crackle.com/1/w/v6/80zlf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2Gb8fm2",O Chamado de Xangai
+http://media-br-am.crackle.com/1/3/16/jp1lf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2rFjNsr",Penelope
+http://media-br-am.crackle.com/1/x/n6/ry2lf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2wBeuQF",O Paraiso e Logo Aqui
+http://media-br-am.crackle.com/1/y/d6/20vlf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2wBft3g9",Nem Por Cima do Meu Cadaver
+http://media-br-am.crackle.com/1/5/8l/w7cyb_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2GcXa3E",Adeus, Amor
+http://media-br-am.crackle.com/1/-/d6/g5vlf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2rE6XLX",Um Amor de Verao
+http://media-br-am.crackle.com/1/y/16/0o1lf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2IExt1l",Tres Mulheres, Tres Amores
+http://media-br-am.crackle.com/1/p/d6/12vlf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2Gbtd44",Meu Primeiro Amor - Parte 2
+http://media-br-am.crackle.com/1/z/16/4o1lf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2wzds7J",Uma Beleza de Salao
+http://media-br-am.crackle.com/1/r/f6/d6ylf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 group-title="FILMES DUBLADOS" tvg-logo="https://bit.ly/2rDEvKd",Superbad - E Hoje
+http://media-br-am.crackle.com/1/q/d6/32vlf_480p.mp4?LISTASEGFTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,A Noiva do Diabo
+http://nazabox.ddns.net/anddk7.mp4?EGFTv
+#EXTINF:-1 tvg-logo="https://filmspot.com.pt/images/filmes/posters/big/402693_pt.jpg" group-title="FILMES DUBLADOS" ,100 Metros
+http://nazabox.ddns.net/1mlnh7.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wx2MmkWIFwg/VXYEbPlGt0I/AAAAAAAABPY/dFRDVaQNuEY/s1600/Sedutora%2Be%2BDiab%25C3%25B3lica.jpg" group-title="FILMES DUBLADOS" ,Sedutora e Diabolica
+http://media-br-am.crackle.com/1/h/z6/rtvlf_480p.mp4?EGFTv
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/z7EB8fgGuJo/hqdefault.jpg" group-title="FILMES DESENHOS DUBLADOS" ,A Bailarina
+http://nazabox.ddns.net/abvbg7.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://www.nemumpoucoepico.com/wp-content/uploads/2017/04/a-cabana2.png" group-title="FILMES DUBLADOS" ,A Cabana
+http://nazabox.ddns.net/aclem7.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/16/10/19/01/57/552532.jpg" group-title="FILMES DUBLADOS" ,A Chegada
+http://nazabox.ddns.net/aclnj7.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://planetalan.com.br/wp-content/uploads/2017/06/A-Cura-2017.png" group-title="FILMES DUBLADOS" ,A Cura
+http://nazabox.ddns.net/aclmn7.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,A Próxima Pele
+http://nazabox.ddns.net/applu7.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,A Mala e os Errantes
+http://nazabox.ddns.net/ameoe7.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,A Fabulosa Gilly Hopkins
+http://nazabox.ddns.net/aghke7.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Aliados
+http://nazabox.ddns.net/adosl7.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,American Poltergeist Possuídos
+http://nazabox.ddns.net/appgf7.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Andron O Labirinto Negro
+http://nazabox.ddns.net/aolnk7.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Animais Fantásticos e Onde Habitam
+http://nazabox.ddns.net/afeoh7.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Anjos da Noite Guerra de Sangue
+http://nazabox.ddns.net/asngd7.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Anoitecer Violento
+http://nazabox.ddns.net/avlen7.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Antibirth
+http://nazabox.ddns.net/athkn7.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Apostando tudo
+http://nazabox.ddns.net/atnjl7.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,As Confissões
+http://nazabox.ddns.net/acqcb7.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Assassins Creed
+http://nazabox.ddns.net/acmnp7.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Até o Último Homem
+http://nazabox.ddns.net/aouhs7.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Beleza Oculta
+http://nazabox.ddns.net/bosbh7.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Blame
+http://nazabox.ddns.net/bmeki7.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Busca Explosiva 5 Campo de Batalha
+http://nazabox.ddns.net/be5cd7.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Campo Minado
+http://nazabox.ddns.net/cmlop7.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Cão Selvagem
+http://nazabox.ddns.net/cswhg7.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Capitão Fantástico
+http://nazabox.ddns.net/cfvrt7.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Celular
+http://nazabox.ddns.net/clrpj7.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Chalk it Up
+http://nazabox.ddns.net/ciulk7.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Christine
+http://nazabox.ddns.net/cnelo7.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Cidade Sitiada
+http://nazabox.ddns.net/cslnm7.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Cinquenta Tons mais Escuros
+http://nazabox.ddns.net/ctmep7.mp4?EGFTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Código de Silêncio
+http://nazabox.ddns.net/cdshj7.mp4?EGFTv
+https://ia601500.us.archive.org/4/items/lua4vidacachorro/lua4vidacachorro.mp4
 #EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Rainha de Katwe
 http://nazabox.ddns.net/rdksd7.mp4?EGFTv
 #EXTINF:-1 tvg-logo="http://lhmtv.tk/channellogo/nazaflix.png" group-title="FILMES DUBLADOS" ,Refém do Medo
@@ -2047,7 +1962,7 @@ http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/MATRIX.mp4
 http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/MATRIXRELOADED.mp4
 #EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Matrix Revolutions
 http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/MATRIXREVOLUTION.mp4
-#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="CFILMES DUBLADOS" ,Cinquenta Tons de Cinza
+#EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Cinquenta Tons de Cinza
 http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/CTDCDUB.mp4
 #EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="FILMES DUBLADOS" ,Cinquenta Tons de Liberdade
 http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/50T0NSDELIBERDADEHDDUB.mp4
@@ -2466,8 +2381,6 @@ https://lh3.googleusercontent.com/XMu-sysvJjT3eBn1FUtbbjwYGlSkDgyCilOgckUco2xkWA
 http://media-br-am.crackle.com/1/g/t6/dh4lf_480p.mp4
 #EXTINF:-1 tvg-logo="https://bit.ly/2k4Vot1" group-title="FILMES DUBLADOS" pltv-subgroup=,Os meninos que enganavam nazistas
 http://185.22.173.118/V2/Os.Meninos.que.Enganavam.Nazistas.2017.720p.BluRay.6CH.x264.DUBLADO-WWW.BLUDV.COM.mp4
-#EXTINF:0 tvg-logo="https://bit.ly/2k4Vot1" group-title="FILMES DUBLADOS" pltv-subgroup=,QUATRO VIDAS DE UM CACHORRO
-https://ia601500.us.archive.org/4/items/lua4vidacachorro/lua4vidacachorro.mp4
 #EXTINF:-1 tvg-logo="https://bit.ly/2k4Vot1" group-title="FILMES DUBLADOS" pltv-subgroup=,Matador de Aluguel
 http://media-br-am.crackle.com/1/z/f6/d4ylf_480p.mp4
 #EXTINF:-1 tvg-logo="https://bit.ly/2k4Vot1" group-title="FILMES DUBLADOS" pltv-subgroup=,O Colecionador de Ossos
@@ -2484,6 +2397,24 @@ http://media-br-am.crackle.com/1/z/n6/zy2lf_480p.mp4
 https://lh3.googleusercontent.com/pI6Vnh0c4o30R_ifmbpo5bLm0Tm6Sad2aC5UoqXjHg8HX-BOMLJXPabmIL2jvxH3AMVin0gFS0wYnw=m22
 #EXTINF:-1 tvg-logo="https://bit.ly/2k4Vot1" group-title="FILMES DUBLADOS" pltv-subgroup=,BATMAN - O CAVALEIRO DAS TREVAS RESSURGE
 https://lh3.googleusercontent.com/VguWnEeqTITH8RMHv0JRo-FkEDUaDEzDd7xi4CdtIwB1ZVTW8cUBQ91zB5jd2QfAcPJS59HWWGk_Fm9EPQ=m22
+#EXTINF:-1, tvg-logo="https://goo.gl/zPGr5A" group-title="FILMES DUBLADOS" pltv-subgroup= AS PANTERAS
+http://media-br-am.crackle.com/1/8/16/3p1lf_480p.mp4
+#EXTINF:-1 type="video" tvg-logo="https://goo.gl/8Qbm79" group-title="FILMES DUBLADOS" pltv-subgroup=, GIGANTES DE ACO
+http://media-br-am.crackle.com/1/d/p6/oc4lf_480p_1mbps.mp4
+#EXTINF:-1 type="video" tvg-logo="https://goo.gl/8vHuA2" group-title="FILMES DUBLADOS" pltv-subgroup=, SETE VIDAS
+http://media-br-am.crackle.com/1/z/16/3o1lf_480p.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/p6ZjSN" group-title="FILMES DUBLADOS" pltv-subgroup=,12 Horas
+http://media-br-am.crackle.com/1/3/v6/11zlf_480p.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Gwbd28" group-title="FILMES DUBLADOS" pltv-subgroup=,8mm - Oito Milimetros
+http://media-br-am.crackle.com/1/4/v6/51zlf_480p.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Gwbd28" group-title="FILMES DUBLADOS" pltv-subgroup=,A Era da Escuridao - Mutant Chronicles
+http://media-br-am.crackle.com/1/e/f6/w4ylf_480p_1mbps.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Gwbd28" group-title="FILMES DUBLADOS" pltv-subgroup=,A festa nunca termina 
+http://media-br-am.crackle.com/1/q/f6/85ylf_480p_1mbps.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Gwbd28" group-title="FILMES DUBLADOS" pltv-subgroup=,A Garota dos Meus Sonhos 
+http://media-br-am.crackle.com/1/v/z6/gsvlf_480p_1mbps.mp4
+#EXTINF:-1 tvg-logo="="https://goo.gl/Gwbd28" group-title="FILMES DUBLADOS" pltv-subgroup=,A Heranca de Mr. Deeds 
+http://media-br-am.crackle.com/1/g/n6/r7ulf_480p_1mbps.mp4
 
 
 
